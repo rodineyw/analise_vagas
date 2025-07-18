@@ -86,3 +86,48 @@
 2025-07-18 12:50:59,444 - INFO - Processamento final: 307 vagas totais encontradas.
 2025-07-18 12:50:59,446 - INFO - ApÃ³s remoÃ§Ã£o de duplicatas, restaram 306 vagas Ãºnicas.
 2025-07-18 12:50:59,448 - INFO - Dados salvos com sucesso em 'vagas_brasil.csv'.
+2025-07-18 15:18:15,728 - INFO - Iniciando o processo de coleta de todas as fontes.
+2025-07-18 15:18:15,728 - INFO - Iniciando o processo de web scraping multi-página para todo o Brasil.
+2025-07-18 15:18:15,728 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=1
+2025-07-18 15:18:16,429 - INFO - 40 vagas encontradas na página 1.
+2025-07-18 15:18:17,434 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=2
+2025-07-18 15:18:18,188 - INFO - 40 vagas encontradas na página 2.
+2025-07-18 15:18:19,189 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=3
+2025-07-18 15:18:19,850 - INFO - 40 vagas encontradas na página 3.
+2025-07-18 15:18:20,850 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=4
+2025-07-18 15:18:21,633 - INFO - 40 vagas encontradas na página 4.
+2025-07-18 15:18:22,634 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=5
+2025-07-18 15:18:23,288 - INFO - 40 vagas encontradas na página 5.
+2025-07-18 15:18:24,291 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=6
+2025-07-18 15:18:24,935 - INFO - 40 vagas encontradas na página 6.
+2025-07-18 15:18:25,936 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=7
+2025-07-18 15:18:26,628 - INFO - 40 vagas encontradas na página 7.
+2025-07-18 15:18:27,635 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=8
+2025-07-18 15:18:28,297 - INFO - 35 vagas encontradas na página 8.
+2025-07-18 15:18:29,302 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=9
+2025-07-18 15:18:29,728 - INFO - 10 vagas encontradas na página 9.
+2025-07-18 15:18:30,729 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=10
+2025-07-18 15:18:31,075 - INFO - Nenhuma vaga encontrada na página 10. Fim do scraping.
+2025-07-18 15:18:31,075 - INFO - Processamento final: 325 vagas totais encontradas.
+2025-07-18 15:18:31,082 - INFO - Após remoção de duplicatas, restaram 324 vagas únicas.
+2025-07-18 15:18:31,091 - INFO - Dados salvos com sucesso em 'vagas_brasil.csv'.
+2025-07-18 15:18:31,092 - INFO - Iniciando o scraping do LinkedIn com Selenium.
+2025-07-18 15:18:31,092 - INFO - ====== WebDriver manager ======
+2025-07-18 15:18:32,058 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 15:18:32,097 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 15:18:32,132 - INFO - There is no [win64] chromedriver "138.0.7204.157" for browser google-chrome "138.0.7204" in cache
+2025-07-18 15:18:32,132 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 15:18:32,210 - INFO - WebDriver version 138.0.7204.157 selected
+2025-07-18 15:18:32,212 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-18 15:18:32,212 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-18 15:18:32,303 - INFO - Driver downloading response is 200
+2025-07-18 15:18:32,731 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-18 15:18:32,859 - INFO - Driver has been saved in cache [C:\Users\rodin\.wdm\drivers\chromedriver\win64\138.0.7204.157]
+2025-07-18 15:18:35,761 - INFO - Página do LinkedIn carregada.
+2025-07-18 15:18:38,791 - INFO - Rolando a página para carregar mais vagas...
+2025-07-18 15:18:42,797 - INFO - Rolando a página para carregar mais vagas...
+2025-07-18 15:18:46,798 - INFO - Rolando a página para carregar mais vagas...
+2025-07-18 15:18:50,803 - INFO - Todos os resultados foram carregados. Iniciando extração.
+2025-07-18 15:18:50,814 - INFO - Encontradas 0 vagas no LinkedIn.
+2025-07-18 15:18:52,945 - INFO - Consolidando os dados coletados.
+2025-07-18 15:18:52,958 - ERROR - Um dos arquivos de dados não foi encontrado. Abortando a consolidação.

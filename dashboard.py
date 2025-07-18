@@ -54,7 +54,7 @@ def clean_salary(salary_str):
 def load_and_process_data():
     """Carrega e processa os dados do CSV."""
     try:
-        df = pd.read_csv('vagas_brasil.csv')
+        df = pd.read_csv('vagas_consolidadas.csv')
         df['regiao'] = df['localizacao'].apply(get_region_from_location)
         df['salario_valor'] = df['salario'].apply(clean_salary)
         logging.info("Dados carregados e processados com sucesso.")

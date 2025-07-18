@@ -56,13 +56,13 @@ def fetch_linkedin_jobs():
         logging.info("Todos os resultados foram carregados. Iniciando extração.")
         
         # Encontra os cards de vagas
-        job_cards = driver.find_elements(By.CSS_SELECTOR, "li.jobs-search-results__list-item")
+        job_cards = driver.find_elements(By.CSS_SELECTOR, "div.job-card-container")
         
         for card in job_cards:
             try:
-                title = card.find_element(By.CSS_SELECTOR, 'h3.base-search-card__title').text.strip()
-                company = card.find_element(By.CSS_SELECTOR, 'h4.base-search-card__subtitle').text.strip()
-                location = card.find_element(By.CSS_SELECTOR, 'span.job-search-card__location').text.strip()
+                title = card.find_element(By.CSS_SELECTOR, 'a.job-card-container__link').text.strip()
+                company = card.find_element(By.CSS_SELECTOR, 'div.base-search-card__subtitle').text.strip()
+                location = card.find_element(By.CSS_SELECTOR, 'ul.job-card-container__metadata-wrapper').text.strip()
                 
                 job_list.append({
                     'titulo': title,
@@ -90,5 +90,4 @@ def fetch_linkedin_jobs():
     return job_list
 
 if __name__ == '__main__':
-    fetch_linkedin_jobs()
     fetch_linkedin_jobs()
