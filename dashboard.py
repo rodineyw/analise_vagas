@@ -1,94 +1,120 @@
-# dashboard.py
+# dashboard_brasil.py
 import logging
+import re
 
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-# --- Configuração do Logging ---
+# --- Configuração da Página e Logging ---
+st.set_page_config(layout="wide", page_title="Dashboard de Vagas de Dados - Brasil")
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# --- Configuração da Página do Streamlit ---
-# 'wide' usa a largura total da tela.
-st.set_page_config(layout="wide", page_title="Dashboard de Vagas Analista de Dados - SP")
+# --- Funções de Processamento de Dados ---
 
-# --- Título do Dashboard ---
-st.title("📊 Dashboard de Vagas Analista de Dados em São Paulo")
-st.markdown("Análise de vagas para Analistas, Engenheiros e Cientistas de Dados.")
+def get_region_from_location(location_str):
+    """Mapeia a string de localização para uma região do Brasil."""
+    if not isinstance(location_str, str) or " - " not in location_str:
+        return "Não especificada"
+    
+    state = location_str.split(' - ')[-1].strip()
+    
+    sudeste = ['SP', 'RJ', 'ES', 'MG']
+    sul = ['PR', 'SC', 'RS']
+    centro_oeste = ['MT', 'MS', 'GO', 'DF']
+    nordeste = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
+    norte = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
+    
+    if state in sudeste: return "Sudeste"
+    if state in sul: return "Sul"
+    if state in centro_oeste: return "Centro-Oeste"
+    if state in nordeste: return "Nordeste"
+    if state in norte: return "Norte"
+    return "Não especificada"
 
-# --- Carregamento de Dados ---
-# @st.cache_data armazena o resultado da função em cache.
-# Isso evita recarregar os dados do disco a cada interação do usuário.
+def clean_salary(salary_str):
+    """Limpa a string de salário e a converte para um valor numérico (float)."""
+    if not isinstance(salary_str, str) or "R$" not in salary_str:
+        return None
+    
+    # Pega apenas o primeiro número encontrado na string para simplificar
+    numbers = re.findall(r'\d+\.?\d*', salary_str.replace('.', '').replace(',', '.'))
+    if numbers:
+        return float(numbers[0])
+    return None
+
 @st.cache_data
-def load_data():
-    """Carrega os dados do CSV de forma segura."""
+def load_and_process_data():
+    """Carrega e processa os dados do CSV."""
     try:
-        df = pd.read_csv('vagas_sp.csv')
-        logging.info("Arquivo 'vagas_sp.csv' carregado com sucesso.")
+        df = pd.read_csv('vagas_brasil.csv')
+        df['regiao'] = df['localizacao'].apply(get_region_from_location)
+        df['salario_valor'] = df['salario'].apply(clean_salary)
+        logging.info("Dados carregados e processados com sucesso.")
         return df
     except FileNotFoundError:
-        logging.warning("Arquivo 'vagas_sp.csv' não encontrado. Execute o scraper primeiro.")
-        # Retorna um DataFrame vazio se o arquivo não existir, para não quebrar o app.
+        st.error("Arquivo 'vagas_brasil.csv' não encontrado. Execute o scraper primeiro.")
         return pd.DataFrame()
 
-df = load_data()
+# --- Layout do Dashboard ---
 
-if df.empty:
-    st.warning("Nenhum dado para exibir. Por favor, execute o script `scraper.py` primeiro para coletar os dados.")
-else:
-    # --- Análise e Visualização ---
-    total_vagas = len(df)
-    ultima_atualizacao = pd.to_datetime(df['data_coleta']).max().strftime('%d/%m/%Y')
+st.title("🇧🇷 Dashboard de Vagas de Dados no Brasil")
+df = load_and_process_data()
 
-    # Métricas principais (KPIs)
-    col1, col2 = st.columns(2)
-    col1.metric("Total de Vagas Únicas Analisadas", f"{total_vagas}")
-    col2.metric("Última Atualização", ultima_atualizacao)
+if not df.empty:
+    # --- Barra Lateral com Filtros ---
+    st.sidebar.header("Filtros")
+    all_regions = sorted(df['regiao'].unique())
+    selected_regions = st.sidebar.multiselect(
+        "Selecione a Região",
+        options=all_regions,
+        default=all_regions
+    )
+    
+    # Filtra o DataFrame com base na seleção
+    filtered_df = df[df['regiao'].isin(selected_regions)]
 
+    # --- KPIs Principais ---
+    total_vagas = len(filtered_df)
+    vagas_com_salario = filtered_df['salario_valor'].notna().sum()
+    media_salarial = filtered_df['salario_valor'].mean()
+
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Total de Vagas", f"{total_vagas}")
+    col2.metric("Vagas com Salário Informado", f"{vagas_com_salario}")
+    col3.metric("Média Salarial (R$)", f"{media_salarial:,.2f}" if vagas_com_salario > 0 else "N/A")
+    
     st.markdown("---")
 
     # --- Gráficos ---
     col1, col2 = st.columns(2)
-
+    
     with col1:
-        # Gráfico 1: Top 10 Empresas que mais contratam
-        st.subheader("Top 10 Empresas com Mais Vagas")
-        top_empresas = df['empresa'].value_counts().nlargest(10)
-        fig_empresas = px.bar(
-            top_empresas,
-            x=top_empresas.values,
-            y=top_empresas.index,
-            orientation='h',
-            labels={'y': 'Empresa', 'x': 'Quantidade de Vagas'},
-            text=top_empresas.values,
-            color_discrete_sequence=px.colors.sequential.Teal
-        )
-        fig_empresas.update_layout(yaxis={'categoryorder':'total ascending'})
-        st.plotly_chart(fig_empresas, use_container_width=True)
+        st.subheader("Top 10 Empresas Contratando")
+        top_empresas = filtered_df['empresa'].value_counts().nlargest(10)
+        fig = px.bar(top_empresas, y=top_empresas.index, x=top_empresas.values, orientation='h', text_auto=True)
+        fig.update_layout(yaxis={'categoryorder':'total ascending'}, xaxis_title="Quantidade de Vagas", yaxis_title="Empresa")
+        st.plotly_chart(fig, use_container_width=True)
 
     with col2:
-        # Gráfico 2: Análise de palavras-chave nos títulos das vagas
-        st.subheader("Termos Comuns nos Títulos das Vagas")
-        # Concatena todos os títulos em um único texto
-        textao = ' '.join(df['titulo'].dropna().str.lower())
-        # Cria uma série com a contagem de cada palavra
-        word_counts = pd.Series(textao.split()).value_counts()
-        # Filtra palavras comuns e pouco relevantes
-        common_words_to_exclude = ['de', 'e', 'para', 'em', 'vaga', 'i', 'ii', 'iii', 'são', 'paulo', 'sp']
-        top_words = word_counts[~word_counts.index.isin(common_words_to_exclude)].nlargest(10)
-        
-        fig_words = px.bar(
-            top_words,
-            x=top_words.index,
-            y=top_words.values,
-            labels={'x': 'Termo', 'y': 'Frequência'},
-            text=top_words.values,
-            color_discrete_sequence=px.colors.sequential.Mint
-        )
-        st.plotly_chart(fig_words, use_container_width=True)
+        st.subheader("Distribuição de Vagas por Região")
+        vagas_por_regiao = filtered_df['regiao'].value_counts()
+        fig = px.pie(vagas_por_regiao, names=vagas_por_regiao.index, values=vagas_por_regiao.values, hole=.3)
+        st.plotly_chart(fig, use_container_width=True)
 
-    # --- Tabela de Dados Brutos ---
+    # --- Análise de Salários ---
     st.markdown("---")
-    st.subheader("Dados Brutos das Vagas")
-    st.dataframe(df)
+    st.subheader("Análise de Salários")
+    df_salario = filtered_df.dropna(subset=['salario_valor'])
+    
+    if not df_salario.empty:
+        fig = px.histogram(df_salario, x="salario_valor", nbins=20, title="Distribuição de Salários")
+        fig.update_layout(xaxis_title="Salário (R$)", yaxis_title="Quantidade de Vagas")
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Nenhuma vaga com salário informado para a seleção atual.")
 
+    # --- Tabela de Dados ---
+    st.markdown("---")
+    st.subheader("Dados Brutos")
+    st.dataframe(filtered_df)
