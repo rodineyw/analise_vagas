@@ -53,7 +53,7 @@ def fetch_jobs():
             for card in job_cards:
                 title_element = card.find('h2', class_='cargo')
                 company_element = card.find('span', class_='emprVaga')
-                location_element = card.find('span', class_='local')
+                location_element = card.find('div', class_='vaga-local')
                 # NOVO: Seletor para o salário
                 salary_element = card.find('span', class_='remuneracao')
 
