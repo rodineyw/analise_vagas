@@ -46,7 +46,7 @@ jobs:
           git pull
           
           # 2. Adiciona os arquivos que podem ter sido modificados
-          git add vagas_dados.csv scraper.log
+          git add vagas_brasil.csv scraper.log
           
           # 3. Verifica se há mudanças. Se houver, faz o commit e push.
           if ! git diff --staged --quiet; then
