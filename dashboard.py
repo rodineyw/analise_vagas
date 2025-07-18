@@ -1,9 +1,10 @@
 # dashboard_brasil.py
-import streamlit as st
-import pandas as pd
-import plotly.express as px
 import logging
 import re
+
+import pandas as pd
+import plotly.express as px
+import streamlit as st
 
 # --- Configuração da Página e Logging ---
 st.set_page_config(layout="wide", page_title="Dashboard de Vagas de Dados - Brasil")
@@ -54,7 +55,7 @@ def clean_salary(salary_str):
 def load_and_process_data():
     """Carrega e processa os dados do CSV."""
     try:
-        df = pd.read_csv('vagas_consolidadas.csv')
+        df = pd.read_csv('vagas_brasil.csv')
         df['regiao'] = df['localizacao'].apply(get_region_from_location)
         df['salario_valor'] = df['salario'].apply(clean_salary)
         logging.info("Dados carregados e processados com sucesso.")
@@ -126,4 +127,5 @@ if not df.empty:
     # --- Tabela de Dados ---
     st.markdown("---")
     st.subheader("Dados Brutos")
+    st.dataframe(filtered_df)
     st.dataframe(filtered_df)
