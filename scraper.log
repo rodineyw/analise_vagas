@@ -64,3 +64,25 @@
 2025-07-18 00:40:03,806 - INFO - Processamento final: 305 vagas totais encontradas.
 2025-07-18 00:40:03,808 - INFO - Ap�s remo��o de duplicatas, restaram 303 vagas �nicas.
 2025-07-18 00:40:03,812 - INFO - Dados salvos com sucesso em 'vagas_brasil.csv'.
+2025-07-18 12:50:45,519 - INFO - Iniciando o processo de web scraping multi-página para todo o Brasil.
+2025-07-18 12:50:45,519 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=1
+2025-07-18 12:50:46,324 - INFO - 40 vagas encontradas na página 1.
+2025-07-18 12:50:47,325 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=2
+2025-07-18 12:50:47,896 - INFO - 40 vagas encontradas na página 2.
+2025-07-18 12:50:48,897 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=3
+2025-07-18 12:50:49,742 - INFO - 40 vagas encontradas na página 3.
+2025-07-18 12:50:50,742 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=4
+2025-07-18 12:50:51,540 - INFO - 40 vagas encontradas na página 4.
+2025-07-18 12:50:52,540 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=5
+2025-07-18 12:50:53,366 - INFO - 40 vagas encontradas na página 5.
+2025-07-18 12:50:54,366 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=6
+2025-07-18 12:50:55,143 - INFO - 40 vagas encontradas na página 6.
+2025-07-18 12:50:56,143 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=7
+2025-07-18 12:50:56,701 - INFO - 40 vagas encontradas na página 7.
+2025-07-18 12:50:57,701 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=8
+2025-07-18 12:50:58,226 - INFO - 27 vagas encontradas na página 8.
+2025-07-18 12:50:59,226 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=9
+2025-07-18 12:50:59,444 - INFO - Nenhuma vaga encontrada na página 9. Fim do scraping.
+2025-07-18 12:50:59,444 - INFO - Processamento final: 307 vagas totais encontradas.
+2025-07-18 12:50:59,446 - INFO - Após remoção de duplicatas, restaram 306 vagas únicas.
+2025-07-18 12:50:59,448 - INFO - Dados salvos com sucesso em 'vagas_brasil.csv'.
