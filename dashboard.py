@@ -128,4 +128,3 @@ if not df.empty:
     st.markdown("---")
     st.subheader("Dados Brutos")
     st.dataframe(filtered_df)
-    st.dataframe(filtered_df)
