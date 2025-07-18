@@ -92,7 +92,9 @@ if not df.empty:
     with col1:
         st.subheader("Top 10 Empresas Contratando")
         top_empresas = filtered_df['empresa'].value_counts().nlargest(10)
-        fig = px.bar(top_empresas, y=top_empresas.index, x=top_empresas.values, orientation='h', text_auto=True)
+        # --- CORREÇÃO APLICADA AQUI ---
+        # Removemos 'top_empresas' como primeiro argumento para evitar o conflito.
+        fig = px.bar(x=top_empresas.values, y=top_empresas.index, orientation='h', text_auto=True)
         fig.update_layout(yaxis={'categoryorder':'total ascending'}, xaxis_title="Quantidade de Vagas", yaxis_title="Empresa")
         st.plotly_chart(fig, use_container_width=True)
 
