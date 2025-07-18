@@ -15,7 +15,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11' # Use a versão do seu projeto
+          python-version: '3.13.5' # Use a versão do seu projeto
 
       - name: Instalar dependências (usando pip por simplicidade no Actions)
         run: |
