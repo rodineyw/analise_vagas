@@ -95,8 +95,8 @@ def fetch_jobs():
     
     logging.info(f"Após remoção de duplicatas, restaram {len(df)} vagas únicas.")
     
-    df.to_csv('vagas_brasil.csv', index=False, encoding='utf-8')
-    logging.info("Dados salvos com sucesso em 'vagas_brasil.csv'.")
+    df.to_csv('vagas_dados.csv', index=False, encoding='utf-8')
+    logging.info("Dados salvos com sucesso em 'vagas_dados.csv'.")
 
 
 if __name__ == '__main__':
