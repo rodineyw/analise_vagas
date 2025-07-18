@@ -8,3 +8,15 @@
 2025-07-18 00:03:32,046 - INFO - Página 'https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo' carregada com sucesso.
 2025-07-18 00:03:32,110 - INFO - 40 vagas encontradas e processadas.
 2025-07-18 00:03:32,121 - INFO - Dados salvos com sucesso em 'vagas_sp.csv'.
+2025-07-18 00:26:34,194 - INFO - Iniciando o processo de web scraping multi-página.
+2025-07-18 00:26:34,194 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo
+2025-07-18 00:26:34,900 - INFO - 40 vagas encontradas na página 1.
+2025-07-18 00:26:35,901 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo?pagina=2
+2025-07-18 00:26:36,586 - INFO - 40 vagas encontradas na página 2.
+2025-07-18 00:26:37,587 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo?pagina=3
+2025-07-18 00:26:38,275 - INFO - 32 vagas encontradas na página 3.
+2025-07-18 00:26:39,276 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo?pagina=4
+2025-07-18 00:26:39,632 - INFO - Nenhuma vaga encontrada na página 4. Fim do scraping.
+2025-07-18 00:26:39,632 - INFO - Processamento final: 112 vagas totais encontradas em 3 páginas.
+2025-07-18 00:26:39,634 - INFO - Após remoção de duplicatas, restaram 112 vagas únicas.
+2025-07-18 00:26:39,637 - INFO - Dados salvos com sucesso em 'vagas_sp.csv'.

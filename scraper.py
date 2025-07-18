@@ -1,87 +1,107 @@
 # scraper.py
 import logging
+import time
 
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
 # --- Configuração do Logging ---
-# Configura o logger para registrar informações úteis durante a execução.
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("scraper.log"), # Salva logs em um arquivo
-        logging.StreamHandler() # Mostra logs no console
+        logging.FileHandler("scraper.log"),
+        logging.StreamHandler()
     ]
 )
 
 # --- Constantes ---
-URL = "https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo"
+# URL base, sem o número da página
+BASE_URL = "https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo"
 
 def fetch_jobs():
     """
-    Busca dados de vagas no site, processa e salva em um arquivo CSV.
+    Busca dados de vagas em TODAS as páginas do site, processa e salva em um arquivo CSV.
     """
-    logging.info("Iniciando o processo de web scraping.")
-    try:
-        # Usar um User-Agent comum para simular um navegador e evitar bloqueios.
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-        }
-        response = requests.get(URL, headers=headers, timeout=15)
-        response.raise_for_status()
-        logging.info(f"Página '{URL}' carregada com sucesso.")
-
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # --- SELETOR CORRIGIDO ---
-        # Em vez de 'li' com classe 'vaga odd', buscamos por 'section' com a classe 'vaga'.
-        # Isso é mais geral e captura todas as vagas na página.
-        job_cards = soup.find_all('li', class_='vaga')
+    logging.info("Iniciando o processo de web scraping multi-página.")
+    
+    all_jobs_list = []
+    page_num = 1
+    
+    while True:
+        # Monta a URL para a página atual. Para a primeira página, não precisa do parâmetro.
+        current_url = BASE_URL if page_num == 1 else f"{BASE_URL}?pagina={page_num}"
+        logging.info(f"Buscando vagas na página: {current_url}")
         
-        if not job_cards:
-            logging.warning("Nenhum card de vaga encontrado. A estrutura do site pode ter mudado.")
-            return
+        try:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            response = requests.get(current_url, headers=headers, timeout=15)
+            response.raise_for_status()
 
-        job_list = []
-        for card in job_cards:
+            soup = BeautifulSoup(response.content, 'html.parser')
             
-            title_element = card.find('h2', class_='cargo')
-            company_element = card.find('span', class_='emprVaga')
-            location_element = card.find('div', class_='vaga-local')
+            # Usando o seletor que você mesmo ajustou: 'li' com a classe 'vaga'
+            # Isso funciona para 'vaga odd' e 'vaga even'
+            job_cards = soup.find_all('li', class_='vaga')
+            
+            # CONDIÇÃO DE PARADA: Se a página não tiver mais vagas, interrompe o loop.
+            if not job_cards:
+                logging.info(f"Nenhuma vaga encontrada na página {page_num}. Fim do scraping.")
+                break
 
-            title = title_element.text.strip() if title_element else "N/A"
-            company = company_element.text.strip() if company_element else "N/A"
-            location = location_element.text.strip() if location_element else "N/A"
+            page_jobs_found = 0
+            for card in job_cards:
+                title_element = card.find('h2', class_='cargo')
+                company_element = card.find('span', class_='emprVaga')
+                # O seletor correto para o local, que pode estar dentro de um span ou div
+                location_element = card.find('span', class_='local') or card.find('div', class_='vaga-local')
 
-            if title != "N/A":
-                job_list.append({
-                    'titulo': title,
-                    'empresa': company,
-                    'localizacao': location,
-                    'data_coleta': pd.to_datetime('today').strftime('%Y-%m-%d')
-                })
+                title = title_element.text.strip() if title_element else "N/A"
+                company = company_element.text.strip() if company_element else "N/A"
+                location = location_element.text.strip() if location_element else "N/A"
 
-        # A lógica de log e salvamento foi movida para fora do loop
-        if not job_list:
-            logging.info("Nenhuma vaga válida foi extraída nesta execução.")
-            return
+                if title != "N/A":
+                    all_jobs_list.append({
+                        'titulo': title,
+                        'empresa': company,
+                        'localizacao': location,
+                        'data_coleta': pd.to_datetime('today').strftime('%Y-%m-%d')
+                    })
+                    page_jobs_found += 1
+            
+            logging.info(f"{page_jobs_found} vagas encontradas na página {page_num}.")
+            
+            # Prepara para buscar a próxima página
+            page_num += 1
+            
+            # Boa prática: uma pequena pausa para não sobrecarregar o servidor do site.
+            time.sleep(1) 
 
-        logging.info(f"{len(job_list)} vagas encontradas e processadas.")
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Erro de rede na página {page_num}: {e}. Interrompendo.")
+            break
+        except Exception as e:
+            logging.error(f"Ocorreu um erro inesperado na página {page_num}: {e}", exc_info=True)
+            break
 
-        df = pd.DataFrame(job_list)
-        # Remove duplicatas para garantir dados limpos
-        df.drop_duplicates(subset=['titulo', 'empresa', 'localizacao'], inplace=True)
-        
-        # Salva o arquivo com o nome correto para o dashboard
-        df.to_csv('vagas_sp.csv', index=False, encoding='utf-8')
-        logging.info("Dados salvos com sucesso em 'vagas_sp.csv'.")
+    # --- Processamento final após coletar de todas as páginas ---
+    if not all_jobs_list:
+        logging.warning("Nenhuma vaga foi coletada no total. Verifique os seletores e a estrutura do site.")
+        return
 
-    except requests.exceptions.RequestException as e:
-        logging.error(f"Erro de rede ao tentar acessar a URL: {e}")
-    except Exception as e:
-        logging.error(f"Ocorreu um erro inesperado durante o scraping: {e}", exc_info=True)
+    logging.info(f"Processamento final: {len(all_jobs_list)} vagas totais encontradas em {page_num - 1} páginas.")
+
+    df = pd.DataFrame(all_jobs_list)
+    df.drop_duplicates(subset=['titulo', 'empresa', 'localizacao'], inplace=True)
+    
+    logging.info(f"Após remoção de duplicatas, restaram {len(df)} vagas únicas.")
+    
+    df.to_csv('vagas_sp.csv', index=False, encoding='utf-8')
+    logging.info("Dados salvos com sucesso em 'vagas_sp.csv'.")
+
 
 if __name__ == '__main__':
     fetch_jobs()
