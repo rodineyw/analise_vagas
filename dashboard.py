@@ -1,10 +1,9 @@
 # dashboard_brasil.py
-import logging
-import re
-
+import streamlit as st
 import pandas as pd
 import plotly.express as px
-import streamlit as st
+import logging
+import re
 
 # --- Configuração da Página e Logging ---
 st.set_page_config(layout="wide", page_title="Dashboard de Vagas de Dados - Brasil")
@@ -14,10 +13,18 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 def get_region_from_location(location_str):
     """Mapeia a string de localização para uma região do Brasil."""
-    if not isinstance(location_str, str) or " - " not in location_str:
+    if not isinstance(location_str, str):
         return "Não especificada"
     
-    state = location_str.split(' - ')[-1].strip()
+    # --- CORREÇÃO APLICADA AQUI ---
+    # Normaliza a string, trocando " / " por " - " para padronizar o separador.
+    # Isso garante que "Rio de Janeiro / RJ" seja processado corretamente.
+    normalized_location = location_str.replace(" / ", " - ")
+
+    if " - " not in normalized_location:
+        return "Não especificada"
+    
+    state = normalized_location.split(' - ')[-1].strip()
     
     sudeste = ['SP', 'RJ', 'ES', 'MG']
     sul = ['PR', 'SC', 'RS']
