@@ -10,10 +10,10 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # --- Configuração da Página do Streamlit ---
 # 'wide' usa a largura total da tela.
-st.set_page_config(layout="wide", page_title="Dashboard de Vagas Analise de Dados - SP")
+st.set_page_config(layout="wide", page_title="Dashboard de Vagas Analista de Dados - SP")
 
 # --- Título do Dashboard ---
-st.title("📊 Dashboard de Vagas de Dados em São Paulo")
+st.title("📊 Dashboard de Vagas Analista de Dados em São Paulo")
 st.markdown("Análise de vagas para Analistas, Engenheiros e Cientistas de Dados.")
 
 # --- Carregamento de Dados ---
