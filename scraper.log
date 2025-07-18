@@ -1,0 +1,10 @@
+2025-07-18 00:00:18,068 - INFO - Iniciando o processo de web scraping.
+2025-07-18 00:00:19,094 - INFO - Página 'https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo' carregada com sucesso.
+2025-07-18 00:00:19,148 - WARNING - Nenhum card de vaga encontrado. A estrutura do site pode ter mudado.
+2025-07-18 00:02:17,747 - INFO - Iniciando o processo de web scraping.
+2025-07-18 00:02:18,460 - INFO - Página 'https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo' carregada com sucesso.
+2025-07-18 00:02:18,514 - WARNING - Nenhum card de vaga encontrado. A estrutura do site pode ter mudado.
+2025-07-18 00:03:31,407 - INFO - Iniciando o processo de web scraping.
+2025-07-18 00:03:32,046 - INFO - Página 'https://www.vagas.com.br/vagas-de-analista-de-dados-em-sao-paulo' carregada com sucesso.
+2025-07-18 00:03:32,110 - INFO - 40 vagas encontradas e processadas.
+2025-07-18 00:03:32,121 - INFO - Dados salvos com sucesso em 'vagas_sp.csv'.
