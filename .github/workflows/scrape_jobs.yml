@@ -13,6 +13,12 @@ jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
 
+    # --- CORREÇÃO APLICADA AQUI ---
+    # Adiciona permissões de escrita para o conteúdo do repositório.
+    # Isso é necessário para que o 'git push' funcione.
+    permissions:
+      contents: write
+
     steps:
       # Passo 1: Clona o seu repositório para a máquina virtual
       - name: Checar o código do repositório
@@ -41,14 +47,13 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions-bot@github.com"
           
-          # --- CORREÇÃO APLICADA AQUI ---
-          # 1. Puxa as atualizações mais recentes do repositório
+          # Puxa as atualizações mais recentes do repositório
           git pull
           
-          # 2. Adiciona os arquivos que podem ter sido modificados
+          # Adiciona os arquivos que podem ter sido modificados
           git add vagas_brasil.csv scraper.log
           
-          # 3. Verifica se há mudanças. Se houver, faz o commit e push.
+          # Verifica se há mudanças. Se houver, faz o commit e push.
           if ! git diff --staged --quiet; then
             git commit -m "CHORE: Atualiza dados de vagas (`date`)"
             git push
