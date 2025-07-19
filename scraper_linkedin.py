@@ -6,11 +6,7 @@ import time
 import pandas as pd
 from dotenv import load_dotenv
 from selenium import webdriver
-from selenium.common.exceptions import (
-    ElementClickInterceptedException,
-    NoSuchElementException,
-    TimeoutException,
-)
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
@@ -29,7 +25,7 @@ LINKEDIN_URL = "https://br.linkedin.com/jobs/search?keywords=analista%20de%20dad
 
 def fetch_linkedin_jobs():
     """
-    Busca dados de vagas no LinkedIn, realizando login antes da busca.
+    Busca dados de vagas no LinkedIn, realizando login e navegando pela paginação.
     """
     logging.info("Iniciando o scraping do LinkedIn com Selenium.")
     
@@ -55,7 +51,7 @@ def fetch_linkedin_jobs():
     service = ChromeService(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     
-    job_list = []
+    all_jobs_list = []
     
     try:
         # --- ETAPA DE LOGIN ---
@@ -73,7 +69,6 @@ def fetch_linkedin_jobs():
         login_button = driver.find_element(By.CSS_SELECTOR, "button[type='submit']")
         login_button.click()
 
-        # Espera o login ser bem-sucedido aguardando um elemento da página principal
         wait.until(EC.presence_of_element_located((By.ID, "global-nav-search")))
         logging.info("Login realizado com sucesso!")
 
@@ -82,55 +77,55 @@ def fetch_linkedin_jobs():
         driver.get(LINKEDIN_URL)
         logging.info("Página de busca de vagas carregada.")
         
-        # --- Clicar no botão "Ver mais vagas" ---
-        clicks = 0
-        while clicks < 7:
+        page_num = 1
+        while True:
+            logging.info(f"Coletando vagas da página {page_num}...")
+            
+            # Espera um pouco para os cards da página atual carregarem
+            time.sleep(2)
+
+            job_cards = driver.find_elements(By.CSS_SELECTOR, "li.ember-view")
+            logging.info(f"Analisando {len(job_cards)} cards encontrados na página {page_num}...")
+
+            for card in job_cards:
+                try:
+                    title = card.find_element(By.CSS_SELECTOR, 'div.full-width.artdeco-entity-lockup__title.ember-view').text.strip()
+                    company = card.find_element(By.CSS_SELECTOR, 'div.artdeco-entity-lockup__subtitle.ember-view').text.strip()
+                    location = card.find_element(By.CSS_SELECTOR, 'ul.job-card-container__metadata-wrapper').text.strip()
+                    
+                    if title and company and location:
+                        all_jobs_list.append({'titulo': title, 'empresa': company, 'localizacao': location, 'salario': "A combinar", 'fonte': 'LinkedIn'})
+                except NoSuchElementException:
+                    continue
+            
+            # --- MELHORIA: Lógica de paginação clicando em "Avançar" ---
             try:
-                show_more_button = WebDriverWait(driver, 8).until(
-                    EC.element_to_be_clickable((By.CLASS_NAME, "id.ember"))
+                # O seletor para o botão "Avançar" é o seu 'aria-label'
+                next_button = WebDriverWait(driver, 5).until(
+                    EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[aria-label="Ver próxima página"]'))
                 )
-                driver.execute_script("arguments[0].click();", show_more_button)
-                clicks += 1
-                logging.info(f"Clicado no botão 'Ver mais vagas'. (Clique #{clicks})")
-                time.sleep(2) 
-            except (TimeoutException, NoSuchElementException):
-                logging.info("Botão 'Ver mais vagas' não encontrado. Fim da busca.")
-                break
-            except ElementClickInterceptedException:
-                logging.warning("Clique interceptado, tentando rolar para o botão.")
-                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(2)
-
-        job_cards = driver.find_elements(By.CSS_SELECTOR, "li.ember-view")
-        logging.info(f"Analisando {len(job_cards)} cards encontrados na página...")
-
-        for card in job_cards:
-            try:
-                title = card.find_element(By.CSS_SELECTOR, 'div.full-width.artdeco-entity-lockup__title.ember-view').text.strip()
-                company = card.find_element(By.CSS_SELECTOR, 'div.artdeco-entity-lockup__subtitle.ember-view').text.strip()
-                location = card.find_element(By.CSS_SELECTOR, 'ul.job-card-container__metadata-wrapper').text.strip()
-                
-                if title and company and location:
-                    job_list.append({'titulo': title, 'empresa': company, 'localizacao': location, 'salario': "A combinar", 'fonte': 'LinkedIn'})
-            except NoSuchElementException:
-                continue
-                
-        logging.info(f"Extração concluída. {len(job_list)} vagas válidas encontradas.")
+                next_button.click()
+                page_num += 1
+            except TimeoutException:
+                logging.info("Botão 'Ver próxima página' não encontrado. Fim da busca.")
+                break # Sai do loop while
 
     except Exception as e:
         logging.error(f"Ocorreu um erro durante o scraping do LinkedIn: {e}", exc_info=True)
     finally:
         driver.quit()
 
-    if job_list:
-        df = pd.DataFrame(job_list)
+    if all_jobs_list:
+        # Remove duplicatas que podem ocorrer entre as páginas
+        df = pd.DataFrame(all_jobs_list).drop_duplicates()
+        logging.info(f"Extração concluída. {len(df)} vagas válidas encontradas no total.")
         df.to_csv('vagas_linkedin.csv', index=False, encoding='utf-8')
         logging.info("Dados do LinkedIn salvos com sucesso.")
     else:
         logging.warning("Nenhuma vaga encontrada no LinkedIn. Criando arquivo vazio.")
         pd.DataFrame(columns=['titulo', 'empresa', 'localizacao', 'salario', 'fonte']).to_csv('vagas_linkedin.csv', index=False, encoding='utf-8')
 
-    return job_list
+    return all_jobs_list
 
 if __name__ == '__main__':
     fetch_linkedin_jobs()
