@@ -131,3 +131,40 @@
 2025-07-18 15:18:50,814 - INFO - Encontradas 0 vagas no LinkedIn.
 2025-07-18 15:18:52,945 - INFO - Consolidando os dados coletados.
 2025-07-18 15:18:52,958 - ERROR - Um dos arquivos de dados não foi encontrado. Abortando a consolidação.
+2025-07-19 18:41:35,638 - INFO - Iniciando o processo de coleta de todas as fontes.
+2025-07-19 18:41:35,638 - INFO - Iniciando o processo de web scraping multi-página para todo o Brasil.
+2025-07-19 18:41:35,638 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=1
+2025-07-19 18:41:36,449 - INFO - 40 vagas encontradas na página 1.
+2025-07-19 18:41:37,450 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=2
+2025-07-19 18:41:38,248 - INFO - 40 vagas encontradas na página 2.
+2025-07-19 18:41:39,253 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=3
+2025-07-19 18:41:39,872 - INFO - 40 vagas encontradas na página 3.
+2025-07-19 18:41:40,872 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=4
+2025-07-19 18:41:41,716 - INFO - 40 vagas encontradas na página 4.
+2025-07-19 18:41:42,717 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=5
+2025-07-19 18:41:43,481 - INFO - 40 vagas encontradas na página 5.
+2025-07-19 18:41:44,481 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=6
+2025-07-19 18:41:45,488 - INFO - 40 vagas encontradas na página 6.
+2025-07-19 18:41:46,489 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=7
+2025-07-19 18:41:47,576 - INFO - 40 vagas encontradas na página 7.
+2025-07-19 18:41:48,584 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=8
+2025-07-19 18:41:49,218 - INFO - 25 vagas encontradas na página 8.
+2025-07-19 18:41:50,219 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=9
+2025-07-19 18:41:50,547 - INFO - Nenhuma vaga encontrada na página 9. Fim do scraping.
+2025-07-19 18:41:50,547 - INFO - Processamento final: 305 vagas totais encontradas.
+2025-07-19 18:41:50,561 - INFO - Após remoção de duplicatas, restaram 304 vagas únicas.
+2025-07-19 18:41:50,569 - INFO - Dados salvos com sucesso em 'vagas_brasil.csv'.
+2025-07-19 18:41:50,569 - INFO - Iniciando o scraping do LinkedIn com Selenium.
+2025-07-19 18:41:50,570 - INFO - ====== WebDriver manager ======
+2025-07-19 18:41:51,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-19 18:41:51,185 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-19 18:41:51,223 - INFO - Driver [C:\Users\rodin\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-19 18:41:53,441 - INFO - Página de login carregada. Tentando logar...
+2025-07-19 18:42:05,584 - INFO - Login realizado com sucesso!
+2025-07-19 18:42:08,189 - INFO - Página de busca de vagas carregada.
+2025-07-19 18:42:16,340 - INFO - Botão 'Ver mais vagas' não encontrado. Fim da busca.
+2025-07-19 18:42:16,348 - INFO - Analisando 35 cards encontrados na página...
+2025-07-19 18:42:16,667 - INFO - Extração concluída. 7 vagas válidas encontradas.
+2025-07-19 18:42:18,817 - INFO - Dados do LinkedIn salvos com sucesso.
+2025-07-19 18:42:18,817 - INFO - Consolidando os dados coletados.
+2025-07-19 18:42:18,834 - INFO - Dados consolidados e salvos em 'vagas_consolidadas.csv'. Total de 311 vagas únicas.
