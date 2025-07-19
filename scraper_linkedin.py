@@ -78,13 +78,14 @@ def fetch_linkedin_jobs():
         logging.info("Página de busca de vagas carregada.")
         
         page_num = 1
-        while True:
+        while page_num <= 15:
             logging.info(f"Coletando vagas da página {page_num}...")
             
-            # Espera um pouco para os cards da página atual carregarem
-            time.sleep(2)
+            # Rola a página para garantir que todos os cards estejam visíveis
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2) 
 
-            job_cards = driver.find_elements(By.CSS_SELECTOR, "li.ember-view")
+            job_cards = driver.find_elements(By.CSS_SELECTOR, "li.ember-view.SmCOUmLhQcYHCWzDxjUbFhltcDyHyxQmb.occludable-update.p0.relative.scaffold-layout__list-item")
             logging.info(f"Analisando {len(job_cards)} cards encontrados na página {page_num}...")
 
             for card in job_cards:
@@ -98,17 +99,16 @@ def fetch_linkedin_jobs():
                 except NoSuchElementException:
                     continue
             
-            # --- MELHORIA: Lógica de paginação clicando em "Avançar" ---
             try:
-                # O seletor para o botão "Avançar" é o seu 'aria-label'
+                next_button_selector = 'button[aria-label="Avançar"], button[aria-label="Ver próxima página"]'
                 next_button = WebDriverWait(driver, 5).until(
-                    EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[aria-label="Ver próxima página"]'))
+                    EC.element_to_be_clickable((By.CSS_SELECTOR, next_button_selector))
                 )
-                next_button.click()
+                driver.execute_script("arguments[0].click();", next_button)
                 page_num += 1
             except TimeoutException:
-                logging.info("Botão 'Ver próxima página' não encontrado. Fim da busca.")
-                break # Sai do loop while
+                logging.info("Nenhum botão de próxima página encontrado. Fim da busca.")
+                break 
 
     except Exception as e:
         logging.error(f"Ocorreu um erro durante o scraping do LinkedIn: {e}", exc_info=True)
