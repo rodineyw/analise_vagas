@@ -1,18 +1,20 @@
 # scraper_vagas.py
 import logging
+import re  # Importa a biblioteca de expressões regulares
 import time
+
 import pandas as pd
-import requests # Importa a biblioteca requests
-import re # Importa a biblioteca de expressões regulares
+import requests  # Importa a biblioteca requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.common.exceptions import (ElementClickInterceptedException,
+                                        TimeoutException, WebDriverException)
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException, WebDriverException
+from selenium.webdriver.support.ui import WebDriverWait
+from webdriver_manager.chrome import ChromeDriverManager
 
 # --- Configuração do Logging ---
 logging.basicConfig(
@@ -57,7 +59,7 @@ def fetch_vagas_jobs():
         while True:
             try:
                 load_more_button = WebDriverWait(driver, 10).until(
-                    EC.element_to_be_clickable((By.ID, "btn-carregar-mais"))
+                    EC.element_to_be_clickable((By.ID, "maisVagas"))
                 )
                 driver.execute_script("arguments[0].click();", load_more_button)
                 logging.info("Botão 'Carregar mais vagas' clicado.")
@@ -130,6 +132,11 @@ def fetch_vagas_jobs():
     df = pd.DataFrame(all_jobs_list).drop_duplicates(subset=['titulo', 'empresa', 'localizacao'])
     logging.info(f"Extração concluída. {len(df)} vagas válidas encontradas.")
     
+    df.to_csv('vagas_consolidadas.csv', index=False, encoding='utf-8')
+    logging.info("Dados salvos com sucesso em 'vagas_consolidadas.csv'.")
+
+if __name__ == '__main__':
+    fetch_vagas_jobs()
     df.to_csv('vagas_consolidadas.csv', index=False, encoding='utf-8')
     logging.info("Dados salvos com sucesso em 'vagas_consolidadas.csv'.")
 
