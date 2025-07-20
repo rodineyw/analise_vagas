@@ -1,56 +1,76 @@
-# dashboard_brasil.py
-import logging
-import re
-
+# dashboard.py
+import streamlit as st
 import pandas as pd
 import plotly.express as px
-import streamlit as st
+import logging
+import re
+from typing import Optional
 
 # --- Configuração da Página e Logging ---
 st.set_page_config(layout="wide", page_title="Dashboard de Vagas de Dados - Brasil")
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# --- Funções de Processamento de Dados ---
 
+# --- FUNÇÃO CORRIGIDA E MAIS ROBUSTA ---
 def get_region_from_location(location_str: str) -> str:
-    """Mapeia a string de localização para uma região do Brasil."""
+    """
+    Mapeia a string de localização para uma região do Brasil de forma mais robusta.
+    Identifica vagas remotas e busca pela sigla do estado no texto.
+    """
     if not isinstance(location_str, str):
         return "Não especificada"
-    
-    # --- CORREÇÃO APLICADA AQUI ---
-    # Normaliza a string, trocando " / " por " - " para padronizar o separador.
-    # Isso garante que "Rio de Janeiro / RJ" seja processado corretamente.
-    normalized_location: str = location_str.replace(" / ", " - ")
 
-    if " - " not in normalized_location:
+    # 1. Lida com vagas remotas primeiro
+    if "home office" in location_str.lower() or "remoto" in location_str.lower():
+        return "Remoto"
+
+    # 2. Normaliza os separadores para um padrão único
+    normalized_location = location_str.replace("/", "-")
+    parts = [part.strip() for part in normalized_location.split('-')]
+
+    # 3. Define todos os estados para uma busca eficiente
+    all_states = {
+        'SP', 'RJ', 'ES', 'MG', 'PR', 'SC', 'RS', 'MT', 'MS', 'GO', 'DF',
+        'BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA', 'AM', 'RR',
+        'AP', 'PA', 'TO', 'RO', 'AC'
+    }
+
+    # 4. Procura por uma sigla de estado válida em qualquer parte da localização
+    found_state = None
+    for part in parts:
+        if part in all_states:
+            found_state = part
+            break  # Para a busca assim que encontrar o primeiro estado válido
+
+    if not found_state:
         return "Não especificada"
-    
-    state: str = normalized_location.split(' - ')[-1].strip()
-    
-    sudeste: list[str] = ['SP', 'RJ', 'ES', 'MG']
-    sul: list[str] = ['PR', 'SC', 'RS']
-    centro_oeste: list[str] = ['MT', 'MS', 'GO', 'DF']
-    nordeste: list[str] = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
-    norte: list[str] = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
-    
-    if state in sudeste: 
+
+    # 5. Mapeia o estado encontrado para a sua região
+    sudeste = ['SP', 'RJ', 'ES', 'MG']
+    sul = ['PR', 'SC', 'RS']
+    centro_oeste = ['MT', 'MS', 'GO', 'DF']
+    nordeste = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
+    norte = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
+
+    if found_state in sudeste: 
         return "Sudeste"
-    if state in sul: 
+    if found_state in sul: 
         return "Sul"
-    if state in centro_oeste: 
+    if found_state in centro_oeste: 
         return "Centro-Oeste"
-    if state in nordeste: 
+    if found_state in nordeste: 
         return "Nordeste"
-    if state in norte: 
+    if found_state in norte: 
         return "Norte"
+    
     return "Não especificada"
 
-def clean_salary(salary_str) -> float | None:
+
+def clean_salary(salary_str: str) -> Optional[float]:
     """Limpa a string de salário e a converte para um valor numérico (float)."""
     if not isinstance(salary_str, str) or "R$" not in salary_str:
         return None
     
-    # Pega apenas o primeiro número encontrado na string para simplificar
     numbers = re.findall(r'\d+\.?\d*', salary_str.replace('.', '').replace(',', '.'))
     if numbers:
         return float(numbers[0])
@@ -71,12 +91,14 @@ def load_and_process_data() -> pd.DataFrame:
 
 # --- Layout do Dashboard ---
 
-st.title("🇧🇷 Dashboard de Vagas de Dados no Brasil")
+st.title("📊 Dashboard de Vagas de Dados no Brasil (Vagas.com)")
+
 df: pd.DataFrame = load_and_process_data()
 
 if not df.empty:
     # --- Barra Lateral com Filtros ---
     st.sidebar.header("Filtros")
+    # A nova categoria "Remoto" será incluída automaticamente no filtro
     all_regions = sorted(df['regiao'].unique())
     selected_regions = st.sidebar.multiselect(
         "Selecione a Região",
@@ -84,17 +106,16 @@ if not df.empty:
         default=all_regions
     )
     
-    # Filtra o DataFrame com base na seleção
     filtered_df = df[df['regiao'].isin(selected_regions)]
 
-    # --- KPIs Principais ---
-    total_vagas: int = len(filtered_df)
+    # --- KPIs ---
+    total_vagas = len(filtered_df)
     vagas_com_salario = filtered_df['salario_valor'].notna().sum()
     media_salarial = filtered_df['salario_valor'].mean()
 
     col1, col2, col3 = st.columns(3)
     col1.metric("Total de Vagas", f"{total_vagas}")
-    col2.metric("Vagas com Salário Informado", f"{vagas_com_salario}")
+    col2.metric("Vagas com Salário", f"{vagas_com_salario}")
     col3.metric("Média Salarial (R$)", f"{media_salarial:,.2f}" if vagas_com_salario > 0 else "N/A")
     
     st.markdown("---")
@@ -105,9 +126,7 @@ if not df.empty:
     with col1:
         st.subheader("Top 10 Empresas Contratando")
         top_empresas = filtered_df['empresa'].value_counts().nlargest(10)
-        # --- CORREÇÃO APLICADA AQUI ---
-        # Removemos 'top_empresas' como primeiro argumento para evitar o conflito.
-        fig = px.bar(top_empresas, orientation='h', text_auto=True)
+        fig = px.bar(x=top_empresas.values, y=top_empresas.index, orientation='h', text_auto=True)
         fig.update_layout(yaxis={'categoryorder':'total ascending'}, xaxis_title="Quantidade de Vagas", yaxis_title="Empresa")
         st.plotly_chart(fig, use_container_width=True)
 
@@ -128,6 +147,7 @@ if not df.empty:
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.info("Nenhuma vaga com salário informado para a seleção atual.")
+
 
     # --- Tabela de Dados ---
     st.markdown("---")
