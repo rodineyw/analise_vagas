@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # --- Funções de Processamento de Dados ---
 
-def get_region_from_location(location_str):
+def get_region_from_location(location_str: str) -> str:
     """Mapeia a string de localização para uma região do Brasil."""
     if not isinstance(location_str, str):
         return "Não especificada"
@@ -20,27 +20,32 @@ def get_region_from_location(location_str):
     # --- CORREÇÃO APLICADA AQUI ---
     # Normaliza a string, trocando " / " por " - " para padronizar o separador.
     # Isso garante que "Rio de Janeiro / RJ" seja processado corretamente.
-    normalized_location = location_str.replace(" / ", " - ")
+    normalized_location: str = location_str.replace(" / ", " - ")
 
     if " - " not in normalized_location:
         return "Não especificada"
     
-    state = normalized_location.split(' - ')[-1].strip()
+    state: str = normalized_location.split(' - ')[-1].strip()
     
-    sudeste = ['SP', 'RJ', 'ES', 'MG']
-    sul = ['PR', 'SC', 'RS']
-    centro_oeste = ['MT', 'MS', 'GO', 'DF']
-    nordeste = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
-    norte = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
+    sudeste: list[str] = ['SP', 'RJ', 'ES', 'MG']
+    sul: list[str] = ['PR', 'SC', 'RS']
+    centro_oeste: list[str] = ['MT', 'MS', 'GO', 'DF']
+    nordeste: list[str] = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
+    norte: list[str] = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
     
-    if state in sudeste: return "Sudeste"
-    if state in sul: return "Sul"
-    if state in centro_oeste: return "Centro-Oeste"
-    if state in nordeste: return "Nordeste"
-    if state in norte: return "Norte"
+    if state in sudeste: 
+        return "Sudeste"
+    if state in sul: 
+        return "Sul"
+    if state in centro_oeste: 
+        return "Centro-Oeste"
+    if state in nordeste: 
+        return "Nordeste"
+    if state in norte: 
+        return "Norte"
     return "Não especificada"
 
-def clean_salary(salary_str):
+def clean_salary(salary_str) -> float | None:
     """Limpa a string de salário e a converte para um valor numérico (float)."""
     if not isinstance(salary_str, str) or "R$" not in salary_str:
         return None
@@ -52,7 +57,7 @@ def clean_salary(salary_str):
     return None
 
 @st.cache_data
-def load_and_process_data():
+def load_and_process_data() -> pd.DataFrame:
     """Carrega e processa os dados do CSV."""
     try:
         df = pd.read_csv('vagas_consolidadas.csv')
@@ -67,7 +72,7 @@ def load_and_process_data():
 # --- Layout do Dashboard ---
 
 st.title("🇧🇷 Dashboard de Vagas de Dados no Brasil")
-df = load_and_process_data()
+df: pd.DataFrame = load_and_process_data()
 
 if not df.empty:
     # --- Barra Lateral com Filtros ---
@@ -83,7 +88,7 @@ if not df.empty:
     filtered_df = df[df['regiao'].isin(selected_regions)]
 
     # --- KPIs Principais ---
-    total_vagas = len(filtered_df)
+    total_vagas: int = len(filtered_df)
     vagas_com_salario = filtered_df['salario_valor'].notna().sum()
     media_salarial = filtered_df['salario_valor'].mean()
 
@@ -102,7 +107,7 @@ if not df.empty:
         top_empresas = filtered_df['empresa'].value_counts().nlargest(10)
         # --- CORREÇÃO APLICADA AQUI ---
         # Removemos 'top_empresas' como primeiro argumento para evitar o conflito.
-        fig = px.bar(x=top_empresas.values, y=top_empresas.index, orientation='h', text_auto=True)
+        fig = px.bar(top_empresas, orientation='h', text_auto=True)
         fig.update_layout(yaxis={'categoryorder':'total ascending'}, xaxis_title="Quantidade de Vagas", yaxis_title="Empresa")
         st.plotly_chart(fig, use_container_width=True)
 

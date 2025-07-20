@@ -1,6 +1,7 @@
 # scraper_vagas.py
 import logging
 import time
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -49,31 +50,32 @@ def fetch_vagas_jobs():
                 break
 
             for card in job_cards:
-                title_element = card.find('h2', class_='cargo')
-                company_element = card.find('span', class_='emprVaga')
-                location_element = card.find('span', class_='local')
-                salary_element = card.find('span', class_='remuneracao')
+                try:
+                    title_element = card.find('h2', class_='cargo')
+                    company_element = card.find('span', class_='emprVaga')
+                    location_element = card.find('span', class_='local')
+                    salary_element = card.find('span', class_='remuneracao')
 
-                title = title_element.text.strip() if title_element else "N/A"
-                company = company_element.text.strip() if company_element else "N/A"
-                location = location_element.text.strip() if location_element else "N/A"
-                salary = salary_element.text.strip() if salary_element else "A combinar"
+                    title = title_element.text.strip() if title_element else "N/A"
+                    company = company_element.text.strip() if company_element else "N/A"
+                    location = location_element.text.strip() if location_element else "N/A"
+                    salary = salary_element.text.strip() if salary_element else "A combinar"
 
-                if title != "N/A":
-                    all_jobs_list.append({
-                        'titulo': title,
-                        'empresa': company,
-                        'localizacao': location,
-                        'salario': salary,
-                        'fonte': 'Vagas.com'
-                    })
+                    if title != "N/A":
+                        all_jobs_list.append({
+                            'titulo': title,
+                            'empresa': company,
+                            'localizacao': location,
+                            'salario': salary,
+                            'fonte': 'Vagas.com'
+                        })
             
-            page_num += 1
-            time.sleep(1) 
+                    page_num += 1
+                    time.sleep(1) 
 
-        except requests.exceptions.RequestException as e:
-            logging.error(f"Erro de rede na página {page_num}: {e}. Interrompendo.")
-            break
+                except requests.exceptions.RequestException as e:
+                    logging.error(f"Erro de rede na página {page_num}: {e}. Interrompendo.")
+                    break
         except Exception as e:
             logging.error(f"Ocorreu um erro inesperado na página {page_num}: {e}", exc_info=True)
             break
