@@ -419,3 +419,16 @@ Stacktrace:
 2025-07-19 22:11:13,685 - INFO - Dados do LinkedIn salvos com sucesso.
 2025-07-19 22:11:13,685 - INFO - Consolidando os dados coletados.
 2025-07-19 22:11:13,717 - INFO - Dados consolidados e salvos em 'vagas_consolidadas.csv'. Total de 333 vagas �nicas.
+2025-07-20 01:51:00,879 - INFO - Iniciando o scraping do Vagas.com.
+2025-07-20 01:51:00,879 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=1
+2025-07-20 01:51:02,700 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=2
+2025-07-20 01:51:04,202 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=3
+2025-07-20 01:51:05,818 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=4
+2025-07-20 01:51:07,369 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=5
+2025-07-20 01:51:08,931 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=6
+2025-07-20 01:51:10,492 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=7
+2025-07-20 01:51:12,052 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=8
+2025-07-20 01:51:13,660 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=9
+2025-07-20 01:51:13,870 - INFO - Nenhuma vaga encontrada na página 9. Fim do scraping.
+2025-07-20 01:51:13,873 - INFO - Extração concluída. 299 vagas válidas encontradas.
+2025-07-20 01:51:13,875 - INFO - Dados salvos com sucesso em 'vagas_consolidadas.csv'.
