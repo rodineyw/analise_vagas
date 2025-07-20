@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import logging
 import re
 from typing import Optional
@@ -43,8 +42,10 @@ def load_and_process_data() -> pd.DataFrame:
         df = pd.read_csv('vagas_consolidadas.csv')
         df['salario_valor'] = df['salario'].apply(clean_salary)
         df['regiao'] = df['uf'].apply(map_uf_to_regiao)
-        # Nova coluna cidade
-        df['cidade'] = df['localizacao'].apply(lambda x: str(x).split('-')[0].split('/')[0].split(',')[0].strip() if isinstance(x, str) else 'Não especificada')
+        # Nova coluna cidade: tenta extrair a cidade, mesmo se a string estiver bagunçada
+        df['cidade'] = df['localizacao'].apply(
+            lambda x: str(x).split('-')[0].split('/')[0].split(',')[0].strip() if isinstance(x, str) else 'Não especificada'
+        )
         return df
     except FileNotFoundError:
         st.error("Arquivo 'vagas_consolidadas.csv' não encontrado. Execute o scraper primeiro.")
@@ -97,18 +98,19 @@ if not df.empty:
 
     with colA:
         st.subheader("Distribuição de Vagas por UF")
-        vagas_por_uf = filtered_df['uf'].value_counts()
-        fig = px.bar(vagas_por_uf, x=vagas_por_uf.index, y=vagas_por_uf.values,
-                     labels={'x': 'UF', 'y': 'Quantidade de Vagas'}, text_auto=True)
+        vagas_por_uf = filtered_df['uf'].value_counts().reset_index()
+        vagas_por_uf.columns = ['UF', 'Quantidade']
+
+        fig = px.bar(vagas_por_uf, x='UF', y='Quantidade',
+                     labels={'UF': 'UF', 'Quantidade': 'Quantidade de Vagas'}, text_auto=True)
         st.plotly_chart(fig, use_container_width=True)
 
         st.subheader("Salário Médio por UF")
-        # salario_por_uf é uma Series: uf como index, média salarial como valor
-        salario_df = salario_por_uf.reset_index()
-        salario_df.columns = ['UF', 'Salario_Medio']
+        salario_por_uf = filtered_df.groupby('uf')['salario_valor'].mean().dropna().reset_index()
+        salario_por_uf.columns = ['UF', 'Salario_Medio']
 
         fig2 = px.bar(
-            salario_df,
+            salario_por_uf,
             x='UF',
             y='Salario_Medio',
             labels={'UF': 'UF', 'Salario_Medio': 'Salário Médio'},
@@ -116,18 +118,36 @@ if not df.empty:
         )
         st.plotly_chart(fig2, use_container_width=True)
 
-
         st.subheader("Top 5 Empresas que Mais Pagam (Média Salarial)")
-        top_empresas_salario = filtered_df.groupby('empresa')['salario_valor'].mean().dropna().sort_values(ascending=False).head(5)
-        fig4 = px.bar(top_empresas_salario, x=top_empresas_salario.values, y=top_empresas_salario.index,
-                      orientation='h', labels={'x': 'Salário Médio', 'y': 'Empresa'}, text_auto='.2f')
+        top_empresas_salario = (
+            filtered_df.groupby('empresa')['salario_valor']
+            .mean().dropna().sort_values(ascending=False).head(5).reset_index()
+        )
+        top_empresas_salario.columns = ['Empresa', 'Salario_Medio']
+
+        fig4 = px.bar(
+            top_empresas_salario,
+            x='Salario_Medio',
+            y='Empresa',
+            orientation='h',
+            labels={'Salario_Medio': 'Salário Médio', 'Empresa': 'Empresa'},
+            text_auto='.2f'
+        )
         st.plotly_chart(fig4, use_container_width=True)
 
     with colB:
-        st.subheader("Distribuição de Vagas por Cidade")
-        top_cidades = filtered_df['cidade'].value_counts().head(10)
-        fig3 = px.bar(top_cidades, x=top_cidades.values, y=top_cidades.index, orientation='h',
-                      labels={'x': 'Quantidade de Vagas', 'y': 'Cidade'}, text_auto=True)
+        st.subheader("Distribuição de Vagas por Cidade (Top 10)")
+        top_cidades = filtered_df['cidade'].value_counts().head(10).reset_index()
+        top_cidades.columns = ['Cidade', 'Quantidade']
+
+        fig3 = px.bar(
+            top_cidades,
+            x='Quantidade',
+            y='Cidade',
+            orientation='h',
+            labels={'Quantidade': 'Quantidade de Vagas', 'Cidade': 'Cidade'},
+            text_auto=True
+        )
         st.plotly_chart(fig3, use_container_width=True)
 
         st.subheader("Boxplot de Salários por UF")
@@ -141,7 +161,14 @@ if not df.empty:
 
         st.subheader("Modalidade da Vaga")
         modalidade = filtered_df['uf'].apply(lambda x: 'Remoto' if x == 'Remoto' else 'Presencial')
-        fig6 = px.pie(modalidade.value_counts(), values=modalidade.value_counts(), names=modalidade.value_counts().index, hole=.3)
+        modalidade_count = modalidade.value_counts().reset_index()
+        modalidade_count.columns = ['Modalidade', 'Quantidade']
+        fig6 = px.pie(
+            modalidade_count,
+            values='Quantidade',
+            names='Modalidade',
+            hole=.3
+        )
         st.plotly_chart(fig6, use_container_width=True)
 
     # --- Histograma dos salários (continua) ---
