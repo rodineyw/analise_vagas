@@ -21,7 +21,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # --- Constantes ---
-LINKEDIN_URL = "https://br.linkedin.com/jobs/search?keywords=analista%20de%20dados&location=Brasil&position=1&pageNum=0"
+LINKEDIN_URL = "https://www.linkedin.com/jobs/search/?currentJobId=4266438599&geoId=106057199&keywords=analista%20de%20dados&origin=JOB_SEARCH_PAGE_LOCATION_AUTOCOMPLETE&originalSubdomain=br&refresh=true"
 
 def fetch_linkedin_jobs():
     """

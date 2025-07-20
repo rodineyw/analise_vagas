@@ -373,3 +373,49 @@ Stacktrace:
 2025-07-19 19:48:44,257 - INFO - Dados do LinkedIn salvos com sucesso.
 2025-07-19 19:48:44,257 - INFO - Consolidando os dados coletados.
 2025-07-19 19:48:44,273 - INFO - Dados consolidados e salvos em 'vagas_consolidadas.csv'. Total de 338 vagas únicas.
+2025-07-19 22:10:29,350 - INFO - Iniciando o processo de coleta de todas as fontes.
+2025-07-19 22:10:29,350 - INFO - Iniciando o processo de web scraping multi-página para todo o Brasil.
+2025-07-19 22:10:29,350 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=1
+2025-07-19 22:10:30,082 - INFO - 40 vagas encontradas na página 1.
+2025-07-19 22:10:31,083 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=2
+2025-07-19 22:10:31,718 - INFO - 40 vagas encontradas na página 2.
+2025-07-19 22:10:32,728 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=3
+2025-07-19 22:10:33,656 - INFO - 40 vagas encontradas na página 3.
+2025-07-19 22:10:34,661 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=4
+2025-07-19 22:10:35,384 - INFO - 40 vagas encontradas na página 4.
+2025-07-19 22:10:36,385 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=5
+2025-07-19 22:10:37,039 - INFO - 40 vagas encontradas na página 5.
+2025-07-19 22:10:38,040 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=6
+2025-07-19 22:10:38,730 - INFO - 36 vagas encontradas na página 6.
+2025-07-19 22:10:39,735 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=7
+2025-07-19 22:10:40,527 - INFO - 40 vagas encontradas na página 7.
+2025-07-19 22:10:41,527 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=8
+2025-07-19 22:10:42,186 - INFO - 25 vagas encontradas na página 8.
+2025-07-19 22:10:43,191 - INFO - Buscando vagas na página: https://www.vagas.com.br/vagas-de-analista-de-dados?pagina=9
+2025-07-19 22:10:43,563 - INFO - Nenhuma vaga encontrada na página 9. Fim do scraping.
+2025-07-19 22:10:43,564 - INFO - Processamento final: 301 vagas totais encontradas.
+2025-07-19 22:10:43,570 - INFO - Após remoção de duplicatas, restaram 299 vagas únicas.
+2025-07-19 22:10:43,576 - INFO - Dados salvos com sucesso em 'vagas_brasil.csv'.
+2025-07-19 22:10:43,576 - INFO - Iniciando o scraping do LinkedIn com Selenium.
+2025-07-19 22:10:43,576 - INFO - ====== WebDriver manager ======
+2025-07-19 22:10:44,700 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-19 22:10:44,738 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-19 22:10:44,777 - INFO - Driver [C:\Users\rodin\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-19 22:10:47,409 - INFO - Página de login carregada. Tentando logar...
+2025-07-19 22:10:51,075 - INFO - Login realizado com sucesso!
+2025-07-19 22:10:53,879 - INFO - Página de busca de vagas carregada.
+2025-07-19 22:10:53,879 - INFO - Coletando vagas da página 1...
+2025-07-19 22:10:55,971 - INFO - Analisando 25 cards encontrados na página 1...
+2025-07-19 22:10:56,530 - INFO - Coletando vagas da página 2...
+2025-07-19 22:10:58,607 - INFO - Analisando 25 cards encontrados na página 2...
+2025-07-19 22:10:59,093 - INFO - Coletando vagas da página 3...
+2025-07-19 22:11:01,153 - INFO - Analisando 25 cards encontrados na página 3...
+2025-07-19 22:11:01,601 - INFO - Coletando vagas da página 4...
+2025-07-19 22:11:03,748 - INFO - Analisando 25 cards encontrados na página 4...
+2025-07-19 22:11:04,208 - INFO - Coletando vagas da página 5...
+2025-07-19 22:11:06,258 - INFO - Analisando 8 cards encontrados na página 5...
+2025-07-19 22:11:11,526 - INFO - Nenhum botão de próxima página encontrado. Fim da busca.
+2025-07-19 22:11:13,685 - INFO - Extração concluída. 34 vagas válidas encontradas no total.
+2025-07-19 22:11:13,685 - INFO - Dados do LinkedIn salvos com sucesso.
+2025-07-19 22:11:13,685 - INFO - Consolidando os dados coletados.
+2025-07-19 22:11:13,717 - INFO - Dados consolidados e salvos em 'vagas_consolidadas.csv'. Total de 333 vagas únicas.
