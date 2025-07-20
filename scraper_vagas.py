@@ -75,7 +75,7 @@ def fetch_vagas_jobs():
         for card in job_cards:
             title_element = card.find('h2', class_='cargo')
             company_element = card.find('span', class_='emprVaga')
-            location_element = card.find('span', class_='vaga-local')
+            location_element = card.find('div', class_='vaga-local')
             salary_element = card.find('span', class_='remuneracao')
 
             title = title_element.text.strip() if title_element else "N/A"
