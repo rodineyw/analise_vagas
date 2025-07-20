@@ -1,5 +1,6 @@
 # scraper_vagas.py
 import logging
+import re
 import time
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -24,6 +25,25 @@ logging.basicConfig(
 
 # --- Constantes ---
 BASE_URL = "https://www.vagas.com.br/vagas-de-analista-de-dados"
+
+
+ufs: set[str] = {'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'}
+
+def extrair_uf(location_raw: str) -> str:
+    """
+    Estrai a sigla da UF de qualquer localização ou retorna 'Remoto' ou 'Não especificada'.
+    """
+    if not isinstance(location_raw, str):
+        return "Não especificada"
+    txt = location_raw.lower()
+    if "remoto" in txt or "home office" in txt:
+        return "Remoto"
+    # Pega todas as possíveis UFs e retorna a primeira encontrada
+    candidates = re.findall(r"\b([A-Z]{2})\b", location_raw.upper())
+    for cand in candidates:
+        if cand in ufs:
+            return cand
+    return "Não especificada"
 
 def fetch_vagas_jobs():
     """
@@ -81,6 +101,7 @@ def fetch_vagas_jobs():
             title = title_element.text.strip() if title_element else "N/A"
             company = company_element.text.strip() if company_element else "N/A"
             location = location_element.text.strip() if location_element else "N/A"
+            uf: str = extrair_uf(location)
             salary = salary_element.text.strip() if salary_element else "A combinar"
 
             if title != "N/A":
@@ -88,6 +109,7 @@ def fetch_vagas_jobs():
                     'titulo': title,
                     'empresa': company,
                     'localizacao': location,
+                    'uf': uf,
                     'salario': salary,
                     'fonte': 'Vagas.com'
                 })
