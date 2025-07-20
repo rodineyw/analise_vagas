@@ -1,7 +1,6 @@
-# scraper.py
+# scraper_vagas.py
 import logging
 import time
-
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -17,14 +16,13 @@ logging.basicConfig(
 )
 
 # --- Constantes ---
-# URL alterada para buscar em todo o Brasil
 BASE_URL = "https://www.vagas.com.br/vagas-de-analista-de-dados"
 
-def fetch_jobs():
+def fetch_vagas_jobs():
     """
-    Busca dados de vagas em TODAS as páginas do site, processa e salva em um arquivo CSV.
+    Busca dados de vagas no Vagas.com, navegando por todas as páginas.
     """
-    logging.info("Iniciando o processo de web scraping multi-página para todo o Brasil.")
+    logging.info("Iniciando o scraping do Vagas.com.")
     
     all_jobs_list = []
     page_num = 1
@@ -43,24 +41,22 @@ def fetch_jobs():
 
             soup = BeautifulSoup(response.content, 'html.parser')
             
+            # Usando um seletor que captura 'vaga odd' e 'vaga even'
             job_cards = soup.find_all('li', class_='vaga')
             
             if not job_cards:
                 logging.info(f"Nenhuma vaga encontrada na página {page_num}. Fim do scraping.")
                 break
 
-            page_jobs_found = 0
             for card in job_cards:
                 title_element = card.find('h2', class_='cargo')
                 company_element = card.find('span', class_='emprVaga')
-                location_element = card.find('div', class_='vaga-local')
-                # NOVO: Seletor para o salário
+                location_element = card.find('span', class_='local')
                 salary_element = card.find('span', class_='remuneracao')
 
                 title = title_element.text.strip() if title_element else "N/A"
                 company = company_element.text.strip() if company_element else "N/A"
                 location = location_element.text.strip() if location_element else "N/A"
-                # NOVO: Extrai o texto do salário ou define como "A combinar"
                 salary = salary_element.text.strip() if salary_element else "A combinar"
 
                 if title != "N/A":
@@ -68,12 +64,10 @@ def fetch_jobs():
                         'titulo': title,
                         'empresa': company,
                         'localizacao': location,
-                        'salario': salary, # NOVO: Adiciona o salário na lista
-                        'data_coleta': pd.to_datetime('today').strftime('%Y-%m-%d')
+                        'salario': salary,
+                        'fonte': 'Vagas.com'
                     })
-                    page_jobs_found += 1
             
-            logging.info(f"{page_jobs_found} vagas encontradas na página {page_num}.")
             page_num += 1
             time.sleep(1) 
 
@@ -88,16 +82,11 @@ def fetch_jobs():
         logging.warning("Nenhuma vaga foi coletada no total.")
         return
 
-    logging.info(f"Processamento final: {len(all_jobs_list)} vagas totais encontradas.")
-
-    df = pd.DataFrame(all_jobs_list)
-    df.drop_duplicates(subset=['titulo', 'empresa', 'localizacao'], inplace=True)
+    df = pd.DataFrame(all_jobs_list).drop_duplicates()
+    logging.info(f"Extração concluída. {len(df)} vagas válidas encontradas.")
     
-    logging.info(f"Após remoção de duplicatas, restaram {len(df)} vagas únicas.")
-    
-    df.to_csv('vagas_brasil.csv', index=False, encoding='utf-8')
-    logging.info("Dados salvos com sucesso em 'vagas_brasil.csv'.")
-
+    df.to_csv('vagas_consolidadas.csv', index=False, encoding='utf-8')
+    logging.info("Dados salvos com sucesso em 'vagas_consolidadas.csv'.")
 
 if __name__ == '__main__':
-    fetch_jobs()
+    fetch_vagas_jobs()
