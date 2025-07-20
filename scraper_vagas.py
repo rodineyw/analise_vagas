@@ -1,6 +1,5 @@
 # scraper_vagas.py
 import logging
-import re
 import time
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -11,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
+from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException, WebDriverException
 
 # --- Configuração do Logging ---
 logging.basicConfig(
@@ -26,25 +25,6 @@ logging.basicConfig(
 # --- Constantes ---
 BASE_URL = "https://www.vagas.com.br/vagas-de-analista-de-dados"
 
-
-ufs: set[str] = {'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'}
-
-def extrair_uf(location_raw: str) -> str:
-    """
-    Estrai a sigla da UF de qualquer localização ou retorna 'Remoto' ou 'Não especificada'.
-    """
-    if not isinstance(location_raw, str):
-        return "Não especificada"
-    txt = location_raw.lower()
-    if "remoto" in txt or "home office" in txt:
-        return "Remoto"
-    # Pega todas as possíveis UFs e retorna a primeira encontrada
-    candidates = re.findall(r"\b([A-Z]{2})\b", location_raw.upper())
-    for cand in candidates:
-        if cand in ufs:
-            return cand
-    return "Não especificada"
-
 def fetch_vagas_jobs():
     """
     Busca dados de vagas no Vagas.com usando Selenium para clicar em "Carregar mais vagas".
@@ -56,13 +36,14 @@ def fetch_vagas_jobs():
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
     chrome_options.page_load_strategy = 'eager'
 
     service = ChromeService(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     
-    driver.set_page_load_timeout(30)
+    driver.set_page_load_timeout(60)
     
     all_jobs_list = []
     
@@ -73,21 +54,31 @@ def fetch_vagas_jobs():
         # --- Lógica para clicar em "Carregar mais vagas" ---
         while True:
             try:
-                # Espera o botão estar visível e clicável
                 load_more_button = WebDriverWait(driver, 10).until(
                     EC.element_to_be_clickable((By.ID, "maisVagas"))
                 )
-                driver.execute_script("arguments[0].click();", load_more_button)
-                logging.info("Botão 'Carregar mais vagas' clicado.")
-                WebDriverWait # Espera o conteúdo carregar
                 
+                retries = 3
+                for i in range(retries):
+                    try:
+                        driver.execute_script("arguments[0].click();", load_more_button)
+                        logging.info("Botão 'Carregar mais vagas' clicado.")
+                        time.sleep(2) 
+                        break 
+                    except WebDriverException as e:
+                        if "timed out" in str(e) and i < retries - 1:
+                            logging.warning(f"Comando de clique expirou. Tentando novamente ({i+1}/{retries})...")
+                            time.sleep(3)
+                        else:
+                            raise 
+
             except TimeoutException:
                 logging.info("Botão 'Carregar mais vagas' não encontrado. Todas as vagas foram carregadas.")
-                break # Sai do loop se o botão não for mais encontrado
+                break 
             except ElementClickInterceptedException:
                 logging.warning("Clique interceptado, rolando a página para tentar novamente.")
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                WebDriverWait
+                time.sleep(1)
 
         # --- Extração dos dados após carregar tudo ---
         logging.info("Extraindo dados de todas as vagas carregadas...")
@@ -100,28 +91,24 @@ def fetch_vagas_jobs():
             title_element = card.find('h2', class_='cargo')
             company_element = card.find('span', class_='emprVaga')
             location_element = card.find('div', class_='vaga-local')
-            salary_element = card.find('span', class_='remuneracao')
+            # REMOVIDO: Coleta de salário
 
             title = title_element.text.strip() if title_element else "N/A"
             company = company_element.text.strip() if company_element else "N/A"
             location = location_element.text.strip() if location_element else "N/A"
-            uf: str = extrair_uf(location)
-            salary = salary_element.text.strip() if salary_element else "A combinar"
 
             if title != "N/A":
                 all_jobs_list.append({
                     'titulo': title,
                     'empresa': company,
                     'localizacao': location,
-                    'uf': uf,
-                    'salario': salary,
                     'fonte': 'Vagas.com'
                 })
 
     except Exception as e:
         logging.error(f"Ocorreu um erro inesperado durante o scraping: {e}", exc_info=True)
     finally:
-        driver.quit() # Garante que o navegador seja fechado
+        driver.quit() 
 
     if not all_jobs_list:
         logging.warning("Nenhuma vaga foi coletada no total.")
