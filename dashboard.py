@@ -1,9 +1,10 @@
-# dashboard.py
-import streamlit as st
-import pandas as pd
-import plotly.express as px
+# dashboard_brasil.py
 import logging
 import re
+
+import pandas as pd
+import plotly.express as px
+import streamlit as st
 
 # --- Configuração da Página e Logging ---
 st.set_page_config(layout="wide", page_title="Dashboard de Vagas de Dados - Brasil")
@@ -16,6 +17,9 @@ def get_region_from_location(location_str):
     if not isinstance(location_str, str):
         return "Não especificada"
     
+    # --- CORREÇÃO APLICADA AQUI ---
+    # Normaliza a string, trocando " / " por " - " para padronizar o separador.
+    # Isso garante que "Rio de Janeiro / RJ" seja processado corretamente.
     normalized_location = location_str.replace(" / ", " - ")
 
     if " - " not in normalized_location:
@@ -41,6 +45,7 @@ def clean_salary(salary_str):
     if not isinstance(salary_str, str) or "R$" not in salary_str:
         return None
     
+    # Pega apenas o primeiro número encontrado na string para simplificar
     numbers = re.findall(r'\d+\.?\d*', salary_str.replace('.', '').replace(',', '.'))
     if numbers:
         return float(numbers[0])
@@ -61,7 +66,7 @@ def load_and_process_data():
 
 # --- Layout do Dashboard ---
 
-st.title("📊 Dashboard de Vagas de Dados no Brasil (Vagas.com)")
+st.title("🇧🇷 Dashboard de Vagas de Dados no Brasil")
 df = load_and_process_data()
 
 if not df.empty:
@@ -74,16 +79,17 @@ if not df.empty:
         default=all_regions
     )
     
+    # Filtra o DataFrame com base na seleção
     filtered_df = df[df['regiao'].isin(selected_regions)]
 
-    # --- KPIs ---
+    # --- KPIs Principais ---
     total_vagas = len(filtered_df)
     vagas_com_salario = filtered_df['salario_valor'].notna().sum()
     media_salarial = filtered_df['salario_valor'].mean()
 
     col1, col2, col3 = st.columns(3)
     col1.metric("Total de Vagas", f"{total_vagas}")
-    col2.metric("Vagas com Salário", f"{vagas_com_salario}")
+    col2.metric("Vagas com Salário Informado", f"{vagas_com_salario}")
     col3.metric("Média Salarial (R$)", f"{media_salarial:,.2f}" if vagas_com_salario > 0 else "N/A")
     
     st.markdown("---")
@@ -94,6 +100,8 @@ if not df.empty:
     with col1:
         st.subheader("Top 10 Empresas Contratando")
         top_empresas = filtered_df['empresa'].value_counts().nlargest(10)
+        # --- CORREÇÃO APLICADA AQUI ---
+        # Removemos 'top_empresas' como primeiro argumento para evitar o conflito.
         fig = px.bar(x=top_empresas.values, y=top_empresas.index, orientation='h', text_auto=True)
         fig.update_layout(yaxis={'categoryorder':'total ascending'}, xaxis_title="Quantidade de Vagas", yaxis_title="Empresa")
         st.plotly_chart(fig, use_container_width=True)
@@ -115,3 +123,8 @@ if not df.empty:
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.info("Nenhuma vaga com salário informado para a seleção atual.")
+
+    # --- Tabela de Dados ---
+    st.markdown("---")
+    st.subheader("Dados Brutos")
+    st.dataframe(filtered_df)
