@@ -2,6 +2,8 @@
 import logging
 import time
 import pandas as pd
+import requests # Importa a biblioteca requests
+import re # Importa a biblioteca de expressões regulares
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -27,7 +29,7 @@ BASE_URL = "https://www.vagas.com.br/vagas-de-analista-de-dados"
 
 def fetch_vagas_jobs():
     """
-    Busca dados de vagas no Vagas.com usando Selenium para clicar em "Carregar mais vagas".
+    Busca dados de vagas no Vagas.com, clica em "Carregar mais" e depois visita cada vaga para extrair a descrição completa.
     """
     logging.info("Iniciando o scraping do Vagas.com com Selenium.")
     
@@ -51,37 +53,25 @@ def fetch_vagas_jobs():
         driver.get(BASE_URL)
         logging.info("Página do Vagas.com carregada.")
 
-        # --- Lógica para clicar em "Carregar mais vagas" ---
+        # --- Etapa 1: Carregar todas as vagas na página principal ---
         while True:
             try:
                 load_more_button = WebDriverWait(driver, 10).until(
-                    EC.element_to_be_clickable((By.ID, "maisVagas"))
+                    EC.element_to_be_clickable((By.ID, "btn-carregar-mais"))
                 )
-                
-                retries = 3
-                for i in range(retries):
-                    try:
-                        driver.execute_script("arguments[0].click();", load_more_button)
-                        logging.info("Botão 'Carregar mais vagas' clicado.")
-                        time.sleep(2) 
-                        break 
-                    except WebDriverException as e:
-                        if "timed out" in str(e) and i < retries - 1:
-                            logging.warning(f"Comando de clique expirou. Tentando novamente ({i+1}/{retries})...")
-                            time.sleep(3)
-                        else:
-                            raise 
-
+                driver.execute_script("arguments[0].click();", load_more_button)
+                logging.info("Botão 'Carregar mais vagas' clicado.")
+                time.sleep(2) 
             except TimeoutException:
                 logging.info("Botão 'Carregar mais vagas' não encontrado. Todas as vagas foram carregadas.")
                 break 
-            except ElementClickInterceptedException:
-                logging.warning("Clique interceptado, rolando a página para tentar novamente.")
+            except (ElementClickInterceptedException, WebDriverException):
+                logging.warning("Clique falhou, tentando rolar a página.")
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(1)
 
-        # --- Extração dos dados após carregar tudo ---
-        logging.info("Extraindo dados de todas as vagas carregadas...")
+        # --- Etapa 2: Extrair links e visitar cada página de detalhe ---
+        logging.info("Extraindo dados e links de todas as vagas carregadas...")
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         
         job_cards = soup.find_all('li', class_='vaga')
@@ -91,19 +81,42 @@ def fetch_vagas_jobs():
             title_element = card.find('h2', class_='cargo')
             company_element = card.find('span', class_='emprVaga')
             location_element = card.find('div', class_='vaga-local')
-            # REMOVIDO: Coleta de salário
+            link_element = card.find('a', class_='link-detalhes-vaga')
 
             title = title_element.text.strip() if title_element else "N/A"
             company = company_element.text.strip() if company_element else "N/A"
             location = location_element.text.strip() if location_element else "N/A"
+            
+            if title == "N/A" or not link_element:
+                continue
 
-            if title != "N/A":
-                all_jobs_list.append({
-                    'titulo': title,
-                    'empresa': company,
-                    'localizacao': location,
-                    'fonte': 'Vagas.com'
-                })
+            # Extrai o UF da localização
+            uf = "Remoto"
+            if "home office" not in location.lower() and "remoto" not in location.lower() and isinstance(location, str):
+                uf_search = re.search(r'\b([A-Z]{2})\b', location)
+                uf = uf_search.group(1) if uf_search else "N/A"
+
+            # --- Visita a página de detalhes para pegar a descrição ---
+            job_url = "https://www.vagas.com.br" + link_element['href']
+            description = "Descrição não encontrada"
+            try:
+                job_page_response = requests.get(job_url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=10)
+                job_soup = BeautifulSoup(job_page_response.content, 'html.parser')
+                description_element = job_soup.find('div', class_='job-description__text')
+                if description_element:
+                    description = description_element.get_text(separator='\n').strip()
+                time.sleep(0.5) # Pausa para não sobrecarregar o servidor
+            except Exception as e:
+                logging.warning(f"Não foi possível buscar a descrição da vaga {title}: {e}")
+
+            all_jobs_list.append({
+                'titulo': title,
+                'empresa': company,
+                'localizacao': location,
+                'uf': uf,
+                'descricao': description, # Adiciona a descrição completa
+                'fonte': 'Vagas.com'
+            })
 
     except Exception as e:
         logging.error(f"Ocorreu um erro inesperado durante o scraping: {e}", exc_info=True)
@@ -114,7 +127,7 @@ def fetch_vagas_jobs():
         logging.warning("Nenhuma vaga foi coletada no total.")
         return
 
-    df = pd.DataFrame(all_jobs_list).drop_duplicates()
+    df = pd.DataFrame(all_jobs_list).drop_duplicates(subset=['titulo', 'empresa', 'localizacao'])
     logging.info(f"Extração concluída. {len(df)} vagas válidas encontradas.")
     
     df.to_csv('vagas_consolidadas.csv', index=False, encoding='utf-8')

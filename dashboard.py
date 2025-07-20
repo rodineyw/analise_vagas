@@ -42,7 +42,6 @@ def map_uf_to_regiao(uf: str) -> str:
     if uf == "Remoto": return "Remoto"
     return "Não especificada"
 
-# NOVA ANÁLISE: Função para extrair a senioridade do título da vaga
 def get_seniority_from_title(title_str: str) -> str:
     """Extrai o nível de senioridade a partir do título da vaga."""
     title_lower = title_str.lower()
@@ -63,12 +62,10 @@ def load_and_process_data() -> pd.DataFrame:
     """Carrega e processa os dados do CSV, adicionando as novas colunas de análise."""
     try:
         df = pd.read_csv('vagas_consolidadas.csv')
-        # REMOVIDO: Processamento de salário
         df['regiao'] = df['uf'].apply(map_uf_to_regiao)
         df['cidade'] = df['localizacao'].apply(
             lambda x: str(x).split('-')[0].split('/')[0].split(',')[0].strip() if isinstance(x, str) else 'Não especificada'
         )
-        # ADICIONADO: Processamento de senioridade
         df['senioridade'] = df['titulo'].apply(get_seniority_from_title)
         return df
     except FileNotFoundError:
@@ -83,7 +80,10 @@ df: pd.DataFrame = load_and_process_data()
 if not df.empty:
     with st.sidebar:
         st.header("🎛️ Filtros Avançados")
-        all_ufs = sorted(df['uf'].unique())
+        # --- CORREÇÃO APLICADA AQUI ---
+        # Converte a coluna 'uf' para string antes de obter os valores únicos e ordenar.
+        # Isso evita o erro de tipo misto (float e str).
+        all_ufs = sorted(df['uf'].astype(str).unique())
         all_regioes = sorted(df['regiao'].unique())
         all_empresas = sorted(df['empresa'].unique())
 
@@ -98,7 +98,7 @@ if not df.empty:
     if selected_empresas:
         filtered_df = filtered_df[filtered_df['empresa'].isin(selected_empresas)]
 
-    # KPIs simplificados, sem salário
+    # KPIs
     total_vagas = len(filtered_df)
     total_remoto = (filtered_df['uf'] == 'Remoto').sum()
     empresas_unicas = filtered_df['empresa'].nunique()
@@ -122,7 +122,6 @@ if not df.empty:
         fig = px.bar(vagas_por_uf, x='UF', y='Quantidade', text_auto=True, template="seaborn", color='Quantidade', color_continuous_scale='Blues')
         st.plotly_chart(fig, use_container_width=True)
 
-        # NOVA ANÁLISE: Gráfico de Senioridade
         st.subheader("👔 Vagas por Senioridade")
         seniority_counts = filtered_df['senioridade'].value_counts().reset_index()
         seniority_counts.columns = ['Senioridade', 'Quantidade']
@@ -136,13 +135,15 @@ if not df.empty:
         fig3 = px.bar(top_cidades, x='Quantidade', y='Cidade', orientation='h', text_auto=True, template="seaborn", color='Quantidade', color_continuous_scale='Greens')
         st.plotly_chart(fig3, use_container_width=True)
 
-        # NOVA ANÁLISE: Gráfico de Palavras-chave
+        # ANÁLISE CORRIGIDA: Usa a coluna 'descricao' para a contagem de palavras-chave
         st.subheader("🛠️ Tecnologias em Destaque")
         keywords = {
             'Power BI': 'power bi|powerbi|pbi', 'Excel': 'excel', 'SQL': 'sql', 
             'Python': 'python', 'Tableau': 'tableau', 'Cloud': 'aws|azure|gcp|cloud'
         }
-        keyword_counts = {key: filtered_df['titulo'].str.contains(val, case=False).sum() for key, val in keywords.items()}
+        # Garante que a coluna 'descricao' seja do tipo string para evitar erros
+        descriptions = filtered_df['descricao'].astype(str)
+        keyword_counts = {key: descriptions.str.contains(val, case=False).sum() for key, val in keywords.items()}
         df_keywords = pd.DataFrame(list(keyword_counts.items()), columns=['Tecnologia', 'Quantidade']).sort_values('Quantidade', ascending=False)
         
         fig_keywords = px.bar(df_keywords, x='Quantidade', y='Tecnologia', orientation='h', text_auto=True, template="seaborn", color='Quantidade', color_continuous_scale='Purples')
@@ -150,5 +151,4 @@ if not df.empty:
 
     st.markdown("---")
     with st.expander("🗃️ Ver tabela completa de dados"):
-        # Exibe a tabela sem as colunas de salário
-        st.dataframe(filtered_df.drop(columns=['fonte'], errors='ignore'), use_container_width=True)
+        st.dataframe(filtered_df.drop(columns=['fonte', 'descricao'], errors='ignore'), use_container_width=True)
