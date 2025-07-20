@@ -139,7 +139,11 @@ if not df.empty:
         st.subheader("🛠️ Tecnologias em Destaque")
         keywords = {
             'Power BI': 'power bi|powerbi|pbi', 'Excel': 'excel', 'SQL': 'sql', 
-            'Python': 'python', 'Tableau': 'tableau', 'Cloud': 'aws|azure|gcp|cloud'
+            'Python': 'python', 'Tableau': 'tableau', 'Cloud': 'aws|azure|gcp|cloud',
+            'DataBricks': 'databricks', 'Spark': 'spark', 'Looker': 'looker',
+            'R': 'r', 'Machine Learning': 'machine learning|ml', 'Big Data': 'big data|bigdata',
+            'ETL': 'etl|extração transformação carga', 'BI': 'bi|business intelligence',
+            'Data Science': 'data science|ciência de dados', 'Data Analyst': 'analista de dados|data analyst'
         }
         # Garante que a coluna 'descricao' seja do tipo string para evitar erros
         descriptions = filtered_df['descricao'].astype(str)

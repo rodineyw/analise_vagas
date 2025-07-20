@@ -137,8 +137,3 @@ def fetch_vagas_jobs():
 
 if __name__ == '__main__':
     fetch_vagas_jobs()
-    df.to_csv('vagas_consolidadas.csv', index=False, encoding='utf-8')
-    logging.info("Dados salvos com sucesso em 'vagas_consolidadas.csv'.")
-
-if __name__ == '__main__':
-    fetch_vagas_jobs()
