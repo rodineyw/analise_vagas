@@ -35,7 +35,7 @@ jobs:
           git config --global user.email "actions-bot@github.com"
           git pull
           
-          git add vagas_consolidadas.csv scraper.log
+          git add vagas_consolidadas.csv 
           
           if ! git diff --staged --quiet; then
             git commit -m "CHORE: Atualiza dados de vagas do Vagas.com (`date`)"
