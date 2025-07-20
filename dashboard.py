@@ -1,9 +1,10 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
 import logging
 import re
 from typing import Optional
+
+import pandas as pd
+import plotly.express as px
+import streamlit as st
 
 st.set_page_config(layout="wide", page_title="Dashboard de Vagas de Dados - Brasil", page_icon="📊")
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -38,12 +39,18 @@ def map_uf_to_regiao(uf: str) -> str:
     centro_oeste = ['MT', 'MS', 'GO', 'DF']
     nordeste = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
     norte = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
-    if uf in sudeste: return "Sudeste"
-    if uf in sul: return "Sul"
-    if uf in centro_oeste: return "Centro-Oeste"
-    if uf in nordeste: return "Nordeste"
-    if uf in norte: return "Norte"
-    if uf == "Remoto": return "Remoto"
+    if uf in sudeste: 
+        return "Sudeste"
+    if uf in sul: 
+        return "Sul"
+    if uf in centro_oeste: 
+        return "Centro-Oeste"
+    if uf in nordeste: 
+        return "Nordeste"
+    if uf in norte: 
+        return "Norte"
+    if uf == "Remoto": 
+        return "Remoto"
     return "Não especificada"
 
 @st.cache_data
@@ -61,7 +68,7 @@ def load_and_process_data() -> pd.DataFrame:
         return pd.DataFrame()
 
 st.title("📊 Dashboard de Vagas de Dados (Vagas.com)")
-st.caption("Um dashboard dinâmico, visual e responsivo — estilo Power BI, mas em Python! 😎")
+st.caption("Dados atualizado diariamente.")
 
 df = load_and_process_data()
 
