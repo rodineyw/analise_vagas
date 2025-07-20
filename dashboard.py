@@ -23,12 +23,18 @@ def map_uf_to_regiao(uf: str) -> str:
     centro_oeste = ['MT', 'MS', 'GO', 'DF']
     nordeste = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
     norte = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
-    if uf in sudeste: return "Sudeste"
-    if uf in sul: return "Sul"
-    if uf in centro_oeste: return "Centro-Oeste"
-    if uf in nordeste: return "Nordeste"
-    if uf in norte: return "Norte"
-    if uf == "Remoto": return "Remoto"
+    if uf in sudeste: 
+        return "Sudeste"
+    if uf in sul: 
+        return "Sul"
+    if uf in centro_oeste: 
+        return "Centro-Oeste"
+    if uf in nordeste: 
+        return "Nordeste"
+    if uf in norte: 
+        return "Norte"
+    if uf == "Remoto": 
+        return "Remoto"
     return "Não especificada"
 
 @st.cache_data
@@ -97,10 +103,19 @@ if not df.empty:
         st.plotly_chart(fig, use_container_width=True)
 
         st.subheader("Salário Médio por UF")
-        salario_por_uf = filtered_df.groupby('uf')['salario_valor'].mean().dropna()
-        fig2 = px.bar(salario_por_uf, x=salario_por_uf.index, y=salario_por_uf.values,
-                      labels={'x': 'UF', 'y': 'Salário Médio'}, text_auto='.2f')
+        # salario_por_uf é uma Series: uf como index, média salarial como valor
+        salario_df = salario_por_uf.reset_index()
+        salario_df.columns = ['UF', 'Salario_Medio']
+
+        fig2 = px.bar(
+            salario_df,
+            x='UF',
+            y='Salario_Medio',
+            labels={'UF': 'UF', 'Salario_Medio': 'Salário Médio'},
+            text_auto='.2f'
+        )
         st.plotly_chart(fig2, use_container_width=True)
+
 
         st.subheader("Top 5 Empresas que Mais Pagam (Média Salarial)")
         top_empresas_salario = filtered_df.groupby('empresa')['salario_valor'].mean().dropna().sort_values(ascending=False).head(5)
