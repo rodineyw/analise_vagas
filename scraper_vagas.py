@@ -76,14 +76,15 @@ def fetch_vagas_jobs():
                 )
                 driver.execute_script("arguments[0].click();", load_more_button)
                 logging.info("Botão 'Carregar mais vagas' clicado.")
-                time.sleep(2) # Espera o conteúdo carregar
+                WebDriverWait # Espera o conteúdo carregar
+                
             except TimeoutException:
                 logging.info("Botão 'Carregar mais vagas' não encontrado. Todas as vagas foram carregadas.")
                 break # Sai do loop se o botão não for mais encontrado
             except ElementClickInterceptedException:
                 logging.warning("Clique interceptado, rolando a página para tentar novamente.")
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(1)
+                WebDriverWait
 
         # --- Extração dos dados após carregar tudo ---
         logging.info("Extraindo dados de todas as vagas carregadas...")
