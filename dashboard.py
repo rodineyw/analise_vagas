@@ -34,12 +34,18 @@ def map_uf_to_regiao(uf: str) -> str:
     centro_oeste = ['MT', 'MS', 'GO', 'DF']
     nordeste = ['BA', 'SE', 'AL', 'PE', 'PB', 'RN', 'CE', 'PI', 'MA']
     norte = ['AM', 'RR', 'AP', 'PA', 'TO', 'RO', 'AC']
-    if uf in sudeste: return "Sudeste"
-    if uf in sul: return "Sul"
-    if uf in centro_oeste: return "Centro-Oeste"
-    if uf in nordeste: return "Nordeste"
-    if uf in norte: return "Norte"
-    if uf == "Remoto": return "Remoto"
+    if uf in sudeste: 
+        return "Sudeste"
+    if uf in sul: 
+        return "Sul"
+    if uf in centro_oeste: 
+        return "Centro-Oeste"
+    if uf in nordeste: 
+        return "Nordeste"
+    if uf in norte: 
+        return "Norte"
+    if uf == "Remoto": 
+        return "Remoto"
     return "Não especificada"
 
 def get_seniority_from_title(title_str: str) -> str:
