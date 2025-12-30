@@ -61,34 +61,6 @@ Salário:
 R$ 5.080,00
 Benefícios: 
 Vale transporte/combustível, Vale refeição/alimentação (R$ 595,00), Plano de Saúde, Plano odontológico, seguro de vida, clube de benefícios.",Vagas.com
-Analista de Dados,Bom Futuro,"Cuiabá / MT
-              
-
-
-
-                      A empresa aceita candidaturas de qualquer cidade do Brasil",MT,"Descrição
-: 
-Ensino superior completo em áreas como: Administração, Estatística, Engenharia, Ciência da Computação, Sistemas de Informação ou áreas correlatas;
-* Conhecimento em SQL e ferramentas de banco de dados.
-* Domínio de Excel avançado (tabelas dinâmicas, funções, validações e organização de bases).
-* Experiência com ferramentas de visualização (Power BI, Qlik Sense).
-* Noções de estatística descritiva e análise de indicadores (desejável).
-* Entendimento conceitual de camadas de dados, e governança de métricas (desejável).
-* Entendimento de ETL e integração entre sistemas;
-PRINCIPAIS RESPONSABILIDADES:
-* Analisar dashboards e relatórios já existentes, validando coerência dos indicadores e identificando variações relevantes.
-* Correlacionar dados e KPIs entre diferentes visões e áreas, conectando resultados com os processos do negócio.
-* Desenvolver e manter dashboards, indicadores (KPIs) e relatórios gerenciais com base em dados já prontos ou consultas SQL.
-* Realizar consultas em SQL para exploração, conferência e extração de informações necessárias às análises (joins, filtros, agregações).
-* Executar análises em Excel avançado, utilizando tabelas dinâmicas, validações e estruturação de bases para entendimento do cenário.
-* Identificar padrões, tendências e desvios, levantando hipóteses e apontando oportunidades de melhoria.
-* Apoiar áreas internas com insights orientados a dados, traduzindo necessidades do negócio em análises e visualizações.
-* Garantir consistência e qualidade dos números apresentados nos painéis, sinalizando divergências e acionando responsáveis quando houver inconsistência na origem dos dados.
-* Documentar indicadores, premissas, regras de negócio e definições utilizadas nos dashboards e relatórios.
-* Colaborar com áreas de Operações, Logística, Processos, TI, Pessoas, etc., para entendimento dos processos e melhor interpretação dos dados.
-Outros requisitos
-: 
-Analisar, interpretar e transformar dados estruturados em informações relevantes para apoiar a tomada de decisão. Atua na leitura crítica de dashboards e relatórios, validando a consistência dos indicadores e correlacionando resultados com os processos do negócio para identificar tendências, riscos e oportunidades de melhoria. Realiza consultas em SQL, análises em Excel e desenvolve dashboards e relatórios gerenciais com base em dados já disponíveis.",Vagas.com
 Analista de Dados Pleno,Fundação São Francisco Xavier,"Ipatinga / MG
               
 
@@ -147,6 +119,34 @@ Dados da vaga:
 Horário: 08h00 às 17h16
 Local: Ipatinga ou Belo Horizonte (MG) | Santos ou São Paulo (SP)
 Modelo de trabalho: Híbrido (3 dias presenciais e 2 dias home office)",Vagas.com
+Analista de Dados,Bom Futuro,"Cuiabá / MT
+              
+
+
+
+                      A empresa aceita candidaturas de qualquer cidade do Brasil",MT,"Descrição
+: 
+Ensino superior completo em áreas como: Administração, Estatística, Engenharia, Ciência da Computação, Sistemas de Informação ou áreas correlatas;
+* Conhecimento em SQL e ferramentas de banco de dados.
+* Domínio de Excel avançado (tabelas dinâmicas, funções, validações e organização de bases).
+* Experiência com ferramentas de visualização (Power BI, Qlik Sense).
+* Noções de estatística descritiva e análise de indicadores (desejável).
+* Entendimento conceitual de camadas de dados, e governança de métricas (desejável).
+* Entendimento de ETL e integração entre sistemas;
+PRINCIPAIS RESPONSABILIDADES:
+* Analisar dashboards e relatórios já existentes, validando coerência dos indicadores e identificando variações relevantes.
+* Correlacionar dados e KPIs entre diferentes visões e áreas, conectando resultados com os processos do negócio.
+* Desenvolver e manter dashboards, indicadores (KPIs) e relatórios gerenciais com base em dados já prontos ou consultas SQL.
+* Realizar consultas em SQL para exploração, conferência e extração de informações necessárias às análises (joins, filtros, agregações).
+* Executar análises em Excel avançado, utilizando tabelas dinâmicas, validações e estruturação de bases para entendimento do cenário.
+* Identificar padrões, tendências e desvios, levantando hipóteses e apontando oportunidades de melhoria.
+* Apoiar áreas internas com insights orientados a dados, traduzindo necessidades do negócio em análises e visualizações.
+* Garantir consistência e qualidade dos números apresentados nos painéis, sinalizando divergências e acionando responsáveis quando houver inconsistência na origem dos dados.
+* Documentar indicadores, premissas, regras de negócio e definições utilizadas nos dashboards e relatórios.
+* Colaborar com áreas de Operações, Logística, Processos, TI, Pessoas, etc., para entendimento dos processos e melhor interpretação dos dados.
+Outros requisitos
+: 
+Analisar, interpretar e transformar dados estruturados em informações relevantes para apoiar a tomada de decisão. Atua na leitura crítica de dashboards e relatórios, validando a consistência dos indicadores e correlacionando resultados com os processos do negócio para identificar tendências, riscos e oportunidades de melhoria. Realiza consultas em SQL, análises em Excel e desenvolve dashboards e relatórios gerenciais com base em dados já disponíveis.",Vagas.com
 Analista de Ciências de Dados,Inspirali,"São Paulo / SP
               
 
@@ -461,16 +461,15 @@ Analista de Dados (VAGA Extensiva para Pessoas com Deficiência),Concremat,"Cana
 
                       A empresa aceita candidaturas de qualquer cidade do Brasil",PA,"Descrição
 : 
-Somos a Concremat
-, uma
- plataforma de integração do grupo CCCC,
- que conecta o Brasil e a América Latina a uma rede global de especialistas. Mais do que fornecer soluções técnicas de engenharia, somos protagonistas na construção e viabilização de grandes projetos, sempre em parceria com nossas empresas-irmãs. Nosso propósito é claro: criar um futuro compartilhado, pautado no crescimento sustentável e na colaboração entre mercados, pessoas e tecnologias.
+Somos a Concremat,
+ uma 
+plataforma de integração do grupo CCCC
+, que conecta o Brasil e a América Latina a uma rede global de especialistas. Mais do que fornecer soluções técnicas de engenharia, somos protagonistas na construção e viabilização de grandes projetos, sempre em parceria com nossas empresas-irmãs. Nosso propósito é claro: criar um futuro compartilhado, pautado no crescimento sustentável e na colaboração entre mercados, pessoas e tecnologias.
 Atuamos em 15 países e mais de 200 localidades
 , ampliando constantemente nossa presença e impacto. Com uma abordagem que une inovação e experiência, proporcionamos soluções eficientes e integradas para os desafios da engenharia e infraestrutura. Nosso compromisso é fortalecer o desenvolvimento regional, promovendo conexões estratégicas entre diferentes mercados e culturas, sempre com foco na excelência e na responsabilidade socioambiental.
 Se você busca desafios globais, inovação contínua e um ambiente colaborativo, a Concremat é o lugar certo para você. Aqui, cada profissional faz parte de um ecossistema que transforma realidades e impulsiona o futuro. Venha construir esse legado conosco!
 Vem ser Concremat!
-Estamos em busca de pessoas para atuar como 
-Analista de Dados
+Estamos em busca de pessoas para atuar como Analista de Dados
 Requisitos da Vaga
 
 
@@ -529,12 +528,12 @@ Canaã dos Carajás / PA
 Modelo de trabalho: 
 100% presencial.
 A Concremat 
-acredita que a diversidade impulsiona a inovação e melhora nossos produtos e serviços. Promover a equidade e a inclusão gera novas ideias e contribui para uma sociedade mais justa. Nosso compromisso com as pessoas reflete diretamente na satisfação dos colaboradores, 
-resultando em uma nota de 4,3 no Glassdoor.
+acredita que a diversidade impulsiona a inovação e melhora nossos produtos e serviços. Promover a equidade e a inclusão gera novas ideias e contribui para uma sociedade mais justa. Nosso compromisso com as pessoas reflete diretamente na satisfação dos colaboradores,
+ resultando em uma nota de 4,3 no Glassdoor.
 Buscamos criar um ambiente onde todos possam ser autênticos, valorizados por seu talento e potencial. Por isso, incentivamos candidaturas de diferentes gêneros, raças, religiões, idades, orientações sexuais, nacionalidades e pessoas com deficiência.
 Se você acredita no seu potencial, candidate-se, mesmo que não atenda a todos os requisitos. 
 Queremos talentos dispostos a crescer com a gente!",Vagas.com
-Analista de Gestão de Dados - Vaga Afirmativa Também para o Público Pcd,Confidencial,"Cuiabá / MT
+Analista de Gestão de Dados - Vaga Afirmativa Também para o Público Pcd - 99721,Manpower,"Cuiabá / MT
               
 
 
@@ -557,7 +556,7 @@ Conhecimentos avançados em Excel (tabelas dinâmicas, macros, VBA, Power Pivot)
 Experiência em linguagens de programação aplicadas a automação e análise de dados (Python, R, SQL, ou similares);
 Pacote Office intermediário.
 #BusinessIntelligence #AnáliseDeDados #Relatórios #AutomaçãoDeProcessos #GestãoDaInformação #VagasManpower",Vagas.com
-Analista de Gestão de Dados - Vaga Afirmativa Também para o Público Pcd - 99721,Manpower,"Cuiabá / MT
+Analista de Gestão de Dados - Vaga Afirmativa Também para o Público Pcd,Confidencial,"Cuiabá / MT
               
 
 
@@ -783,6 +782,41 @@ Conhecimento em modelagem de dados e indicadores de performance comercial;
 
 
 Experiência com integração de dados de diferentes fontes (sell-in, sell-out, estoque, distribuição etc.).",Vagas.com
+Analista de Testes,Synchro,Localização não informada,N/A,"Descrição
+: 
+Buscamos profissionais com os seguintes Pré-requisitos:
+Ensino Superior em Tecnologia da Informação ou áreas relacionadas.
+Atuação na área de testes       
+ 
+Necessário: 
+Formação superior completa na área de Ciências da Computação, Informática  e áreas correlatas;
+Conhecimentos de Metodologia de Testes e Qualidade, Ferramentas de Gerenciamento de Teste;
+Conhecimentos de Engenharia de Software, Conhecimentos de análise de sistemas, dados, requisitos;
+Conhecimentos de Qualidade de Software;
+Conhecimentos em  Java, Oracle EBS, Frameworks, Lógica de Programação, Banco de Dados, Algoritmo e Estrutura de Dados, Servidores de Aplicação, Sistemas Operacionais;
+Documentações Técnicas, Pacote Office. 
+Conhecimentos de Scrum e SQL
+ 
+Atividades:
+Atuar na tabulação de dados, produção de relatórios e conteúdos;
+Análise crítica, geração de documentação;
+Atendimento e orientação de outras áreas e clientes;
+Apoio aos superiores na tomada de decisão;
+Avaliação de requisitos e cenários de testes e sugerir ações, em caso de necessidade de alterações;
+Atuar, sob supervisão, na realização de testes e análise de erros dos sistemas e aplicações, identificando causas;
+Criar cenários e ambientes de teste;
+Zelar pela garantia da qualidade dos produtos 
+.
+ 
+Trabalho Híbrido - 1 visita ao escritório
+Escritório localizados em São Paulo -SP e Rio de Janeiro
+ 
+Idiomas
+:
+Inglês - Nível Intermediário
+Outros requisitos
+: 
+Desejável Ingles intermediário ou avançado.",Vagas.com
 Analista de Cadastro,Bom Futuro,"Cuiabá / MT
               
 
@@ -808,6 +842,92 @@ Outros requisitos
 	Conhecimento em queries / consultas a banco de dados SQL
 	​Vivência em ambientes com foco em governança de dados, compliance e auditoria.
 	​Conhecimento técnico básico dos materiais e serviços da empresa.",Vagas.com
+Analista Senior Atuarial,Stellantis Saúde,"Betim / MG
+              
+
+
+
+                      A empresa aceita candidaturas de Betim e cidades próximas",MG,"Descrição
+: 
+ATIVIDADES:
+
+
+Promover a eficiência da gestão financeira, trazendo sustentabilidade financeira para a operadora de plano de saúde;
+
+
+Cálculos e projeções de reajustes de prestadores de serviços, contratos administrados, novas contratações e impactos financeiros dos credenciamentos ou descredenciamentos de prestadores;
+
+
+Cálculo de impacto de novo rol, novos medicamentos e materiais;
+
+
+Cálculo e projeção de sinistralidade de contratos, impactos de alterações de modelo de prestação de serviço de saúde e odontologia;
+
+
+Projeção de orçamento anual de gasto com saúde e entendimento das principais vozes ofensoras de custo do mercado atual e atuar junto às equipes das demais áreas, promovendo controle de consumo orientado a dados;
+
+
+Conhecimento dos principais indicadores financeiros que regem os contratos e dinâmicas do mercado atuarial e economia nacional;
+
+
+Amplo conhecimento do mercado de saúde suplementar, suas dinâmicas, regulação e obrigações com a Agência reguladora;
+
+
+Análise de comportamento de consumo da carteira de beneficiários, contemplando análise demográfica, movimentações de carteira e sua distribuição, custos, frequência e severidade, indicadores assistenciais,
+
+
+financeiros;
+
+
+Projeção de custo, indicadores econômicos, carteira, por metodologia estatística;
+
+
+Fomentação à tomada de decisão da Diretoria Executiva através de estudos específicos e estratégicos da companhia;
+
+
+Acompanhamento, entendimento e controle das obrigações com ANS;
+
+
+ Alta capacidade analítica de dados, com conhecimento em ETL, R, SQL, Python; · 
+
+
+Conhecimento em Power BI, fórmulas DAX, construção e análise de painéis dinâmicos;
+
+
+REQUISITOS:
+
+
+Ensino Superior Completo Ciências Atuariais.
+
+
+Experiência na área atuarial em operadoras de saúde.
+
+
+Conhecimento dos processos de informação da ANS (IDSS, SIP, Monitoramento Risco Assistencial, TISS)
+
+
+DESEJÁVEL:
+
+
+Experiência com uso de banco de dados do sistema Protheus e GW (Diferencial)
+
+
+Conhecimento em Power BI, DAX, R, Python, SQL;
+
+
+Pós-graduação em área relacionada a ciência de dados;
+
+
+LOCAL E HORÁRIO DE TRABALHO:
+
+
+Betim | MG
+
+
+Segunda a sexta das 8h às 17:30h (com 1h de intervalo para almoço).
+
+
+Jornada Híbrida.",Vagas.com
 Analista de Mdm Pl,Confidencial,"Campinas / SP
               
 
@@ -996,6 +1116,55 @@ Outras informações
 • Horário de Trabalho: 08h15 às 17h30.
 • Local de Trabalho: Paraíso - SP | modelo híbrido.
 • Contrato temporário em torno de 9 meses.",Vagas.com
+Analista de Logística Pleno,Grupo Dislub Equador,"Recife / PE
+              
+
+
+
+                      A empresa aceita candidaturas de qualquer cidade do Brasil",PE,"Descrição
+: 
+Formação Acadêmica Desejada:
+Ensino superior completo: Graduação em Engenharia de Produção, Administração, Logística, Economia ou áreas correlatas.
+Experiência / Conhecimento Desejado:
+
+
+Experiência em logística, suprimentos ou transporte, com atuação direta em contratação e negociação de fretes.
+
+
+Vivência no segmento de combustíveis ou em operações de grande porte envolvendo transporte multimodal.
+
+
+Conhecimento sólido em análise de custos logísticos, gestão de transportadoras e indicadores de desempenho.
+
+
+Experiência em processos de planejamento de suprimentos, programação de coletas e gestão de estoque.
+
+
+Habilidades / Competências:
+
+
+Forte capacidade de negociação e relacionamento com transportadores.
+
+
+Capacidade analítica para interpretação de dados de frete, custos e volumes.
+
+
+Organização, visão estratégica e foco em redução de custos logísticos.
+
+
+Boa comunicação e habilidade de articulação com áreas internas (comercial,financeiro, operações e suprimentos).
+
+
+Domínio de ferramentas de análise de dados e sistemas ERP (Pacote Office avançado, especialmente Excel).
+
+
+Outros requisitos
+: 
+Desafio Inicial:
+· Lidar com as oscilações da demanda no setor de combustíveis.
+· Reduzir custos logísticos em um mercado altamente competitivo.
+· Assegurar a disponibilidade de frota em períodos de pico.
+· Garantir a integração entre planejamento, operação e comercial.",Vagas.com
 11048 - Analista de Faturamento,Talent Group,"São Paulo / SP
               
 
@@ -1061,55 +1230,6 @@ Perfil dinâmico para atuação nos sistemas de faturamento e análises minucios
 
 
 Disponibilidade para trabalhos sob demanda (Horas extras).",Vagas.com
-Analista de Logística Pleno,Grupo Dislub Equador,"Recife / PE
-              
-
-
-
-                      A empresa aceita candidaturas de qualquer cidade do Brasil",PE,"Descrição
-: 
-Formação Acadêmica Desejada:
-Ensino superior completo: Graduação em Engenharia de Produção, Administração, Logística, Economia ou áreas correlatas.
-Experiência / Conhecimento Desejado:
-
-
-Experiência em logística, suprimentos ou transporte, com atuação direta em contratação e negociação de fretes.
-
-
-Vivência no segmento de combustíveis ou em operações de grande porte envolvendo transporte multimodal.
-
-
-Conhecimento sólido em análise de custos logísticos, gestão de transportadoras e indicadores de desempenho.
-
-
-Experiência em processos de planejamento de suprimentos, programação de coletas e gestão de estoque.
-
-
-Habilidades / Competências:
-
-
-Forte capacidade de negociação e relacionamento com transportadores.
-
-
-Capacidade analítica para interpretação de dados de frete, custos e volumes.
-
-
-Organização, visão estratégica e foco em redução de custos logísticos.
-
-
-Boa comunicação e habilidade de articulação com áreas internas (comercial,financeiro, operações e suprimentos).
-
-
-Domínio de ferramentas de análise de dados e sistemas ERP (Pacote Office avançado, especialmente Excel).
-
-
-Outros requisitos
-: 
-Desafio Inicial:
-· Lidar com as oscilações da demanda no setor de combustíveis.
-· Reduzir custos logísticos em um mercado altamente competitivo.
-· Assegurar a disponibilidade de frota em períodos de pico.
-· Garantir a integração entre planejamento, operação e comercial.",Vagas.com
 Analista de DHO,PH Intralogística,"Resende / RJ
               
 
@@ -1276,6 +1396,35 @@ Diferencial sistema GIS e outros sistemas de geoprocessamento
 Idiomas
 :
 Inglês - Nível Básico",Vagas.com
+Analista de Controladoria Pleno,Oakmont Group,"Santana de Parnaíba / SP
+              
+
+
+
+                      A empresa aceita candidaturas de Santana de Parnaíba e cidades próximas",SP,"Descrição
+: 
+Estamos em busca de um 
+Analista de Controladoria Pleno
+ para se juntar à nossa equipe! Se você é apaixonado por finanças e tem experiência em controladoria, essa pode ser a oportunidade que você estava procurando.
+Responsabilidades:
+- Apoiar a construção e consolidação do orçamento anual / budget da empresa, coletando premissas, consolidando dados e preparando cenários para alinhamento com a estratégia corporativa.
+- Auxiliar na elaboração do fluxo de caixa da empresa — consolidando entradas e saídas previstas, projetando saldos futuros e apresentando análises de disponibilidade financeira para Diretoria; 
+- Realizar análise de custos de projetos garantindo aderência ao budget previsto, identificando desvios e propondo ações preventivas ou corretivas;
+- Consolidar dados de despesas, investimentos e custos por projeto/unidade, fazendo a classificação por centro de custo e reportando à Diretoria;
+- Preparar apresentações gerenciais e relatórios de resultados, incluindo DRE consolidada, comparativos orçado x realizado, variações significativas e previsões para os próximos meses;
+- Auxiliar na definição e implementação de políticas, controles internos e procedimentos de aprovação de custos, visando padronização, governança e compliance interno;
+- Monitorar e controlar mensalmente os custos relacionados a telemetria garantindo aderência às regras de utilização, análise de desvios e apuração de indicadores pré-definidos;
+- Acompanhar, conciliar e analisar os gastos com Uber corporativo, avaliando aderência às políticas internas de transporte, identificando excessos, padrões de uso fora do previsto e oportunidades de otimização das despesas; 
+- Auxiliar na definição e implementação de políticas, controles internos e procedimentos de aprovação de custos, visando padronização, governança e compliance interno;
+- Colaborar com contabilidade e áreas operacionais para garantir a consistência dos registros e a conformidade dos dados.
+Requisitos:
+- Formação em Ciências Contábeis, Administração, Gestão Financeira ou áreas afins;
+- Domínio de Excel ou outras ferramentas analíticas (planilhas complexas, pivot tables, fórmulas, gráficos). Diferenciais: familiaridade com ERP ou sistemas de gestão financeira; 
+- Experiência prévia em controladoria, finanças corporativas ou áreas correlatas, preferencialmente com elaboração de orçamento, fluxo de caixa e relatórios gerenciais.; 
+- Visão estratégica de negócios, capacidade analítica e facilidade para interpretar dados e traduzir em insights para tomada de decisão; 
+- Boa comunicação e habilidade em trabalhar em equipe; 
+- Boa comunicação (oral e escrita) para preparar e apresentar relatórios aos gestores/diretoria.
+Se você se encaixa nesse perfil e está em busca de novos desafios, candidate-se agora mesmo através do botão abaixo!",Vagas.com
 Analista de Processos Sr.,GrupoSC,"São Paulo / SP
               
 
@@ -1396,35 +1545,6 @@ Modelo de trabalho
 
 Local:
  Vila Olímpia/SP",Vagas.com
-Analista de Controladoria Pleno,Oakmont Group,"Santana de Parnaíba / SP
-              
-
-
-
-                      A empresa aceita candidaturas de Santana de Parnaíba e cidades próximas",SP,"Descrição
-: 
-Estamos em busca de um 
-Analista de Controladoria Pleno
- para se juntar à nossa equipe! Se você é apaixonado por finanças e tem experiência em controladoria, essa pode ser a oportunidade que você estava procurando.
-Responsabilidades:
-- Apoiar a construção e consolidação do orçamento anual / budget da empresa, coletando premissas, consolidando dados e preparando cenários para alinhamento com a estratégia corporativa.
-- Auxiliar na elaboração do fluxo de caixa da empresa — consolidando entradas e saídas previstas, projetando saldos futuros e apresentando análises de disponibilidade financeira para Diretoria; 
-- Realizar análise de custos de projetos garantindo aderência ao budget previsto, identificando desvios e propondo ações preventivas ou corretivas;
-- Consolidar dados de despesas, investimentos e custos por projeto/unidade, fazendo a classificação por centro de custo e reportando à Diretoria;
-- Preparar apresentações gerenciais e relatórios de resultados, incluindo DRE consolidada, comparativos orçado x realizado, variações significativas e previsões para os próximos meses;
-- Auxiliar na definição e implementação de políticas, controles internos e procedimentos de aprovação de custos, visando padronização, governança e compliance interno;
-- Monitorar e controlar mensalmente os custos relacionados a telemetria garantindo aderência às regras de utilização, análise de desvios e apuração de indicadores pré-definidos;
-- Acompanhar, conciliar e analisar os gastos com Uber corporativo, avaliando aderência às políticas internas de transporte, identificando excessos, padrões de uso fora do previsto e oportunidades de otimização das despesas; 
-- Auxiliar na definição e implementação de políticas, controles internos e procedimentos de aprovação de custos, visando padronização, governança e compliance interno;
-- Colaborar com contabilidade e áreas operacionais para garantir a consistência dos registros e a conformidade dos dados.
-Requisitos:
-- Formação em Ciências Contábeis, Administração, Gestão Financeira ou áreas afins;
-- Domínio de Excel ou outras ferramentas analíticas (planilhas complexas, pivot tables, fórmulas, gráficos). Diferenciais: familiaridade com ERP ou sistemas de gestão financeira; 
-- Experiência prévia em controladoria, finanças corporativas ou áreas correlatas, preferencialmente com elaboração de orçamento, fluxo de caixa e relatórios gerenciais.; 
-- Visão estratégica de negócios, capacidade analítica e facilidade para interpretar dados e traduzir em insights para tomada de decisão; 
-- Boa comunicação e habilidade em trabalhar em equipe; 
-- Boa comunicação (oral e escrita) para preparar e apresentar relatórios aos gestores/diretoria.
-Se você se encaixa nesse perfil e está em busca de novos desafios, candidate-se agora mesmo através do botão abaixo!",Vagas.com
 Analista de Tráfego Pleno,SulAmérica,"São Paulo / SP
               
 
@@ -1570,12 +1690,7 @@ Participar no dimensionamento, desenvolvimento e implantação de projetos de au
 Contribuir e atuar na detecção, relato e eliminação de anomalias do processo operacional através do controle das variáveis do processo.
 Realizar análises de falhas dos equipamentos, propor soluções, realizar estudos de melhorias de performance dos equipamentos.
 Implantar e desenvolver melhorias no ambiente virtualizado de servidores e notebooks da automação, envolvendo cibersegurança da automação, cabeamento estruturado e fusão de fibra",Vagas.com
-Analista Laboratorio I,bp bioenergy,"Itumbiara / GO
-              
-
-
-
-                      A empresa aceita candidaturas de qualquer cidade do Brasil",GO,"Descrição
+Analista Laboratorio I,bp bioenergy,Itumbiara / GO                                       A empresa aceita candidaturas de qualquer cidade do Brasil,GO,"Descrição
 : 
 
 
@@ -1651,12 +1766,7 @@ Conhecimento em Equipamentos Laboratoriais, Processo de Produção de Álcool, A
 Informática Básica.
 Outros requisitos
 : sem comantarios",Vagas.com
-Analista de Negócios,Oceaneering,"Niterói / RJ
-              
-
-
-
-                      A empresa aceita candidaturas de Niterói e cidades próximas",RJ,"Descrição
+Analista de Negócios,Oceaneering,Niterói / RJ                                       A empresa aceita candidaturas de Niterói e cidades próximas,RJ,"Descrição
 : 
 • Responsável pela realização de análises para suportar as discussões estratégicas corporativas e das áreas de negócios;
 • Definição de KPIs relevantes para direcionar e alavancar a estratégia e performance: sugerir e controlar indicadores estratégicos (Capacidade, Ocupação, Requisição, etc.), de performance (Aderência, Produtividade, Tempo Ocioso, Absenteísmo, Desvios, etc.) e financeiros (Hora Extra, HH, etc.);
@@ -1752,73 +1862,6 @@ Conhecimento em sistemas de gestão financeira e contábil;
 
 
 Excel Avançado.",Vagas.com
-Analista de Controladoria Pl,DHL Express,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-SUAS ATIVIDADES:
-
-
-Realizar análises de variações (real vs. orçado) e propor ações corretivas;
-
-
-Apuração de Receita;
-
-
-Lançamentos contábeis;
-
-
-Auxílio no fechamento mensal;
-
-
-Controle e manutenção de KPIs financeiros;
-
-
-Manutenção e garantia do compliance dos controles internos da área;
-
-
-Atuar como parceiro das áreas operacionais, traduzindo dados financeiros em insights práticos;
-
-
-Atualização de relatórios;
-
-
-Elaborar relatórios gerenciais e dashboards para suporte à tomada de decisão.
-
-
-Idiomas
-:
-Inglês - Nível Avançado
-Outros requisitos
-: 
-SEU PERFIL:
-
-
-Ensino superior completo;
-
-
-Inglês Avançado;
-
-
-Excel Intermediário.
-
-
- 
-REQUISITOS DESEJÁVEIS:
-
-
-Conhecimento em Access;
-
-
-Conhecimento em SAP;
-
-
-Conhecimento em Power BI.
-
-
- 
- 
-INFORMAÇÕES ADICIONAIS:
-Horário da vaga; de segunda a sexta-feira das 08h30 as 17h30
-Modalidade de trabalho: Híbrida (60% presencial e 40% home office - após os 3 primeiros meses);",Vagas.com
 Analista de Suprimentos Pl,Bem Aqui,Goianésia / GO                                       A empresa aceita apenas candidaturas de Goianésia,GO,"Descrição
 : 
 Estamos em busca de um Analista de Suprimentos PL para se juntar à nossa equipe!
@@ -1844,86 +1887,6 @@ Experiência com rotinas administrativas, gestão de contratos e suporte a opera
 Conhecimento básico do setor elétrico e de geração solar será considerado um diferencial.
 Residir na cidade de Goiânia / GO
 Organização, proatividade e habilidade de comunicação com diferentes áreas.",Vagas.com
-Analista Contábil Sr.,Frescatto,Duque de Caxias / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
-: 
-PRINCIPAIS ATIVIDADES: 
- 
-
-
-Revisão da análise das variações mensais (balanço patrimonial e demonstração de resultado). 
-
-
-Assegurar a qualidade das informações referentes à apuração do resultado contábil e análise das contas patrimoniais. 
-
-
-Elaborar o fechamento mensal do Balancete, de acordo com as informações consolidadas no sistema, para apuração do resultado; 
-
-
-Apoiar e conferir todas as rotinas desenvolvidas pelo assistente e pelo auxiliar contábil, a fim de assegurar o cumprimento do cronograma mensal do fechamento contábil; 
-
-
-Prestar suporte à equipe e aos demais departamentos, sanando qualquer dúvida pertinente ao método de contabilização ou de classificação de documento, a fim de minimizar erros e retrabalho na área contábil; 
-
-
-Analisar e conciliar as contas contábeis patrimoniais, detectando possíveis incoerências e solucionando-as juntamente com a equipe de contabilidade; 
-
-
-Realizar a conferência e validar as informações finais do fechamento contábil (pré-análise e revisão das contas contábeis), a fim de assegurar a veracidade dos dados para elaboração das demonstrações contábeis; 
-
-
-Atender a área de compliance da empresa, auditoria externa e fiscalizações assegurando que todas as exigências foram cumpridas;  
-
-
-Elaborar DFs anuais com notas explicativas para auditoria; 
-
-
-Preparar conciliações contábeis e anexar documentação necessária para justificar saldos, analisar movimentações tendo como base os relatórios analíticos e auxiliares e providenciar as comunicações e correções no tempo adequado; 
-
-
-Elaborar balancete mensal e outros demonstrativos relativos às operações contábeis, tais como balanços e demonstrações de resultados; 
-
-
-Calcular o IRPJ e CSLL e das empresas do grupo, e o preenchimento da ECD, ECF e Lalur e demais obrigações; 
-
-
-Elaborar documentação e revisar dados da ECD; 
-
-
-Conhecimento em parametrização contábil de sistemas ERP. 
-
-
- 
-REQUISITOS: 
-
-
-Graduação completa em Ciências Contábeis; 
-
-
-Conhecimento em conciliações, balanço patrimonial, DRE, Fluxo de caixa e normas contábeis; 
-
-
-Experiência no atendimento a auditorias. 
-
-
- 
-Empresa oferece: 
- 
-Salário + Benefícios:  
- 
-- Plano de Saúde 100% custeado pela empresa (após 3 meses) 
-- Plano Odontológico  
-- Alimentação no local (Café da manhã, almoço e lanche) 
-- Auxílio Combustível 
-- Seguro de Vida 
-- Consignado 
-- Incentivo Estudantil  
-- Desconto em Produtos 
- - Clube de Vantagens  
- - Bônus atrelado a metas corporativas 
-- Convênios Diversos  
-- Day Off 
-- Horário: Segunda a Sexta 08:12h as 18:00h  
-LOCAL:  Duque de Caxias / Figueira (atrás do Shopping Outlet Premium)",Vagas.com
 Analista Financeiro Sr,Mineração Morro do Ipê,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,"Descrição
 : 
 Estamos em busca de um(a) Analista Financeiro Sr para se juntar à nossa equipe! 
@@ -1967,6 +1930,26 @@ Experiência com ferramentas analíticas avançadas e bases de dados (conhecimen
 
 
 Conhecimento em modelagem financeira.",Vagas.com
+Analista de Projetos Pleno (026882),Lyon Engenharia,Nova Lima / MG                                       A empresa aceita candidaturas de Nova Lima e cidades próximas,MG,"Descrição
+: 
+Requisitos:
+Ensino superior completo em Direito, Administração ou áreas correlatas;
+Experiência e habilidade na elaboração de relatórios;
+Boa comunicação verbal e escrita;
+Domínio do Pacote Office;
+CNH categoria B.
+Atividades
+: 
+Analisar relatórios e sistematizar os dados produzidos pela empresa responsável pela regularização fundiária urbana
+Elaborar relatórios mensais com a atualização dos avanços do projeto, conforme indicadores definidos no FDI;
+Produzir relatórios bimensais com os indicadores predefinidos para publicação no site da Prefeitura;
+Participar das reuniões semanais de gestão do projeto com a equipe da Vale;
+Participar das reuniões mensais de acompanhamento com a Comissão Intersetorial da Prefeitura;
+Participar de reuniões adicionais com a Prefeitura, conforme definido no processo de trabalho;
+Realizar, no mínimo, uma visita de campo mensal em um núcleo definido pela equipe gestora do projeto (Vale);
+Elaborar apresentações e materiais de apoio necessários para as reuniões de acompanhamento e monitoramento do projeto.
+Outros requisitos
+:",Vagas.com
 Analista Financeiro,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 A Jobcenter, consultoria especializada em Recursos Humanos, está assessorando seu cliente na busca por um(a) Assistente de Compras e Faturamento para atuar presencialmente na Zona Sul de São Paulo.
@@ -2010,6 +1993,45 @@ Português - Nível Fluente
 Outros requisitos
 : 
 Conhecimento médio dos módulos Administrativo, Financeiro, Materiais e RH. Query Analyser, ADVPL, Java Script/TypeScript, Angular, HTML, CSS, BOOTSTRAP, API, Webservice, Power BI, Azure.",Vagas.com
+Analista Fiscal Pleno,AMAGGI,Cuiabá / MT                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MT,"Descrição
+: 
+Atribuições:
+
+
+Realizar a apuração de IRPJ e CSLL nas modalidades: Lucro Real (trimestral e anual com estimativas); Lucro Presumido;
+
+
+Dominar a legislação tributária brasileira, incluindo: Lei nº 9.430/1996; Instruções Normativas da RFB, como: IN 1.700/2017 e IN 2.055/2021;
+
+
+Executar obrigações acessórias, como: ECF (Escrituração Contábil Fiscal); DCTF e DCTFWeb; PER/DCOMP;
+
+
+Atuar com Transfer Pricing (Preços de Transferência);
+
+
+Realizar revisão de LALUR/LACS e controle de adições e exclusões fiscais;
+
+
+Conduzir análises de dados e prestar atendimentos relacionados à área fiscal.
+
+
+Requisitos Necessários
+
+
+Graduação completa em Contabilidade, Gestão Financeira ou áreas correlatas;
+
+
+Vivência na área fiscal;
+
+
+Conhecimentos em: Imposto de Renda (Lucro Real e Lucro Presumido); Power BI; Excel; Transfers;
+
+
+Inglês desejável.
+
+
+*Nossas oportunidades são abertas para todos os profissionais, sem distinção de raça, cor, gênero, idade, crença e deficiência (PCD)*",Vagas.com
 Analista de Logística Jr,Eternit,Hortolândia / SP                                       A empresa aceita candidaturas de Hortolândia e cidades próximas,SP,"Descrição
 : 
 Responsabilidades:
@@ -2073,65 +2095,6 @@ Conhecer os requisitos de Segurança em Transportes de Cargas
 
 
 Se você se identifica com a oportunidade, se candidate agora mesmo!",Vagas.com
-Analista de Projetos Pleno (026882),Lyon Engenharia,Nova Lima / MG                                       A empresa aceita candidaturas de Nova Lima e cidades próximas,MG,"Descrição
-: 
-Requisitos:
-Ensino superior completo em Direito, Administração ou áreas correlatas;
-Experiência e habilidade na elaboração de relatórios;
-Boa comunicação verbal e escrita;
-Domínio do Pacote Office;
-CNH categoria B.
-Atividades
-: 
-Analisar relatórios e sistematizar os dados produzidos pela empresa responsável pela regularização fundiária urbana
-Elaborar relatórios mensais com a atualização dos avanços do projeto, conforme indicadores definidos no FDI;
-Produzir relatórios bimensais com os indicadores predefinidos para publicação no site da Prefeitura;
-Participar das reuniões semanais de gestão do projeto com a equipe da Vale;
-Participar das reuniões mensais de acompanhamento com a Comissão Intersetorial da Prefeitura;
-Participar de reuniões adicionais com a Prefeitura, conforme definido no processo de trabalho;
-Realizar, no mínimo, uma visita de campo mensal em um núcleo definido pela equipe gestora do projeto (Vale);
-Elaborar apresentações e materiais de apoio necessários para as reuniões de acompanhamento e monitoramento do projeto.
-Outros requisitos
-:",Vagas.com
-Analista Fiscal Pleno,AMAGGI,Cuiabá / MT                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MT,"Descrição
-: 
-Atribuições:
-
-
-Realizar a apuração de IRPJ e CSLL nas modalidades: Lucro Real (trimestral e anual com estimativas); Lucro Presumido;
-
-
-Dominar a legislação tributária brasileira, incluindo: Lei nº 9.430/1996; Instruções Normativas da RFB, como: IN 1.700/2017 e IN 2.055/2021;
-
-
-Executar obrigações acessórias, como: ECF (Escrituração Contábil Fiscal); DCTF e DCTFWeb; PER/DCOMP;
-
-
-Atuar com Transfer Pricing (Preços de Transferência);
-
-
-Realizar revisão de LALUR/LACS e controle de adições e exclusões fiscais;
-
-
-Conduzir análises de dados e prestar atendimentos relacionados à área fiscal.
-
-
-Requisitos Necessários
-
-
-Graduação completa em Contabilidade, Gestão Financeira ou áreas correlatas;
-
-
-Vivência na área fiscal;
-
-
-Conhecimentos em: Imposto de Renda (Lucro Real e Lucro Presumido); Power BI; Excel; Transfers;
-
-
-Inglês desejável.
-
-
-*Nossas oportunidades são abertas para todos os profissionais, sem distinção de raça, cor, gênero, idade, crença e deficiência (PCD)*",Vagas.com
 Analista de Marketing Pleno,J&T Express,Curitiba / PR                                       A empresa aceita candidaturas de Curitiba e cidades próximas,PR,"Descrição
 : 
 O profissional será responsável por planejar, executar e supervisionar campanhas de marketing, garantindo a padronização da comunicação e a excelência na experiência do cliente.
@@ -2152,6 +2115,47 @@ Capacidade analítica para interpretar dados de mercado e campanhas.
 Habilidade em coordenação de projetos e comunicação interna/externa.
 Proatividade, organização e atenção aos detalhes.
 Desejável experiência varejo físico.",Vagas.com
+Analista de Compras,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
+: 
+Principais Atividades
+Acompanhar todas as requisições de compra com os requisitantes;
+Conduzir processo de cadastro de fornecedores;
+Conduzir processo de cotação/equalização/negociação/premiação/contrato envolvendo areas requisitantes, jurídico e tomadores de decisão;
+Apoio aos times requisitantes com gestão de acordos de fornecimento e pedidos de compra;
+Busca constante por redução de custo em todas as contratações e renovações.
+ Habilidades:
+Interpretar dados e informações para tomar decisões baseadas em evidências.
+Entender as questões tributárias do processo de compra.
+Experiência em revisão e gestão contratual. 
+Buscar as melhores condições com fornecedores.
+Interagir bem com equipes internas.
+Raciocínio Analítico - Resolver problemas e otimizar processos.
+Responder rapidamente e manter o controle das demandas. 
+Habilidade em cadeia de Suprimentos - Entender o fluxo de materiais.
+Formação Acadêmica em  Administração, Economia, Logística, Engenharia, Ciências Contábeis ou afins;
+Matemática Financeira - é um diferencial;
+Pacote Office (especialmente Excel intermediário).
+Oferecemos salário e benefícios praticado no mercado.
+Modelo de trabalho: Hibrido - São Paulo/SP",Vagas.com
+Analista de Cadastro,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
+: 
+Estamos em busca de um Analista de Cadastro I para se juntar à nossa equipe! Se você é uma pessoa organizada, detalhista e gosta de trabalhar com dados, essa pode ser a oportunidade que você estava procurando.
+Responsabilidades:
+Realizar a parametrização no sistema das regras assistenciais, como cadastro de protocolos, recomendações, escalas da equipe, procedimentos internos, estrutura de atendimento, entre outras funções;
+Assegurar a segurança da informação realizando constantemente a homologação das ações realizadas, bem como garantir o SLA proposto para cada demanda;
+Relacionar-se com a equipe, promovendo integração de conhecimentos;
+Atendimento para clientes internos e externos.
+Requisitos:
+- Ensino superior completo em Administração, Ciências Contábeis ou áreas afins;
+- Conhecimento em Excel;
+- Experiência em cadastro de clientes e fornecedores será considerado um diferencial.
+Oferecemos:
+- Salário compatível com o mercado;
+- Vale-transporte;
+- Vale-refeição;
+- Plano de saúde;
+- Plano odontológico.
+Se você se identifica com a vaga e atende aos requisitos, clique no botão ""candidate-se"" e envie seu currículo para nós!",Vagas.com
 Analista de Compras,Hyundai Mobis Brasil,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Responsabilidades:
@@ -2286,66 +2290,6 @@ Outros requisitos
 : 
 Domínio de ferramentas digitais de gestão e acompanhamento (ex.: Excel, Asana, Trello, Power BI, Planner, Trello);
 Experiência com PMO/gestão de portfólio e indicadores (OKRs/KPIs)",Vagas.com
-Analista de Paisagismo Pleno,Pacaembu Construtora,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Missão
-Planejar, conceber e gerenciar projetos de paisagismo e arborização urbana seguindo os padrões da Pacaembu para loteamentos e condomínios garantindo que o produto seja o melhor possível dentro das limitações existentes, acompanhamento das obras e promover espaços que melhoram a qualidade de vida dos clientes Pacaembu.
-Responsabilidades
-
-
-Análise crítica dos projetos de terraplenem com boa leitura de terreno e declividades;
-
-
-Elaborar e/ ou acompanhar todas as etapas do projeto de paisagismo: concepção, anteprojeto, projeto legal, projeto executivo, arborização viária, projeto luminotécnico, projeto de irrigação;
-
-
-Contratação e gerenciamento de terceirizados para projetos de paisagismo e arborização urbana;
-
-
-Compatibilizar projeto de paisagismo com os projetos complementares;
-
-
-Garantir que o projeto de paisagismo esteja dentro do orçamento previsto;
-
-
-Elaboração de apresentações de conceito;
-
-
-Acompanhamento de certificações de projetos;
-
-
-Comunicação entre áreas diversas;
-
-
-Conferir imagens e materiais de venda;
-
-
-Análise de dados para melhoria contínua do produto, custos e obra;
-
-
-Acompanhar a implantação do paisagismo na obra.
-
-
-Outros requisitos
-: 
-
-
-Experiência com desenvolvimento de projeto de paisagismo em todas as etapas.
-
-
-Autocad Avançado
-
-
-Conhecimento em legislação de acessibilidade e NBRs aplicáveis;
-
-
-Desejável conhecimento básico em urbanismo;
-
-
-Experiência com acompanhamento de obra é um diferencial.
-
-
-Superior completo em Arquitetura",Vagas.com
 Analista Contábil,Confidencial,Brasília / DF                                       A empresa aceita candidaturas de Brasília e cidades próximas,DF,"Descrição
 : 
 
@@ -2418,6 +2362,66 @@ Proatividade e capacidade de trabalhar em equipe;
 
 
 Desejável conhecimento tributário e em análise de custos;",Vagas.com
+Analista de Paisagismo Pleno,Pacaembu Construtora,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Missão
+Planejar, conceber e gerenciar projetos de paisagismo e arborização urbana seguindo os padrões da Pacaembu para loteamentos e condomínios garantindo que o produto seja o melhor possível dentro das limitações existentes, acompanhamento das obras e promover espaços que melhoram a qualidade de vida dos clientes Pacaembu.
+Responsabilidades
+
+
+Análise crítica dos projetos de terraplenem com boa leitura de terreno e declividades;
+
+
+Elaborar e/ ou acompanhar todas as etapas do projeto de paisagismo: concepção, anteprojeto, projeto legal, projeto executivo, arborização viária, projeto luminotécnico, projeto de irrigação;
+
+
+Contratação e gerenciamento de terceirizados para projetos de paisagismo e arborização urbana;
+
+
+Compatibilizar projeto de paisagismo com os projetos complementares;
+
+
+Garantir que o projeto de paisagismo esteja dentro do orçamento previsto;
+
+
+Elaboração de apresentações de conceito;
+
+
+Acompanhamento de certificações de projetos;
+
+
+Comunicação entre áreas diversas;
+
+
+Conferir imagens e materiais de venda;
+
+
+Análise de dados para melhoria contínua do produto, custos e obra;
+
+
+Acompanhar a implantação do paisagismo na obra.
+
+
+Outros requisitos
+: 
+
+
+Experiência com desenvolvimento de projeto de paisagismo em todas as etapas.
+
+
+Autocad Avançado
+
+
+Conhecimento em legislação de acessibilidade e NBRs aplicáveis;
+
+
+Desejável conhecimento básico em urbanismo;
+
+
+Experiência com acompanhamento de obra é um diferencial.
+
+
+Superior completo em Arquitetura",Vagas.com
 Analista Fiscal,Bom Futuro,Cuiabá / MT                                       A empresa aceita candidaturas de Cuiabá e cidades próximas,MT,"Descrição
 : 
 •	Ensino superior completo ou em andamento em Ciências Contábeis, Administração,  ou áreas correlatas com previsão de conclusão para 2026;
@@ -2438,6 +2442,22 @@ Outros requisitos
 •	Participar da apuração mensal do ICMS e fundos estaduais.
 •	Contribuir com o envio das obrigações acessórias estaduais.
 •	Apoiar a área com relatórios e controles fiscais.",Vagas.com
+Analista de Qualidade Jr.,Confidencial,Guarulhos / SP                                       A empresa aceita candidaturas de Guarulhos e cidades próximas,SP,"Descrição
+: 
+Realizar auditorias de rotina na companhia;
+Ministrar treinamentos sobre métodos e ferramentas de qualidade; Atuar como consultor no gerenciamento da rotina (ex.: desvios de indicadores, sistemática de reuniões, entre outros); Instruir grupos de trabalho do início ao fim, aplicando métodos e ferramentas adequados às necessidades do cliente;
+Utilizar o sistema DayWay para gestão de compromissos;
+Dar suporte ao Sistema de Gestão Integrada (SGI), analisando, atualizando e monitorando indicadores, bem como planos de ação relacionados; Realizar treinamentos com as equipes locais sobre os conceitos de auditoria das normas NBR ISO 14001 e ISO 45001;
+Capacitar funcionários da unidade em relação ao SGI e gerar dados para consolidação das informações acompanhadas em auditorias internas e externas.
+Outros requisitos
+: 
+Ensino Superior Completo;
+Formação como Auditor Interno NBR ISO 14001:2015 e ISO 45001:2018;
+Domínio de métodos e ferramentas: PDCA, SDCA, Metodologias Ágeis e Lean;
+Conhecimento intermediário no Pacote Office (Word, Excel, PowerPoint);
+Conhecimento nas normas NBR ISO 14001 e ISO 45001;
+Conhecimentos básicos em Segurança e Saúde Ocupacional;
+Conhecimentos básicos em Gestão de Resíduos e temas ambientais.",Vagas.com
 Analista de Sistemas Sênior,Fundação São Francisco Xavier,Ipatinga / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,"Descrição
 : 
 Descrição da vaga:
@@ -2457,22 +2477,6 @@ Dados da vaga:
 Horário: 08h00 às 17h16
 Local: Vaga disponível em nossos escritórios em Ipatinga ou Belo Horizonte/MG
 Modelo de trabalho: Híbrido.",Vagas.com
-Analista de Qualidade Jr.,Confidencial,Guarulhos / SP                                       A empresa aceita candidaturas de Guarulhos e cidades próximas,SP,"Descrição
-: 
-Realizar auditorias de rotina na companhia;
-Ministrar treinamentos sobre métodos e ferramentas de qualidade; Atuar como consultor no gerenciamento da rotina (ex.: desvios de indicadores, sistemática de reuniões, entre outros); Instruir grupos de trabalho do início ao fim, aplicando métodos e ferramentas adequados às necessidades do cliente;
-Utilizar o sistema DayWay para gestão de compromissos;
-Dar suporte ao Sistema de Gestão Integrada (SGI), analisando, atualizando e monitorando indicadores, bem como planos de ação relacionados; Realizar treinamentos com as equipes locais sobre os conceitos de auditoria das normas NBR ISO 14001 e ISO 45001;
-Capacitar funcionários da unidade em relação ao SGI e gerar dados para consolidação das informações acompanhadas em auditorias internas e externas.
-Outros requisitos
-: 
-Ensino Superior Completo;
-Formação como Auditor Interno NBR ISO 14001:2015 e ISO 45001:2018;
-Domínio de métodos e ferramentas: PDCA, SDCA, Metodologias Ágeis e Lean;
-Conhecimento intermediário no Pacote Office (Word, Excel, PowerPoint);
-Conhecimento nas normas NBR ISO 14001 e ISO 45001;
-Conhecimentos básicos em Segurança e Saúde Ocupacional;
-Conhecimentos básicos em Gestão de Resíduos e temas ambientais.",Vagas.com
 Analista de Tesouraria Pleno,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Estamos em busca de um Analista de Tesouraria Pleno para se juntar à nossa equipe. Se você possui experiência na área financeira, conhecimento em operações de tesouraria, análise de fluxo de caixa e habilidades em gestão de riscos, essa pode ser a oportunidade ideal para você. 
@@ -2716,6 +2720,82 @@ Graduação concluída ou em fase final (último ano) em Ciências Contábeis, E
 Experiência em controladoria, com atuação em custos, resultados financeiros e gestão orçamentária;
 Domínio na elaboração e análise de balancetes e DREs;
 Conhecimento intermediário em ferramentas de análise de dados e planilhas, como Excel e Power BI;",Vagas.com
+Analista de Contratos,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Cargo: 
+Analista de Contratos
+Principais responsabilidades:
+
+
+Controlar e cadastrar contratos e documentos, realizando a gestão desde aditivos até o encerramento e arquivamento;
+
+
+Atualizar planilhas de controle e elaborar relatórios referentes aos contratos de todas as unidades de saúde;
+
+
+Analisar e interpretar dados, bem como identificar tendências e padrões;
+
+
+Analisar e realizar as devidas correções nos contratos e demais procedimentos legais;
+
+
+Analisar todos os contratos e aditivos, verificando necessidades de manutenção de cláusulas ou vigência, conforme o manual e regras internas;
+
+
+Consultar a situação de regularidade dos prestadores de serviços junto aos órgãos legais, levantando possíveis irregularidades;
+
+
+Verificar a conformidade legal dos processos de contratação, seguindo o fluxo do setor de contratos e o regulamento interno de compras e serviços;
+
+
+Organizar pastas e arquivos digitais conforme a padronização do setor de contratos;
+
+
+Responder pelos contratos e processos executados conforme demanda do setor de contratos;
+
+
+Monitorar e controlar demandas contratuais, realizando lançamentos de informações, inclusões e baixas;
+
+
+Elaborar notificações contratuais.
+
+
+Requisitos desejáveis:
+
+
+Conhecimento em Excel;
+
+
+Boa escrita e capacidade de interpretação de texto e das solicitações (pedidos);
+
+
+Capacidade de negociação.
+
+
+Informações adicionais:
+
+
+Local de trabalho: Zona Sul – São Paulo/SP
+
+
+Horário: De segunda a sexta-feira, das 08h00 às 17h00
+
+
+Modalidade: Híbrido
+
+
+Outros requisitos
+: 
+Requisitos:
+
+
+Ensino Superior em Direito completo ou cursando o 4º ano;
+
+
+Experiência com Gestão de Contratos;
+
+
+Conhecimento em termos contratuais.",Vagas.com
 Analista Sênior de Controladoria,GWM,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Analista Sênior Controladoria 
@@ -2778,6 +2858,23 @@ Desejável domínio do sistema Protheus (módulo financeiro);
 Excel avançado e habilidade em manipulação de grandes volumes de dados;
 Vivência anterior em empresas de construção civil pesada será considerado um diferencial;
 Perfil analítico, atenção a detalhes, organização e capacidade de trabalhar sob prazos e múltiplas demandas.",Vagas.com
+Analista Contabilidade Pl,Rio Brasil Terminal,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Contabilização e classificação de lançamentos contábeis, assim como realizar as conciliações contábeis e processar ajustes provenientes de conciliações;
+Compilar os dados e preparar os indicadores da área;
+Atuar tempestivamente no fechamento contábil no cumprimento de suas atribuições;
+Preparar documentação de controles de informações contábeis tais como: provisões, despesas antecipadas; conta a receber e a pagar manuais e partes relacionadas, bancos e aplicações financeiras, estoques, PECLD,  gestão de ativos fixo, folha de pagamento e outras contas de média a alta complexidade, bem como a organização e manutenção dos documentos correspondentes, visando futuras pesquisas e atendimento a fiscalizações, auditorias e consultorias internas. 
+Elaboração de notas explicativas e atendimento a auditoria de demonstração financeira e atendimento a fiscalização;
+Gestão de ativos fixos: controle de aquisição/baixa/transferências, empaquetamento e inventário;
+Atuar na rotina de inventários de estoque (anual e cíclicos), nas atividades de auditoria e processamento de ajustes financeiros;
+Processar rotinas de fechamento mensal e anual do exercício em sistema integrado, bem como analisar os resultados de balancetes de fechamento;
+Analisar, propor e validar melhorias contábeis em sistema integrado contábil;
+Elaborar e cumprir com os procedimentos e instruções relativas à sua função, bem como garantir o cumprimento das normas e procedimentos gerais da empresa.
+Executar outras atividades, caso haja necessidade imperiosa, com o mesmo grau de complexidade, de acordo com solicitações do Gestor da área e/ou recomendações do médico do trabalho.
+Outros requisitos
+: 
+Formação Superior Ciências Contábeis - CRC ativo
+Excel Avançado",Vagas.com
 Analista Sênior de Cibersegurança,Elera Renováveis,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Resumo da Posição
@@ -3083,6 +3180,98 @@ Todos os talentos são bem-vindos no nosso time, independentemente de gênero, r
 📩
  Interessado (a)?
  Candidate-se na vaga em vigor!",Vagas.com
+Analista Administrativo,Grupo Fleury,Goiânia / GO                                       A empresa aceita candidaturas de Goiânia e cidades próximas,GO,"Descrição
+: 
+Quais são os desafios da área e do cargo:
+Esta pessoa terá como objetivo atuar de forma alinhada à visão estratégica de Negócios do Grupo Fleury, contribuindo para a construção de um ecossistema de Saúde integrado, preventivo e híbrido, tendo como principal foco o cuidado com as pessoas.
+Se você tem interesse em fazer parte desse propósito e deseja estar sempre um passo a frente do mercado, vem com a gente!
+Principais atividades: 
+
+
+Realizar o acerto das arrendadas, além de todas tratativas relacionadas ao contrato, atualizações de aditivos, verificação de tabelas, atualizações de valores e etc.
+
+
+Realizar demandas relacionadas ao sistema da empresa, como abertura de pedidos de compras, análise de itens, cadastro de itens, cadastro de fornecedores e etc.
+
+
+Acompanhar, criar e atualizar planilhas excel, forms, referente a demandas voltadas para as unidades.
+
+
+Atualizar as planilhas de indicadores das unidades, levantando dados e analisando de forma geral os dados recebidos.
+
+
+Manter atas de reuniões, material de treinamentos e documentos da área atualizados, fazendo a devida divulgação para as áreas responsáveis, garantindo que as informações sejam confiáveis e atualizadas.
+
+
+Elaborar cronograma, divulgar e preparar as reuniões da área, objetivando a organização e cumprimento de horário do início e término da mesma.
+
+
+Apoiar na elaboração de relatórios de visitas técnicas realizadas nas lojas de captação, garantindo o controle e documentação dos itens observados na visita.
+
+
+Orientar colaboradores no processo de atendimento e coleta de material biológico, garantindo que os processos e orientações sejam realizados corretamente evitando transtornos e insatisfação dos clientes.
+
+
+Auxiliar na conferência e acompanhamento, quando necessário através de relatórios impressos de fechamento de guias, caixa, glosas e notas fiscais não emitidas, evitando erros de resultados e garantindo o correto envio das guias e do caixa.
+
+
+Realizar cancelamentos e substituição de notas fiscais de todas as lojas de captação, garantido que não tenha emissão de notas indevidas ou erradas.
+
+
+Conferir e repassar para a área de remuneração a planilha de remuneração variável do atendimento, assegurando que o pagamento da mesma seja efetuado.
+
+
+Analisar e estabelecer metas de atendimento e repassar para os supervisores de atendimento fazer a devida divulgação nas lojas, promovendo a transparência com as equipes no cumprimento das metas.
+
+
+Acompanhar o serviço de pós-atendimento e pesquisa de satisfação dos clientes, objetivando medir a satisfação dos clientes e melhoria continua dos processos.
+
+
+Mapear e controlar indicadores do atendimento, apoiando na melhoria contínua nos processos, etc.
+
+
+Buscamos alguém que apresente: 
+Formação superior completa ou cursando;
+Conhecimento em rotinas administrativas;
+Pacote office.
+Antes da inscrição na vaga, é importante verificar se você atende aos requisitos e se conecta com nosso propósito.
+Nossa essência inspira o dia a dia, por isso, buscamos pessoas apaixonadas pelo que fazem, e que:
+•	Estimulem um ambiente de troca de conhecimentos, compartilhando experiências, possibilitando a interdependência entre os times;
+•	Estejam em constante movimento, investindo em autodesenvolvimento e atuando como facilitadora no desenvolvimento das outras pessoas;
+•	Busquem consciência social de diversidade e inclusão, cooperando com a construção de um ambiente colaborativo;
+•	Identifiquem e antecipem as necessidades dos clientes, agindo prontamente para encontrar soluções adequadas e personalizadas;
+•	Planejem e executem o trabalho com excelência a fim de atingir os resultados esperados, com a visão de inovação e agilidade;
+•	Gerem e implementem novas ideias, buscando constantemente por melhorias para a experimentação de novas abordagens e a adaptação às mudanças do mercado.
+Informações da vaga:
+Modelo de Trabalho 100% presencial
+Carga Horária: 220h mensais
+Escala/Horário de Trabalho: 8h às 18h segunda a sexta-feira e 4h de trabalho no sábado
+Cuidamos de você em cada etapa da sua jornada! 
+Saúde e Bem-estar:
+• Assistência médica e odontológica para você e sua família;
+• Ambulatório com clínica médica ou atendimento por telemedicina;
+• Linhas de cuidado especializadas: gestantes, adoção, obesidade, oncologia, entre outras;
+• Acesso à plataforma OrienteMe para sessões de terapia e orientação nutricional;
+• Licença maternidade e paternidade estendidas;
+• Acesso ao Wellhub para práticas esportivas e qualidade de vida.
+Proteção e estabilidade:
+• Previdência privada;
+• Participação nos lucros;
+• Seguro de vida.
+Facilidades para o dia a dia:
+• Vale-Alimentação;
+• Vale-Refeição;
+• Vale-Transporte;
+• Auxílio-Creche;
+• Clube de Descontos com lojas, farmácias, viagem, beleza, cultura, lazer, entre outros serviços.
+Desenvolvimento e educação:
+• Plataforma de ensino;
+• Parcerias educacionais com descontos em cursos e instituições.
+Aqui, o cuidado vai além dos benefícios — ele está presente em cada momento da sua trajetória.
+Promovemos uma cultura inclusiva, focada na equidade e na valorização das diferenças. Nossas vagas são abertas para todos os públicos e, simbolizando a nossa intencionalidade, oferecemos oportunidades afirmativas.
+Nosso compromisso vai além do cumprimento das legislações que incentivam a diversidade e inclusão. Trabalhamos ativamente para ampliar a representatividade de nossas pessoas, pensando em raça, etnia, gênero, gerações, pessoas com deficiência e LGBTQIAPN+ em nosso time, além de fortalecer a representatividade de mulheres negras, indígenas, chefes de família.
+Para conhecer mais sobre o Grupo Fleury, acesse o site: https://carreiras.grupofleury.com.br/
+O Grupo Fleury informa que a participação em seus processos seletivos é gratuita e nenhuma empresa terceira está autorizada a cobrar valores para a candidatura às vagas, ao treinamento, ao material didático ou qualquer outra despesa relacionada.",Vagas.com
 Analista de Sistemas,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Personale Consultoria seleciona para seu cliente, associação profissional sem fins lucrativos, que atua na formação profissional de cursos, seminários e congressos:
@@ -3125,91 +3314,6 @@ o Excelente comunicação e capacidade de relacionamento interpessoal para atuar
 o Pensamento analítico e habilidade para solucionar problemas de forma eficiente. 
 o Proatividade e capacidade de gerenciar múltiplas tarefas e projetos simultaneamente. 
 o Curiosidade e interesse em aprender sobre as particularidades dos processos de associativismo e eventos.",Vagas.com
-Analista Fiscal II,Coplacana,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-Estamos procurando um 
-Analista Fiscal II
- para compor o nosso time 
-Fiscal Tributário
-, que seja protagonista, com senso de dono e visão crítica. Que seja capaz de analisar situações/problemas e propor soluções aderentes aos nossos valores e cultura.
-Principais Atividades e Responsabilidades: 
-
-
-Realizar a apuração mensal dos tributos diretos e indiretos, incluindo ICMS, IPI, PIS, COFINS, DIFAL e demais impostos aplicáveis.
-
-
-Realizar apuração de impostos retidos (ISS, INSS, PIS,COFINS, CSLL e IRRF);
-
-
-Assegurar a integridade das informações enviadas às obrigações acessórias (EFD ICMS/IPI, EFD-Contribuições, DCTFWEB, DIRBI, PERD/COMP, REINF e MIT).
-
-
-Conferir, validar e corrigir notas fiscais de entrada e saída, garantindo o correto enquadramento de NCM, CEST, CST, CFOP, CCLASSTRIB e demais parâmetros fiscais.
-
-
-Acompanhar alterações na legislação tributária e aplicar os ajustes necessários nos processos internos e no ERP SAP.
-
-
-Realizar conciliações fiscais, cruzamentos de dados, auditorias internas e análises de inconsistências.
-
-
-Apoiar áreas correlatas (Contabilidade, Compras, Comercial, Operações, TI) no esclarecimento de dúvidas fiscais e no atendimento a demandas operacionais.
-
-
-Preparar relatórios, controles e documentos de suporte para fiscalizações e auditorias internas/externas.
-
-
-Participar de projetos de melhoria, automatização e padronização de rotinas fiscais.
-
-
-O que buscamos? 
- 
-Pré-requisitos: 
-
-
-Formação superior completa em Ciências Contábeis, Administração, Economia ou áreas correlatas.
-
-
-Experiência mínima de três anos comprovada no cargo de Analista Fiscal Pleno, preferencialmente em cooperativas ou empresas com grande volume de operações.
-
-
-Domínio de legislação tributária estadual, federal e municipal.
-
-
-Conhecimento avançado conferência e análise de documentos fiscais (NF-e, NFC-e, NFS-e, CT-e, MDF-e).
-
-
-Domínio de classificações fiscais: NCM, CFOP, CST, CEST, CCLASSTRIB e regras tributárias.
-
-
-Conhecimento atualizado sobre a Reforma Tributária e impactos do IBS e CBS, Nota de Débito e Crédito e etapas de transição.
-
-
-Conhecimento avançado em Excel e Power Point
-
-
- 
-Habilidades: 
-
-
-Senso de urgência.
-
-
-Capacidade de comunicar de forma eficaz;
-
-
-Capacidade de construir relacionamento de confiança com os membros da equipe e demais colaboradores;
-
-
-Perfil analítico, crítico e inovador.
-
-
-Transparência e empatia nas relações completam o perfil.
-
-
-Vaga também disponível para PCD.
-A COPLACANA não faz distinção entre pessoas candidatadas seja por gênero, deficiência, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética.
-Venha fazer parte da equipe COPLACANA! Esperamos por você!",Vagas.com
 Analista de Qualidade,Fundação Educacional Lucas Machado,Belo Horizonte / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,"Descrição
 : 
 •	Contribuir com a liderança e a equipe da Qualidade na elaboração e execução do planejamento operacional, tático e estratégico do sistema de gestão da qualidade.
@@ -3325,6 +3429,91 @@ Todas as fases são eliminatórias e a nota de corte deste processo seletivo ser
 
  Prazo de inscrição:
  21/12/2025 a 04/01/2025",Vagas.com
+Analista Fiscal II,Coplacana,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+: 
+Estamos procurando um 
+Analista Fiscal II
+ para compor o nosso time 
+Fiscal Tributário
+, que seja protagonista, com senso de dono e visão crítica. Que seja capaz de analisar situações/problemas e propor soluções aderentes aos nossos valores e cultura.
+Principais Atividades e Responsabilidades: 
+
+
+Realizar a apuração mensal dos tributos diretos e indiretos, incluindo ICMS, IPI, PIS, COFINS, DIFAL e demais impostos aplicáveis.
+
+
+Realizar apuração de impostos retidos (ISS, INSS, PIS,COFINS, CSLL e IRRF);
+
+
+Assegurar a integridade das informações enviadas às obrigações acessórias (EFD ICMS/IPI, EFD-Contribuições, DCTFWEB, DIRBI, PERD/COMP, REINF e MIT).
+
+
+Conferir, validar e corrigir notas fiscais de entrada e saída, garantindo o correto enquadramento de NCM, CEST, CST, CFOP, CCLASSTRIB e demais parâmetros fiscais.
+
+
+Acompanhar alterações na legislação tributária e aplicar os ajustes necessários nos processos internos e no ERP SAP.
+
+
+Realizar conciliações fiscais, cruzamentos de dados, auditorias internas e análises de inconsistências.
+
+
+Apoiar áreas correlatas (Contabilidade, Compras, Comercial, Operações, TI) no esclarecimento de dúvidas fiscais e no atendimento a demandas operacionais.
+
+
+Preparar relatórios, controles e documentos de suporte para fiscalizações e auditorias internas/externas.
+
+
+Participar de projetos de melhoria, automatização e padronização de rotinas fiscais.
+
+
+O que buscamos? 
+ 
+Pré-requisitos: 
+
+
+Formação superior completa em Ciências Contábeis, Administração, Economia ou áreas correlatas.
+
+
+Experiência mínima de três anos comprovada no cargo de Analista Fiscal Pleno, preferencialmente em cooperativas ou empresas com grande volume de operações.
+
+
+Domínio de legislação tributária estadual, federal e municipal.
+
+
+Conhecimento avançado conferência e análise de documentos fiscais (NF-e, NFC-e, NFS-e, CT-e, MDF-e).
+
+
+Domínio de classificações fiscais: NCM, CFOP, CST, CEST, CCLASSTRIB e regras tributárias.
+
+
+Conhecimento atualizado sobre a Reforma Tributária e impactos do IBS e CBS, Nota de Débito e Crédito e etapas de transição.
+
+
+Conhecimento avançado em Excel e Power Point
+
+
+ 
+Habilidades: 
+
+
+Senso de urgência.
+
+
+Capacidade de comunicar de forma eficaz;
+
+
+Capacidade de construir relacionamento de confiança com os membros da equipe e demais colaboradores;
+
+
+Perfil analítico, crítico e inovador.
+
+
+Transparência e empatia nas relações completam o perfil.
+
+
+Vaga também disponível para PCD.
+A COPLACANA não faz distinção entre pessoas candidatadas seja por gênero, deficiência, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética.
+Venha fazer parte da equipe COPLACANA! Esperamos por você!",Vagas.com
 Analista Ambiental Pl.,EPPO Cidades Inteligentes,Itu / SP                                       A empresa aceita candidaturas de Itu e cidades próximas,SP,"Descrição
 : 
 -Monitorar indicadores ambientais da organização e desenvolver planos de ação.
@@ -3631,6 +3820,80 @@ Híbrido (3 dias presenciais e 2 dias de home office).
 Idiomas
 :
 Inglês - Nível Intermediário",Vagas.com
+Analista de Sistemas Sênior,Icatu Seguros,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Venha viver sua carreira na Icatu.
+Muito prazer, nós somos a Icatu, uma das maiores seguradoras do Brasil.
+Somos referência em criar soluções de proteção financeira e no atendimento aos nossos mais de 14 milhões clientes, e buscamos talentos inquietos, criativos e inovadores para fazerem parte do nosso time de Tecnologia.
+Na Icatu, a área de TI é o coração da empresa. Onde as ideias e projetos de melhoria constante dos nossos produtos tomam corpo.
+Trabalhamos com tecnologia de ponta e, por isso, precisamos contar com profissionais ousados e flexíveis, dispostos a inovar e com foco na solução dos desafios.
+Mas não esquecemos que, por trás da tecnologia, estão pessoas.
+Oferecemos boas oportunidades de crescimento, promovemos a colaboração e a troca de conhecimento.
+Valorizamos habilidades como:
+Gostar de gente;
+Trabalhar em equipe;
+Vontade de aprender e de se desenvolver.
+Nosso ambiente de trabalho é saudável, transparente e colaborativo, e nosso pacote de benefícios, único no mercado, complementa nosso cuidado com nosso time.
+Por isso, somos 11 vezes premiados como uma das melhores empresas para se trabalhar no Brasil, pelo ranking do GPTW.
+Quer conhecer o valor de uma empresa que se importa com você?
+Assista o video, confira os detalhes da vaga e candidate-se!
+Assista o vídeo e conheça mais sobre a área:
+https://youtu.be/mzmmLxA2PZg?si=bgmccZ7atQIUERuh
+Requisitos:
+• Ensino superior completo em TI;
+• Conhecimento em Análise de Negócio e domínio na construção e validação de escopo de projetos;
+• Sólidos conhecimentos na construção de documentação técnica;
+• Expertise na definição e implantação de estratégias para projetos complexos;
+• Sólidos conhecimentos em linguagem de programação orientada a objetos (C#), Domain Driven Design (DDD), Design Patterns (SOLID), banco de dados relacional (SQL Server, Oracle) e não relacional (MongoDB) e APIs;
+• Linguagens e tecnologias front-end: HTML, CSS, Bootstrap, JavaScript, JQuery.
+Principais responsabilidades:
+• Garantir a excelência no desenvolvimento de software, aplicando boas práticas, padrões de projeto e revisões de código.
+• Definir e estruturar a arquitetura das soluções, assegurando modularidade, escalabilidade, segurança e aderência ao negócio.
+• Atuar na melhoria contínua do ciclo de desenvolvimento, promovendo entregas sustentáveis e seguras.
+• Antecipar riscos técnicos, propor soluções robustas e reduzir falhas e débito técnico
+• Colaborar com o time de desenvolvimento, atuando como referência técnica, mentor e disseminador de conhecimento.
+Local de Trabalho:
+ Aqwa Corporate - Zona Portuária - Rio de Janeiro.
+Além dos benefícios citados na vaga, ainda temos:
+
+
+Espaço de convivência com restaurante, cafeteria, sala de jogos, copa equipada para alimentação no local, biblioteca, restaurante, sala de tv e descanso;
+
+
+13º vale-alimentação;
+
+
+Wellhub (ex-Gympass);
+
+
+Wellz (plataforma de terapia);
+
+
+Café da manhã;
+
+
+Previdência privada com 100% de contrapartida da empresa;
+
+
+Fretado do condomínio para pontos estratégicos (VLT, Metrô, Central, Pres. Vargas, Restaurantes e etc.);
+
+
+Seguro Complementar de acidentes pessoais;
+
+
+Auxílio Farmácia com subsídio pela companhia
+
+
+Pluxee Cuida (Aconselhamento psicológico, nutricional, financeiro, jurídico e social);
+
+
+Vacinação da gripe;
+
+
+Boas-vindas para filhos recém-nascido com um plano de previdência e um presente especial;
+
+
+Serviço de assistência funeral familiar",Vagas.com
 Analista de Sistemas II,FIESP,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 • Manter-se atualizado em relação à tecnologia Totvs no que se refere ao sistema Totvs RH (Linha RM) e outras ferramentas integradas.
@@ -3792,6 +4055,85 @@ CRC ativo (ou em fase de obtenção);
 Experiência consolidada com consolidação contábil e elaboração de notas explicativas;
 Forte agilidade e senso crítico para lidar com alto volume de dados e empresas;
 Domínio do Pacote Office, especialmente Excel (nível avançado).",Vagas.com
+Analista de Marketing Digital,CDL/BH,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,"Descrição
+: 
+Você é apaixonado por marketing digital, performance e geração de resultados? Gosta de trabalhar com dados, campanhas estratégicas e inovação digital? Então essa oportunidade pode ser para você!
+Estamos em busca de um 
+Analista de Marketing Digital
+ para atuar como referência em mídia digital e performance, contribuindo diretamente para a geração de demanda, captação de novos clientes e fortalecimento da presença digital da organização.
+🎯
+ Principais desafios do cargo:
+
+
+Planejar, executar e otimizar campanhas de marketing digital em plataformas como Google Ads, Meta Ads, LinkedIn Ads, entre outras;
+
+
+Analisar dados e indicadores de performance para propor melhorias contínuas e maximizar resultados;
+
+
+Atuar de forma integrada com as áreas de Vendas e Produtos, alinhando estratégias e objetivos de negócio;
+
+
+Gerenciar o orçamento de mídia digital com foco em ROI;
+
+
+Produzir relatórios de desempenho e apresentar insights estratégicos para a liderança;
+
+
+Conduzir ações de inbound marketing, automação de e-mail marketing e gestão do funil de vendas;
+
+
+Executar estratégias de remarketing e otimização de campanhas;
+
+
+Atuar na análise e melhoria de SEO, performance de site e landing pages;
+
+
+Utilizar ferramentas de análise como Google Analytics e plataformas de automação (preferencialmente RD Station);
+
+
+Apoiar demandas gerais das áreas de Marketing e Comercial, sempre com foco em inovação, performance e resultados; 
+
+
+Atuar em conformidade com a LGPD, garantindo o uso ético e responsável de dados.
+
+
+🧠 
+O que buscamos:
+
+
+Formação superior em Publicidade e Propaganda, Marketing ou áreas afins;
+
+
+Experiência mínima de 6 meses com marketing digital e campanhas de performance;
+
+
+Conhecimento em inbound marketing, landing pages e automação;
+
+
+Vivência com ferramentas de análise de dados e métricas de desempenho;
+
+
+Conhecimentos sólidos em SEO e SEM;
+
+
+Perfil analítico, organizado, colaborativo e orientado a resultados;
+
+
+Interesse em aprendizado contínuo e atualização sobre tendências digitais.
+
+
+🌟 
+Diferenciais:
+
+
+Pós-graduação em Marketing Digital;
+
+
+Experiência com RD Station;
+
+
+Vivência em ambientes orientados a dados e performance.",Vagas.com
 11066 - Analista Desenvolvedor Pl Sql,Talent Group,N/A,N/A,"Descrição
 : 
 Estamos buscando um desenvolvedor experiente, com forte domínio técnico para atuar em soluções estratégicas usando PL/SQL. 
@@ -3814,6 +4156,80 @@ Desenvolver, testar e manter scripts PL/SQL para sistemas de banco de dados Orac
 📌 Tipo: Contrato indeterminado
 🎓 Formação: Superior completo ou cursando em áreas de Tecnologia
 🏥 Diferencial: Experiência no segmento de Saúde",Vagas.com
+Analista de Recursos Humanos Jr,EDITORA GLOBO,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Suas funções junto ao time serão:
+
+
+Atuar de forma analítica e estratégica na elaboração, controle e acompanhamento do orçamento corporativo, apoiando as áreas na gestão de resultados e garantindo a coerência entre o orçado e o realizado;
+
+
+Responsável por acompanhar, controlar e analisar o orçamento de pessoal e as despesas de RH mensalmente, através da comparação do realizado e a demonstração de resultados do financeiro, contribuindo para a análise dos impactos entre o real x orçado de pessoal;
+
+
+Acompanhar o orçamento de RH Geral;
+
+
+Elaborar, consolidar e revisar o orçamento de Pessoal; 
+
+
+Realizar o acompanhamento mensal do realizado x orçado, analisando desvios e propondo planos de ação;
+
+
+Apoiar as áreas na construção e controle de seus centros de custos;
+
+
+Apoiar na implantação e aprimoramento de processos e ferramentas de planejamento e controle;
+
+
+Realizar análises e acompanhamento entre folha X DRE;
+
+
+Análise das faturas de despesas;
+
+
+Análise do realizado das contas de pessoal;
+
+
+Garantir a integridade e a consistência das informações utilizadas nos controles e relatórios.
+
+
+O que precisamos que você conheça/domine:
+
+
+Experiência prévia em planejamento, orçamento e análise de variações real x orçado;
+
+
+Habilidade para elaboração e análise de relatórios gerenciais;
+
+
+Domínio de Excel e construção de bases de dados.
+
+
+Outros requisitos
+: 
+Formação:
+Ensino superior completo em Administração, Economia, Contabilidade ou áreas correlatas.
+Habilidades Desejáveis:
+
+
+VBA;
+
+
+Power Point;
+
+
+Power BI.
+
+
+Local de trabalho:
+ Butantã, São Paulo-SP
+Modalidade de trabalho:
+ Hibrida
+Horário:
+ 09h às 18h
+""Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Editora Globo e SGR. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://bit.ly/3x85D5X.""
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.",Vagas.com
 Analista Pleno Gestão de Contratos,Elera Renováveis,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Resumo da Posição
@@ -4081,24 +4497,6 @@ Possua autonomia e forte capacidade analítica para lidar com um dia a dia quant
 
 Não cobramos pela participação no processo seletivo e toda a nossa comunicação relacionada a ele é feita através dos canais oficiais da empresa
 .",Vagas.com
-Analista de Field Service,Inspirali,Tubarão / SC                                       A empresa aceita candidaturas de Tubarão e cidades próximas,SC,"Descrição
-: 
-Desenvolver atividades de suporte técnico na área de Tecnologia da Informação realizando análise, implantação e manutenção de hardwares, softwares e equipamentos, a fim de contribuir para a otimização dos
-processos relacionados à área.
-Instalar, configurar e realizar a manutenção das redes sem fio e do cabeamento estruturado, bem como das bases de dados utilizadas pela Instituição, promovendo o acesso dos usuários às informações, conforme as diretrizes definidas pela política de segurança institucional;
-Oferecer suporte quanto à rede de telefonia integrada aos computadores e à parte elétrica envolvida, a fim de atender as demandas da Instituição;
-Instalação ou desinstalação, atualização configuração e teste de softwares, garantir que o software esteja atualizado com as tecnologias mais recentes;
-Colaborar com equipes internas e fornecedores para corrigir e melhorar produtos;
-Documentar fases de desenvolvimento e monitorar sistemas.
-Gestão de inventário de equipamentos de TI.
-Gestão e criação de grupos e usuários no AD (Active Directory). 
-Outros requisitos
-: 
-Graduação completa na área de Tecnologia da Informação;
-Experiência em serviço de campo (remanejamento, instalação e configuração de equipamentos de TI);
-Análise de Dados e Relatórios;
-Flexibilidade para trabalhar em diferentes ambientes e situações
-Experiência na função de Field Service.",Vagas.com
 Analista de Gestão de Fornecedores,Proativa RH,Localização não informada,N/A,"Descrição
 : 
 Requisitos
@@ -4126,6 +4524,24 @@ Regime Híbrido
 Local de Trabalho: 
 Zona Oeste/SP
 (VAGA EFETIVA e EXCLUSIVA PARA PCD's)",Vagas.com
+Analista de Field Service,Inspirali,Tubarão / SC                                       A empresa aceita candidaturas de Tubarão e cidades próximas,SC,"Descrição
+: 
+Desenvolver atividades de suporte técnico na área de Tecnologia da Informação realizando análise, implantação e manutenção de hardwares, softwares e equipamentos, a fim de contribuir para a otimização dos
+processos relacionados à área.
+Instalar, configurar e realizar a manutenção das redes sem fio e do cabeamento estruturado, bem como das bases de dados utilizadas pela Instituição, promovendo o acesso dos usuários às informações, conforme as diretrizes definidas pela política de segurança institucional;
+Oferecer suporte quanto à rede de telefonia integrada aos computadores e à parte elétrica envolvida, a fim de atender as demandas da Instituição;
+Instalação ou desinstalação, atualização configuração e teste de softwares, garantir que o software esteja atualizado com as tecnologias mais recentes;
+Colaborar com equipes internas e fornecedores para corrigir e melhorar produtos;
+Documentar fases de desenvolvimento e monitorar sistemas.
+Gestão de inventário de equipamentos de TI.
+Gestão e criação de grupos e usuários no AD (Active Directory). 
+Outros requisitos
+: 
+Graduação completa na área de Tecnologia da Informação;
+Experiência em serviço de campo (remanejamento, instalação e configuração de equipamentos de TI);
+Análise de Dados e Relatórios;
+Flexibilidade para trabalhar em diferentes ambientes e situações
+Experiência na função de Field Service.",Vagas.com
 Analista de Controle de Qualidade Jr,União Química Farmacêutica Nacional,Pouso Alegre / MG                                       A empresa aceita candidaturas de Pouso Alegre e cidades próximas,MG,"Descrição
 : 
 
@@ -4316,6 +4732,32 @@ Outros requisitos
 •	Conhecimento fiscal;
 •	Experiência em varejo e E-commerce;
 •	Excel intermediário.",Vagas.com
+Analista de Pesquisa Sênior - Pesquisa,Confidencial,Brasília / DF                                       A empresa aceita candidaturas de Brasília e cidades próximas,DF,"Descrição
+: 
+Requisitos
+:
+- Formação: Graduação Concluída em Enfermagem ou Farmácia (em último caso, Biomedicina);
+- Conhecimento em Pacote Office;
+- Inglês com boa leitura e escrita.
+-Experiência prévia em Pesquisa Clínica, preferencialmente nas áreas de Oncologia ou Hematologia.
+Atividades
+:
+Auxiliar na elaboração dos Procedimentos Operacionais Padrão (POP) do departamento de Pesquisa Clínica, em conjunto com a Coordenadora de Projetos;
+Executar o atendimento aos participantes dos estudos clínicos institucionais e patrocinados de menor a grande complexidade, em conformidade com os padrões éticos;
+Realizar a pré-triagem dos participantes de pesquisa clínica antes da consulta médica, quando aplicável ao projeto;
+Garantir a coleta e o registro dos dados clínicos requeridos pelos estudos, em prontuário ou documento-fonte;
+Gerenciar estudos clínicos de menor a grande complexidade, promovendo a integração entre a equipe do centro médico, enfermagem e farmácia;
+Prestar suporte operacional às ações relacionadas à condução de projetos de pesquisa envolvendo seres humanos;
+Auxiliar o investigador principal e os médicos delegados no cumprimento do protocolo de pesquisa, atendendo às exigências metodológicas e éticas;
+Realizar o preenchimento dos bancos de dados dos estudos clínicos, disponibilizados pelo patrocinador ou pela própria instituição;
+Prestar assistência aos sujeitos de pesquisa quanto a questionamentos relacionados a eventos adversos e ao adequado agendamento para seguimento do protocolo;
+Manter contato contínuo com os órgãos competentes, atualizando-os sobre eventos adversos graves, emendas de protocolo e demais alterações ocorridas ao longo da condução dos estudos, mantendo patrocinadores e autoridades devidamente informados sobre o status do estudo.
+Outras informações:
+- Local de trabalho: DF;
+- Escala de trabalho: Presencial - 5x2 2ª a 5ª das 08h ás 18h e 6ª das 08h ás 17h;
+- Disponibilidade para treinamento.
+Outros requisitos
+:",Vagas.com
 Analista de Agricultura de Precisão,Bom Futuro,Cuiabá / MT                                       A empresa aceita candidaturas de Cuiabá e cidades próximas,MT,"Descrição
 : 
 Superior Cursando em Agronomia ou Agrocomputação;
@@ -4358,21 +4800,6 @@ Outros requisitos
 •	Boa comunicação e postura colaborativa
 •	Proatividade e foco em conformidade e melhoria contínua
 •	Capacidade de lidar com múltiplas demandas e prazos",Vagas.com
-Analista de Auditoria Interna Jr,Frescatto,Duque de Caxias / RJ                                       A empresa aceita candidaturas de Duque de Caxias e cidades próximas,RJ,"Descrição
-: 
-Execução de testes baseados em procedimentos operacionais (POP) descritos;
-Levantamento e documentação de processos operacionais e administrativos;
-Apoio na execução de testes de auditoria baseados em matriz de risco estabelecida
-Elaboração de papéis de trabalho organizados e padronizados.
-Apoio na redação de relatórios de auditoria e de recomendações de melhoria.
-Apoio na elaboração de fluxogramas e narrativas de processos não mapeados
-Outros requisitos
-: 
-Formação Superior concluída em Ciências Contábeis, Administração, Economia, Engenharia de Produção.
-Conhecimento básico em controles internos, gestão de riscos e auditoria de processos e sistemas.
-Domínio da ferramenta Office (principalmente Excel)
-Experiência em departamento de auditoria Interna
-Desejável familiaridade com ferramentas de análise de dados (Power BI ou similares)",Vagas.com
 Pessoa Analista de Projetos I,Rio Mais Saneamento,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Estamos em busca de uma Pessoa Analista de projetos I para se juntar à nossa equipe! Se você tem habilidades analíticas, boa comunicação, e deseja trabalhar na elaboração, análise, planejamento e acompanhamento de projetos, essa é a oportunidade certa para você.
@@ -4435,24 +4862,6 @@ Extras:
 - CLT, formato híbrido;
 - Segunda a sexta-feira, de 9h às 18h;
 - Bairro: Centro - RJ.",Vagas.com
-Analista Pesquisa Clínica,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Estamos em busca de um Analista de Pesquisa Clínica para se juntar à nossa equipe. Se você é apaixonado por pesquisa clínica e busca por um ambiente dinâmico e desafiador, essa pode ser a oportunidade ideal para você!
-Responsabilidades:
-- Realizar a coleta, organização e análise de dados clínicos.
-- Auxiliar na elaboração de relatórios e documentos técnicos.
-- Garantir o cumprimento dos protocolos de pesquisa clínica.
-- Colaborar com a equipe multidisciplinar no desenvolvimento de estudos clínicos.
-Requisitos:
-- Formação em áreas relacionadas à saúde.
-- Experiência prévia em pesquisa clínica.
-- Conhecimento em boas práticas clínicas.
-- Habilidade para trabalhar em equipe e de forma autônoma.
-- Excelentes habilidades de comunicação e organização.
-Se você se identifica com o perfil e está em busca de novos desafios, candidate-se agora mesmo!
-Idiomas
-:
-Inglês - Nível Avançado",Vagas.com
 Analista de Inteligência Comercial,Grupo SERES,Itajaí / SC                                       A empresa aceita candidaturas de Itajaí e cidades próximas,SC,"Descrição
 : 
 O Grupo Seres em parceria com uma empresa no segmento comercial, seleciona profissional para atuar na função de Analista de Inteligência de Mercado.
@@ -4519,21 +4928,6 @@ Outros requisitos
 Necessário ensino superior completo;
 Necessário ter disponibilidade para atuar 100% presencial - Ipiranga, mas atuará de forma corporativa.
 Horário de trabalho: 08:00 x 18:00 (sexta-feria 08:00 x 17:00).",Vagas.com
-Analista de Projetos Mecânicos(026915),Lyon Engenharia,Alto Horizonte / GO                                       A empresa aceita candidaturas de qualquer cidade do Brasil,GO,"Descrição
-: 
-Requisitos
-:
-Técnico em mecânica; Desejável Engenharia mecânica.
-CNH categoria B, definitiva;
-Domínio de AutoCad;
-Experiência com elaboração de projetos mecânicos;
-Principais atividades:
-Elaborar Projetos da Disciplina de Mecânica (tubulações, estrutura metálica, suportes, passarelas/plataformas/escadas, equipamentos, ferramentas e dispositivos, transporte e movimentação, etc), em atendimento as necessidades da GEP.
-Produzir documentos complementares de engenharia (PQ’s, LM’s, MD’s, MC’s, LD’s, etc) em atendimento aos respectivos projetos elaborados sob a sua responsabilidade, quando aplicável.
-Realizar visitas técnicas com os clientes internos e Contratada, quando aplicável, para levantamento de dados de campo e posterior apresentação de croquis/projetos.
-Realizar visitas técnicas à Contratada para inspeção/validação de conformidade das fabricações com base nos projetos mecânicos produzidos. 
-Elaborar/especificar lista de materiais diversos de mecânica para aquisição, em atendimento as necessidades das obras da GEP.
-Atualizar semanalmente Planilha de Controle",Vagas.com
 Analista de Relacionamento com Prestador Jr,Abertta Saúde,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,"Descrição
 : 
 Requisitos:
@@ -4579,6 +4973,21 @@ Atuar na comunicação ativa com prestadores para manutenção do relacionamento
 
 
 Apoiar o onboarding de novos prestadores e atuar como ponto de contato entre eles e áreas internas.",Vagas.com
+Analista de Projetos Mecânicos(026915),Lyon Engenharia,Alto Horizonte / GO                                       A empresa aceita candidaturas de qualquer cidade do Brasil,GO,"Descrição
+: 
+Requisitos
+:
+Técnico em mecânica; Desejável Engenharia mecânica.
+CNH categoria B, definitiva;
+Domínio de AutoCad;
+Experiência com elaboração de projetos mecânicos;
+Principais atividades:
+Elaborar Projetos da Disciplina de Mecânica (tubulações, estrutura metálica, suportes, passarelas/plataformas/escadas, equipamentos, ferramentas e dispositivos, transporte e movimentação, etc), em atendimento as necessidades da GEP.
+Produzir documentos complementares de engenharia (PQ’s, LM’s, MD’s, MC’s, LD’s, etc) em atendimento aos respectivos projetos elaborados sob a sua responsabilidade, quando aplicável.
+Realizar visitas técnicas com os clientes internos e Contratada, quando aplicável, para levantamento de dados de campo e posterior apresentação de croquis/projetos.
+Realizar visitas técnicas à Contratada para inspeção/validação de conformidade das fabricações com base nos projetos mecânicos produzidos. 
+Elaborar/especificar lista de materiais diversos de mecânica para aquisição, em atendimento as necessidades das obras da GEP.
+Atualizar semanalmente Planilha de Controle",Vagas.com
 Analista Sr Estudos Mercado,Elera Renováveis,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Resumo da Posição
@@ -4735,6 +5144,23 @@ Noções de processos de logística e armazenagem.
 
 
 Vivência em ambientes industriais ou centros de distribuição.",Vagas.com
+Analista de Indicadores e Resultados,Trasmontano Saúde,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+PRINCIPAIS ATIVIDADES
+1.	Elaborar relatórios gerenciais e de controle conforme as solicitações da área, garantindo a precisão das informações e o acompanhamento dos volumes, custos e tendências;
+2.	Alimentar, analisar e apresentar os indicadores atualizados com foco em metas, prazos e resultados;
+3.	Calcular, analisar e modelar informações para gerar / aprimorar indicadores da área; 
+4.	Participação na construção de book de indicadores; 
+5.	Realizar envio mensal da quantidade de cirurgias por especialidade médica, assegurando precisão e consistência das informações;
+6.	Criar Dashboards e apresentações quando solicitado e realizar a manutenção nos já existentes;
+7.	Realizar interface constante com outras áreas para colher informações necessárias ao processo de trabalho;  
+8.	Abrir solicitações na área de Ti e acompanhar os chamados com foco em melhorias nos processos relacionados ao sistema.
+SETOR
+Guias
+Outros requisitos
+: 
+Ensino superior em Tecnologia, Administração, Análise de dados ou áreas correlatas.
+Necessário conhecimento comprovado em Excel no nível intermediário.",Vagas.com
 Analista de Segurança da Informação Sênior,Confidencial,Pouso Alegre / MG                                       A empresa aceita candidaturas de Pouso Alegre e cidades próximas,MG,"Descrição
 : 
 Conduzir ações de conscientização em segurança da informação, mitigando riscos ao negócio;
@@ -4919,7 +5345,7 @@ Especialização na área de gestão de pessoas, departamento pessoal ou contabi
 Domínio em Excel;
 Experiência em sistemas de folha de pagamento (RM Labore) e portais bancários;
 Conhecimento das obrigações acessórias e E-social.",Vagas.com
-Pessoa Analista Comercial I,Rio Mais Saneamento,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+Pessoa Analista Comercial I,Rio Mais Saneamento,Macuco / RJ                                       A empresa aceita candidaturas de Macuco e cidades próximas,RJ,"Descrição
 : 
 Estamos em busca de uma Pessoa Analista Comercial I para se juntar à nossa equipe! Se você tem habilidades analíticas, comunicação excepcional, e deseja trabalhar diretamente com o time de cobrança, fazendo contato direto com grandes clientes, essa é a oportunidade perfeita para você!
 Responsabilidades do cargo:
@@ -4954,7 +5380,7 @@ Habilidade analítica;
 
 
 Dinamismo e boa comunicação.",Vagas.com
-Pessoa Analista Comercial I,Rio Mais Saneamento,Macuco / RJ                                       A empresa aceita candidaturas de Macuco e cidades próximas,RJ,"Descrição
+Pessoa Analista Comercial I,Rio Mais Saneamento,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Estamos em busca de uma Pessoa Analista Comercial I para se juntar à nossa equipe! Se você tem habilidades analíticas, comunicação excepcional, e deseja trabalhar diretamente com o time de cobrança, fazendo contato direto com grandes clientes, essa é a oportunidade perfeita para você!
 Responsabilidades do cargo:
@@ -5142,55 +5568,6 @@ Perfil analítico e voltado à melhoria contínua.
 
 Outros requisitos
 : sem comantarios",Vagas.com
-Analista de Planejamento Tributário,AMAGGI,Cuiabá / MT                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MT,"Descrição
-: 
-Atribuições:
-
-
-Apresentar informações de suporte para elaboração do orçamento tributário do Grupo Amaggi, com intuito de beneficiar legalmente dos atributos disponíveis;
-
-
-Controlar o orçamento anual do departamento, identificando possíveis divergências entre custos orçados x realizados;
-
-
-Contribuir na estruturação de ações de reduções da carga tributária das atividades da empresa, visando a utilização dos benefícios tributários;
-
-
-Elaborar relatórios ou planilhas específicas, informando os dados e valores tributários, objetivando tomadas de decisão;
-
-
-Identificar possíveis contingências e pontos do planejamento que possam ser ajustados ou melhorados, com intuito de assegurar da utilização correta dos incentivos legais;
-
-
-Operacionalizar a abertura, alteração e baixa dos cadastros das empresas na esfera municipal, estadual e Federal;
-
-
-Estudo diário das legislações tributárias;
-
-
-Controle dos prazos internos e externos;
-
-
-Responsável pelo atendimento das fiscalizações municipais, estaduais e federais.
-
-
- Requisitos Necessários:
- 
-
-
-Ensino Superior Completo em Administração, Direito, Contabilidade;
-
-
-Conhecimentos e Qualificações Específicas: Legislação Tributária;
-
-
-Conhecer a funcionalidade de todos os Tributos Federais, Estaduais e Municipais, Noções de Contabilidade, Cisão, Fusão e Incorporação Análise de Balanço e Operações Tributárias.
-
-
-Pacote Office, Outlook e Sistemas Corporativos.
-
-
-*Nossas oportunidades são abertas para todos os profissionais, sem distinção de raça, cor, gênero, idade, crença e deficiência (PCD)*",Vagas.com
 Analista de Faixa de Domínio Jr,Concessionária Tamoios,Caraguatatuba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 
@@ -5324,6 +5701,55 @@ Certificações TOTVS.
 
 Formação
 Ensino superior completo em Administração, Contabilidade ou áreas correlatas.",Vagas.com
+Analista de Planejamento Tributário,AMAGGI,Cuiabá / MT                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MT,"Descrição
+: 
+Atribuições:
+
+
+Apresentar informações de suporte para elaboração do orçamento tributário do Grupo Amaggi, com intuito de beneficiar legalmente dos atributos disponíveis;
+
+
+Controlar o orçamento anual do departamento, identificando possíveis divergências entre custos orçados x realizados;
+
+
+Contribuir na estruturação de ações de reduções da carga tributária das atividades da empresa, visando a utilização dos benefícios tributários;
+
+
+Elaborar relatórios ou planilhas específicas, informando os dados e valores tributários, objetivando tomadas de decisão;
+
+
+Identificar possíveis contingências e pontos do planejamento que possam ser ajustados ou melhorados, com intuito de assegurar da utilização correta dos incentivos legais;
+
+
+Operacionalizar a abertura, alteração e baixa dos cadastros das empresas na esfera municipal, estadual e Federal;
+
+
+Estudo diário das legislações tributárias;
+
+
+Controle dos prazos internos e externos;
+
+
+Responsável pelo atendimento das fiscalizações municipais, estaduais e federais.
+
+
+ Requisitos Necessários:
+ 
+
+
+Ensino Superior Completo em Administração, Direito, Contabilidade;
+
+
+Conhecimentos e Qualificações Específicas: Legislação Tributária;
+
+
+Conhecer a funcionalidade de todos os Tributos Federais, Estaduais e Municipais, Noções de Contabilidade, Cisão, Fusão e Incorporação Análise de Balanço e Operações Tributárias.
+
+
+Pacote Office, Outlook e Sistemas Corporativos.
+
+
+*Nossas oportunidades são abertas para todos os profissionais, sem distinção de raça, cor, gênero, idade, crença e deficiência (PCD)*",Vagas.com
 Analista de Administração de Vendas Jr,Eternit,Hortolândia / SP                                       A empresa aceita candidaturas de Hortolândia e cidades próximas,SP,"Descrição
 : 
 Estamos em busca de um(a) Analista de Administração de Vendas Jr para executar as atividades de apoio administrativo no âmbito da área comercial aos representantes com as outras áreas da empresa. Atendimento as necessidades de informações da equipe de vendas e processo de vendas, por meio das políticas e procedimentos internos a fim de contribuir com os objetivos e metas da área comercial.
@@ -5384,22 +5810,6 @@ Principais Responsabilidades:
 •	Elaborar reports e apoiar na construção de dashboards operacionais e comerciais.
 •	Interagir com as áreas internas para ajustes cadastrais, validação de consumos, solução de pendências e melhoria dos processos.
 •	Contribuir para a padronização e otimização das rotinas de faturamento e arrecadação.",Vagas.com
-Analista de Sistemas - Protheus,Grupo Technos,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
-: 
-Seu papel será:
-•	Responsável por implantar e manter sistemas informatizados, com foco no ERP Protheus, garantindo eficiência, integração e confiabilidade dos processos corporativos. Atua na análise, customização, suporte e evolução das soluções tecnológicas, alinhando as necessidades das áreas usuárias aos recursos disponíveis no sistema.
-Principais Atividades:
-•	Analisar e desenvolver sistemas de informação, aplicando metodologias e técnicas adequadas para otimizar processos e rotinas das áreas de negócio.
-•	Levantar requisitos com as áreas solicitantes, realizar análise funcional, especificação técnica, programação, testes, homologação, implantação e acompanhamento pós-implantação.
-•	Atuar em projetos de melhoria e integração de sistemas, garantindo o funcionamento adequado das interfaces com o Protheus e demais plataformas corporativas.
-•	Realizar atendimentos de suporte técnico e funcional, bem como abertura e acompanhamento de chamados junto à TOTVS.
-Requisitos:
-•	Formação superior completa em Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas.
-•	Experiência comprovada com o ERP Protheus 12.1.2410 ou superior (TOTVS) – módulos administrativos (Contabilidade, Fiscal, Financeira, Compras, Faturamento, Folha), PDV.
-•	Conhecimento em banco de dados SQL (MS SQL Server) e elaboração de consultas.
-•	Vivência em implantação de sistemas, suporte técnico e documentação de processos.
-Diferenciais Desejáveis:
-•	Conhecimento em linguagem ADVPL/TLPP para customizações e desenvolvimento de rotinas.",Vagas.com
 Analista Desenvolvedor Pleno - Protheus,Manuchar,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Estamos em busca de um(a) Desenvolvedor(a) apaixonado(a) por tecnologia, que goste de criar soluções inteligentes e participar de todo o ciclo de desenvolvimento — da ideia ao deploy.
@@ -5464,6 +5874,22 @@ Se você busca crescimento, desafios reais e um ambiente que valoriza suas ideia
 Idiomas
 :
 Inglês - Nível Intermediário",Vagas.com
+Analista de Sistemas - Protheus,Grupo Technos,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Seu papel será:
+•	Responsável por implantar e manter sistemas informatizados, com foco no ERP Protheus, garantindo eficiência, integração e confiabilidade dos processos corporativos. Atua na análise, customização, suporte e evolução das soluções tecnológicas, alinhando as necessidades das áreas usuárias aos recursos disponíveis no sistema.
+Principais Atividades:
+•	Analisar e desenvolver sistemas de informação, aplicando metodologias e técnicas adequadas para otimizar processos e rotinas das áreas de negócio.
+•	Levantar requisitos com as áreas solicitantes, realizar análise funcional, especificação técnica, programação, testes, homologação, implantação e acompanhamento pós-implantação.
+•	Atuar em projetos de melhoria e integração de sistemas, garantindo o funcionamento adequado das interfaces com o Protheus e demais plataformas corporativas.
+•	Realizar atendimentos de suporte técnico e funcional, bem como abertura e acompanhamento de chamados junto à TOTVS.
+Requisitos:
+•	Formação superior completa em Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas.
+•	Experiência comprovada com o ERP Protheus 12.1.2410 ou superior (TOTVS) – módulos administrativos (Contabilidade, Fiscal, Financeira, Compras, Faturamento, Folha), PDV.
+•	Conhecimento em banco de dados SQL (MS SQL Server) e elaboração de consultas.
+•	Vivência em implantação de sistemas, suporte técnico e documentação de processos.
+Diferenciais Desejáveis:
+•	Conhecimento em linguagem ADVPL/TLPP para customizações e desenvolvimento de rotinas.",Vagas.com
 Analista Administrativo Filial,COPLACANA,Charqueada / SP                                       A empresa aceita candidaturas de Charqueada e cidades próximas,SP,"Descrição
 : 
 •	Fazer a gestão administrativa e financeira da filial e prestar suporte para a equipe comercial de forma a garantir o bom funcionamento da unidade e o bom atendimento aos clientes e cooperados.  
@@ -5506,6 +5932,39 @@ Requisitos e Qualificações
 - Ensino Superior completo em Administração ou áreas correlatas;
 - Vivência com diferentes convenções coletivas e sindicatos;
 - Conhecimento no sistema LG (será considerado um diferencial).",Vagas.com
+Analista de Governança de TI - Sr,Fundação São Francisco Xavier,Ipatinga / MG                                       A empresa aceita candidaturas de Ipatinga e cidades próximas,MG,"Descrição
+: 
+Monitorar e revisar os processos de Governança de TI, assegurando conformidade com políticas internas, normas regulatórias e boas práticas de mercado.
+Elaborar, revisar e manter atualizados procedimentos, políticas e controles relacionados à tecnologia e à segurança da informação.
+Atuar diretamente em auditorias internas e externas, com foco nas normas ISO 9001, ONA, DIAS NIAHO e RN 507, garantindo a preparação da área de TI e o atendimento às não conformidades identificadas.
+Conduzir análises de riscos de TI, propondo planos de ação e estratégias de mitigação alinhadas aos objetivos corporativos.
+Liderar o processo de gestão de mudanças, assegurando que todas as alterações sejam realizadas de forma controlada, documentada e com mínimo impacto operacional.
+Gerenciar indicadores estratégicos e operacionais dos serviços de TI, promovendo a melhoria contínua e a eficiência dos processos.
+Atuar como ponto focal para demandas relacionadas à gestão da qualidade, garantindo alinhamento entre as áreas envolvidas e conformidade com os requisitos normativos.
+Apoiar a evolução da maturidade dos processos de TI, contribuindo para a padronização, segurança e eficácia das operações
+Requisitos: 
+
+
+Ensino superior completo em Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas;
+
+
+Experiência em governança de TI, processos ITSM e auditorias;
+
+
+Conhecimento sólido em ITIL, COBIT, CGEIT, ISO 38500 e gestão de riscos;
+
+
+Domínio do pacote Office e ferramentas de governança;
+
+
+Certificações desejáveis: ITIL, COBIT, CGEIT, ITMP, ISO 38500.
+Dados da vaga:
+
+
+Horário: 08h00 às 17h16
+
+
+Local: Ipatinga-MG",Vagas.com
 Analista de TI Sr. - Cloud,TO Brasil Consultoria em Tecnologia da Informação,N/A,N/A,"Descrição
 : 
 Responsabilidades:
@@ -5589,39 +6048,6 @@ Experiência em projetos de transformação digital.
 
 
 Conhecimento em metodologias ágeis e frameworks de governança.",Vagas.com
-Analista de Governança de TI - Sr,Fundação São Francisco Xavier,Ipatinga / MG                                       A empresa aceita candidaturas de Ipatinga e cidades próximas,MG,"Descrição
-: 
-Monitorar e revisar os processos de Governança de TI, assegurando conformidade com políticas internas, normas regulatórias e boas práticas de mercado.
-Elaborar, revisar e manter atualizados procedimentos, políticas e controles relacionados à tecnologia e à segurança da informação.
-Atuar diretamente em auditorias internas e externas, com foco nas normas ISO 9001, ONA, DIAS NIAHO e RN 507, garantindo a preparação da área de TI e o atendimento às não conformidades identificadas.
-Conduzir análises de riscos de TI, propondo planos de ação e estratégias de mitigação alinhadas aos objetivos corporativos.
-Liderar o processo de gestão de mudanças, assegurando que todas as alterações sejam realizadas de forma controlada, documentada e com mínimo impacto operacional.
-Gerenciar indicadores estratégicos e operacionais dos serviços de TI, promovendo a melhoria contínua e a eficiência dos processos.
-Atuar como ponto focal para demandas relacionadas à gestão da qualidade, garantindo alinhamento entre as áreas envolvidas e conformidade com os requisitos normativos.
-Apoiar a evolução da maturidade dos processos de TI, contribuindo para a padronização, segurança e eficácia das operações
-Requisitos: 
-
-
-Ensino superior completo em Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas;
-
-
-Experiência em governança de TI, processos ITSM e auditorias;
-
-
-Conhecimento sólido em ITIL, COBIT, CGEIT, ISO 38500 e gestão de riscos;
-
-
-Domínio do pacote Office e ferramentas de governança;
-
-
-Certificações desejáveis: ITIL, COBIT, CGEIT, ITMP, ISO 38500.
-Dados da vaga:
-
-
-Horário: 08h00 às 17h16
-
-
-Local: Ipatinga-MG",Vagas.com
 Analista Sênior SAP Hcm,ZF Automotive,Sorocaba / SP                                       A empresa aceita candidaturas de Sorocaba e cidades próximas,SP,"Descrição
 : 
 O que você pode esperar Como Analista de SAP HCM  (m/f/d):
@@ -5731,6 +6157,67 @@ Bons conhecimentos em ferramentas como: Excel, Canva e Google Sheets;
 
 
 Desejável conhecimento em People Analytics e uso de dados para tomada de decisão.",Vagas.com
+11043 - Analista Oracle Epm,Talent Group,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,"Descrição
+: 
+Estamos em busca de um(a) profissional para integrar a equipe de uma instituição referência nacional em educação executiva, conhecida por sua atuação estratégica em pesquisa, inovação e formação de líderes que transformam o mercado.
+Requisitos:
+Curso superior completo em Tecnologia da Informação
+Experiência mínima de 4 anos em implantação/manutenção de Oracle EPM Cloud (PBCS e PCM);
+Conhecimento no desenvolvimento de integrações utilizando as ferramentas Oracle Data Integration (ODI);
+Conhecimento de banco de dados Oracle; 
+Noções de contabilidade;
+Conhecimento de soluções orçamentárias e de rateio de custos; 
+Experiência em levantamento de requisitos;
+Inglês técnico
+Descrição da Vaga:
+Atuar em projetos e sustentação dos módulos Oracle Profitability and Cost Management (PCM) e Oracle Planning and Budgeting Cloud Service (PBCS).
+Realizar a ponte entre as áreas de negócios e a equipe técnica, levantando requisitos, propondo melhorias e garantindo a entrega de soluções alinhadas com as necessidades da empresa.
+Levantamento, análise e documentação de requisitos funcionais e não funcionais.
+Atuar como facilitador(a) entre a área de negócios e a equipe de desenvolvimento de software.
+Elaborar e revisar especificações técnicas e funcionais.
+Participar de reuniões com stakeholders, propondo soluções tecnológicas para problemas de negócio.
+Apoiar testes de validação (UAT), garantindo que os requisitos foram corretamente implementados.
+Acompanhar a implementação de sistemas e apoiar na gestão de mudanças.
+Identificar oportunidades de melhorias nos processos e sistemas atuais.
+Desejável:
+Certificações Oracle EPM;
+Fundamento de Inteligência Artificial (IA Generativa, LLMs, Ferramentas de IA.
+Habilidades:
+
+
+Capacidade de análise crítica
+
+
+Organização
+
+
+Boa comunicação com diferentes áreas da empresa
+
+
+Escuta ativa
+
+
+Empatia
+
+
+Pensamento estratégico
+
+
+Adaptabilidade
+
+
+Resolução de conflitos
+
+
+Gestão de tempo
+
+
+Negociação com stakeholders.
+
+
+Idiomas
+:
+Inglês - Nível Intermediário",Vagas.com
 Analista de Redes Sociais Sr,CIEE,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Responsabilidades e atribuições
@@ -5931,41 +6418,6 @@ Inglês avançado;
 
 
 Experiência na função ou em áreas relacionadas, preferencialmente no setor farmacêutico.",Vagas.com
-Analista de RH,RANDSTAD BRASIL,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
-: 
-A Randstad está apoiando um de seus clientes, empresa do segmento industrial especializada em insumos farmacêuticos, na seleção de profissional para atuar na zona norte do Rio:
-Oportunidade
-: Analista de RH
-Responsabilidades
-:
-Executar ações do Programa de Inovação e Intraempreendedorismo;
-Atuar como facilitador entre a Comissão de Inovação e a liderança, garantindo a continuidade, organização e engajamento do Programa de Intraempreendedorismo e Inovação.
-Realizar admissão, atualização cadastral e desligamentos;
-Fechar o ponto mensal dos colaboradores, utilizando sistema próprio, para fazer o levantamento de horas extra e banco de horas, garantindo o pagamento dos valores devidos;
- Agendamento de periódicos semestrais e anuais, elaborando planilhas e agendando junto ao Sesi, em concordância com os líderes de cada setor, garantindo as exigências trabalhistas;
-Acompanhar férias, atestados, afastamentos e licenças;
-Controlar e gerir benefícios: vale transporte, alimentação, plano de saúde, etc. Apoiar a folha de pagamento (conferência de dados e lançamentos);
-Atender colaboradores em dúvidas relacionadas a contracheques, férias, benefícios, etc;
-Apoiar auditorias internas e externas com fornecimento de documentos e registros.
-Requisitos
-:
-Ensino superior completo em Gestão de RH, Psicologia, Administração, Gestão de Pessoas ou áreas correlatas.
-Experiência com cultura organizacional, clima, comunicação interna ou gestão de pessoas.
-Conhecimento básico de metodologias de inovação, intraempreendedorismo ou melhoria contínua (diferencial).
-Habilidade para conduzir reuniões, facilitar conversas e organizar informações com colaboradores e liderança.
-Experiência com Microsoft 365 (Planner, Teams, SharePoint).
-Conhecimento sobre Gestão do Conhecimento ou ISO 56002.
-Fácil acesso à Inhaúma - RJ
-Salário
-: pretensão salarial
-Benefícios
-: Plano de saúde para o titular e um dependente sem desconto em folha, Vale transporte, Vale refeição R$41,00/dia. TotalPass (academia), Café da manhã e lanche da tarde na empresa.
-Horário de trabalho
-: 08h às 17h - segunda à sexta (100% presencial)
-Local de trabalho
-: Inhaúma - RJ
-Outros requisitos
-:",Vagas.com
 Analista de Departamento Pessoal,RENOVA BE,Valinhos / SP                                       A empresa aceita candidaturas de Valinhos e cidades próximas,SP,"Descrição
 : 
 Executar as rotinas de Departamento Pessoal com foco em garantir o cumprimento das obrigações legais e manter os processos organizados e atualizados. Trabalhar em parceria com o escritório contábil e com a liderança de Gente & Gestão, contribuindo para a organização e a melhoria contínua dos processos da área.
@@ -6025,6 +6477,41 @@ O que nós vamos te oferecer ?
 Outros requisitos
 : 
 Bom relacionamento interpessoal, engajada com a área e queira participar de uma transformação na área de seleção. Pensamentos Inovadores e criativos são muito bem vindos.",Vagas.com
+Analista de RH,RANDSTAD BRASIL,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+A Randstad está apoiando um de seus clientes, empresa do segmento industrial especializada em insumos farmacêuticos, na seleção de profissional para atuar na zona norte do Rio:
+Oportunidade
+: Analista de RH
+Responsabilidades
+:
+Executar ações do Programa de Inovação e Intraempreendedorismo;
+Atuar como facilitador entre a Comissão de Inovação e a liderança, garantindo a continuidade, organização e engajamento do Programa de Intraempreendedorismo e Inovação.
+Realizar admissão, atualização cadastral e desligamentos;
+Fechar o ponto mensal dos colaboradores, utilizando sistema próprio, para fazer o levantamento de horas extra e banco de horas, garantindo o pagamento dos valores devidos;
+ Agendamento de periódicos semestrais e anuais, elaborando planilhas e agendando junto ao Sesi, em concordância com os líderes de cada setor, garantindo as exigências trabalhistas;
+Acompanhar férias, atestados, afastamentos e licenças;
+Controlar e gerir benefícios: vale transporte, alimentação, plano de saúde, etc. Apoiar a folha de pagamento (conferência de dados e lançamentos);
+Atender colaboradores em dúvidas relacionadas a contracheques, férias, benefícios, etc;
+Apoiar auditorias internas e externas com fornecimento de documentos e registros.
+Requisitos
+:
+Ensino superior completo em Gestão de RH, Psicologia, Administração, Gestão de Pessoas ou áreas correlatas.
+Experiência com cultura organizacional, clima, comunicação interna ou gestão de pessoas.
+Conhecimento básico de metodologias de inovação, intraempreendedorismo ou melhoria contínua (diferencial).
+Habilidade para conduzir reuniões, facilitar conversas e organizar informações com colaboradores e liderança.
+Experiência com Microsoft 365 (Planner, Teams, SharePoint).
+Conhecimento sobre Gestão do Conhecimento ou ISO 56002.
+Fácil acesso à Inhaúma - RJ
+Salário
+: pretensão salarial
+Benefícios
+: Plano de saúde para o titular e um dependente sem desconto em folha, Vale transporte, Vale refeição R$41,00/dia. TotalPass (academia), Café da manhã e lanche da tarde na empresa.
+Horário de trabalho
+: 08h às 17h - segunda à sexta (100% presencial)
+Local de trabalho
+: Inhaúma - RJ
+Outros requisitos
+:",Vagas.com
 Analista de Suporte Acadêmico,Confidencial,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,"Descrição
 : 
 Buscamos um(a) profissional com perfil internacional, organizado(a) e com excelente capacidade de comunicação para integrar nossa equipe.
@@ -6095,6 +6582,23 @@ Modelo de trabalho:
  Presencial
 Tipo de contratação: 
 Pessoa Jurídica (PJ)",Vagas.com
+Analista de Trade Marketing Júnior,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Somos uma empresa brasileira, com presença internacional, que traz a inovação em seu DNA! Na Biolab, acreditamos que equipes diversas constroem resultados mais sólidos e transformadores. Valorizamos a inclusão e a diversidade em todas as nossas posições. Por isso, incentivamos a candidatura de pessoas com deficiência e de todas as identidades, histórias e origens. 
+Responsável por apoiar o desenvolvimento e a execução das estratégias de Trade Marketing para o canal farma, com foco na promoção e na competitividade dos medicamentos genéricos no ponto de venda. Atua na interface entre Marketing, Vendas e Clientes (distribuidores, redes e PDVs), acompanhando indicadores de sell-in e sell-out, bem como a gestão de verbas, materiais promocionais, campanhas de incentivo e ações de visibilidade.Contribui com análises de mercado e do comportamento do shopper, propondo ações que impulsionem a performance comercial e fortaleçam a fidelização dos parceiros de negócio.
+O QUE ESPERAMOS DE VOCÊ:
+•	Graduação completa em Marketing, Administração ou áreas correlatas;
+•	Experiência com auditorias de mercado farmacêutico, como MDTR, FMB e DDD;
+•	Conhecimento intermediário do Pacote Office, especialmente Excel, PowerPoint e Word.
+CONFIRA ABAIXO AS PRINCIPAIS ATIVIDADES DESTA POSIÇÃO:
+•	Analisar o desempenho de sell-out por cliente, canal, categoria e região, identificando oportunidades de crescimento e melhorias na execução;
+•	Conectar dados de mercado e indicadores de sell-in/sell-out para propor planos táticos que impulsionem o giro dos produtos no ponto de venda;
+•	Apoiar o desenho de campanhas para distribuidores e redes, contribuindo na definição de metas, critérios e mecanismos de premiação;
+•	Monitorar indicadores-chave, como cobertura, positivação, mix, penetração de lançamentos, share e ROI de campanhas, assegurando a efetividade das ações de Trade Marketing;
+•	Elaborar análises preditivas e estudos de potencial por canal e cliente, subsidiando a tomada de decisão estratégica;
+•	Atuar em parceria com o time Comercial e de Campo, garantindo alinhamento na execução das ações e na implementação das estratégias;
+•	Participar de visitas a campo, quando necessário, para acompanhar a execução, validar hipóteses e identificar oportunidades de melhoria.
+Para saber mais sobre nós, acesse www.biolabfarma.com.br e siga nossas redes sociais.",Vagas.com
 Analista de Sistemas - Jde,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Responsável pela análise, desenvolvimento e implementação de soluções tecnológicas que atendam às necessidades da organização, garantindo a eficiência dos sistemas de informação e a integração entre diferentes áreas.
@@ -6121,23 +6625,83 @@ Conduz treinamentos e orientações sobre o uso de sistemas.
 Hoje temos duas oportunidades:
 Atuação com processos JD Edwards em Suprimentos (Supply).
 Atuação em processos JD Edwards – Industriais (Manufatura e Qualidade).",Vagas.com
-Analista de Trade Marketing Júnior,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+Analista de Soluções Digitais Sr.,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
-Somos uma empresa brasileira, com presença internacional, que traz a inovação em seu DNA! Na Biolab, acreditamos que equipes diversas constroem resultados mais sólidos e transformadores. Valorizamos a inclusão e a diversidade em todas as nossas posições. Por isso, incentivamos a candidatura de pessoas com deficiência e de todas as identidades, histórias e origens. 
-Responsável por apoiar o desenvolvimento e a execução das estratégias de Trade Marketing para o canal farma, com foco na promoção e na competitividade dos medicamentos genéricos no ponto de venda. Atua na interface entre Marketing, Vendas e Clientes (distribuidores, redes e PDVs), acompanhando indicadores de sell-in e sell-out, bem como a gestão de verbas, materiais promocionais, campanhas de incentivo e ações de visibilidade.Contribui com análises de mercado e do comportamento do shopper, propondo ações que impulsionem a performance comercial e fortaleçam a fidelização dos parceiros de negócio.
-O QUE ESPERAMOS DE VOCÊ:
-•	Graduação completa em Marketing, Administração ou áreas correlatas;
-•	Experiência com auditorias de mercado farmacêutico, como MDTR, FMB e DDD;
-•	Conhecimento intermediário do Pacote Office, especialmente Excel, PowerPoint e Word.
-CONFIRA ABAIXO AS PRINCIPAIS ATIVIDADES DESTA POSIÇÃO:
-•	Analisar o desempenho de sell-out por cliente, canal, categoria e região, identificando oportunidades de crescimento e melhorias na execução;
-•	Conectar dados de mercado e indicadores de sell-in/sell-out para propor planos táticos que impulsionem o giro dos produtos no ponto de venda;
-•	Apoiar o desenho de campanhas para distribuidores e redes, contribuindo na definição de metas, critérios e mecanismos de premiação;
-•	Monitorar indicadores-chave, como cobertura, positivação, mix, penetração de lançamentos, share e ROI de campanhas, assegurando a efetividade das ações de Trade Marketing;
-•	Elaborar análises preditivas e estudos de potencial por canal e cliente, subsidiando a tomada de decisão estratégica;
-•	Atuar em parceria com o time Comercial e de Campo, garantindo alinhamento na execução das ações e na implementação das estratégias;
-•	Participar de visitas a campo, quando necessário, para acompanhar a execução, validar hipóteses e identificar oportunidades de melhoria.
-Para saber mais sobre nós, acesse www.biolabfarma.com.br e siga nossas redes sociais.",Vagas.com
+RESPONSABILIDADES E ATRIBUIÇÕES 
+
+
+Conduzir o levantamento de requisitos estratégicos com áreas de negócio, utilizando técnicas avançadas de análise, para garantir soluções alinhadas aos objetivos comerciais; 
+
+
+ Liderar a especificação de processos e funcionalidades de sistemas digitais, integrando múltiplas plataformas e garantindo escalabilidade;  
+
+
+Liderar a definição de soluções digitais, internas ou adquiridas, garantindo aderência aos requisitos funcionais e técnicos para assegurar eficiência e integração ao negócio; 
+
+
+Planejar e coordenar testes de homologação (UAT), definindo critérios de aceitação e liderando validações com stakeholders; 
+
+
+Gerenciar indicadores de desempenho das soluções, propondo melhorias e evoluções com base em dados e feedbacks; 
+
+
+Atuar como referência técnica na interface entre áreas de negócio, tecnologia e fornecedores, garantindo entregas dentro dos padrões de qualidade e prazo; 
+
+
+Executar outras atividades correlatas conforme orientação do superior imediato para atender às necessidades da área com flexibilidade e proatividade. 
+
+
+ 
+REQUISITOS E QUALIFICAÇÕES 
+
+
+Ensino Superior completo em Tecnologia da Informação, Engenharia, Administração, Marketing ou áreas correlatas; 
+
+
+Desejável MBA ou Pós-graduação em Transformação Digital, Gestão de Produtos ou Projetos; 
+
+
+Conhecimento em CRM, e-commerce e automação; 
+
+
+Experiência com modelagem avançada de processos; 
+
+
+Conhecimento com business cases e viabilidade; 
+
+
+Domínio de gestão de indicadores digitais; 
+
+
+Conhecimento em metodologias ágeis (Scrum, Kanban); 
+
+
+Será um diferencial possuir experiencia em operações de varejo físico, digital e bens de consumo; 
+
+
+Será um diferencial possui experiência com estratégias de jornada do cliente;  
+
+
+Desejável conhecimento em arquitetura de soluções digitais. 
+
+
+Empresa oferece: 
+Salário + Benefícios:  
+- Plano de Saúde 100% custeado pela empresa (após 3 meses) 
+- Plano Odontológico  
+- Alimentação no local  
+- Auxílio Combustível 
+- Seguro de Vida 
+- Consignado 
+- Incentivo Estudantil  
+- Desconto em Produtos 
+- Clube de Vantagens  
+ - Bônus atrelado a metas corporativas 
+- Convênios Diversos  
+- Day Off 
+- Horário:Segunda a Sexta 08:12h as 18:00h - Híbrido  
+ 
+LOCAL:  Barra da Tijuca – RJ",Vagas.com
 Analista de Governança Corporativa,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Quais são os desafios da área e do cargo:
@@ -6971,53 +7535,6 @@ Se você se identifica com o perfil e está em busca de novos desafios, candidat
 Idiomas
 :
 Inglês - Nível Avançado",Vagas.com
-Analista Administrativo de Campo Jr - 049514 - Iea,Fundepag,Sorocaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-A Fundação de Desenvolvimento da Pesquisa do Agronegócio - FUNDEPAG admite:
- 
-Função: Analista Administrativo de Campo Jr.
-Número de vagas: 01 (uma)
-Carga horária: 40 horas semanais
-Remuneração: R$ 3.243,34 (Três mil e duzentos e quarenta e três reais e trinta e quatro centavos)
- 
-Benefícios:
-- VT (Vale-Transporte) - Desconto no salário base para vale-transporte = 6%;
-- VR (Vale Refeição) Flexível;
-- Convênio Médico e Odontológico;
-- Seguro de Vida;
-- Totalpass e plataforma nutricional.
- 
-Local de trabalho: Sorocaba e região.
-Alambari / Alumínio / Capela do Alto / Ibiúna / Iperó / Itapetininga / Piedade / Pilar do Sul / Salto de Pirapora / São Miguel Arcanjo / Sarapuí / Tapiraí
- 
- 
-RESPONSABILIDADES
-Apoiar administrativa e operacionalmente as atividades de campo, garantindo o bom andamento das ações de coleta de dados, a comunicação eficiente com os entrevistadores e o cumprimento dos cronogramas e protocolos definidos pelo projeto.
- 
-DESCRIÇÃO DAS ATIVIDADES
-Realizar o acompanhamento administrativo e logístico das equipes de entrevistadores em campo, assegurando o cumprimento das metas e cronogramas estabelecidos;
-Apoiar a programação das visitas domiciliares e monitorar o envio e validação dos dados coletados em sistemas digitais;
-Consolidar e organizar informações provenientes das fichas cadastrais e relatórios de campo, verificando consistência e completude dos dados;
-Atuar como ponto de apoio entre a equipe de campo, a coordenação do projeto e as áreas administrativas e financeiras;
-Controlar e monitorar o uso de equipamentos e materiais (tablets, crachás, uniformes, formulários e demais insumos), garantindo reposição e manutenção adequada;
-Produzir relatórios administrativos e operacionais, consolidando indicadores de desempenho e acompanhamento de campo;
-Registrar ocorrências de campo e encaminhar as demandas para resolução junto aos responsáveis técnicos;
-Apoiar a logística de deslocamento e treinamentos dos entrevistadores, conforme cronograma definido;
-Participar de reuniões de alinhamento, contribuindo com informações operacionais e sugestões de melhoria;
-Garantir o cumprimento das normas de segurança, ética e conduta nas atividades de campo.
-QUALIFICAÇÕES PROFISSIONAIS
-Formação: Ensino superior completo (Administração, RH, Gestão de Projetos, Geografia, Meio Ambiente ou áreas afins).
-  
-REQUISITOS TÉCNICOS ESPERADOS
-Pacote Office (Excel, Word) e ferramentas de controle de dados;
-Noções básicas de georreferenciamento e utilização de aplicativos móveis;
-Organização logística e controle de materiais;
-Experiência: Vivência anterior em apoio administrativo, projetos de campo ou atividades com coleta de dados será considerada um diferencial.
- 
-REQUISITO OBRIGATÓRIO
-Disponibilidade para viagens
-CNH - Válida
-*Essa oportunidade é extensiva para pessoas com deficiência",Vagas.com
 Analista Administrativo de Campo Jr - 049510 - Iea,Fundepag,Registro / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 A Fundação de Desenvolvimento da Pesquisa do Agronegócio - FUNDEPAG admite:
@@ -7055,6 +7572,53 @@ QUALIFICAÇÕES PROFISSIONAIS
 Formação: Ensino superior completo (Administração, RH, Gestão de Projetos, Geografia, Meio Ambiente ou áreas afins).
  
  
+REQUISITOS TÉCNICOS ESPERADOS
+Pacote Office (Excel, Word) e ferramentas de controle de dados;
+Noções básicas de georreferenciamento e utilização de aplicativos móveis;
+Organização logística e controle de materiais;
+Experiência: Vivência anterior em apoio administrativo, projetos de campo ou atividades com coleta de dados será considerada um diferencial.
+ 
+REQUISITO OBRIGATÓRIO
+Disponibilidade para viagens
+CNH - Válida
+*Essa oportunidade é extensiva para pessoas com deficiência",Vagas.com
+Analista Administrativo de Campo Jr - 049514 - Iea,Fundepag,Sorocaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+: 
+A Fundação de Desenvolvimento da Pesquisa do Agronegócio - FUNDEPAG admite:
+ 
+Função: Analista Administrativo de Campo Jr.
+Número de vagas: 01 (uma)
+Carga horária: 40 horas semanais
+Remuneração: R$ 3.243,34 (Três mil e duzentos e quarenta e três reais e trinta e quatro centavos)
+ 
+Benefícios:
+- VT (Vale-Transporte) - Desconto no salário base para vale-transporte = 6%;
+- VR (Vale Refeição) Flexível;
+- Convênio Médico e Odontológico;
+- Seguro de Vida;
+- Totalpass e plataforma nutricional.
+ 
+Local de trabalho: Sorocaba e região.
+Alambari / Alumínio / Capela do Alto / Ibiúna / Iperó / Itapetininga / Piedade / Pilar do Sul / Salto de Pirapora / São Miguel Arcanjo / Sarapuí / Tapiraí
+ 
+ 
+RESPONSABILIDADES
+Apoiar administrativa e operacionalmente as atividades de campo, garantindo o bom andamento das ações de coleta de dados, a comunicação eficiente com os entrevistadores e o cumprimento dos cronogramas e protocolos definidos pelo projeto.
+ 
+DESCRIÇÃO DAS ATIVIDADES
+Realizar o acompanhamento administrativo e logístico das equipes de entrevistadores em campo, assegurando o cumprimento das metas e cronogramas estabelecidos;
+Apoiar a programação das visitas domiciliares e monitorar o envio e validação dos dados coletados em sistemas digitais;
+Consolidar e organizar informações provenientes das fichas cadastrais e relatórios de campo, verificando consistência e completude dos dados;
+Atuar como ponto de apoio entre a equipe de campo, a coordenação do projeto e as áreas administrativas e financeiras;
+Controlar e monitorar o uso de equipamentos e materiais (tablets, crachás, uniformes, formulários e demais insumos), garantindo reposição e manutenção adequada;
+Produzir relatórios administrativos e operacionais, consolidando indicadores de desempenho e acompanhamento de campo;
+Registrar ocorrências de campo e encaminhar as demandas para resolução junto aos responsáveis técnicos;
+Apoiar a logística de deslocamento e treinamentos dos entrevistadores, conforme cronograma definido;
+Participar de reuniões de alinhamento, contribuindo com informações operacionais e sugestões de melhoria;
+Garantir o cumprimento das normas de segurança, ética e conduta nas atividades de campo.
+QUALIFICAÇÕES PROFISSIONAIS
+Formação: Ensino superior completo (Administração, RH, Gestão de Projetos, Geografia, Meio Ambiente ou áreas afins).
+  
 REQUISITOS TÉCNICOS ESPERADOS
 Pacote Office (Excel, Word) e ferramentas de controle de dados;
 Noções básicas de georreferenciamento e utilização de aplicativos móveis;
@@ -7131,6 +7695,64 @@ Morro da Fumaça/SC - Atuação 100% Presencial;
 Horário de Trabalho:
 Possuir disponibilidade para atuação: Das 01h00 às 08h31 - Escala 6X1 seg a sab
 Tipo de vaga: Efetivo CLT",Vagas.com
+"Analista Pleno de Remuneração, Cargos e Salários",EDITORA GLOBO,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Suas funções junto ao time serão:
+
+
+Atuar de forma técnica e analítica na estruturação, revisão e manutenção das políticas de cargos e salários, garantindo a equidade interna e a competitividade de mercado;
+
+
+Será responsável por elaborar descrições de cargos, realizar análises e pontuações, apoiar na definição de faixas salariais e contribuir na gestão de programas de remuneração variável;
+
+
+Elaborar e revisar descrições de cargos e salários;
+
+
+Conduzir processos de pontuação e avaliação de cargos segundo metodologias de mercado;
+
+
+Manter atualizado a estrutura de cargos e salários;
+
+
+Apoiar na implantação e manutenção de políticas de remuneração fixa e variável;
+
+
+Realizar análises salariais internas e externas garantindo equidade e competitividade;
+
+
+Apoiar nos ciclos de méritos, promoções e enquadramentos salariais;
+
+
+Interagir com as áreas de RH e folha de pagamento para garantir a correta aplicação das políticas.
+
+
+O que precisamos que você conheça/domine:
+
+
+Experiência prévia com descrição e análise de cargos, pontuação e remuneração variável;
+
+
+Conhecimento em metodologias de avaliação e estruturação de cargos;
+
+
+Domínio de Excel e ferramentas de análise de dados.
+
+
+Outros requisitos
+: 
+Formação:
+Ensino superior completo em Administração, Economia ou áreas correlatas.
+Experiência desejável:
+Experiência com pesquisas salariais e gestão de remuneração variável corporativa.
+Local de trabalho:
+ Centro, Rio de Janeiro-RJ
+Modalidade de trabalho:
+ Hibrida
+Horário: 
+09h às 18h
+""Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Editora Globo e SGR. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://bit.ly/3x85D5X.""
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.",Vagas.com
 Analista Administrativo de Campo Jr - 049506 - Iea,Fundepag,Araçatuba / SP                                       A empresa aceita candidaturas de Araçatuba e cidades próximas,SP,"Descrição
 : 
 A Fundação de Desenvolvimento da Pesquisa do Agronegócio - FUNDEPAG admite:
@@ -7397,6 +8019,44 @@ Informações Adicionais
 🚍 Mobilidade para ir e vir, com vale transporte ou auxílio combustível;
 💲 Reconhecimento com bonificação variável por resultados;
 📚 E o incentivo à inovação, com o nosso programa de treinamentos;",Vagas.com
+Analista de Documentação da Qualidade Jr (Cq),Grupo SERES,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
+: 
+O Grupo Seres em parceria com uma empresa nacional no segmento de indústria farmacêutica, seleciona profissional para atuar na função de Analista de Documentação da Qualidade Jr (Cq)
+Requisitos:
+
+
+Superior em farmácia, química ou biomedicina;
+
+
+Experiência em indústria farmacêutica e documentação de qualidade;
+
+
+Imprescindível habilidade com pacote office.
+
+
+Diferencial:
+Inglês intermediário.
+Atividades:
+Executar, com iniciativa, atividades sob sua responsabilidade no Departamento de Controle de Qualidade, analisando processos básicos de qualidade, prestando apoio técnico em atividades de baixa complexidade e criticidade, com responsabilidade crescente e supervisão de profissionais mais experientes, elaborando, revisando e gerenciando procedimentos analíticos e demais documentos da qualidade, desenvolvendo especificações, métodos gerais, monografias, boletins analíticos e especificações de requisito de usuário para instalações, equipamentos e planilhas de cálculo, participando da validação dessas planilhas, cadastrando planos de controle em sistema informatizado (SAP), controlando e registrando matriz de treinamentos teóricos e práticos, ministrando treinamentos dos procedimentos sob sua competência, criando e encerrando eventos de treinamento no sistema, estabelecendo comunicação com diversas áreas para informar e solicitar ações, participando de auditorias internas, investigações de não conformidades, reuniões e atividades relacionadas a CAPAs, documentando atividades relevantes às Boas Práticas de Fabricação (BPF), padronizando processos e métodos para minimizar erros, desvios e variações, elaborando análises de risco relacionadas à integridade de dados, revisando boletins analíticos, POPs e anexos para garantir conformidade com os requisitos aplicáveis, identificando oportunidades de melhoria nos processos e laboratórios, contribuindo para a implementação e manutenção dos elementos de integridade de dados no Departamento de Controle de Qualidade, subsidiando o processo produtivo segundo os procedimentos e metas estabelecidas pela Instituição. 
+Horário de trabalho:
+
+
+08h00 às 17h00
+
+
+Segunda à Sexta
+
+
+100% presencial
+
+
+Local de trabalho:
+Jacarepaguá, RJ - Brasil
+Idiomas
+:
+Inglês - Nível Intermediário
+Outros requisitos
+:",Vagas.com
 Analista de Prevenção a Fraude Pleno - (Presencial),Accenture,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,"Descrição
 : 
 Um time que faz parte da mudança  
@@ -7509,6 +8169,160 @@ Excelentes habilidades de comunicação verbal e escrita
 Proficiência no uso de computadores e softwares relacionados
 Conhecimento prático de plataformas baseadas em AS400 e/ou JDEdwards
 Análise de demonstrações financeiras",Vagas.com
+Analista Orçamento e Resultados (FP&A),COPLACANA,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+: 
+Estamos procurando um 
+Analista Orçamento e Resultados 
+para compor o nosso time de
+ Controladoria
+, que seja protagonista, tenha paixão por números, 
+experiência em FP&A (Planejamento e Análise Financeira)
+ e uma visão estratégica para negócios.
+Principais Atividades e Responsabilidades: 
+
+
+Participar da construção do plano orçamentário da Cooperativa e das elaborações das Revisões do Plano Trimestral, recebendo, consolidando e calibrando as informações.
+
+
+Acompanhar de forma contínua os resultados financeiros da cooperativa (real versus orçado e ano anterior), fornecendo um breve diagnóstico para o entendimento e elaboração de planos de ação para correção dos eventuais desvios.
+
+
+Elaborar análise de viabilidade financeira de projetos de investimento CAPEX e novos negócios, compilando as informações e calculando o tempo de retorno do valor investido, taxa de capital investido, dessa forma trazendo dados para subsidiar a tomada de decisão.
+
+
+Desenvolver novos templates e dashboards para análises.
+
+
+Acompanhar os pontos focais das áreas na elaboração do planejamento orçamentário anual dos setores, orientando-os no que se refere ao cronograma de entrega e dúvidas gerais acerca das informações que deverão ser fornecidas.
+
+
+Apurar o resultado gerencial por meio do balancete contábil, consolidando os dados por unidade e totalizado; realizar o cálculo dos indicadores de margem, EBITDA, despesas e lucro líquido, analisando e dando pareceres sobre os índices obtidos.
+
+
+Proceder análise dos impostos incidentes nas operações e mapeamento de oportunidades de redução de incidências de tributos (como aquisição de produtos dentro do estado de atuação da unidade e transferência de produtos dentro do mesmo estado), mediante o planejamento tributário.
+
+
+O que buscamos? 
+Pré-requisitos: 
+
+
+Superior completo em Adm. de empresas, ciências contábeis ou economia.
+
+
+Conhecimentos no ERP SAP.
+
+
+Excel avançado, Power Point e Power BI.
+
+
+Conhecimento de indicadores econômicos e financeiros de mercado.
+
+
+ 
+Habilidades: 
+
+
+Pensamento crítico e analítico, com atenção aos detalhes e foco na precisão das informações;
+
+
+Comunicação clara e eficaz, tanto verbal quanto escrita;
+
+
+Proatividade e facilidade para trabalhar em equipe, contribuindo para um ambiente colaborativo;
+
+
+Visão analítica e sistêmica, capaz de compreender o impacto das decisões nos resultados da organização.
+
+
+Modelo de Trabalho:
+ 100% Presencial
+Vaga também disponível para PCD.
+A COPLACANA não faz distinção entre pessoas candidatadas seja por gênero, deficiência, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética.
+Venha fazer parte da equipe COPLACANA! Esperamos por você!",Vagas.com
+Analista de Produto – São Paulo,HStern,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+: 
+Estamos em busca de um 
+Analista de Produto
+ para atuar em São Paulo, com foco em gestão de portfólio, planejamento de demanda e análise de desempenho. Se você tem perfil analítico e gosta de trabalhar com dados, essa pode ser a oportunidade certa para você.
+Local: São Paulo, SP
+Modalidade: Presencial
+Contrato: CLT
+O que esperamos de você:
+•	Gerenciar o portfólio de produtos, assegurando a adequação nos diversos pontos de venda. Planejar e monitorar a previsão de demanda, identificando tendências e sazonalidades.
+•	Controlar o estoque, equilibrando a disponibilidade de produtos sem acúmulos excessivos.
+•	Analisar precificação para maximizar resultados.
+•	Criar e acompanhar indicadores de desempenho, identificando oportunidades de melhorias.
+•	Desenvolver análises detalhadas para apoiar a tomada de decisões em níveis estratégicos.
+O que buscamos:
+•	Ensino Superior Completo em Engenharia ou Administração.
+•	Conhecimento avançado no Pacote Office.
+•	Inglês intermediário.
+Oferecemos:
+•	Vale transporte.
+•	Vale-alimentação.
+•	Assistência médica e odontológica.
+•	Seguro de vida.
+•	Previdência Privada
+Caso tenha se identificado e se interessado nesta oportunidade, encaminhe seu currículo para análise!
+Idiomas
+:
+Inglês - Nível Intermediário",Vagas.com
+Analista de Inteligência Comercial e de Mercado,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Principais Atividades: 
+
+
+Geração de relatórios de apoio a equipe comercial; 
+
+
+Atendimento as demandas do comercial relacionadas ao atingimento de metas; 
+
+
+Desenvolvimento de dashboards; 
+
+
+Apuração e definição mensal de metas; 
+
+
+Desenvolvimento das análises de vendas; 
+
+
+Elaborar, executar e acompanhar planos de ação; 
+
+
+Automatização dos processos da área. 
+
+
+Pré-requisitos: 
+
+
+Superior Completo em exatas (Administração, Economia, Engenharia ou similar); 
+
+
+Excel Avançado (será testado), desejável conhecimento em VBA; 
+
+
+Desejável conhecimento em ferramentas de BI (Power BI, Tableau ou similar); 
+
+
+Experiência com análise de dados para tomadas de decisão e geração de insights acionáveis. 
+
+
+A empresa oferece: 
+- Plano de Saúde 100% custeado pela empresa (após 3 meses) 
+- Plano Odontológico  
+- Alimentação no local  
+- Auxílio Combustível 
+- Seguro de Vida 
+- Consignado 
+- Incentivo Estudantil  
+- Desconto em Produtos 
+ - Clube de Vantagens  
+ - Bônus atrelado a metas corporativas 
+- Convênios Diversos  
+- Day Off 
+- Horário: Segunda a Sexta 08:12h as 18:00h  
+LOCAL:  Barra da Tijuca (4x semana) / Duque de Caxias (1x semana)",Vagas.com
 Analista Técnico - Pesquisa Clinica Sr,Vetnil,Louveira / SP                                       A empresa aceita candidaturas de Louveira e cidades próximas,SP,"Descrição
 : 
 Há 30 anos trabalhamos para entregar o 
@@ -7579,33 +8393,6 @@ Revisar e manter atualizadas as pastas do estudo e dossiês para a devida libera
 Idiomas
 :
 Espanhol - Nível Avançado, Espanhol - Nível Intermediário e Inglês - Nível Intermediário",Vagas.com
-Analista de Planejamento e Controle de Manutenção Júnior,Liotécnica Tecnologia em Alimentos SA,Embu / SP                                       A empresa aceita candidaturas de Embu das Artes e cidades próximas,SP,"Descrição
-: 
-Elaborar, revisar e acompanhar o plano mestre de manutenção preventiva, preditiva e corretiva dos equipamentos produtivos, utilidades e infraestrutura. 
-Programar as paradas de linha e manutenções programadas, alinhando com as áreas de Produção, Engenharia e Qualidade. 
-Controlar e analisar as ordens de serviço (OS) no sistema de gestão, garantindo o cumprimento do cronograma e a qualidade das execuções. 
-Apoiar o controle de estoque técnico, materiais e sobressalentes junto ao almoxarifado, assegurando disponibilidade para as manutenções planejadas. 
-Registrar e acompanhar histórico técnico dos equipamentos, auxiliando em análises de falhas e ações de melhoria contínua. 
-Atuar junto às equipes de manutenção e operação na implantação de melhorias, confiabilidade e manutenção autônoma. 
-Colaborar com auditorias internas e externas, fornecendo dados e evidências dos planos de manutenção.
-Requisitos:
-Graduação em curso/completa Mecânica, Eletromecânica, Elétrica, Engenharia de Produção ou áreas correlatas.
-Vivência em Planejamento e Controle de Manutenção em indústrias alimentícias, bebidas ou farmacêuticas.
-Facil acesso ao Embu das Artes/SP – Atuação 100% presencial
-Benefícios:
-Assistência Médica com coparticipação
-Assistência Odontológica
-Seguro de Vida
-Vale Alimentação
-Refeitório na empresa
-Vale transporte ou Estacionamento
-Cartão Farmácia
-Auxílio Creche
-Participação nos Lucros
-Parcerias com Universidades e escolas
-Outros requisitos
-: 
-Vivência em Planejamento e Controle de Manutenção em indústrias alimentícias, bebidas ou farmacêuticas.",Vagas.com
 Analista de Garantia da Qualidade - Calibração,GWM,Iracemápolis / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 O Analista de Garantia da Qualidade será responsável por garantir a conformidade e a excelência nos processos da área, com foco em calibração externa e análise estatística. Este profissional atuará no monitoramento e controle dos indicadores de desempenho (KPIs), assegurando que os padrões de qualidade sejam atendidos e continuamente aprimorados.
@@ -7658,6 +8445,33 @@ Vivência em ambientes industriais ou laboratoriais.
 Idiomas
 :
 Inglês - Nível Fluente e Inglês - Nível Avançado",Vagas.com
+Analista de Planejamento e Controle de Manutenção Júnior,Liotécnica Tecnologia em Alimentos SA,Embu / SP                                       A empresa aceita candidaturas de Embu das Artes e cidades próximas,SP,"Descrição
+: 
+Elaborar, revisar e acompanhar o plano mestre de manutenção preventiva, preditiva e corretiva dos equipamentos produtivos, utilidades e infraestrutura. 
+Programar as paradas de linha e manutenções programadas, alinhando com as áreas de Produção, Engenharia e Qualidade. 
+Controlar e analisar as ordens de serviço (OS) no sistema de gestão, garantindo o cumprimento do cronograma e a qualidade das execuções. 
+Apoiar o controle de estoque técnico, materiais e sobressalentes junto ao almoxarifado, assegurando disponibilidade para as manutenções planejadas. 
+Registrar e acompanhar histórico técnico dos equipamentos, auxiliando em análises de falhas e ações de melhoria contínua. 
+Atuar junto às equipes de manutenção e operação na implantação de melhorias, confiabilidade e manutenção autônoma. 
+Colaborar com auditorias internas e externas, fornecendo dados e evidências dos planos de manutenção.
+Requisitos:
+Graduação em curso/completa Mecânica, Eletromecânica, Elétrica, Engenharia de Produção ou áreas correlatas.
+Vivência em Planejamento e Controle de Manutenção em indústrias alimentícias, bebidas ou farmacêuticas.
+Facil acesso ao Embu das Artes/SP – Atuação 100% presencial
+Benefícios:
+Assistência Médica com coparticipação
+Assistência Odontológica
+Seguro de Vida
+Vale Alimentação
+Refeitório na empresa
+Vale transporte ou Estacionamento
+Cartão Farmácia
+Auxílio Creche
+Participação nos Lucros
+Parcerias com Universidades e escolas
+Outros requisitos
+: 
+Vivência em Planejamento e Controle de Manutenção em indústrias alimentícias, bebidas ou farmacêuticas.",Vagas.com
 Analista Administrativo Jr.(vaga Temporária),Alupar,Linhares / ES                                       A empresa aceita candidaturas de qualquer cidade do Brasil,ES,"Descrição
 : 
 O que fará
@@ -7710,14 +8524,6 @@ CNH catogoria B
 Na Alupar apoiamos a diversidade e inclusão, dessa forma incentivamos candidaturas que representem a pluralidade de pessoas para que possamos construir juntos um ambiente mais diverso e acolhedor. Afinal, somos todos condutores de energia. 
 Outros requisitos
 :",Vagas.com
-Analista de Projetos - Relacionamento com Comunidades (026817),Lyon Engenharia,Nova Lima / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,"Descrição
-: 
-Oportunidade temporária (3 meses), com possibilidade de efetivação.
-REQUISITOS
-Conhecimento em elaboração de relatórios gerenciais e análise de indicadores. Experiência prévia com análise de indicadores, elaboração de relatórios e suporte a gestão de projetos. Conhecimento em Excel e habilidade com ferramentas de análise de dados. Capacidade de elaborar materiais técnicos e institucionais com clareza e objetividade. Conhecimento em processos de relacionamento com comunidades e/ou órgãos públicos.
-Boa capacidade analítica, senso crítico e proatividade na proposição de melhorias. Habilidade para trabalhar com múltiplas ferramentas corporativas e integrá-las de forma estratégica.
-PRINCIPAIS ATIVIDADES
-Elaboração de ferramentas que auxiliam a gestão do Plano Anual das iniciativas da Gerência de Relacionamento com Comunidades; Otimização entre ferramentas para otimização de relatórios enviados aos órgãos públicos; Suporte na elaboração de materiais para a Gerência; Apuração de indicadores e acompanhamento de planos de ação destes indicadores; Construção de cenários para indicação e validação de indicadores pela Gerência, com propositura de soluções quando identificado desvios; Análise e inputs norteadores para elaboração de estudos sob a responsabilidade da Gerência (exemplo: estudo PGS de Questões Críticas e Índice de Tensão); Suporte no manuseio das ferramentas coorporativas como SDI, culminando em análises e relatórios; Sugestões de melhorias diversas e padronização através das ferramentas integradas.",Vagas.com
 Analista Administrativo Jr. (vaga Temporária),Alupar,Campo Largo / PR                                       A empresa aceita candidaturas de qualquer cidade do Brasil,PR,"Descrição
 : 
 O que fará
@@ -7770,6 +8576,14 @@ CNH catogoria B
 Na Alupar apoiamos a diversidade e inclusão, dessa forma incentivamos candidaturas que representem a pluralidade de pessoas para que possamos construir juntos um ambiente mais diverso e acolhedor. Afinal, somos todos condutores de energia. 
 Outros requisitos
 :",Vagas.com
+Analista de Projetos - Relacionamento com Comunidades (026817),Lyon Engenharia,Nova Lima / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,"Descrição
+: 
+Oportunidade temporária (3 meses), com possibilidade de efetivação.
+REQUISITOS
+Conhecimento em elaboração de relatórios gerenciais e análise de indicadores. Experiência prévia com análise de indicadores, elaboração de relatórios e suporte a gestão de projetos. Conhecimento em Excel e habilidade com ferramentas de análise de dados. Capacidade de elaborar materiais técnicos e institucionais com clareza e objetividade. Conhecimento em processos de relacionamento com comunidades e/ou órgãos públicos.
+Boa capacidade analítica, senso crítico e proatividade na proposição de melhorias. Habilidade para trabalhar com múltiplas ferramentas corporativas e integrá-las de forma estratégica.
+PRINCIPAIS ATIVIDADES
+Elaboração de ferramentas que auxiliam a gestão do Plano Anual das iniciativas da Gerência de Relacionamento com Comunidades; Otimização entre ferramentas para otimização de relatórios enviados aos órgãos públicos; Suporte na elaboração de materiais para a Gerência; Apuração de indicadores e acompanhamento de planos de ação destes indicadores; Construção de cenários para indicação e validação de indicadores pela Gerência, com propositura de soluções quando identificado desvios; Análise e inputs norteadores para elaboração de estudos sob a responsabilidade da Gerência (exemplo: estudo PGS de Questões Críticas e Índice de Tensão); Suporte no manuseio das ferramentas coorporativas como SDI, culminando em análises e relatórios; Sugestões de melhorias diversas e padronização através das ferramentas integradas.",Vagas.com
 [banco de Talento] Analista de Operações - Pleno,Central IT,Brasília / DF                                       A empresa aceita candidaturas de Brasília e cidades próximas,DF,"Descrição
 : 
 Descrição da vaga
@@ -8081,6 +8895,67 @@ Vacinação da gripe;
 Boas-vindas para filhos recém-nascido com um plano de previdência e um presente especial;
 Serviço de assistência funeral familiar;
 E muito mais.",Vagas.com
+Analista de Auditoria  e Controles Internos Pleno,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Somos uma empresa brasileira, com presença internacional, que traz a inovação em seu 
+DNA!
+Na Biolab, acreditamos que equipes diversas constroem resultados mais sólidos e transformadores. Valorizamos a inclusão e a diversidade em todas as nossas posições. Por isso, incentivamos a candidatura de pessoas com deficiência e de todas as identidades, histórias e origens.
+Este (a) profissional será responsável por apoiar auditorias internas, avaliar e fortalecer controles internos, contribuir para o gerenciamento de riscos e promover a conformidade com normas e boas práticas. Atuar na identificação de melhorias de processos e na mitigação de riscos. Participar da elaboração de planos de auditoria, testes de controles, análises de riscos e comunicação de resultados, agregando valor e fortalecendo a integridade organizacional.
+O QUE ESPERAMOS DE VOCÊ:
+
+
+
+
+Graduação Completa
+ em Administração, Economia, Contabilidade ou áreas correlatas.
+
+
+Conhecimento intermediário em: 
+Normas de Auditoria Interna
+ (ex.: IPPF – International Professional Practices Framework do IIA); 
+Controles Internos
+ (ex.: COSO – Committee of Sponsoring Organizations - Internal Control e ERM, ISO 31000 - Gestão de Riscos, Normas de Compliance e Governança Corporativo); 
+Gerenciamento de Riscos Corporativos
+ (ex.: COSO ERM, ISO 31000); 
+Critérios de elegibilidade e manutenção da certificação no Programa OEA 
+(Operador Econômico Autorizado) da Receita Federal do Brasil; 
+Legislação aplicáve
+l (ex.: LGPD, compliance regulatório do setor farmacêutico);
+
+
+Sólido conhecimento em 
+Pacote Office
+ (Word, Excel, Power Point e Power BI) e 
+Ferramentas de auditoria e análise de dados
+ (ex.: ACL, IDEA, Power BI)
+
+
+Necessário experiência em 
+Legislação aplicável
+ (ex.: LGPD, compliance regulatório do setor farmacêutico) e 
+Processos organizacionais
+ (financeiros, operacionais, compliance, TI).
+
+
+CONFIRA ABAIXO AS PRINCIPAIS ATIVIDADES DESTA POSIÇÃO:
+
+
+Executar testes de auditoria, aplicando metodologias reconhecidas e analisando evidências, para avaliar a efetividade dos controles internos e propor melhorias;
+
+
+Realizar análises de riscos operacionais e apoiar na atualização da matriz de riscos, utilizando critérios de impacto e probabilidade, para fortalecer a gestão de riscos;
+
+
+Conduzir entrevistas com áreas auditadas e elaborar relatórios com achados e recomendações, aplicando técnicas de investigação e redação, para orientar ações corretivas;
+
+
+Monitorar planos de ação decorrentes de auditorias e avaliações de riscos, acompanhando prazos e evidências, para garantir a efetividade das correções;
+
+
+Conduzir reuniões e discussões colaborativas na revisão de políticas e procedimentos internos, analisando aderência às normas e boas práticas, para promover conformidade, eficiência e padronização.
+
+
+ Para saber mais sobre nós, acesse www.biolabfarma.com.br e siga nossas redes sociais.",Vagas.com
 Analista Administração Pessoal Júnior - Generalista,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 CONFIRA ABAIXO AS PRINCIPAIS ATIVIDADES DESTA POSIÇÃO:
@@ -8161,67 +9036,6 @@ Previdenciária
 
 Pacote Office
  (Excel, Word, Power Point) básico.",Vagas.com
-Analista de Auditoria  e Controles Internos Pleno,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Somos uma empresa brasileira, com presença internacional, que traz a inovação em seu 
-DNA!
-Na Biolab, acreditamos que equipes diversas constroem resultados mais sólidos e transformadores. Valorizamos a inclusão e a diversidade em todas as nossas posições. Por isso, incentivamos a candidatura de pessoas com deficiência e de todas as identidades, histórias e origens.
-Este (a) profissional será responsável por apoiar auditorias internas, avaliar e fortalecer controles internos, contribuir para o gerenciamento de riscos e promover a conformidade com normas e boas práticas. Atuar na identificação de melhorias de processos e na mitigação de riscos. Participar da elaboração de planos de auditoria, testes de controles, análises de riscos e comunicação de resultados, agregando valor e fortalecendo a integridade organizacional.
-O QUE ESPERAMOS DE VOCÊ:
-
-
-
-
-Graduação Completa
- em Administração, Economia, Contabilidade ou áreas correlatas.
-
-
-Conhecimento intermediário em: 
-Normas de Auditoria Interna
- (ex.: IPPF – International Professional Practices Framework do IIA); 
-Controles Internos
- (ex.: COSO – Committee of Sponsoring Organizations - Internal Control e ERM, ISO 31000 - Gestão de Riscos, Normas de Compliance e Governança Corporativo); 
-Gerenciamento de Riscos Corporativos
- (ex.: COSO ERM, ISO 31000); 
-Critérios de elegibilidade e manutenção da certificação no Programa OEA 
-(Operador Econômico Autorizado) da Receita Federal do Brasil; 
-Legislação aplicáve
-l (ex.: LGPD, compliance regulatório do setor farmacêutico);
-
-
-Sólido conhecimento em 
-Pacote Office
- (Word, Excel, Power Point e Power BI) e 
-Ferramentas de auditoria e análise de dados
- (ex.: ACL, IDEA, Power BI)
-
-
-Necessário experiência em 
-Legislação aplicável
- (ex.: LGPD, compliance regulatório do setor farmacêutico) e 
-Processos organizacionais
- (financeiros, operacionais, compliance, TI).
-
-
-CONFIRA ABAIXO AS PRINCIPAIS ATIVIDADES DESTA POSIÇÃO:
-
-
-Executar testes de auditoria, aplicando metodologias reconhecidas e analisando evidências, para avaliar a efetividade dos controles internos e propor melhorias;
-
-
-Realizar análises de riscos operacionais e apoiar na atualização da matriz de riscos, utilizando critérios de impacto e probabilidade, para fortalecer a gestão de riscos;
-
-
-Conduzir entrevistas com áreas auditadas e elaborar relatórios com achados e recomendações, aplicando técnicas de investigação e redação, para orientar ações corretivas;
-
-
-Monitorar planos de ação decorrentes de auditorias e avaliações de riscos, acompanhando prazos e evidências, para garantir a efetividade das correções;
-
-
-Conduzir reuniões e discussões colaborativas na revisão de políticas e procedimentos internos, analisando aderência às normas e boas práticas, para promover conformidade, eficiência e padronização.
-
-
- Para saber mais sobre nós, acesse www.biolabfarma.com.br e siga nossas redes sociais.",Vagas.com
 Analista TI Jr - Suporte Técnico,NISSIN FOODS DO BRASIL LTDA.,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
 : 
 MISSÃO DA FUNÇÃO
@@ -8647,74 +9461,6 @@ Diferenciais:
 •	Pós-graduação em Direito do Trabalho ou Auditoria de Folha.
 •	Experiência com implantação de módulos de RH ou migração de sistemas.
 •   Conhecimento do Sistema Apdata.",Vagas.com
-Analista Sênior de Business Intellegence - Uberaba/MG,Mosaic,Uberaba / MG                                       A empresa aceita candidaturas de Uberaba e cidades próximas,MG,"Descrição
-: 
-Analista Sênior de Business Intellegence - Uberaba/MG e São Paulo/SP
-Período de inscrição até:
- 08/12/2025
-Esta posição se reporta: 
-Gerência de Governança e Planejamento de Negócio
- 
-ATENÇÃO: É imprescindível anexar o currículo atualizado no ato da candidatura.
-A Mosaic Company valoriza a diversidade, a inclusão e o desenvolvimento contínuo. Igualdade e oportunidades a todos fazem parte do dia a dia dos nossos profissionais, que encontrarão aqui a trilha ideal para desenvolver suas carreiras. Nos orgulhamos de ter o respeito como um valor. E acreditamos que a inovação acontece quando temos um ambiente cercado de diferenças em todos seus aspectos, como idade, gênero, orientação sexual, identidade, cor, deficiência ou religião.
- 
- Quais serão suas responsabilidades?
-Desenvolver dashboards e relatórios interativos, com indicadores e KPIs que permitam monitoramento operacional e suporte à tomada de decisão da liderança.
-Garantir a qualidade, consistência e confiabilidade dos dados, identificando discrepâncias, conduzindo análises e propondo soluções para correção e prevenção de inconsistências.
-Atuar como consultor interno, participando de reuniões com stakeholders para entender necessidades, traduzir demandas em soluções analíticas e gerar insights orientados por dados.
-Apoiar a definição de estratégias e priorização de iniciativas, considerando impacto, viabilidade e valor para o cliente, assegurando alinhamento com objetivos corporativos.
-Otimizar processos e arquitetura de dados, por meio de refatoração de código, melhoria de queries, rotinas de ETL e documentação, garantindo escalabilidade e alta disponibilidade.
-Criar e manter documentação técnica e funcional, reduzindo riscos relacionados ao conhecimento tácito e acelerando a execução de projetos com lógica repetitiva.
-  
-O que procuramos?
-
-
-Ensino Superior Completo em Engenharia, Administração, Ciências de Dados ou áreas correlatas;
-
-
-Inglês Avançado;
-
-
-Domínio de linguagens de programação;
-
-
-SQL Avançado;
-
-
-Experiência em criação de dashboards (Power BI, Tableau e etc) e reports focados na geração de insights para aumento do resultado da área;
-
-
-Conhecimento em gestão de projetos, principalmente modelo ágil
-
-
-Conhecimento avançado em Azure e Excel;
-
-
-Alta capacidade analítica e atenção a detalhes
-
-
-Senso de priorização aguçado e forte capacidade de organização e planejamento.
-
-
-Qual será seu horário de trabalho?
-Administrativo
-Qual será seu modelo de trabalho?
-Híbrido (presencial de 10 a 12 dias por mês)
-O que oferecemos?
-Convênio Médico;
-Convênio Odontológico;
-Seguro de Vida;
-PPR (Programa de Participação Resultados);
-Previdência Privada;
-Auxílio Academia;
-Vale Alimentação;
-Vale Refeição;
-Programa de Assistência ao Empregado (Apoiar);
-Programa Bem Estar (Wellness);
-Licença Maternidade e Paternidade Estendida;
-Auxílio Material Escolar**;
-*Benefício pode alterar de acordo com localidade.
-**Benefício para filhos de 5 a 13 anos incompletos",Vagas.com
 Analista de Logística Júnior - Temporário - Extrema/MG,Randstad Brasil,Extrema / MG                                       A empresa aceita candidaturas de Extrema e cidades próximas,MG,"Descrição
 : 
 Analista de Logística Júnior
@@ -9054,72 +9800,6 @@ Domínio do pacote Office, especialmente Excel;
 
 
 Diferenciais: Experiência em Geoprocessamento e SIG.",Vagas.com
-Analista de Growth (Foco em Mídia Paga),Morar-EUA by SG Global Group,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Estamos em busca de um(a) Analista de Mídia Paga com pensamento analítico, visão estratégica e domínio técnico das principais plataformas de tráfego pago. Esse profissional será responsável por planejar, executar e otimizar campanhas digitais com foco em performance e aquisição de leads qualificados.
-Requerimentos:
-
-
-Experiência comprovada em Meta Ads e Google Ads;
-
-
-Noções de copywriting e Inbound Marketing;
-
-
-Domínio de Google Analytics (GA4) e Google Tag Manager;
-
-
-Conhecimento de pixel de conversão, eventos e estrutura de tracking (tags e UTMs);
-
-
-Excel avançado (fórmulas, gráficos, tabelas dinâmicas);
-
-
-Capacidade analítica para interpretar dados e propor ações de otimização.
-
-
-Responsabilidades:
-
-
-Planejar, executar e otimizar campanhas em:
-
-
-Meta Ads (Facebook e Instagram)
-
-
-Google Ads (Rede de Pesquisa, Display, YouTube)
-
-
-LinkedIn Ads
-
-
-TikTok Ads
-
-
-Gerenciar orçamentos, testes A/B e segmentações;
-
-
-Criar, revisar e propor melhorias em copys e criativos;
-
-
-Acompanhar e interpretar resultados com base nos objetivos das campanhas;
-
-
-Elaborar dashboards e relatórios de performance em Excel;
-
-
-Trabalhar com Google Tag Manager, Google Analytics (GA4) e UTMs para mensuração;
-
-
-Colaborar com equipe de conteúdo, design e automação para campanhas integradas.
-
-
-Outros requisitos
-: 
-Diferenciais:
-Experiência com LinkedIn Ads e TikTok Ads;
-Conhecimento em criação de artes ou vídeos para anúncios (Canva, Figma, Adobe Photoshop, Adobe Premiere ou After Effects);
-Familiaridade com funil de vendas e planejamento de mídia digital e Experiência com ferramentas de automação e integração como RD Station, Blip e N8N.",Vagas.com
 Analista de RH Pleno - Planejamento e Indicadores,A.C.Camargo Cancer Center,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Tem vaga no A.C.Camargo!
@@ -9679,6 +10359,34 @@ Atividades:
 Outras informações:
 - Local de trabalho: JK - SP;
 - Escala de trabalho: 2ª a 5ª - 08h às 18h | 6ª - 08h às 17h (Presencial).",Vagas.com
+Analista de Contas Médicas - Faturamento - Oncologia Acreditar,Rede D'Or,Brasília / DF                                       A empresa aceita candidaturas de Brasília e cidades próximas,DF,"Descrição
+: 
+Requisitos:
+- Ensino médio completo;
+-Excel intermediário;
+-Necessário boa vivência na área de faturamento, XML e conhecimento com as tabelas AMB, CBHPM, BRASÍNDICE, SIMPRO e SBH.
+Atividades: 
+-Receber as faturas e analisar os documentos físicos e os dados em sistema;
+-Conferir as autorizações e sinalizar as inconformidades para a supervisão do setor e funcionário responsável, cobrando a solução em tempo hábil para o envio;
+-Conferir medicamentos e materiais, quantidades e valores, alterando quando necessário;
+-Lançar honorários médicos conforme acordo com os convênios gerando os devidos repasses;
+-Conferir as taxas automáticas e/ou lançar quando necessário, conforme acordo com os convênios;
+-Mensurar as inconsistências e sinalizar para as áreas copiando a chefia e a gerência;
+-Controlar e cobrar os honorários médicos de pacientes internados;
+-Emitir, preencher e organizar as guias TISS;
+-Enviar o arquivo eletrônico (XML) e resolver as pendências quando necessário;
+-Enviar a fatura física e eletrônica de acordo com as datas de entrega de cada convênio, se certificando do recebimento das mesmas através da data e assinatura legível nos canhotos e protocolos;
+-Efetuar o processo de escaneamento dos documentos no GED;
+-Analisar o relatório EIS-contas pendentes conforme padrão definido;
+-Mensurar a produção diária e as guias não faturadas;
+-Fazer os orçamentos para convênios na ferramenta definida pela instituição;
+-Solicitar ao moto boy e/ou auxiliar administrativo que peguem as guias nas unidades e hospitais quando necessário.
+Outras informações:
+- Local de trabalho:
+Oncologia Acreditar - Asa Sul - DF.
+- Escala de trabalho:
+5x2 - Segunda à quinta-feira - 08h às 18h e Sexta-feira - 08h às 17h.
+- Disponibilidade para treinamento.",Vagas.com
 Analista Marketing Pleno - Afirmativa para Pessoas Pretas,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Missão do Cargo
@@ -9772,34 +10480,39 @@ Capacidade de monitorar e avaliar desempenho das atividades de marketing no curt
 
 
 Comunicação eficaz.",Vagas.com
-Analista de Contas Médicas - Faturamento - Oncologia Acreditar,Rede D'Or,Brasília / DF                                       A empresa aceita candidaturas de Brasília e cidades próximas,DF,"Descrição
+Analista de Adm Pessoal - Presencial na  Vila Mariana,propay,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
 : 
-Requisitos:
-- Ensino médio completo;
--Excel intermediário;
--Necessário boa vivência na área de faturamento, XML e conhecimento com as tabelas AMB, CBHPM, BRASÍNDICE, SIMPRO e SBH.
-Atividades: 
--Receber as faturas e analisar os documentos físicos e os dados em sistema;
--Conferir as autorizações e sinalizar as inconformidades para a supervisão do setor e funcionário responsável, cobrando a solução em tempo hábil para o envio;
--Conferir medicamentos e materiais, quantidades e valores, alterando quando necessário;
--Lançar honorários médicos conforme acordo com os convênios gerando os devidos repasses;
--Conferir as taxas automáticas e/ou lançar quando necessário, conforme acordo com os convênios;
--Mensurar as inconsistências e sinalizar para as áreas copiando a chefia e a gerência;
--Controlar e cobrar os honorários médicos de pacientes internados;
--Emitir, preencher e organizar as guias TISS;
--Enviar o arquivo eletrônico (XML) e resolver as pendências quando necessário;
--Enviar a fatura física e eletrônica de acordo com as datas de entrega de cada convênio, se certificando do recebimento das mesmas através da data e assinatura legível nos canhotos e protocolos;
--Efetuar o processo de escaneamento dos documentos no GED;
--Analisar o relatório EIS-contas pendentes conforme padrão definido;
--Mensurar a produção diária e as guias não faturadas;
--Fazer os orçamentos para convênios na ferramenta definida pela instituição;
--Solicitar ao moto boy e/ou auxiliar administrativo que peguem as guias nas unidades e hospitais quando necessário.
-Outras informações:
-- Local de trabalho:
-Oncologia Acreditar - Asa Sul - DF.
-- Escala de trabalho:
-5x2 - Segunda à quinta-feira - 08h às 18h e Sexta-feira - 08h às 17h.
-- Disponibilidade para treinamento.",Vagas.com
+. Garantir a aplicação das metodologias e procedimentos operacionais;
+. Rotinas de departamento pessoal (afastamento, transferência, alteração de cargo, alteração de dados pessoais);
+. Realizar todos os processos oriundos de folha de pagamento;
+. Processar a folha de pagamento, encargos/ e-social, sindicais e sociais (INSS, IR, FGTS);
+. Processar provisões e contabilização;
+. Esclarecer dúvidas dos clientes oriundas ao processamento e fechamento da folha de pagamento;
+. Gerar declarações anuais RAIS e DIRF;
+. Relacionar-se com o cliente atendendo as demandas conforme matriz de responsabilidades;
+. Cumprir os prazos estabelecidos em cronograma;
+. Garantir a pontualidade, acuracidade, e conformidade aos ditames legais das informações e valores enviados aos clientes;
+. Conhecimento em legislação trabalhista aplicada a folha de pagamento;
+•	Administrar prontuário e arquivo de documentos dos funcionários e do cliente pertinentes as rotinas de folha de pagamento;
+•	Preparar/imprimir documentos e coletar assinaturas dos recém contratados, desligamentos ou outros processos;
+•	Atualizar informações em documentos dos funcionários do cliente (Ex.CTPS);
+•	Imputar informações de movimentações e reembolsos nos sistemas operacionais Propay;
+•	Encaminhar o profissional para o Instituto Nacional do Seguro Social;
+•	Distribuir e entregar documentos e declarações pertinentes as rotinas de folha de pagamento aos colaboradores (ex. Ponto, Folha, entre outros);
+•	Recepcionar notas fiscais de fornecedores pertinentes as rotinas de folha de pagamento;
+•	Ser interface entre o cliente e o time alocado na Propay a través dos procedimentos Propay;
+•	Não deve realizar pagamentos nem enviar guias de pagamentos ou arquivos bancários fora da área de Recursos Humanos.
+Outros requisitos
+: 
+Atitudes e Comportamentos 
+Buscar se desenvolver continuamente, comportamental e tecnicamente
+Poder de negociação e tratativa com o cliente
+Trabalho em equipe
+Garantir a excelência do seu trabalho 
+Fazer melhorias continuamente
+Procurar aprender com os colegas 
+Ajudar as pessoas novas a se integrarem, aprenderem o trabalho e compreenderem a importância do seu papel 
+Ser promotor de mudanças, criador e multiplicador de conhecimentos",Vagas.com
 Analista Manutenção – Manutenção Predial – Copa D’or,Rede D'Or,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
 : 
 Requisitos:
@@ -9836,39 +10549,6 @@ Outras informações:
 - Escala de trabalho: (5x2);
 - Horário de trabalho: 2.ª feira a 5.ª feira 8h às 18h / 6a feira 8h às 17h;
 - Disponibilidade para treinamento.",Vagas.com
-Analista de Adm Pessoal - Presencial na  Vila Mariana,propay,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
-: 
-. Garantir a aplicação das metodologias e procedimentos operacionais;
-. Rotinas de departamento pessoal (afastamento, transferência, alteração de cargo, alteração de dados pessoais);
-. Realizar todos os processos oriundos de folha de pagamento;
-. Processar a folha de pagamento, encargos/ e-social, sindicais e sociais (INSS, IR, FGTS);
-. Processar provisões e contabilização;
-. Esclarecer dúvidas dos clientes oriundas ao processamento e fechamento da folha de pagamento;
-. Gerar declarações anuais RAIS e DIRF;
-. Relacionar-se com o cliente atendendo as demandas conforme matriz de responsabilidades;
-. Cumprir os prazos estabelecidos em cronograma;
-. Garantir a pontualidade, acuracidade, e conformidade aos ditames legais das informações e valores enviados aos clientes;
-. Conhecimento em legislação trabalhista aplicada a folha de pagamento;
-•	Administrar prontuário e arquivo de documentos dos funcionários e do cliente pertinentes as rotinas de folha de pagamento;
-•	Preparar/imprimir documentos e coletar assinaturas dos recém contratados, desligamentos ou outros processos;
-•	Atualizar informações em documentos dos funcionários do cliente (Ex.CTPS);
-•	Imputar informações de movimentações e reembolsos nos sistemas operacionais Propay;
-•	Encaminhar o profissional para o Instituto Nacional do Seguro Social;
-•	Distribuir e entregar documentos e declarações pertinentes as rotinas de folha de pagamento aos colaboradores (ex. Ponto, Folha, entre outros);
-•	Recepcionar notas fiscais de fornecedores pertinentes as rotinas de folha de pagamento;
-•	Ser interface entre o cliente e o time alocado na Propay a través dos procedimentos Propay;
-•	Não deve realizar pagamentos nem enviar guias de pagamentos ou arquivos bancários fora da área de Recursos Humanos.
-Outros requisitos
-: 
-Atitudes e Comportamentos 
-Buscar se desenvolver continuamente, comportamental e tecnicamente
-Poder de negociação e tratativa com o cliente
-Trabalho em equipe
-Garantir a excelência do seu trabalho 
-Fazer melhorias continuamente
-Procurar aprender com os colegas 
-Ajudar as pessoas novas a se integrarem, aprenderem o trabalho e compreenderem a importância do seu papel 
-Ser promotor de mudanças, criador e multiplicador de conhecimentos",Vagas.com
 Analista de Bi - Vaga Afirmativa Também para o Público Pcd,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfis.
@@ -9994,6 +10674,21 @@ Analista de Pessoal Júnior - Temporário para Cobrir Licença Maternidade,propa
 . Esclarecer dúvidas dos clientes oriundas ao processamento e fechamento da folha de pagamento.
 Outros requisitos
 :",Vagas.com
+Analista de RPA Sr - Monitoramento Regras e Cadastros - Corporativo RJ,Rede D'Or,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Requisitos:
+- Ensino Superior Completo (Engenharias, Computação e formações relacionadas);
+- Desejável conhecimento em Python, blue prim, Power Automate, entre outras Conhecimento em programação,banco de dados relacional e não relacional, linguagem SQL Conhecimento em ETL (ferramentas como pentaho, apache hop, entre outros);
+- Desejável conhecimento em teoria e prática de Inteligência Artificial.
+Atividades: 
+- Desenvolver, implementar e monitorar soluções de RPA utilizando Power Automate, Python ou outras ferramentas de automação;
+- Colaborar com equipes multidisciplinares para identificar oportunidades de automação;
+- Gerenciar e configurar ferramentas relacionadas;
+- Realizar suporte, sustentação e monitoramento contínuo de processos RPA em ambiente de produção, garantindo a operação estável e identificando oportunidades de melhoria;
+- Realizar testes unitários e de integração para garantir que os robôs funcionem conforme esperado.
+Outras informações:
+- Cinelândia - RJ;
+- Hibrido;",Vagas.com
 Analista Regras e Cadastro Sr - Gestão de Inclusão - Corporativo RJ,Rede D'Or,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
 : 
 Requisitos:
@@ -10312,36 +11007,6 @@ resultando em uma nota de 4,3 no Glassdoor.
 Buscamos criar um ambiente onde todos possam ser autênticos, valorizados por seu talento e potencial. Por isso, incentivamos candidaturas de diferentes gêneros, raças, religiões, idades, orientações sexuais, nacionalidades e pessoas com deficiência.
 Se você acredita no seu potencial, candidate-se, mesmo que não atenda a todos os requisitos. 
 Queremos talentos dispostos a crescer com a gente!",Vagas.com
-Analista Pl - Qualidade (Auditoria) - Pesquisa Nacional - IDOR SP,Rede D'Or,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-Fundado em 2010 no Rio de Janeiro, o Instituto D’Or de Pesquisa e Ensino (IDOR) é uma organização sem fins lucrativos que tem como objetivo contribuir para a evolução da ciência, de forma a melhorar a condição de vida humana. Para isso, combina pesquisa de ponta, capacitação profissional e desenvolvimento tecnológico na área da saúde. Sua principal mantenedora é a Rede D’Or São Luiz (RDSL), maior rede hospitalar privada do Brasil.
-Desde sua criação, o IDOR valoriza a ciência e se mantém atento às necessidades do país na área da saúde, mobilizando seus recursos e estimulando seus pesquisadores na busca de soluções para problemas atuais e futuros.
-Desta forma, o Instituto trouxe importantes contribuições para a saúde pública nacional e internacional, como no entendimento do papel do vírus Zika nas malformações do sistema nervoso e nas pesquisas voltadas para o enfrentamento da pandemia de covid-19.
-A excelência da pesquisa desenvolvida no IDOR viabiliza inúmeras parcerias internacionais e centenas de publicações em revistas científicas de grande prestígio. Além disso, o Instituto também contribui significativamente para a formação de profissionais da área da saúde nas diferentes esferas do ensino, incluindo graduação, pós-graduação stricto sensu, residência médica e multiprofissional, aperfeiçoamento e cursos de capacitação, atividades que deram origem à Faculdade IDOR de Ciências Médicas, fundada em 2017.
-Requisitos:
-A área de Qualidade em Pesquisa Clínica é responsável por assegurar que todos os processos relacionados a ensaios clínicos sejam conduzidos em conformidade com normas nacionais e internacionais, garantindo a integridade científica dos dados, a segurança dos participantes e a aderência regulatória. Atuamos na padronização de processos, execução de auditorias, monitoramento de indicadores e implementação de melhorias contínuas.
-- Formação superior em Enfermagem, Farmácia, Biomedicina, Medicina ou áreas correlatas da saúde;
-- Pós-graduação ou especialização em Pesquisa Clínica, Gestão da Qualidade ou Auditoria em Saúde;
-- Inglês intermediário/avançado (leitura e escrita técnica);
-- Espanhol técnico para interface com centros da América Latina;
-- Conhecimento avançado em Boas Práticas Clínicas (ICH-GCP);
-- Familiaridade com a legislação brasileira aplicável (RDC 9/2015, Res. CNS 466/2012, Res. CNS 510/2016);
-- Vivência prévia em auditorias de pesquisa clínica;
-- Conhecimento em auditorias internacionais (FDA, EMA, PMDA);
-- Desejável conhecimento de sistemas eletrônicos (eTMF, CTMS, EDC, eISF);
-- Certificações adicionais desejáveis: Auditor Líder ISO, SOCRA, ACRP ou DIA. 
-Atividades:
-- Planejar, executar e reportar auditorias em centros de pesquisa, patrocinadores e CROs;
-- Elaborar relatórios técnicos com classificação de achados e definição de planos de ação;
-- Monitorar a implementação de CAPAs (ações corretivas e preventivas) e avaliar sua eficácia;
-- Apoiar a manutenção e atualização de procedimentos operacionais padrão (POPs);
-- Ministrar treinamentos internos sobre Boas Práticas Clínicas (ICH-GCP) e conformidade regulatória;
-- Contribuir para a preparação e acompanhamento de inspeções nacionais (ANVISA, CONEP) e internacionais (FDA, EMA);
-- Participar da análise de indicadores de qualidade e geração de relatórios gerenciais.
-Outras informações:
-- Jardim Paulista - SP;
-- Segunda a quinta-feira das 8h às 18h e sexta-feira das 8h às 17h - 100% Presencial.
-#LI-PA1",Vagas.com
 Engenheiro/Analista de Operações (VAGA Extensiva para Pessoas com Deficiência),Concremat,Nova Lima / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,"Descrição
 : 
 Somos a Concremat
