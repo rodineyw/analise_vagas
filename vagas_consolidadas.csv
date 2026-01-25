@@ -27,6 +27,64 @@ PRINCIPAIS RESPONSABILIDADES:
 Outros requisitos
 : 
 Analisar, interpretar e transformar dados estruturados em informações relevantes para apoiar a tomada de decisão. Atua na leitura crítica de dashboards e relatórios, validando a consistência dos indicadores e correlacionando resultados com os processos do negócio para identificar tendências, riscos e oportunidades de melhoria. Realiza consultas em SQL, análises em Excel e desenvolve dashboards e relatórios gerenciais com base em dados já disponíveis.",Vagas.com
+Analista de Dados Pleno,Fundação São Francisco Xavier,"Ipatinga / MG
+              
+
+
+
+                      A empresa aceita candidaturas de qualquer cidade do Brasil",MG,"Descrição
+: 
+O desafio:
+Buscamos um(a) Analista de Dados Pleno para atuar de forma estratégica no tratamento, análise e visualização de dados institucionais, apoiando as áreas de negócio com informações precisas e dashboards inteligentes que impulsionem a tomada de decisão.
+Principais responsabilidades:
+
+
+Tratar e preparar dados para cálculo de indicadores, consultando fontes estruturadas, semiestruturadas e não estruturadas armazenadas em Datalake ou Data Warehouse;
+
+
+Desenvolver dashboards e relatórios analíticos, utilizando padrões visuais definidos pela supervisão;
+
+
+Acompanhar e validar indicadores institucionais junto às áreas de negócio, contribuindo com o dicionário de dados e com a governança da informação;
+
+
+Propor métricas e criar painéis de monitoramento da qualidade dos dados, identificando e reportando desvios;
+
+
+Documentar produtos de dados e indicadores, traduzindo regras de negócio em instruções técnicas para manutenção contínua;
+
+
+Realizar análises exploratórias, aplicando técnicas estatísticas e de visualização para identificar padrões e tendências;
+
+
+Atender demandas de análise das áreas de negócio, interpretando necessidades, propondo soluções e garantindo o cumprimento de prazos.
+
+
+Requisitos:
+
+
+Ensino superior completo em Ciência de Dados, Estatística, Sistemas de Informação, Engenharia, Administração ou áreas correlatas.
+
+
+Conhecimentos em: SQL e bancos de dados relacionais; Ferramentas de BI (Power BI, Tableau ou similares); Estatística aplicada e análise exploratória; Excel avançado; Segurança da informação e governança de dados; Design de interface, experiência do usuário e visualização de dados.
+
+
+Diferenciais desejáveis:
+
+
+Pós-graduação em Análise de Dados, BI ou Big Data;
+
+
+Conhecimento em Python ou R;
+
+
+Certificações intermediárias (Power BI Data Analyst Associate, SQL Database Fundamentals ou Google Data Analytics Professional).
+
+
+Dados da vaga:
+Horário: 08h00 às 17h16
+Local: Ipatinga ou Belo Horizonte (MG) | Santos ou São Paulo (SP)
+Modelo de trabalho: Híbrido (3 dias presenciais e 2 dias home office)",Vagas.com
 Analista de Dados,Kasznar Leonardos,"Rio de Janeiro / RJ
               
 
@@ -102,99 +160,6 @@ Um time incrível formado por pessoas apaixonadas pelo que fazem e referências 
 Idiomas
 :
 Inglês - Nível Fluente e Inglês - Nível Avançado",Vagas.com
-Analista de Dados Pleno,Fundação São Francisco Xavier,"Ipatinga / MG
-              
-
-
-
-                      A empresa aceita candidaturas de qualquer cidade do Brasil",MG,"Descrição
-: 
-O desafio:
-Buscamos um(a) Analista de Dados Pleno para atuar de forma estratégica no tratamento, análise e visualização de dados institucionais, apoiando as áreas de negócio com informações precisas e dashboards inteligentes que impulsionem a tomada de decisão.
-Principais responsabilidades:
-
-
-Tratar e preparar dados para cálculo de indicadores, consultando fontes estruturadas, semiestruturadas e não estruturadas armazenadas em Datalake ou Data Warehouse;
-
-
-Desenvolver dashboards e relatórios analíticos, utilizando padrões visuais definidos pela supervisão;
-
-
-Acompanhar e validar indicadores institucionais junto às áreas de negócio, contribuindo com o dicionário de dados e com a governança da informação;
-
-
-Propor métricas e criar painéis de monitoramento da qualidade dos dados, identificando e reportando desvios;
-
-
-Documentar produtos de dados e indicadores, traduzindo regras de negócio em instruções técnicas para manutenção contínua;
-
-
-Realizar análises exploratórias, aplicando técnicas estatísticas e de visualização para identificar padrões e tendências;
-
-
-Atender demandas de análise das áreas de negócio, interpretando necessidades, propondo soluções e garantindo o cumprimento de prazos.
-
-
-Requisitos:
-
-
-Ensino superior completo em Ciência de Dados, Estatística, Sistemas de Informação, Engenharia, Administração ou áreas correlatas.
-
-
-Conhecimentos em: SQL e bancos de dados relacionais; Ferramentas de BI (Power BI, Tableau ou similares); Estatística aplicada e análise exploratória; Excel avançado; Segurança da informação e governança de dados; Design de interface, experiência do usuário e visualização de dados.
-
-
-Diferenciais desejáveis:
-
-
-Pós-graduação em Análise de Dados, BI ou Big Data;
-
-
-Conhecimento em Python ou R;
-
-
-Certificações intermediárias (Power BI Data Analyst Associate, SQL Database Fundamentals ou Google Data Analytics Professional).
-
-
-Dados da vaga:
-Horário: 08h00 às 17h16
-Local: Ipatinga ou Belo Horizonte (MG) | Santos ou São Paulo (SP)
-Modelo de trabalho: Híbrido (3 dias presenciais e 2 dias home office)",Vagas.com
-Analista de Dados,Inova Máquinas,"Contagem / MG
-              
-
-
-
-                      A empresa aceita candidaturas de Contagem e cidades próximas",MG,"Descrição
-: 
-• Construir e manter pipelines e ambientes de dados no Microsoft Fabric
-• Organizar e estruturar dados no OneLake, Lakehouses e Warehouses
-•Executar transformações de dados via notebooks (Apache Spark / Python)
-• Integrar, padronizar e garantir qualidade, limpeza e consistência dos dados corporativos
-• Modelar dados relacionais e multidimensionais de forma confiável
-• Desenvolver e manter dashboards e KPIs em Power BI
-• Aplicar DAX avançado e otimizar performance, publicação e versionamento no Power BI Embedded
-• Definir e assegurar governança, segurança da informação, acessos e RLS
-• Prestar suporte analítico às áreas de negócio e traduzir demandas técnicas para executivos
-• Documentar processos, estabelecer padrões e promover melhoria contínua em BI & Dados
-Outros requisitos
-: 
-Requisitos:
-•  Ensino Superior Completo;
-• Microsoft Fabric: Data Factory, Lakehouse, Warehouse, Notebooks;
-• Power BI avançado: DAX, modelos em estrela, desempenho, Embedded;
-• SQL avançado (especialmente SQL Server);
-• Experiência com versionamento e boas práticas (git, branches, documentação);
-• Capacidade de analisar logs, divergências e tabelas complexas;
-• Conhecimento de integrações com gateways e conectores híbridos.
- 
-Requisitos Desejáveis:
-• Spark ou Python aplicado a grandes volumes;
-• Experiência com Protheus 12.1.2410 (estrutura de tabelas e TES/TMV);
-• Experiência com sistemas de CRM e registros transacionais;
-•Conhecimento de governança de dados e boas práticas de arquitetura;
-• Noções de automação (n8n, Power Automate, APIs REST);
-• Noções de segurança e controle de acesso.",Vagas.com
 Analista de Dados Jr,Concremat,"Brasília / DF
               
 
@@ -317,44 +282,41 @@ Senso de Negócio
 Colaboração e Trabalho em Equipe
 Curiosidade e Mentalidade Investigativa
 Adaptabilidade",Vagas.com
-Analista Sênior de Governança de Dados,Confidencial,N/A,N/A,"Descrição
-: 
-O(a) Analista Sênior de Governança de Dados será responsável por estruturar, implementar e sustentar práticas robustas de governança da informação em um ambiente corporativo altamente orientado a dados e decisões estratégicas. Atuará diretamente na definição de políticas, normas e padrões relacionados à qualidade, segurança, integridade e ciclo de vida dos dados corporativos, garantindo aderência a requisitos regulatórios, normativos internos e boas práticas de mercado.
-Será responsável por mapear fluxos de dados entre sistemas, identificar riscos relacionados à inconsistência ou uso inadequado das informações, propor melhorias em processos de captura, tratamento e consumo de dados e atuar de forma consultiva junto às áreas de negócio, tecnologia, compliance e segurança da informação. Também terá papel ativo na definição de indicadores de qualidade de dados, monitoramento contínuo, análise de desvios e proposição de planos de ação corretivos.
-Participará de projetos estratégicos envolvendo analytics, BI, inteligência artificial e automação, garantindo que os dados utilizados sejam confiáveis, rastreáveis e documentados. Espera-se atuação analítica, capacidade de comunicação com públicos técnicos e não técnicos e visão sistêmica do uso da informação como ativo estratégico da organização.",Vagas.com
-Analista de Marketing e Dados,Confidencial,"Sorriso / MT
+Analista de Dados,Inova Máquinas,"Contagem / MG
               
 
 
 
-                      A empresa aceita candidaturas de Sorriso e cidades próximas",MT,"Descrição
+                      A empresa aceita candidaturas de Contagem e cidades próximas",MG,"Descrição
 : 
-CONHEÇA NOSSA ÁREA:
-O Analista de Merketing trabalhará na Unidade de Negócios Cerrados Norte. É uma das unidades de proteção de cultivos, que atua em um território de alta complexidade e crescimento acelerado. Nossa missão é simples e ambiciosa: gerar impacto real no campo, apoiando produtores, distribuidores e parceiros com inovação, proximidade e execução de excelência.
-Aqui operamos , com times autônomos, foco radical  e decisões rápidas, sempre ancoradas no que gera valor para o cliente.
-Atuamos em mercados altamente competitivos e exigentes, onde disciplina, narrativa clara, inteligência de dados e colaboração são fundamentais para ganhar share e acelerar a adoção de tecnologias. Nosso papel é conectar estratégia e campo com simplicidade, velocidade e coragem. A Cerrados Norte é, acima de tudo, um time que acredita em impacto, alta performance e crescimento sustentável. Um time que constrói o presente do agronegócio e prepara o futuro.
-SUA MISSÃO SERÁ:
-•	Desenvolver e atualizar dashboards e análises em Power BI, garantindo visão clara da performance comercial, geração de demanda e indicadores-chave.
-•	Criar cenários e modelos analíticos (preço, volume, margem, concorrência) para suportar decisões estratégicas do time de vendas.
-•	Consolidar informações de múltiplas fontes (vendas, pricing, mercado, distribuidores) e transformá-las em insights acionáveis.
-•	Acompanhar indicadores de clientes, EIBs e distribuidores, antecipando riscos e oportunidades.
-•	Apoiar equipes de campo com análises, apresentações executivas e narrativas que conectem dados a impacto real no negócio.
-•	Contribuir para planejamento comercial, segmentação, previsão de demanda e entendimento do comportamento regional do mercado.
-•	Traduzir dados complexos em informações simples, claras e úteis para liderança e para o time de vendas.
+• Construir e manter pipelines e ambientes de dados no Microsoft Fabric
+• Organizar e estruturar dados no OneLake, Lakehouses e Warehouses
+•Executar transformações de dados via notebooks (Apache Spark / Python)
+• Integrar, padronizar e garantir qualidade, limpeza e consistência dos dados corporativos
+• Modelar dados relacionais e multidimensionais de forma confiável
+• Desenvolver e manter dashboards e KPIs em Power BI
+• Aplicar DAX avançado e otimizar performance, publicação e versionamento no Power BI Embedded
+• Definir e assegurar governança, segurança da informação, acessos e RLS
+• Prestar suporte analítico às áreas de negócio e traduzir demandas técnicas para executivos
+• Documentar processos, estabelecer padrões e promover melhoria contínua em BI & Dados
 Outros requisitos
 : 
-O QUE ESPERAMOS DE VOCÊ:
-Mandatório: 
-•	Domínio avançado de Power BI (modelagem, DAX, dashboards executivos).
-•	Excel avançado e forte capacidade de trabalhar com grandes bases de dados.
-•	Conhecimento de estatística aplicada, construção de cenários e modelos preditivos.
-•	Capacidade de consolidar dados de múltiplas fontes e criar narrativas claras.
-•	Entendimento de funil comercial, indicadores de vendas e dinâmica competitiva.
-•	Facilidade para transformar dados em insights acionáveis para decisões estratégicas.
-Desejável: 
-•	Mentalidade de dono e execução com autonomia.
-•	Proatividade, curiosidade e disposição para aprender continuamente.
-•	Velocidade para gerar insights em ambientes de alta demanda e pressão",Vagas.com
+Requisitos:
+•  Ensino Superior Completo;
+• Microsoft Fabric: Data Factory, Lakehouse, Warehouse, Notebooks;
+• Power BI avançado: DAX, modelos em estrela, desempenho, Embedded;
+• SQL avançado (especialmente SQL Server);
+• Experiência com versionamento e boas práticas (git, branches, documentação);
+• Capacidade de analisar logs, divergências e tabelas complexas;
+• Conhecimento de integrações com gateways e conectores híbridos.
+ 
+Requisitos Desejáveis:
+• Spark ou Python aplicado a grandes volumes;
+• Experiência com Protheus 12.1.2410 (estrutura de tabelas e TES/TMV);
+• Experiência com sistemas de CRM e registros transacionais;
+•Conhecimento de governança de dados e boas práticas de arquitetura;
+• Noções de automação (n8n, Power Automate, APIs REST);
+• Noções de segurança e controle de acesso.",Vagas.com
 Analista de Governança de Dados Sênior,Fundação São Francisco Xavier,"Ipatinga / MG
               
 
@@ -445,6 +407,44 @@ Conhecimento em levantamento de requisitos e documentação funcional.
 Outros requisitos
 : 
 ** VAGA HÍBRIDA, com 2X na semana no cliente, em SP. ***",Vagas.com
+Analista de Marketing e Dados,Confidencial,"Sorriso / MT
+              
+
+
+
+                      A empresa aceita candidaturas de Sorriso e cidades próximas",MT,"Descrição
+: 
+CONHEÇA NOSSA ÁREA:
+O Analista de Merketing trabalhará na Unidade de Negócios Cerrados Norte. É uma das unidades de proteção de cultivos, que atua em um território de alta complexidade e crescimento acelerado. Nossa missão é simples e ambiciosa: gerar impacto real no campo, apoiando produtores, distribuidores e parceiros com inovação, proximidade e execução de excelência.
+Aqui operamos , com times autônomos, foco radical  e decisões rápidas, sempre ancoradas no que gera valor para o cliente.
+Atuamos em mercados altamente competitivos e exigentes, onde disciplina, narrativa clara, inteligência de dados e colaboração são fundamentais para ganhar share e acelerar a adoção de tecnologias. Nosso papel é conectar estratégia e campo com simplicidade, velocidade e coragem. A Cerrados Norte é, acima de tudo, um time que acredita em impacto, alta performance e crescimento sustentável. Um time que constrói o presente do agronegócio e prepara o futuro.
+SUA MISSÃO SERÁ:
+•	Desenvolver e atualizar dashboards e análises em Power BI, garantindo visão clara da performance comercial, geração de demanda e indicadores-chave.
+•	Criar cenários e modelos analíticos (preço, volume, margem, concorrência) para suportar decisões estratégicas do time de vendas.
+•	Consolidar informações de múltiplas fontes (vendas, pricing, mercado, distribuidores) e transformá-las em insights acionáveis.
+•	Acompanhar indicadores de clientes, EIBs e distribuidores, antecipando riscos e oportunidades.
+•	Apoiar equipes de campo com análises, apresentações executivas e narrativas que conectem dados a impacto real no negócio.
+•	Contribuir para planejamento comercial, segmentação, previsão de demanda e entendimento do comportamento regional do mercado.
+•	Traduzir dados complexos em informações simples, claras e úteis para liderança e para o time de vendas.
+Outros requisitos
+: 
+O QUE ESPERAMOS DE VOCÊ:
+Mandatório: 
+•	Domínio avançado de Power BI (modelagem, DAX, dashboards executivos).
+•	Excel avançado e forte capacidade de trabalhar com grandes bases de dados.
+•	Conhecimento de estatística aplicada, construção de cenários e modelos preditivos.
+•	Capacidade de consolidar dados de múltiplas fontes e criar narrativas claras.
+•	Entendimento de funil comercial, indicadores de vendas e dinâmica competitiva.
+•	Facilidade para transformar dados em insights acionáveis para decisões estratégicas.
+Desejável: 
+•	Mentalidade de dono e execução com autonomia.
+•	Proatividade, curiosidade e disposição para aprender continuamente.
+•	Velocidade para gerar insights em ambientes de alta demanda e pressão",Vagas.com
+Analista Sênior de Governança de Dados,Confidencial,N/A,N/A,"Descrição
+: 
+O(a) Analista Sênior de Governança de Dados será responsável por estruturar, implementar e sustentar práticas robustas de governança da informação em um ambiente corporativo altamente orientado a dados e decisões estratégicas. Atuará diretamente na definição de políticas, normas e padrões relacionados à qualidade, segurança, integridade e ciclo de vida dos dados corporativos, garantindo aderência a requisitos regulatórios, normativos internos e boas práticas de mercado.
+Será responsável por mapear fluxos de dados entre sistemas, identificar riscos relacionados à inconsistência ou uso inadequado das informações, propor melhorias em processos de captura, tratamento e consumo de dados e atuar de forma consultiva junto às áreas de negócio, tecnologia, compliance e segurança da informação. Também terá papel ativo na definição de indicadores de qualidade de dados, monitoramento contínuo, análise de desvios e proposição de planos de ação corretivos.
+Participará de projetos estratégicos envolvendo analytics, BI, inteligência artificial e automação, garantindo que os dados utilizados sejam confiáveis, rastreáveis e documentados. Espera-se atuação analítica, capacidade de comunicação com públicos técnicos e não técnicos e visão sistêmica do uso da informação como ativo estratégico da organização.",Vagas.com
 Analista de Dados Jr (Bilíngue),J&T Express,"São Paulo / SP
               
 
@@ -2192,25 +2192,6 @@ Escala de trabalho:
 De segunda a quinta-feira, das 7h às 17h.
 Às sextas-feiras, das 7h às 16h.
 Se você se identifica com o perfil e está em busca de novos desafios, candidate-se agora mesmo!",Vagas.com
-Analista de Cadastro,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
-: 
-Estamos em busca de um Analista de Cadastro I para se juntar à nossa equipe! Se você é uma pessoa organizada, detalhista e gosta de trabalhar com dados, essa pode ser a oportunidade que você estava procurando.
-Responsabilidades:
-Realizar a parametrização no sistema das regras assistenciais, como cadastro de protocolos, recomendações, escalas da equipe, procedimentos internos, estrutura de atendimento, entre outras funções;
-Assegurar a segurança da informação realizando constantemente a homologação das ações realizadas, bem como garantir o SLA proposto para cada demanda;
-Relacionar-se com a equipe, promovendo integração de conhecimentos;
-Atendimento para clientes internos e externos.
-Requisitos:
-- Ensino superior completo em Administração, Ciências Contábeis ou áreas afins;
-- Conhecimento em Excel;
-- Experiência em cadastro de clientes e fornecedores será considerado um diferencial.
-Oferecemos:
-- Salário compatível com o mercado;
-- Vale-transporte;
-- Vale-refeição;
-- Plano de saúde;
-- Plano odontológico.
-Se você se identifica com a vaga e atende aos requisitos, clique no botão ""candidate-se"" e envie seu currículo para nós!",Vagas.com
 Analista de Qualidade Pleno,Stellantis Saúde,Betim / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,"Descrição
 : 
 Garantir que os serviços e os processos da Stellantis Saúde (Operadora e Serviços Próprios) atendam aos padrões de qualidade, além de fomentar as melhorias contínuas. O Analista elaborará documentos, monitorará indicadores de qualidade, analisará dados, identificará não conformidades e implementará ações corretivas, em todas as hipóteses sob supervisão da liderança da área. 
@@ -2230,57 +2211,6 @@ LOCAL E HORÁRIO DE TRABALHO:
 - Betim | MG
 - Segunda a sexta de 8h às 17:30h (com 1h de intervalo para almoço).
 - Jornada Híbrida.",Vagas.com
-Analista de Compras,Hyundai Mobis Brasil,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-Responsabilidades:
-
-
-Gerenciar o processo de compras de ponta a ponta, garantindo eficiência, conformidade e economia;
-
-
-Apoiar iniciativas estratégicas de sourcing, assegurando a aquisição eficaz de materiais indiretos e serviços de construção;
-
-
-Analisar dados de compras e acompanhar indicadores de desempenho (KPIs) da área;
-
-
-Elaborar relatórios gerenciais relacionados às atividades de compras, economias obtidas e performance de fornecedores;
-
-
-Coordenar o processo de importação de peças de reposição, incluindo documentação, desembaraço aduaneiro e conformidade com normas internacionais;
-
-
-Colaborar com as áreas internas para compreender as demandas do negócio e assegurar aquisições dentro dos prazos e requisitos estabelecidos.
-
-
- 
-Requisitos:
-
-
-Ensino superior completo em Administração, Engenharia, Economia ou áreas correlatas;
-
-
-Experiência com negociação e gestão de fornecedores;
-
-
-Perfil analítico, boa comunicação e visão estratégica para tomada de decisões;
-
-
-Domínio de Excel e familiaridade com ferramentas de Business Intelligence (BI);
-
-
-Inglês intermediário/avançado;
-
-
-Disponibilidade para viagens eventuais;
-
-
-Disponibilidade para atuação 100% presencial - Piracicaba.
-
-
-Idiomas
-:
-Inglês - Nível Intermediário e Inglês - Nível Avançado",Vagas.com
 Analista de Demanda Sr.,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Industria multinacional contrata para Analista de Demanda SR.
@@ -2352,6 +2282,57 @@ Presencial - Vila Cruzeiro - São Paulo/SP
 Idiomas
 :
 Inglês - Nível Intermediário",Vagas.com
+Analista de Compras,Hyundai Mobis Brasil,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+: 
+Responsabilidades:
+
+
+Gerenciar o processo de compras de ponta a ponta, garantindo eficiência, conformidade e economia;
+
+
+Apoiar iniciativas estratégicas de sourcing, assegurando a aquisição eficaz de materiais indiretos e serviços de construção;
+
+
+Analisar dados de compras e acompanhar indicadores de desempenho (KPIs) da área;
+
+
+Elaborar relatórios gerenciais relacionados às atividades de compras, economias obtidas e performance de fornecedores;
+
+
+Coordenar o processo de importação de peças de reposição, incluindo documentação, desembaraço aduaneiro e conformidade com normas internacionais;
+
+
+Colaborar com as áreas internas para compreender as demandas do negócio e assegurar aquisições dentro dos prazos e requisitos estabelecidos.
+
+
+ 
+Requisitos:
+
+
+Ensino superior completo em Administração, Engenharia, Economia ou áreas correlatas;
+
+
+Experiência com negociação e gestão de fornecedores;
+
+
+Perfil analítico, boa comunicação e visão estratégica para tomada de decisões;
+
+
+Domínio de Excel e familiaridade com ferramentas de Business Intelligence (BI);
+
+
+Inglês intermediário/avançado;
+
+
+Disponibilidade para viagens eventuais;
+
+
+Disponibilidade para atuação 100% presencial - Piracicaba.
+
+
+Idiomas
+:
+Inglês - Nível Intermediário e Inglês - Nível Avançado",Vagas.com
 Analista Acadêmico,Inspirali,Porto Alegre / RS                                       A empresa aceita candidaturas de Porto Alegre e cidades próximas,RS,"Descrição
 : 
 Analista Acadêmico l
@@ -2383,6 +2364,19 @@ Assistência saúde Zenklub 
 Sesc
 Outros requisitos
 :",Vagas.com
+Analista da Qualidade,TekniPlex Materials Science Solutions,Santana de Parnaíba / SP                                       A empresa aceita candidaturas de Santana de Parnaíba e cidades próximas,SP,"Descrição
+: 
+Descrição:
+Analisar e elaborar os procedimentos e forma de execução de cada tarefa, preparando listas de verificação com base nas recomendações das normas, visando identificar métodos de auditoria para esses procedimentos.
+Participar de comissões internas, visando encontrar soluções para aumento de produtividade, melhoria de qualidade, mudanças de processos e redução de custos.
+Elaborar diálogos de qualidade e treinamentos referentes a Qualidade, aplicar aos setores envolvidos.
+Elaborar/atualizar procedimentos e instruções de trabalho, visando atender aos requisitos das normas ISO9001/14001/FSSC22000.
+Identificar deficiências em processos, sistemas e tarefas, promovendo a conscientização das pessoas e setores diretamente envolvidos, visando o seu engajamento na busca de soluções e implementação das ações corretivas.
+Analisar as reclamações de clientes, elaborar planos de ação e acompanhar as implementações das ações.
+Dar tratamento estatístico aos dados relacionados a desvios de qualidade, reclamações de clientes e fornecedores.
+Apoiar as demais áreas na solução de problemas, identificando e removendo barreiras e obstáculos, atuando como facilitador para mudança de comportamentos e assimilação de mudanças.
+Organizar e acompanhar o processo de calibração dos equipamentos.
+Acompanhar os prestadores de serviço durante a realização do serviço nas dependências da fábrica.",Vagas.com
 Analista Comercial I,Grupo SERES,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
 : 
 O Grupo Seres, em parceria com empresa do segmento de Saneamento, seleciona profissional para atuar como Analista Comercial I.
@@ -2420,19 +2414,6 @@ Local de trabalho:
 Campo Grande, Rio de Janeiro
 Outros requisitos
 :",Vagas.com
-Analista da Qualidade,TekniPlex Materials Science Solutions,Santana de Parnaíba / SP                                       A empresa aceita candidaturas de Santana de Parnaíba e cidades próximas,SP,"Descrição
-: 
-Descrição:
-Analisar e elaborar os procedimentos e forma de execução de cada tarefa, preparando listas de verificação com base nas recomendações das normas, visando identificar métodos de auditoria para esses procedimentos.
-Participar de comissões internas, visando encontrar soluções para aumento de produtividade, melhoria de qualidade, mudanças de processos e redução de custos.
-Elaborar diálogos de qualidade e treinamentos referentes a Qualidade, aplicar aos setores envolvidos.
-Elaborar/atualizar procedimentos e instruções de trabalho, visando atender aos requisitos das normas ISO9001/14001/FSSC22000.
-Identificar deficiências em processos, sistemas e tarefas, promovendo a conscientização das pessoas e setores diretamente envolvidos, visando o seu engajamento na busca de soluções e implementação das ações corretivas.
-Analisar as reclamações de clientes, elaborar planos de ação e acompanhar as implementações das ações.
-Dar tratamento estatístico aos dados relacionados a desvios de qualidade, reclamações de clientes e fornecedores.
-Apoiar as demais áreas na solução de problemas, identificando e removendo barreiras e obstáculos, atuando como facilitador para mudança de comportamentos e assimilação de mudanças.
-Organizar e acompanhar o processo de calibração dos equipamentos.
-Acompanhar os prestadores de serviço durante a realização do serviço nas dependências da fábrica.",Vagas.com
 Analista de Suprimentos Pleno,Grupo JCA,Niterói / RJ                                       A empresa aceita candidaturas de Niterói e cidades próximas,RJ,"Descrição
 : 
 
@@ -2810,25 +2791,6 @@ Outros requisitos
 •	TOTVS Protheus e Sistemas TMS
 •	Back Office Protheus (Compras, Estoques, Financeiro, Faturamento e etc)
 •	Desejável Inglês avançado",Vagas.com
-Analista de Atendimento,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-A Jobcenter, consultoria especializada em Recrutamento e Seleção, está em busca de um(a) Analista Administrativo(a) para atuar em um de seus clientes, a ACSP – Associação Comercial de São Paulo. Com mais de um século de atuação, a ACSP é reconhecida como a voz do empreendedor e referência na defesa da livre iniciativa, apoiando pequenas e médias empresas e profissionais liberais.
-O(A) Analista Administrativo(a) será responsável por prestar atendimento ativo, receptivo e pós-venda aos associados e ao público, garantindo orientações claras e direcionamentos adequados.
-Responsabilidades:Atendimento de chamadas recebidas na Central de Relacionamento, via e-mail, site, Assistente Virtual e Reclame Aqui; Contato de boas-vindas aos novos associados, esclarecendo dúvidas e fidelizando clientes;
-Acompanhamento de kits de boas-vindas não entregues. Atualização e enriquecimento da base de dados dos associados;Interação com outras áreas da entidade para encaminhamento de solicitações; contato ativo de relacionamento para validação e efetivação de aquisição de produtos, serviços e contratos; atendimento a clientes inativos e inadimplentes, com foco em reativação e retenção; Execução de demais atividades correlatas à área.
-Requisitos:
-
-
-Ensino Superior completo ou cursando em Direito, contabilidade  ou Administração.
-
-
-Conhecimento em Pacote Office.
-
-
-Salário; Vale Transporte; Vale Refeição; Plano de Saúde; Plano Odontológico; Seguro de Vida; Refeitório no local; café da manhã; Day off; Bolsa de estudos; PPR (Participação nos Resultados).
-Jornada de Trabalho: Segunda a sexta-feira Horário: 8h30 às 17h30 −100% presencial
-Local de Trabalho Centro de São Paulo – próximo às estações Sé ou São Bento.
-Tipo de Contrato CLT",Vagas.com
 Analista de PCM,The Adecco Group,São José da Lapa / MG                                       A empresa aceita candidaturas de São José da Lapa e cidades próximas,MG,"Descrição
 : 
 Descrição do Cargo
@@ -2860,6 +2822,25 @@ Perfil Esperado
 • Senso de responsabilidade e melhoria contínua.
 Regime de Trabalho
 • Horário administrativo, com eventual necessidade de atuação em paradas programadas.",Vagas.com
+Analista de Atendimento,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+A Jobcenter, consultoria especializada em Recrutamento e Seleção, está em busca de um(a) Analista Administrativo(a) para atuar em um de seus clientes, a ACSP – Associação Comercial de São Paulo. Com mais de um século de atuação, a ACSP é reconhecida como a voz do empreendedor e referência na defesa da livre iniciativa, apoiando pequenas e médias empresas e profissionais liberais.
+O(A) Analista Administrativo(a) será responsável por prestar atendimento ativo, receptivo e pós-venda aos associados e ao público, garantindo orientações claras e direcionamentos adequados.
+Responsabilidades:Atendimento de chamadas recebidas na Central de Relacionamento, via e-mail, site, Assistente Virtual e Reclame Aqui; Contato de boas-vindas aos novos associados, esclarecendo dúvidas e fidelizando clientes;
+Acompanhamento de kits de boas-vindas não entregues. Atualização e enriquecimento da base de dados dos associados;Interação com outras áreas da entidade para encaminhamento de solicitações; contato ativo de relacionamento para validação e efetivação de aquisição de produtos, serviços e contratos; atendimento a clientes inativos e inadimplentes, com foco em reativação e retenção; Execução de demais atividades correlatas à área.
+Requisitos:
+
+
+Ensino Superior completo ou cursando em Direito, contabilidade  ou Administração.
+
+
+Conhecimento em Pacote Office.
+
+
+Salário; Vale Transporte; Vale Refeição; Plano de Saúde; Plano Odontológico; Seguro de Vida; Refeitório no local; café da manhã; Day off; Bolsa de estudos; PPR (Participação nos Resultados).
+Jornada de Trabalho: Segunda a sexta-feira Horário: 8h30 às 17h30 −100% presencial
+Local de Trabalho Centro de São Paulo – próximo às estações Sé ou São Bento.
+Tipo de Contrato CLT",Vagas.com
 Analista Sênior de Cibersegurança,Elera Renováveis,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Resumo da Posição
@@ -3144,26 +3125,19 @@ Escala 6x1
 Outros requisitos
 : 
 A diversidade e a inclusão são fundamentais para o nosso crescimento. Por isso, todas as nossas vagas são afirmativas para PCDs e grupos minorizados, pois acreditamos que, ao valorizar a diferença, criamos um ambiente mais inovador e colaborativo.",Vagas.com
-Analista Sr de Contabilidade,Confidencial,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,"Descrição
+Analista de Infraestrutura Sênior,OSKLEN,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
-Garantir a excelência técnica, a integridade das demonstrações contábeis e a conformidade regulatória da companhia,
-atuando de forma estratégica na condução dos processos contábeis, no relacionamento com auditorias e na mitigação
-de riscos financeiros e regulatórios.
-Objetivos do Cargo:
-Liderar tecnicamente o fechamento contábil e a elaboração das demonstrações financeiras.
-Assegurar total conformidade com as normas contábeis, fiscais e regulatórias aplicáveis ao Lucro Real.
-Atuar como referência técnica da área contábil para a liderança e demais áreas da empresa.
-Conduzir o atendimento às auditorias internas e externas, incluindo discussões técnicas complexas.
-Avaliar impactos contábeis de operações relevantes, investimentos e projetos de infraestrutura.
-Propor e liderar melhorias, automações e aperfeiçoamento dos controles internos e processos contábeis.
-Contribuir para o desenvolvimento técnico da equipe e para a evolução da maturidade contábil da organização
+Atividades:
+ Atuar na sustentação da operação de Infraestrutura e em novos projetos; Atuar em administração de equipamentos de Rede como Firewalls, Switches e Roteadores. Gestão da rede em geral; Garantir a disponibilidade e a boa performance da rede, atuando de forma proativa em ações de melhoria; Gerenciar ambientes de virtualização e administrar servidores Windows (AD, DHCP, DNS, Controlador de Domínio, RADIUS, GPO); Gestão das políticas e rotinas de backup; Monitorar a disponibilidade, desempenho e integridade dos servidores e tomar medidas adequadas em caso de problemas; Realizar o gerenciamento e a correção de patches e vulnerabilidades; Implementar e normatizar medidas de segurança para garantir a integridade dos dados da empresa; Acompanhar tendências tecnológicas, IA, RPA e as aplicações a Infraestrutura; Contribuir para que os indicadores de desempenho (KPIs) estejam dentro da média estabelecida; Atuar na melhoria contínua dos serviços oferecidos pela TI; Realizar atividades de FinOps nos ambientes Cloud a fim de obter o melhor custo-benefício para o negócio e melhorar eficiência operacional; Ser ponto focal técnico dos Analistas Juniores e Plenos, disseminando conhecimento e montando bases de conhecimento.
+Requisitos necessários: 
+Experiência em ambiente em MultiCloud (Google GCP, Azure, AWS, etc.); Conhecimento em Google Workspace e Microsoft 365;Conhecimentos Avançados em Redes de Computadores; Conhecimento avançado em Windows Server (AD, DHCP, DNS, GPO); Conhecimento em boas práticas segurança para infraestrutura; Conhecimento em ferramentas e sistemas de segurança (Qualys, Tenable SentinelOne, Crowdstrike, Fortinet, etc); Solido conhecimento da ferramenta de Monitoramento Zabbix e Grafana.
+Formação:
+ Formação superior em Tecnologia da Informação ou áreas relacionadas.
+Horário:
+ De segunda a sexta, 8:30h por dia (Formato híbrido, 2 dias Home Office – Rio Comprido/RJ).
 Outros requisitos
 : 
-Liderança técnica no fechamento contábil, consolidação e elaboração das demonstrações financeiras. Garantia de conformidade com normas contábeis, fiscais e regulatórias (Lucro Real), incluindo CPC (ICP OCPC 05 e Orientação Contábil 05). Interface com auditorias internas e externas, conduzindo discussões técnicas complexas e projetos de melhoria. Avaliação de impactos contábeis em operações, investimentos e projetos estratégicos, com foco em geração de valor e senso de dono. Implementação de melhorias, automações, controles internos e participação em implantação de sistema novo e reforma tributária. Formação: Superior completo em Contabilidade, CRC ativo; desejável pós-graduação .
-Experiência: 5-6 anos em contabilidade, preferencialmente em prestadoras de serviços (ideal), concessões como diferencial; vivência em Big4 ou BPO é altamente valorizada.
-Conhecimentos: Contabilidade societária, legislação fiscal, noções tributárias, ERP contábil, Excel avançado; Power BI para análise de dados e visualização de insights.
-Soft skills: Liderança, proatividade, resiliência, organização, comunicação técnica, ética e compliance; perfil engajado para mudanças.
-Duas posições SR com forte skill técnico; report para Flávio; atuação estratégica em ambiente regulado e dinâmico.",Vagas.com
+Promovemos Diversidade e Inclusão em nossos processos seletivos, incentivando a candidatura sem discriminação de raça, etnia, religião, cor, sexo, idade, deficiência, nacionalidade, orientação sexual, identidade ou expressão de gênero.",Vagas.com
 Analista de Crédito,Crédito Casa Financiamentos,Campinas / SP                                       A empresa aceita candidaturas de Campinas e cidades próximas,SP,"Descrição
 : 
 Vaga: Analista de Crédito
@@ -3244,19 +3218,26 @@ Conhecimento nos sistemas bancários e habitacionais: SICAQ (Caixa), SIOPI e CIW
 
 
 Familiaridade com plataformas de assinatura digital (DocuSign, ClickSign, Gov.br).",Vagas.com
-Analista de Infraestrutura Sênior,OSKLEN,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+Analista Sr de Contabilidade,Confidencial,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,"Descrição
 : 
-Atividades:
- Atuar na sustentação da operação de Infraestrutura e em novos projetos; Atuar em administração de equipamentos de Rede como Firewalls, Switches e Roteadores. Gestão da rede em geral; Garantir a disponibilidade e a boa performance da rede, atuando de forma proativa em ações de melhoria; Gerenciar ambientes de virtualização e administrar servidores Windows (AD, DHCP, DNS, Controlador de Domínio, RADIUS, GPO); Gestão das políticas e rotinas de backup; Monitorar a disponibilidade, desempenho e integridade dos servidores e tomar medidas adequadas em caso de problemas; Realizar o gerenciamento e a correção de patches e vulnerabilidades; Implementar e normatizar medidas de segurança para garantir a integridade dos dados da empresa; Acompanhar tendências tecnológicas, IA, RPA e as aplicações a Infraestrutura; Contribuir para que os indicadores de desempenho (KPIs) estejam dentro da média estabelecida; Atuar na melhoria contínua dos serviços oferecidos pela TI; Realizar atividades de FinOps nos ambientes Cloud a fim de obter o melhor custo-benefício para o negócio e melhorar eficiência operacional; Ser ponto focal técnico dos Analistas Juniores e Plenos, disseminando conhecimento e montando bases de conhecimento.
-Requisitos necessários: 
-Experiência em ambiente em MultiCloud (Google GCP, Azure, AWS, etc.); Conhecimento em Google Workspace e Microsoft 365;Conhecimentos Avançados em Redes de Computadores; Conhecimento avançado em Windows Server (AD, DHCP, DNS, GPO); Conhecimento em boas práticas segurança para infraestrutura; Conhecimento em ferramentas e sistemas de segurança (Qualys, Tenable SentinelOne, Crowdstrike, Fortinet, etc); Solido conhecimento da ferramenta de Monitoramento Zabbix e Grafana.
-Formação:
- Formação superior em Tecnologia da Informação ou áreas relacionadas.
-Horário:
- De segunda a sexta, 8:30h por dia (Formato híbrido, 2 dias Home Office – Rio Comprido/RJ).
+Garantir a excelência técnica, a integridade das demonstrações contábeis e a conformidade regulatória da companhia,
+atuando de forma estratégica na condução dos processos contábeis, no relacionamento com auditorias e na mitigação
+de riscos financeiros e regulatórios.
+Objetivos do Cargo:
+Liderar tecnicamente o fechamento contábil e a elaboração das demonstrações financeiras.
+Assegurar total conformidade com as normas contábeis, fiscais e regulatórias aplicáveis ao Lucro Real.
+Atuar como referência técnica da área contábil para a liderança e demais áreas da empresa.
+Conduzir o atendimento às auditorias internas e externas, incluindo discussões técnicas complexas.
+Avaliar impactos contábeis de operações relevantes, investimentos e projetos de infraestrutura.
+Propor e liderar melhorias, automações e aperfeiçoamento dos controles internos e processos contábeis.
+Contribuir para o desenvolvimento técnico da equipe e para a evolução da maturidade contábil da organização
 Outros requisitos
 : 
-Promovemos Diversidade e Inclusão em nossos processos seletivos, incentivando a candidatura sem discriminação de raça, etnia, religião, cor, sexo, idade, deficiência, nacionalidade, orientação sexual, identidade ou expressão de gênero.",Vagas.com
+Liderança técnica no fechamento contábil, consolidação e elaboração das demonstrações financeiras. Garantia de conformidade com normas contábeis, fiscais e regulatórias (Lucro Real), incluindo CPC (ICP OCPC 05 e Orientação Contábil 05). Interface com auditorias internas e externas, conduzindo discussões técnicas complexas e projetos de melhoria. Avaliação de impactos contábeis em operações, investimentos e projetos estratégicos, com foco em geração de valor e senso de dono. Implementação de melhorias, automações, controles internos e participação em implantação de sistema novo e reforma tributária. Formação: Superior completo em Contabilidade, CRC ativo; desejável pós-graduação .
+Experiência: 5-6 anos em contabilidade, preferencialmente em prestadoras de serviços (ideal), concessões como diferencial; vivência em Big4 ou BPO é altamente valorizada.
+Conhecimentos: Contabilidade societária, legislação fiscal, noções tributárias, ERP contábil, Excel avançado; Power BI para análise de dados e visualização de insights.
+Soft skills: Liderança, proatividade, resiliência, organização, comunicação técnica, ética e compliance; perfil engajado para mudanças.
+Duas posições SR com forte skill técnico; report para Flávio; atuação estratégica em ambiente regulado e dinâmico.",Vagas.com
 Analista de Operações,JHSF,São Roque / SP                                       A empresa aceita candidaturas de São Roque e cidades próximas,SP,"Descrição
 : 
 Estamos em busca de um Analista de Operações para se juntar à nossa equipe dinâmica e em constante crescimento. O candidato ideal terá experiência em análise de dados, gerenciamento de projetos e habilidades de comunicação excepcionais.
@@ -4700,72 +4681,6 @@ Promovemos uma cultura inclusiva, focada na equidade e na valorização das dife
 Nosso compromisso vai além do cumprimento das legislações que incentivam a diversidade e inclusão. Trabalhamos ativamente para ampliar a representatividade de nossas pessoas, pensando em raça, etnia, gênero, gerações, pessoas com deficiência e LGBTQIAPN+ em nosso time, além de fortalecer a representatividade de mulheres negras, indígenas, chefes de família.
 Para conhecer mais sobre o Grupo Fleury, acesse o site: https://carreiras.grupofleury.com.br/
 O Grupo Fleury informa que a participação em seus processos seletivos é gratuita e nenhuma empresa terceira está autorizada a cobrar valores para a candidatura às vagas, ao treinamento, ao material didático ou qualquer outra despesa relacionada.",Vagas.com
-Analista de Sales Finance Sr,Dori Alimentos,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-Buscamos um 
-Analista de Sales Finance Sr
- para atuar com foco em inteligência financeira aplicada ao negócio, apoiando decisões estratégicas, acompanhando o desempenho comercial e garantindo o uso eficiente dos recursos.
-CONTAMOS COM VOCÊ PARA:
-
-
-Liderar análises financeiras relacionadas a rentabilidade por cliente, canal, marca e portfólio de produtos;
-
-
-Desenvolver, implementar e acompanhar processos de gestão de investimentos comerciais alinhados aos objetivos de negócio e estratégias de pricing;
-
-
-Realizar simulações de cenários e análises de sensibilidade para suportar decisões comerciais e estratégicas;
-
-
-Atuar proativamente como parceiro de áreas como Vendas, Marketing, Trade e Planejamento para definir, coordenar e auditar ações de sellout;
-
-
-Garantir a governança dos processos da área e aprovações financeiras;
-
-
-Construir e aprimorar dashboards e relatórios de performance, garantindo acurácia e visibilidade dos principais indicadores financeiros;
-
-
-Identificar oportunidades de ganho de margem e eficiência comercial com base em dados e tendências de mercado;
-
-
-Conduzir melhorias contínuas nos processos e ferramentas de Sales Finance, apoiando decisões com base em dados robustos.
-
-
-O QUE VOCÊ PRECISA TER PARA FAZER A DIFERENÇA:
-
-
-Formação superior completa em Administração, Economia, Engenharias, Estatística ou áreas correlatas;
-
-
-Conhecimentos ao nível avançado em Excel (obrigatório) e em Power BI e Tableau (diferenciais);
-
-
-Inglês ao nível avançado, com habilidades de comunicação oral e escrita;
-
-
-Disponibilidade para modelo de trabalho híbrido.
-
-
-Idiomas
-:
-Inglês - Nível Avançado e Inglês - Nível Fluente
-Outros requisitos
-: 
-ESPERAMOS QUE VOCÊ:
-
-
-Faça uma gestão de relacionamentos efetiva, lidando com múltiplos stakeholders internos e externos;
-
-
-Comunique e influencie, transmitindo informações de forma clara e segura e atuando em sinergia com áreas parceiras para garantir a tomada de decisões estratégicas do negócio;
-
-
-Possua autonomia e forte capacidade analítica para lidar com um dia a dia quantitativo e transformar dados e informações em ações práticas e efetivas.
-
-
-Não cobramos pela participação no processo seletivo e toda a nossa comunicação relacionada a ele é feita através dos canais oficiais da empresa
-.",Vagas.com
 Analista de Field Service,Inspirali,Tubarão / SC                                       A empresa aceita candidaturas de Tubarão e cidades próximas,SC,"Descrição
 : 
 Desenvolver atividades de suporte técnico na área de Tecnologia da Informação realizando análise, implantação e manutenção de hardwares, softwares e equipamentos, a fim de contribuir para a otimização dos
@@ -5005,6 +4920,32 @@ Idiomas
 Inglês - Nível Fluente e Inglês - Nível Avançado
 Outros requisitos
 :",Vagas.com
+Analista de Compras Sênior (Bilingue),Confidencial,Macaé / RJ                                       A empresa aceita candidaturas de Macaé e cidades próximas,RJ,"Descrição
+: 
+Multinacional do segmento de O&G
+Híbrido: 3 x na semana presencial
+Localização Macaé
+Responsabilidades:
+· Liderar as atividades de sourcing e compras para as categorias designadas, incluindo componentes projetados, peças usinadas, equipamentos.
+· Desenvolver e gerenciar relacionamentos com fornecedores para garantir desempenho ideal, conformidade e melhoria contínua.
+· Analisar dados de compras, tendências de mercado e desempenho dos fornecedores para identificar oportunidades de redução de custos e deflação.
+· Negociar preços, termos e contratos para garantir acordos de melhor valor, mantendo altos padrões de qualidade e entrega.
+· Colaborar com Engenharia, Operações e Qualidade para alinhar requisitos técnicos e comerciais.
+· Executar RFQs, concorrências e projetos de sourcing competitivos—apoiando iniciativas globais e de sourcing em países de melhor custo.
+· Gerenciar proativamente e resolver problemas e lacunas de desempenho dos fornecedores, escalando quando necessário.
+· Manter registros precisos no SAP para pedidos de compra, contratos e dados de fornecedores.
+· Garantir que todas as atividades de compras estejam em conformidade com o Código de Conduta, políticas de segurança e regulamentações da empresa.
+Requisitos:
+· Graduação em Supply Chain, Engenharia, Administração ou área relacionada (ou experiência equivalente).
+· Experiência em compras industriais ou de manufatura; experiência nos setores de óleo & gás ou energia é preferencial.
+· Forte habilidade de negociação, análise e comunicação.
+· Experiência com ERP (SAP preferencial) e análises de compras.
+· Capacidade de gerenciar múltiplas prioridades em um ambiente global e dinâmico.
+· Fluência em inglês; outros idiomas são considerados um diferencial.
+· Proatividade, orientação para resultados, forte iniciativa e habilidades interpessoais.
+Idiomas
+:
+Inglês - Nível Avançado",Vagas.com
 Analista Planejamento de Demanda Pleno,Drogasmil,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Missão do Cargo: Atuar de forma estratégica no processo de planejamento de demanda, garantindo acuracidade das informações, alinhamento com as áreas internas e suporte à tomada de decisão. Será responsável pela revisão periódica da demanda, elaboração de análises e recomendações, além do acompanhamento de indicadores-chave de performance (KPIs) relacionados ao negócio.
@@ -5084,32 +5025,6 @@ Conhecimentos necessários:
 Dados da vaga:
 Horário: 08h00 às 17h16
 Vaga disponível em nossos escritórios em Ipatinga ou Belo Horizonte.",Vagas.com
-Analista de Compras Sênior (Bilingue),Confidencial,Macaé / RJ                                       A empresa aceita candidaturas de Macaé e cidades próximas,RJ,"Descrição
-: 
-Multinacional do segmento de O&G
-Híbrido: 3 x na semana presencial
-Localização Macaé
-Responsabilidades:
-· Liderar as atividades de sourcing e compras para as categorias designadas, incluindo componentes projetados, peças usinadas, equipamentos.
-· Desenvolver e gerenciar relacionamentos com fornecedores para garantir desempenho ideal, conformidade e melhoria contínua.
-· Analisar dados de compras, tendências de mercado e desempenho dos fornecedores para identificar oportunidades de redução de custos e deflação.
-· Negociar preços, termos e contratos para garantir acordos de melhor valor, mantendo altos padrões de qualidade e entrega.
-· Colaborar com Engenharia, Operações e Qualidade para alinhar requisitos técnicos e comerciais.
-· Executar RFQs, concorrências e projetos de sourcing competitivos—apoiando iniciativas globais e de sourcing em países de melhor custo.
-· Gerenciar proativamente e resolver problemas e lacunas de desempenho dos fornecedores, escalando quando necessário.
-· Manter registros precisos no SAP para pedidos de compra, contratos e dados de fornecedores.
-· Garantir que todas as atividades de compras estejam em conformidade com o Código de Conduta, políticas de segurança e regulamentações da empresa.
-Requisitos:
-· Graduação em Supply Chain, Engenharia, Administração ou área relacionada (ou experiência equivalente).
-· Experiência em compras industriais ou de manufatura; experiência nos setores de óleo & gás ou energia é preferencial.
-· Forte habilidade de negociação, análise e comunicação.
-· Experiência com ERP (SAP preferencial) e análises de compras.
-· Capacidade de gerenciar múltiplas prioridades em um ambiente global e dinâmico.
-· Fluência em inglês; outros idiomas são considerados um diferencial.
-· Proatividade, orientação para resultados, forte iniciativa e habilidades interpessoais.
-Idiomas
-:
-Inglês - Nível Avançado",Vagas.com
 Analista de Planejamento e Controladoria Pleno,Melitta South America,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 
@@ -5213,6 +5128,36 @@ Outros requisitos
 •	Boa comunicação e postura colaborativa
 •	Proatividade e foco em conformidade e melhoria contínua
 •	Capacidade de lidar com múltiplas demandas e prazos",Vagas.com
+Analista de Atendimento I - Biomédico,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Oportunidade para atuar em uma empresa renomada no setor de saúde, referenciada por sua atuação e excelência no mercado.
+Principais atividades: 
+Recepcionar pacientes, acompanhantes e/ou visitantes, realizando o registro de dados e informações em sistemas específicos e apoiar suporte em qualquer necessidade para abertura de ficha;
+Realizar a coleta de materiais biológicos para análises clínicas/patológicas. Garantir a qualidade do material colhido e com o atendimento seguro aos clientes por meio da conferência do pedido médico e dados do paciente, separação dos instrumentos e orientações aos clientes.
+Contribuir com a analise dos indicadores de qualidade e BSC de sua unidade, auxiliando a gestão na proposta de ações corretivas, preventivas ou de melhorias assegurando o cumprimento dos SLAs
+Apoiar a tratativa das ocorrências do cliente provenientes de reclamações não conformidades e notificações, através de plano de ação;
+Contribuir com o fluxo da realização de exames de coleta, por meio controle da mesa de pendências.
+Garantir atendimento a casos de maior complexidade, tais como coletas especiais e infantis, por meio do acompanhamento e realização de todo processo
+Garantir a excelência do atendimento aos clientes por meio do cumprimento de padrões e normas de qualidade, fornecendo orientações e esclarecimento dúvidas relativas às atividades realizadas.
+Participar de fiscalizações de órgãos de saúde e prestar informações técnicas necessárias ao cumprimento das exigências regulatórias. Contribuir e atuar no acompanhamento técnico e cumprimento das normas regulatórias, sendo responsável técnico das unidades. Ser referencia técnica para os demais pares, sem atividades de gestão direta.
+Buscamos alguém que apresente: 
+Superior completo em Biomedicina;
+CRBM e Certidão de Regularidade do Orgão de Classe;
+Antes da inscrição na vaga, é importante verificar se você atende aos requisitos.
+Informações da vaga:
+Modelo de Trabalho: Presencial - Tatuapé
+Carga Horária: 180h
+Escala: 6x1
+Horário de Trabalho: 06h as 12h
+O que oferecemos: 
+Assistência Médica e Odontológica;
+Vale-Alimentação e Vale-Refeição;
+Vale-Transporte;
+Auxílio-Creche;
+Seguro de Vida;
+Wellhub;
+Participação nos Lucros;
+Previdência Privada.",Vagas.com
 Analista de Controle de Qualidade Jr,União Química Farmacêutica Nacional,Pouso Alegre / MG                                       A empresa aceita candidaturas de Pouso Alegre e cidades próximas,MG,"Descrição
 : 
 
@@ -5264,36 +5209,6 @@ Disponibilidade para trabalhar no 2º turno;
 
 
 Experiências em análises físico-químicas será um diferencial.",Vagas.com
-Analista de Atendimento I - Biomédico,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Oportunidade para atuar em uma empresa renomada no setor de saúde, referenciada por sua atuação e excelência no mercado.
-Principais atividades: 
-Recepcionar pacientes, acompanhantes e/ou visitantes, realizando o registro de dados e informações em sistemas específicos e apoiar suporte em qualquer necessidade para abertura de ficha;
-Realizar a coleta de materiais biológicos para análises clínicas/patológicas. Garantir a qualidade do material colhido e com o atendimento seguro aos clientes por meio da conferência do pedido médico e dados do paciente, separação dos instrumentos e orientações aos clientes.
-Contribuir com a analise dos indicadores de qualidade e BSC de sua unidade, auxiliando a gestão na proposta de ações corretivas, preventivas ou de melhorias assegurando o cumprimento dos SLAs
-Apoiar a tratativa das ocorrências do cliente provenientes de reclamações não conformidades e notificações, através de plano de ação;
-Contribuir com o fluxo da realização de exames de coleta, por meio controle da mesa de pendências.
-Garantir atendimento a casos de maior complexidade, tais como coletas especiais e infantis, por meio do acompanhamento e realização de todo processo
-Garantir a excelência do atendimento aos clientes por meio do cumprimento de padrões e normas de qualidade, fornecendo orientações e esclarecimento dúvidas relativas às atividades realizadas.
-Participar de fiscalizações de órgãos de saúde e prestar informações técnicas necessárias ao cumprimento das exigências regulatórias. Contribuir e atuar no acompanhamento técnico e cumprimento das normas regulatórias, sendo responsável técnico das unidades. Ser referencia técnica para os demais pares, sem atividades de gestão direta.
-Buscamos alguém que apresente: 
-Superior completo em Biomedicina;
-CRBM e Certidão de Regularidade do Orgão de Classe;
-Antes da inscrição na vaga, é importante verificar se você atende aos requisitos.
-Informações da vaga:
-Modelo de Trabalho: Presencial - Tatuapé
-Carga Horária: 180h
-Escala: 6x1
-Horário de Trabalho: 06h as 12h
-O que oferecemos: 
-Assistência Médica e Odontológica;
-Vale-Alimentação e Vale-Refeição;
-Vale-Transporte;
-Auxílio-Creche;
-Seguro de Vida;
-Wellhub;
-Participação nos Lucros;
-Previdência Privada.",Vagas.com
 Analista de Portfólio de Produtos Pleno,Brasilcap,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Resumo:
@@ -5362,110 +5277,6 @@ Local de trabalho:
 Itajaí - SC.
 Outros requisitos
 :",Vagas.com
-Analista Melhoria Continua Pleno,Allied,Jundiaí / SP                                       A empresa aceita candidaturas de Jundiaí e cidades próximas,SP,"Descrição
-: 
-Responsabilidades:
-
-
-Monitorar os processos da empresa (administrativos, produtivos e outros) visando sua otimização quanto à produtividade, redução de custo, melhoria da qualidade, etc - (analisa fluxogramas, cronometra etapas do sistema, verifica condições do trabalho, distribuição da mão-de-obra, uso de embalagens e outros fatores que possam impactar o processo produtivo).
-
-
-Criar instruções de trabalho detalhando todas as etapas visando sua reformulação, padronização ou implantação, incluindo normas, procedimentos, registros, formulários e documentos idealizados para a eficácia do processo. Coleta informações, realiza pesquisas, visita fornecedores, esboça e discute detalhes do projeto com os Gestores das áreas envolvidas até sua conclusão, viabilização, testes e efetiva implementação.
-
-
-Cuidar da implantação do processo elaborando materiais para orientação e treinamento dos usuários além de acompanhar as operações iniciais para assegurar o cumprimento da metodologia e objetivos traçados. Procede a eventuais correções, se necessário, e mantém os devidos registros do trabalho realizado, para controle.
-
-
-Desenvolver os indicadores do processo implantado listando ou formulando os registros e itens de controle e de verificação para avaliação do desempenho do mesmo e apurar resultados e estatísticas que demonstrem a eficácia do sistema.
-
-
-Realizar auditoria de processos para atuar no desenvolvimento pontual de novos processos provendo-os com informações, avaliando e criticando o trabalho executado, sugerindo alterações, etc. até a validação e implantação do projeto.
-
-
-Periodicamente preparar mapas e quadros demonstrativos diversos para avaliação do desempenho da área e projetos futuros, para apreciação e controle do superior ou apresentações em reuniões anuais.
-
-
-Participar no levantamento e formatação gráfica dos Indicadores de Desempenho da empresa para apresentação periódica aos Gestores durante “workshops” de resultados:
-
-
-
-
-•	auxilia na coleta de dados
-
-
-•	tratamento dos dados
-
-
-•	confecção de Dashboards e “slides”
-
-
-•	reprodução e distribuição de materiais, etc.
-
-
-Requisitos:
-
-
-Ensino Superior Completo
-
-
-Power BI (Diferencial)
-
-
- Automação de Processos (Diferencial)
-
-
- WMS
-
-
- ERP
-
-
-Excel intermediário/avançado 
-
-
-Soft Skills: 
-
-
-Capacidade de mapear processos e gerir demandas.
-
-
-Conhecimentos em análises e gestão de estoque.
-
-
-Facilidade para negociar prazos com fornecedores e equipes internas.
-
-
-Olhar crítico para analisar a qualidade da operação, com foco em garantir a satisfação do cliente.
-
-
-Benefícios: 
-
-
-Assistencia Médica e Odontologica 
-
-
-VR/VA
-
-
-Fretado
-
-
-Cartão Farmacia 
-
-
-Totalpass 
-
-
-Petlove
-
-
-Licença maternidade e paternidade estendida 
-
-
-Bebê Allied 
-
-
-PPR",Vagas.com
 Analista de Auditoria Interna Jr,Frescatto,Duque de Caxias / RJ                                       A empresa aceita candidaturas de Duque de Caxias e cidades próximas,RJ,"Descrição
 : 
 Atuar na execução de testes de auditoria em controles, processos e sistemas identificando riscos operacionais e propondo melhorias que fortaleçam a governança da empresa, garantindo conformidade e eficiência.
@@ -6278,29 +6089,6 @@ Excel intermediário para avançado.
 
 *Desejável conhecimento intermediário de pacote Office e Power BI;
 *Desejável conhecimento em ferramentas e sistemas de gestão de riscos.",Vagas.com
-Analista Fiscal Junior (Faturamento),Randstad Brasil,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Olá, somos a Randstad, líder global em soluções de Recursos Humanos. Combinamos nossa paixão por pessoas e tecnologia e, assim, apoiamos processos de recrutamento e seleção no mundo todo. Ajudamos as empresas e candidatos a seguir adiante. Fundada na Holanda, em 1960, com mais de 5.000 escritórios e mais de 40.000 colaboradores, em 39 países. Em 2022, ajudamos mais de 2 millhões de pessoas a encontrar um emprego e aconselhamos mais de 230.000 clientes na contratação dos talentos certos.
-Estamos buscando Analista Fiscal Junior com foco em Faturamento para integrar a equipe do cliente Odebrecht que é uma das maiores empresas brasileira de engenharia e construção.
-Responsabilidades:
-Realizar emissão de notas fiscais de produtos e serviços conforme legislação vigente.
-Garantir a correta aplicação de CFOP, CST e demais códigos fiscais.
-Validar dados cadastrais e fiscais dos clientes e pedidos.
-Acompanhar processos de faturamento e envio de documentos fiscais aos solicitantes.
-Arquivar os documentos fiscais (XML, PDF, BMs, Contratos e demais documentos em ordem cronológica) para consultas e atendimento a fiscalizações e auditórias.
-Interagir com as Obras e áreas internas como, fiscal, contabilidade e contas a Receber
-Atender auditorias e fiscalizações quando necessário.
-Modalidade e Localidade:
-Híbrido (3x no escritório semanal).
-Próximo ao Shopping Morumbi.
-Outros requisitos
-: 
-Requisitos:
-Ensino superior completo em Administração, Ciências Contábeis, Economia ou áreas correlatas.
-Experiência na área de faturamento, preferencialmente na área de Construção Civil.
-Conhecimentos técnicos em Legislação fiscal, CFOP, CST, NCM, impostos incidents (ISS, PIS, COFINS, CSLL, INSS).
-Domínio de Excel (intermediário à avançado), experiência com sistemas ERPs e soluções fiscais (preferencialmente Oracle, Avalara ou similares).
-Familiaridade com plataformas de faturamento (Sites Prefeituras e Estado).",Vagas.com
 Analista Médico Científico Sr,Marjan Farma,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 
@@ -6399,6 +6187,29 @@ Dados da vaga:
 Horário: 07h30 às 17h16
 Local: Ipatinga/MG - Sede administrative - Cariru.
 Modelo de trabalho: Híbrido - 3 dias no escritório e 2 dias home office.",Vagas.com
+Analista Fiscal Junior (Faturamento),Randstad Brasil,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Olá, somos a Randstad, líder global em soluções de Recursos Humanos. Combinamos nossa paixão por pessoas e tecnologia e, assim, apoiamos processos de recrutamento e seleção no mundo todo. Ajudamos as empresas e candidatos a seguir adiante. Fundada na Holanda, em 1960, com mais de 5.000 escritórios e mais de 40.000 colaboradores, em 39 países. Em 2022, ajudamos mais de 2 millhões de pessoas a encontrar um emprego e aconselhamos mais de 230.000 clientes na contratação dos talentos certos.
+Estamos buscando Analista Fiscal Junior com foco em Faturamento para integrar a equipe do cliente Odebrecht que é uma das maiores empresas brasileira de engenharia e construção.
+Responsabilidades:
+Realizar emissão de notas fiscais de produtos e serviços conforme legislação vigente.
+Garantir a correta aplicação de CFOP, CST e demais códigos fiscais.
+Validar dados cadastrais e fiscais dos clientes e pedidos.
+Acompanhar processos de faturamento e envio de documentos fiscais aos solicitantes.
+Arquivar os documentos fiscais (XML, PDF, BMs, Contratos e demais documentos em ordem cronológica) para consultas e atendimento a fiscalizações e auditórias.
+Interagir com as Obras e áreas internas como, fiscal, contabilidade e contas a Receber
+Atender auditorias e fiscalizações quando necessário.
+Modalidade e Localidade:
+Híbrido (3x no escritório semanal).
+Próximo ao Shopping Morumbi.
+Outros requisitos
+: 
+Requisitos:
+Ensino superior completo em Administração, Ciências Contábeis, Economia ou áreas correlatas.
+Experiência na área de faturamento, preferencialmente na área de Construção Civil.
+Conhecimentos técnicos em Legislação fiscal, CFOP, CST, NCM, impostos incidents (ISS, PIS, COFINS, CSLL, INSS).
+Domínio de Excel (intermediário à avançado), experiência com sistemas ERPs e soluções fiscais (preferencialmente Oracle, Avalara ou similares).
+Familiaridade com plataformas de faturamento (Sites Prefeituras e Estado).",Vagas.com
 Analista de Cadastro de Prestadores Jr,SulAmérica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Para o match perfeito acontecer precisa de PESSOAS, com as mais diversas experiências e pontos de vista, para que possamos continuar evoluindo enquanto empresa.
@@ -6647,39 +6458,6 @@ Auxílio Creche /Babá.
 Programa de Participação nos Resultados.
 Vale transporte.
  Se identificou? Então, vem fazer parte do time #SangueLaranja 🧡🚀",Vagas.com
-Analista de Treinamento & Desenvolvimento,Azevedo & Travassos S/A pela subsidiária Heftos,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Será responsável por conduzir e apoiar o ciclo completo de desenvolvimento de pessoas, com foco em treinamento, capacitação, cultura organizacional e performance. Atuará diretamente com a plataforma Feedz (by TOTVS), garantindo que os processos de aprendizado, avaliação de desempenho, engajamento e feedback sejam bem estruturados e alinhados aos objetivos estratégicos da organização.
-Mapear necessidades de treinamento e desenvolvimento junto às áreas;
-Planejar, estruturar e executar programas de capacitação técnica e comportamental;
-Elaborar conteúdos e trilhas de aprendizagem efetivas;
-Avaliar resultados e aplicar melhorias contínuas nos programas;
-Gestão da Plataforma Feedz: administrar módulos relacionados a avaliação de desempenho; feedback; objetivos, metas e resultados; reconhecimento e engajamento; trilhas de aprendizagem; configurar, parametrizar e operacionalizar rotinas dentro do sistema;
-Preparar dashboards e análises para lideranças;
-Treinar gestores e usuários na utilização da plataforma Feedz.
-Outros requisitos
-: 
-Requisitos e Qualificações:
-Formação superior em Recursos Humanos, Psicologia, Administração, Pedagogia ou áreas afins;
-Desejável especialização em Treinamento & Desenvolvimento; Educação Corporativa; Gestão Estratégica de Pessoas ou áreas afins; 
-Desejável experiência comprovada em T&D;
-Desejável experiência anterior com a plataforma Feedz (by TOTVS).
-Habilidades Técnicas:
-Administração e parametrização de plataformas de gestão de pessoas (principalmente Feedz);
-Elaboração de relatórios, métricas e análise de dados de desempenho;
-Domínio do pacote Office — especialmente Excel;
-Familiaridade com rotinas de RH, Performance e Cultura organizational;
-Competências Comportamentais:
-Boa comunicação;
-Visão estratégica e foco em resultados;
-Organização e proatividade;
-Facilidade para trabalhar em grupo e com múltiplas demandas;
-Orientação ao cliente interno e solução de problemas;
-Habilidade de mediação e condução de dinâmicas em grupo.
-Diferenciais:
-Experiência com metodologias ágeis aplicadas a T&D;
-Certificações em treinamento, coaching ou desenvolvimento humano;
-Vivência com outras ferramentas de RH (como TOTVS Protheus).",Vagas.com
 Analista de Controles Internos,Fundação Getulio Vargas,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,"Descrição
 : 
 Responsabilidades:
@@ -6763,29 +6541,39 @@ Proatividade, comprometimento e orientação para resultados;
 
 
 Autonomia, disciplina e senso de responsabilidade para lidar com informações sensíveis e prazos estratégicos.",Vagas.com
-Analista de Segurança da Informação,J&T Express,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+Analista de Treinamento & Desenvolvimento,Azevedo & Travassos S/A pela subsidiária Heftos,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
-Suas responsabilidades incluem criar e atualizar políticas de segurança da informação alinhadas com os objetivos estratégicos da organização, garantindo conformidade com normas regulatórias e melhores práticas. Será responsável por auditar e monitorar o acesso aos sistemas, revisar direitos de acesso dos usuários, e detectar potenciais violações de segurança.
-  - Desenvolvimento e Implementação de Políticas de Controle de Acesso;
-  - Gestão de Identidade e Acesso (IAM);
-  - Auditoria e Monitoramento de Acesso;
-  - Análise e Remediação de Vulnerabilidades;
-  - Treinamento de Conscientização em Segurança da Informação;
-  - Gerenciamento de Incidentes de Segurança;
-  - Avaliação de Riscos e Análise de Segurança;
-  - Revisão e Aprimoramento de Processos de Cadastro de Usuários;
-  - Apoiar no projeto de certificação ISO 270001; 
+Será responsável por conduzir e apoiar o ciclo completo de desenvolvimento de pessoas, com foco em treinamento, capacitação, cultura organizacional e performance. Atuará diretamente com a plataforma Feedz (by TOTVS), garantindo que os processos de aprendizado, avaliação de desempenho, engajamento e feedback sejam bem estruturados e alinhados aos objetivos estratégicos da organização.
+Mapear necessidades de treinamento e desenvolvimento junto às áreas;
+Planejar, estruturar e executar programas de capacitação técnica e comportamental;
+Elaborar conteúdos e trilhas de aprendizagem efetivas;
+Avaliar resultados e aplicar melhorias contínuas nos programas;
+Gestão da Plataforma Feedz: administrar módulos relacionados a avaliação de desempenho; feedback; objetivos, metas e resultados; reconhecimento e engajamento; trilhas de aprendizagem; configurar, parametrizar e operacionalizar rotinas dentro do sistema;
+Preparar dashboards e análises para lideranças;
+Treinar gestores e usuários na utilização da plataforma Feedz.
 Outros requisitos
 : 
-  -  Capacidade de desenvolver, implementar e revisar políticas que regulem o acesso a sistemas, dados e recursos críticos, garantindo conformidade com normas regulatórias e melhores práticas do setor.
-  - Experiência em implementar e administrar soluções de IAM, que inclui o provisionamento seguro de contas de usuário, gestão de credenciais e a aplicação de princípios de menor privilégio.
-  - Conhecimento em normas e regulamentações relevantes, como , LGPD e GDPR, HIPAA, PCI-DSS, e a habilidade de aplicar esses requisitos no contexto das políticas de segurança da informação.
-  - Segurança de Redes e Sistemas: Familiaridade com firewalls, sistemas de detecção e prevenção de intrusões (IDS/IPS);
-  - Habilidade em realizar auditorias de acesso, revisar direitos de acesso dos usuários, e monitorar atividades para detectar e responder a incidentes de segurança.
-  - Capacidade para identificar e remediar vulnerabilidades nos sistemas relacionadas ao controle de acesso, através de testes de penetração, teste de phising entre outros;
-  - Conscientização e Treinamentos sobre práticas seguras de acesso e conformidade com políticas de segurança;
--Superior em Ciência da Computação, Sistemas de Informação, Segurança da Informação ou áreas correlatas.
--Certificações relevantes como CISSP, CISM, CISA, ou certificações específicas da ISO 27001 são desejáveis.",Vagas.com
+Requisitos e Qualificações:
+Formação superior em Recursos Humanos, Psicologia, Administração, Pedagogia ou áreas afins;
+Desejável especialização em Treinamento & Desenvolvimento; Educação Corporativa; Gestão Estratégica de Pessoas ou áreas afins; 
+Desejável experiência comprovada em T&D;
+Desejável experiência anterior com a plataforma Feedz (by TOTVS).
+Habilidades Técnicas:
+Administração e parametrização de plataformas de gestão de pessoas (principalmente Feedz);
+Elaboração de relatórios, métricas e análise de dados de desempenho;
+Domínio do pacote Office — especialmente Excel;
+Familiaridade com rotinas de RH, Performance e Cultura organizational;
+Competências Comportamentais:
+Boa comunicação;
+Visão estratégica e foco em resultados;
+Organização e proatividade;
+Facilidade para trabalhar em grupo e com múltiplas demandas;
+Orientação ao cliente interno e solução de problemas;
+Habilidade de mediação e condução de dinâmicas em grupo.
+Diferenciais:
+Experiência com metodologias ágeis aplicadas a T&D;
+Certificações em treinamento, coaching ou desenvolvimento humano;
+Vivência com outras ferramentas de RH (como TOTVS Protheus).",Vagas.com
 Analista Administrativo Junior - Frotas,Grupo Avante,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,"Descrição
 : 
 Atividades a serem desenvolvidas:
@@ -6868,6 +6656,29 @@ Vivência com sistemas de gestão de frotas, incluindo locadoras, controle de co
 
 
 Carteira Nacional de Habilitação (CNH) – categoria B.",Vagas.com
+Analista de Segurança da Informação,J&T Express,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Suas responsabilidades incluem criar e atualizar políticas de segurança da informação alinhadas com os objetivos estratégicos da organização, garantindo conformidade com normas regulatórias e melhores práticas. Será responsável por auditar e monitorar o acesso aos sistemas, revisar direitos de acesso dos usuários, e detectar potenciais violações de segurança.
+  - Desenvolvimento e Implementação de Políticas de Controle de Acesso;
+  - Gestão de Identidade e Acesso (IAM);
+  - Auditoria e Monitoramento de Acesso;
+  - Análise e Remediação de Vulnerabilidades;
+  - Treinamento de Conscientização em Segurança da Informação;
+  - Gerenciamento de Incidentes de Segurança;
+  - Avaliação de Riscos e Análise de Segurança;
+  - Revisão e Aprimoramento de Processos de Cadastro de Usuários;
+  - Apoiar no projeto de certificação ISO 270001; 
+Outros requisitos
+: 
+  -  Capacidade de desenvolver, implementar e revisar políticas que regulem o acesso a sistemas, dados e recursos críticos, garantindo conformidade com normas regulatórias e melhores práticas do setor.
+  - Experiência em implementar e administrar soluções de IAM, que inclui o provisionamento seguro de contas de usuário, gestão de credenciais e a aplicação de princípios de menor privilégio.
+  - Conhecimento em normas e regulamentações relevantes, como , LGPD e GDPR, HIPAA, PCI-DSS, e a habilidade de aplicar esses requisitos no contexto das políticas de segurança da informação.
+  - Segurança de Redes e Sistemas: Familiaridade com firewalls, sistemas de detecção e prevenção de intrusões (IDS/IPS);
+  - Habilidade em realizar auditorias de acesso, revisar direitos de acesso dos usuários, e monitorar atividades para detectar e responder a incidentes de segurança.
+  - Capacidade para identificar e remediar vulnerabilidades nos sistemas relacionadas ao controle de acesso, através de testes de penetração, teste de phising entre outros;
+  - Conscientização e Treinamentos sobre práticas seguras de acesso e conformidade com políticas de segurança;
+-Superior em Ciência da Computação, Sistemas de Informação, Segurança da Informação ou áreas correlatas.
+-Certificações relevantes como CISSP, CISM, CISA, ou certificações específicas da ISO 27001 são desejáveis.",Vagas.com
 Analista de Rede Credenciada,Fundação São Francisco Xavier,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,"Descrição
 : 
 Principais responsabilidades:
@@ -6897,35 +6708,6 @@ Dados da Vaga:
 Horário: 08h00 às 17h16
 Local: Rua dos Otoni - 881 Bairro Santa Efigênia. Belo Horizonte.
 Modelo de trabalho: Híbrido - 3 dias presenciais e 2 dias home fofice.",Vagas.com
-Analista de Garantia de Qualidade Jr,THERASKIN FARMACÊUTICA LTDA,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,"Descrição
-: 
-Missão do Cargo
-Atuar nas atividades de Garantia da Qualidade, assegurando que produtos e processos estejam em conformidade com os padrões de qualidade, segurança e requisitos regulatórios vigentes, ao longo de toda a cadeia produtiva até o cliente final, com supervisão.
-Responsabilidades do Cargo
-•	Assegurar que os processos de Garantia da Qualidade estejam segundo normas e regulamentações vigentes.
-•	Atender às demandas das áreas Industrial e de suporte relacionadas à Qualidade, atuando como facilitador dos processos ao longo da cadeia produtiva.
-•	Desenvolver, acompanhar e reportar indicadores de qualidade, propondo e executando ações corretivas quando necessário.
-•	Participar de reuniões da área de Qualidade, contribuindo para o alinhamento de informações e planejamento das atividades.
-•	Propor e apoiar iniciativas de melhoria contínua nos processos sob sua responsabilidade.
-•	Assegurar o cumprimento dos requisitos de Qualidade nos projetos desenvolvidos pela organização.
-•	Planejar e executar atividades relacionadas ao seguimento de compromissos oriundos de Controles de Mudanças, Desvios e Auditorias Internas, dentro dos prazos estabelecidos.
-Requisitos
-•	Ensino Superior completo em Farmácia, Química, Engenharia, Administração ou áreas correlatas, com atuação ou foco em Qualidade.
-•	Para Farmacêuticos e Químicos, registro ativo no respectivo conselho de classe.
-•	Conhecimento prático em Boas Práticas de Fabricação (BPF) aplicáveis às áreas farmacêutica e/ou cosmética.
-•	Vivência ou familiaridade com Legislação Sanitária vigente (ANVISA) e requisitos regulatórios de qualidade.
-•	Experiência ou conhecimento em Garantia da Qualidade, incluindo controles de mudanças, desvios, auditorias internas e acompanhamento de indicadores.
-•	Conhecimento básico a intermediário em instrumentação, processos produtivos e controle de qualidade, incluindo gases especiais, quando aplicável.
-•	Capacidade de atuação junto às áreas Industrial e de suporte, com entendimento do impacto da qualidade em toda a cadeia produtiva.
-•	Desejável conhecimento em indicadores de qualidade, análise de dados e ferramentas de melhoria contínua.
-•	Disponibilidade de horário e para viagens, conforme necessidade da função.
-Outros requisitos
-: 
-•	Organização, disciplina e senso de prioridade
-•	Atenção a detalhes e pensamento analítico
-•	Relacionamento interpessoal, com comunicação clara e postura colaborativa.
-•	Proatividade e foco em melhoria contínua
-•	Comprometimento com prazos, qualidade e conformidade regulatória.",Vagas.com
 Analista de Soluções Digitais Sr.,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 RESPONSABILIDADES E ATRIBUIÇÕES 
@@ -7003,6 +6785,35 @@ Salário + Benefícios:
 - Horário:Segunda a Sexta 08:12h as 18:00h - Híbrido  
  
 LOCAL:  Barra da Tijuca – RJ",Vagas.com
+Analista de Garantia de Qualidade Jr,THERASKIN FARMACÊUTICA LTDA,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,"Descrição
+: 
+Missão do Cargo
+Atuar nas atividades de Garantia da Qualidade, assegurando que produtos e processos estejam em conformidade com os padrões de qualidade, segurança e requisitos regulatórios vigentes, ao longo de toda a cadeia produtiva até o cliente final, com supervisão.
+Responsabilidades do Cargo
+•	Assegurar que os processos de Garantia da Qualidade estejam segundo normas e regulamentações vigentes.
+•	Atender às demandas das áreas Industrial e de suporte relacionadas à Qualidade, atuando como facilitador dos processos ao longo da cadeia produtiva.
+•	Desenvolver, acompanhar e reportar indicadores de qualidade, propondo e executando ações corretivas quando necessário.
+•	Participar de reuniões da área de Qualidade, contribuindo para o alinhamento de informações e planejamento das atividades.
+•	Propor e apoiar iniciativas de melhoria contínua nos processos sob sua responsabilidade.
+•	Assegurar o cumprimento dos requisitos de Qualidade nos projetos desenvolvidos pela organização.
+•	Planejar e executar atividades relacionadas ao seguimento de compromissos oriundos de Controles de Mudanças, Desvios e Auditorias Internas, dentro dos prazos estabelecidos.
+Requisitos
+•	Ensino Superior completo em Farmácia, Química, Engenharia, Administração ou áreas correlatas, com atuação ou foco em Qualidade.
+•	Para Farmacêuticos e Químicos, registro ativo no respectivo conselho de classe.
+•	Conhecimento prático em Boas Práticas de Fabricação (BPF) aplicáveis às áreas farmacêutica e/ou cosmética.
+•	Vivência ou familiaridade com Legislação Sanitária vigente (ANVISA) e requisitos regulatórios de qualidade.
+•	Experiência ou conhecimento em Garantia da Qualidade, incluindo controles de mudanças, desvios, auditorias internas e acompanhamento de indicadores.
+•	Conhecimento básico a intermediário em instrumentação, processos produtivos e controle de qualidade, incluindo gases especiais, quando aplicável.
+•	Capacidade de atuação junto às áreas Industrial e de suporte, com entendimento do impacto da qualidade em toda a cadeia produtiva.
+•	Desejável conhecimento em indicadores de qualidade, análise de dados e ferramentas de melhoria contínua.
+•	Disponibilidade de horário e para viagens, conforme necessidade da função.
+Outros requisitos
+: 
+•	Organização, disciplina e senso de prioridade
+•	Atenção a detalhes e pensamento analítico
+•	Relacionamento interpessoal, com comunicação clara e postura colaborativa.
+•	Proatividade e foco em melhoria contínua
+•	Comprometimento com prazos, qualidade e conformidade regulatória.",Vagas.com
 Analista em Segurança do Trabalho Sr,Grupo SERES,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 O Grupo Seres em parceria com uma empresa multinacional no segmento farmacêutico, seleciona profissional para atuar na função de Analista em Segurança do Trabalho Sr.
@@ -8473,31 +8284,6 @@ Revisar e manter atualizadas as pastas do estudo e dossiês para a devida libera
 Idiomas
 :
 Inglês - Nível Intermediário, Espanhol - Nível Intermediário e Espanhol - Nível Avançado",Vagas.com
-Analista Financeiro - RIO de Janeiro,HStern,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
-: 
-Estamos em busca de um Analista Financeiro com foco em Tesouraria para se juntar à nossa equipe. Se você gosta de trabalhar com finanças, análise de dados e tem um olhar atento para detalhes, esta é a oportunidade para você.
-O que você irá fazer:
-•	Executar as rotinas de contas a receber e tesouraria;
-•	Lidar com temas relacionados a formas de pagamento;
-•	Realizar avaliação de crédito e gerenciamento de cobranças de clientes;
-•	Oferecer suporte à área comercial;
-•	Realizar conciliações contábeis;
-•	Conduzir análises e levantamentos financeiros;
-•	Avaliar e aprimorar os processos e rotinas financeiras da empresa;
-•	Treinamento de novos funcionários;
-•	Prestar atendimento a clientes internos e externos;
-•	Gerenciar o controle de aluguéis a receber, garantindo o cumprimento dos prazos e a precisão dos registros;
-•	Homologação dos Sistemas.
-Formação Acadêmica:
-•	Superior completo em Administração ou Ciências Contábeis
-•	Pós Graduação ou MBA será considerado um diferencial
-Conhecimentos Específicos
-•	Contas a receber, contabilidade, rotinas bancárias, processos de negócios e negociação.
-•	Excel Avançado
-•	Desejável conhecimento de SAP
-Para essa vaga é importante as seguintes competências:
-•	Proatividade, senso crítico, discrição, visão estratégica, trabalho em equipe, solução de problemas e foco em resultado. 
-Se você ficou interessado e se identifica com este perfil, inscreva-se no botão abaixo.",Vagas.com
 Analista Administrativo SSO - Temporário,Fundação São Francisco Xavier,Ipatinga / MG                                       A empresa aceita candidaturas de Ipatinga e cidades próximas,MG,"Descrição
 : 
 Estamos em busca de um Analista Administrativo SSO - Temporário para se juntar à nossa equipe. 
@@ -8565,6 +8351,31 @@ Noções de Sistema Operacional Tableau ou similares
 
 
 Se você se identifica com o perfil e está em busca de uma oportunidade temporária, candidate-se agora mesmo!",Vagas.com
+Analista Financeiro - RIO de Janeiro,HStern,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
+: 
+Estamos em busca de um Analista Financeiro com foco em Tesouraria para se juntar à nossa equipe. Se você gosta de trabalhar com finanças, análise de dados e tem um olhar atento para detalhes, esta é a oportunidade para você.
+O que você irá fazer:
+•	Executar as rotinas de contas a receber e tesouraria;
+•	Lidar com temas relacionados a formas de pagamento;
+•	Realizar avaliação de crédito e gerenciamento de cobranças de clientes;
+•	Oferecer suporte à área comercial;
+•	Realizar conciliações contábeis;
+•	Conduzir análises e levantamentos financeiros;
+•	Avaliar e aprimorar os processos e rotinas financeiras da empresa;
+•	Treinamento de novos funcionários;
+•	Prestar atendimento a clientes internos e externos;
+•	Gerenciar o controle de aluguéis a receber, garantindo o cumprimento dos prazos e a precisão dos registros;
+•	Homologação dos Sistemas.
+Formação Acadêmica:
+•	Superior completo em Administração ou Ciências Contábeis
+•	Pós Graduação ou MBA será considerado um diferencial
+Conhecimentos Específicos
+•	Contas a receber, contabilidade, rotinas bancárias, processos de negócios e negociação.
+•	Excel Avançado
+•	Desejável conhecimento de SAP
+Para essa vaga é importante as seguintes competências:
+•	Proatividade, senso crítico, discrição, visão estratégica, trabalho em equipe, solução de problemas e foco em resultado. 
+Se você ficou interessado e se identifica com este perfil, inscreva-se no botão abaixo.",Vagas.com
 Pessoa Analista Suporte Operação II,Rio Mais Saneamento,Piraí / RJ                                       A empresa aceita candidaturas de Piraí e cidades próximas,RJ,"Descrição
 : 
 Estamos em busca de uma Pessoa Analista de Suporte Operacional II para integrar nossa equipe. A pessoa será responsável por monitorar a qualidade da água, elaborar relatórios, analisar dados e propor melhorias nos processos operacionais. Se você é analítica, proativa e busca um ambiente dinâmico, essa oportunidade é para você!
@@ -11618,99 +11429,6 @@ Outras informações:
 - Local de trabalho: Hospital São Luiz Guarulhos;
 - Escala de trabalho: 12x36 19:00 ás 07:00 
 - Disponibilidade para treinamento.",Vagas.com
-Analista Marketing Pleno - Afirmativa para Pessoas Pretas,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Missão do Cargo
-Responsável por apoiar iniciativas de marketing e gestão de produtos conforme planejamento estratégico, garantindo execução dentro do orçamento e prazos, além de analisar informações para suportar o desenvolvimento e monitoramento das ações, visando atingir metas de volume e rentabilidade.
-Atividades do Cargo
-
-
-Apoiar na administração do portfólio de produtos e SKUs;
-
-
-Gerar informações que permitam desenvolver negócios alinhados às necessidades do consumidor;
-
-
-Monitorar atividades relacionadas a novos produtos, assegurando conformidade com orçamento;
-
-
-Realizar visitas a mercado, análises de estudos e acompanhamento de tendências;
-
-
-Monitorar e analisar desempenho dos produtos por meio de indicadores, pesquisas, SAC, vendas e devoluções;
-
-
-Compilar e interpretar informações de mercado e concorrência;
-
-
-Solicitar estudos financeiros de rentabilidade e elasticidade;
-
-
-Apoiar na execução e coordenação das ações previstas no plano de marketing;
-
-
-Acompanhar indicadores de performance e gerar análises para subsidiar estratégias;
-
-
-Apoiar eventos, feiras e ações promocionais da marca;
-
-
-Garantir o andamento das atividades realizadas por equipes externas, como agências e áreas parceiras;
-
-
-Apoiar processos administrativos da área (ordens de compra, pagamentos, coordenação de serviços).
-
-
-Requisito necessário:
-
-
-Ensino superior completo em Marketing, Administração, Engenharia ou áreas correlatas;
-
-
-Pacote Office intermediário.
-
-
-Requisito desejável:
-
-
-Inglês e Espanhol intermediário;
-
-
-Conhecimento em ferramentas de inteligência de mercado;
-
-
-Experiência em indústrias de bens de consumo.
-
-
-Experiência:
-Mínimo de 3 anos em Marketing ou áreas relacionadas.
-Idiomas
-:
-Espanhol - Nível Intermediário e Inglês - Nível Intermediário
-Outros requisitos
-: 
-Habilidades:
-
-
-Negociação;
-
-
-Identificação e síntese de dados;
-
-
-Interpretação de informações estatísticas;
-
-
-Acompanhamento de equipes externas (agências e áreas parceiras);
-
-
-Criatividade para desenvolver promoções alinhadas à estratégia da marca;
-
-
-Capacidade de monitorar e avaliar desempenho das atividades de marketing no curto e médio prazo;
-
-
-Comunicação eficaz.",Vagas.com
 Analista de Suprimentos Pleno - São Paulo (Avenida Paulista),Pacaembu Construtora,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Na Pacaembu, acreditamos que transformar é evoluir. É buscar constantemente melhores soluções, decisões mais inteligentes e parcerias que gerem valor real. Nosso propósito vai além da construção de lares: queremos cuidar, com responsabilidade e visão de futuro, do que entregamos hoje para impactar positivamente as próximas gerações.
