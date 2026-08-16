@@ -1,49 +1,4 @@
 titulo,empresa,localizacao,uf,descricao,fonte
-Analista de Dados,Universidade Veiga de Almeida,"Rio de Janeiro / RJ
-              
-
-
-
-                      A empresa aceita candidaturas de Rio de Janeiro e cidades próximas",RJ,"Descrição
-: 
-Atividades:
-
-
-Coletar, organizar e analisar grandes volumes de dados através do Excel;
-
-
-Criar e manter dashboards e relatórios interativos;
-
-
-Automatizar processos e tarefas repetitivas por meio de macros e VBA;
-
-
-Realizar consultas usando Power Query para extrair, manipular e consolidar informações de bancos de dados relacionais.
-
-
-Apoiar na elaboração de análises detalhadas, identificando tendências, padrões e oportunidades de melhoria.
-
-
-Escolaridade:
- Graduação em Estatística, Administração, Economia ou áreas relacionadas;
-Modelo de trabalho
- híbrido (3x presencial)
-Horário: 
-09h às 19h (segunda a quinta) 09h às 18h (sexta)
-Local de Trabalho:
- Rio de Janeiro
-TODOS AS NOSSAS VAGAS SÃO DISPONÍVEIS PARA PCD.
-Outros requisitos
-: 
-
-
-Noções de mapeamento de processos;
-
-
-Conhecimento avançado em EXCEL(domínio de fórmulas complexas, tabelas dinâmicas), Power Query, Power Pivot e macros;
-
-
-Diferencial, conhecimento em VBA.",Vagas.com
 Analista de Dados,JOBCENTER DO BRASIL LTDA,"Osasco / SP
               
 
@@ -178,6 +133,90 @@ Pesquisa, análise e estudos de mercado.
 
 
 Conhecimento em formação de preço e estudo de preço.",Vagas.com
+Analista de Sinistros Jr (Dados),SulAmérica,"São Paulo / SP
+              
+
+
+
+                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
+: 
+Para o match perfeito acontecer precisa de PESSOAS, com as mais diversas experiências e pontos de vista, para que possamos continuar evoluindo enquanto empresa.  
+Por isso, aqui na SulAmérica, incentivamos a candidatura de pessoas de todas as raças/etnias, orientações sexuais, identidades de gênero, gerações, com ou sem deficiência, para todas as nossas vagas. Afinal, as nossas diferenças é o que nos complementam!  
+#LGBTI+ #PessoasNegras #PcD #50+ #Gerações #PessoasComDeficiência  
+Missão da área:
+Atuar no núcleo de análises de entradas de contas, faturamento e recepção de faturamentos de saúde suplementar. A área é responsável por lidar com a extração e 
+análise massificada de grandes volumes de dados, identificação e correção de erros de prestadores e fornecedores no processo de faturamento
+, atuando na geração de indicadores e apoio constante à rede credenciada.
+Como será o seu dia a dia nessa área:
+
+
+
+
+Análise de Faturamento: 
+Realizar a análise de arquivos XML no Padrão TISS do processo de faturamento, identificando falhas e orientando os prestadores quanto aos problemas detectados.
+
+
+
+
+Análise e Manipulação de Dados: 
+Atuar nas bases de recepção de contas médicas para estudos de massa de dados e geração de controles estatísticos.
+
+
+
+
+Gestão de Indicadores e Dashboards: 
+Acompanhar, atualizar e criar novos indicadores e painéis (Dashboards/BI) para acompanhamento das regras e regras novas do processo de recepção.
+
+
+
+
+Suporte à Equipe e Fornecedores:
+ Prover os demais analistas com dados de recepção para análises avançadas e prestar apoio aos prestadores e fornecedores com foco na fluidez das informações.
+
+
+
+
+Controle Operacional: 
+Atuar dentro do SLA de recepção para reduzir atritos com a rede prestadora e garantir a qualidade no atendimento.
+
+
+Requisitos necessários para ser Analista de Sinistros Júnior na #SulA:
+
+
+
+
+Escolaridade: 
+Ensino Superior cursando ou completo (TI, Análise de Sistemas, Ciência de Dados, Administração, Gestão em Saúde ou áreas correlatas).
+
+
+
+
+Conhecimentos: 
+Conhecimento prévio sobre contas médicas, hospitalares e processo de faturamento no Padrão TISS (XML). Conhecimento/vivência em extração e manipulação de grandes volumes de dados. Query (leitura) em banco de dados, noções de programação).
+
+
+
+
+Domínio de ferramentas de criação e manutenção de Dashboards 
+(Power BI / Data Studio) e Excel.
+
+
+
+
+Perfil Comportamental: 
+Perfil altamente analítico, facilidade e gosto por trabalhar com dados e BI, boa fluidez de escrita e comunicação, capacidade de resolução de problemas e trabalho em equipe.
+
+
+
+
+Diferenciais:
+ Atuação prévia na área de dados/TI ou vivência interna prévia na central de atendimento/operações.
+
+
+Modalidade: 
+Híbrido (Primeiros 3 meses de Onboarding 100% presencial; após o período, escala 3x presencial e 2x home office).
+Local de trabalho: 
+Alameda Santos (São Paulo - SP).",Vagas.com
 Analista de Dados em Saúde,Hospital Sofia Feldman,"Belo Horizonte / MG
               
 
@@ -298,121 +337,126 @@ O Sofia valoriza a diversidade e está comprometido com a inclusão. Todas as no
 Se você compartilha da nossa missão e deseja contribuir para a saúde de Minas Gerais, queremos você em nosso time!
 Outros requisitos
 :",Vagas.com
-Analista de Sinistros Jr (Dados),SulAmérica,"São Paulo / SP
-              
-
-
-
-                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
-: 
-Para o match perfeito acontecer precisa de PESSOAS, com as mais diversas experiências e pontos de vista, para que possamos continuar evoluindo enquanto empresa.  
-Por isso, aqui na SulAmérica, incentivamos a candidatura de pessoas de todas as raças/etnias, orientações sexuais, identidades de gênero, gerações, com ou sem deficiência, para todas as nossas vagas. Afinal, as nossas diferenças é o que nos complementam!  
-#LGBTI+ #PessoasNegras #PcD #50+ #Gerações #PessoasComDeficiência  
-Missão da área:
-Atuar no núcleo de análises de entradas de contas, faturamento e recepção de faturamentos de saúde suplementar. A área é responsável por lidar com a extração e 
-análise massificada de grandes volumes de dados, identificação e correção de erros de prestadores e fornecedores no processo de faturamento
-, atuando na geração de indicadores e apoio constante à rede credenciada.
-Como será o seu dia a dia nessa área:
-
-
-
-
-Análise de Faturamento: 
-Realizar a análise de arquivos XML no Padrão TISS do processo de faturamento, identificando falhas e orientando os prestadores quanto aos problemas detectados.
-
-
-
-
-Análise e Manipulação de Dados: 
-Atuar nas bases de recepção de contas médicas para estudos de massa de dados e geração de controles estatísticos.
-
-
-
-
-Gestão de Indicadores e Dashboards: 
-Acompanhar, atualizar e criar novos indicadores e painéis (Dashboards/BI) para acompanhamento das regras e regras novas do processo de recepção.
-
-
-
-
-Suporte à Equipe e Fornecedores:
- Prover os demais analistas com dados de recepção para análises avançadas e prestar apoio aos prestadores e fornecedores com foco na fluidez das informações.
-
-
-
-
-Controle Operacional: 
-Atuar dentro do SLA de recepção para reduzir atritos com a rede prestadora e garantir a qualidade no atendimento.
-
-
-Requisitos necessários para ser Analista de Sinistros Júnior na #SulA:
-
-
-
-
-Escolaridade: 
-Ensino Superior cursando ou completo (TI, Análise de Sistemas, Ciência de Dados, Administração, Gestão em Saúde ou áreas correlatas).
-
-
-
-
-Conhecimentos: 
-Conhecimento prévio sobre contas médicas, hospitalares e processo de faturamento no Padrão TISS (XML). Conhecimento/vivência em extração e manipulação de grandes volumes de dados. Query (leitura) em banco de dados, noções de programação).
-
-
-
-
-Domínio de ferramentas de criação e manutenção de Dashboards 
-(Power BI / Data Studio) e Excel.
-
-
-
-
-Perfil Comportamental: 
-Perfil altamente analítico, facilidade e gosto por trabalhar com dados e BI, boa fluidez de escrita e comunicação, capacidade de resolução de problemas e trabalho em equipe.
-
-
-
-
-Diferenciais:
- Atuação prévia na área de dados/TI ou vivência interna prévia na central de atendimento/operações.
-
-
-Modalidade: 
-Híbrido (Primeiros 3 meses de Onboarding 100% presencial; após o período, escala 3x presencial e 2x home office).
-Local de trabalho: 
-Alameda Santos (São Paulo - SP).",Vagas.com
-Analista Sênior de Dados & Analytics,DP World Santos,"Santos / SP
+Analista Dados Agroindustrial Pl,bp bioenergy,"São José do Rio Preto / SP
               
 
 
 
                       A empresa aceita candidaturas de qualquer cidade do Brasil",SP,"Descrição
 : 
-Atuar na análise, integração, estruturação e transformação de dados em informações relevantes para a tomada de decisão, suportando as iniciativas de Excelência Operacional e Inovação.
-•	Desenvolver análises de dados de média e alta complexidade para apoiar decisões operacionais, táticas e estratégicas;
-•	Desenvolver, manter e evoluir indicadores de desempenho (KPIs), dashboards e ferramentas analíticas para acompanhamento dos processos da empresa;
-•	Atuar no ambiente de Data Lake e Databricks, realizando exploração, tratamento, transformação e análise de grandes volumes de dados;
-•	Desenvolver consultas, rotinas e modelos de dados utilizando principalmente SQL e Python;
-•	Apoiar a construção e evolução de pipelines de dados, trabalhando em conjunto com TI e Engenharia de Dados na integração entre sistemas corporativos e operacionais;
-•	Identificar, analisar e correlacionar dados provenientes de diferentes fontes, garantindo consistência e confiabilidade das informações utilizadas nos indicadores;
-•	Desenvolver dashboards e soluções de Business Intelligence utilizando Power BI e outras ferramentas analíticas adotadas pela empresa;
-•	Apoiar as áreas de negócio na definição de KPIs, regras de cálculo, fontes de dados e critérios para acompanhamento de performance;
-•	Realizar análises de causa, tendências, desvios e oportunidades utilizando dados históricos e operacionais;
-•	Desenvolver análises preditivas e modelos analíticos quando aplicáveis, apoiando iniciativas de otimização operacional e melhoria contínua;
-•	Identificar oportunidades de automação de análises e relatórios atualmente realizados de forma manual;
-•	Trabalhar em conjunto com as equipes de Excelência Operacional, Inovação, Operações, Comercial, Manutenção, Customer Service, TI e demais áreas na transformação de dados em ações de melhoria;
-•	Apoiar projetos de digitalização, automação e inovação por meio da disponibilização e análise estruturada de dados;
-•	Contribuir para a governança de dados, incluindo definição de fontes oficiais, documentação de indicadores, qualidade, rastreabilidade e padronização das informações;
-Requisitos:
-• Ensino Superior Completo em Engenharia, Ciência da Computação, Sistemas de Informação, Ciência de Dados, Estatística, Matemática, Administração ou áreas correlatas.
-• Inglês avançado.
-• Conhecimento em análise e tratamento de dados, SQL, Power BI, modelagem e visualização de dados, construção e acompanhamento de KPIs, conceitos de bancos de dados relacionais, Excel avançado, conceitos de Data Lake e Data Warehouse.
-• Conhecimento em desenvolvimento de dashboards, análise de grandes volumes de dados e integração de informações provenientes de diferentes sistemas;
-• Conhecimento em Databricks, Python para análise de dados, PySpark/Apache Spark, Arquiteturas de Data Lake / Lakehouse, Microsoft Azure, ETL / ELT e pipelines de dados, Power Query / DAX, Git e controle de versões, Machine Learning e modelos preditivos e conhecimento de processos logísticos, portuários ou de supply chain serão considerados diferenciais.
-Idiomas
-:
-Inglês - Nível Avançado",Vagas.com
+
+
+
+
+Descrição longa
+ 
+
+
+
+
+ 
+
+
+Principais Responsabilidades:
+
+
+
+
+Elaborar relatórios e painéis automatizados de monitoramento dos principais indicadores do negócio;
+
+
+Ser a maior fonte de informações sobre indicadores operacionais;
+
+
+Mapear indicadores operacionais e administrativos atendendo as necessidades dos clientes internos e externos na área operacional;
+
+
+Proporcionar dados e informações para tomadas de decisão e direcionamento do setor;
+
+
+Montar, avaliar e testar teorias da operação;
+
+
+Estruturar e consolidar os dados de diversas fontes de dados para a melhor gestão operacional, preparando e extraindo os dados necessários;
+
+
+Relacionar-se com as áreas detentoras de dados e propor melhorias nos processos de consulta/extração de dados;
+
+
+Explorar grandes volumes de dados e gerar recomendações para o atingimento das metas;
+
+
+Manipular base de dados e modelar problemas complexos, identificando oportunidades por meio do uso de estatística, algoritmos, mineração de dados e técnicas de visualização;
+
+
+Avaliar desempenho dos modelos e controlar qualidade dos outputs;
+
+
+Traduzir resultados dos modelos em recomendação ao negócio;
+
+
+Perfil questionador e curioso, principalmente para aprender sobre o negócio e a construção de soluções;
+
+
+Apresentar as análises e conclusões de forma objetiva e clara para público-alvo (áreas de negócio), com capacidade de produzir código limpo e de fácil manutenção.
+
+
+
+
+ 
+
+
+Requisitos Necessários:
+
+
+
+
+Ensino Superior Completo em Engenharia de Dados, Engenharia de Produção, Engenharia Agrícola, Agronomia ou afins;
+
+
+Experiência na área;
+
+
+Pacote Office 365 Avançado;
+
+
+Power Bi: Avançado;
+
+
+Conhecimento em KPIs e construção de indicadores;
+
+
+Disponibilidade para atuar no escritório de São José do Rio Preto – SP.
+
+
+
+
+ 
+
+
+Desejável:
+
+
+
+
+Inglês intermediário será considerado um diferencial;
+
+
+Conhecimento no SAP ou outro sistema ERP;
+
+
+Conhecimento em Phyton;
+
+
+Atuação no segmento será considerado um diferencial.
+
+
+
+
+
+
+Outros requisitos
+: sem comantarios",Vagas.com
 Analista de banco de dados,Central IT,"Recife / PE
               
 
@@ -774,126 +818,37 @@ MySQL Enterprise Edition 5.7 ou superior
 Desejável: treinamento em 
 PostgreSQL
 .",Vagas.com
-Analista Dados Agroindustrial Pl,bp bioenergy,"São José do Rio Preto / SP
+Analista Sênior de Dados & Analytics,DP World Santos,"Santos / SP
               
 
 
 
                       A empresa aceita candidaturas de qualquer cidade do Brasil",SP,"Descrição
 : 
-
-
-
-
-Descrição longa
- 
-
-
-
-
- 
-
-
-Principais Responsabilidades:
-
-
-
-
-Elaborar relatórios e painéis automatizados de monitoramento dos principais indicadores do negócio;
-
-
-Ser a maior fonte de informações sobre indicadores operacionais;
-
-
-Mapear indicadores operacionais e administrativos atendendo as necessidades dos clientes internos e externos na área operacional;
-
-
-Proporcionar dados e informações para tomadas de decisão e direcionamento do setor;
-
-
-Montar, avaliar e testar teorias da operação;
-
-
-Estruturar e consolidar os dados de diversas fontes de dados para a melhor gestão operacional, preparando e extraindo os dados necessários;
-
-
-Relacionar-se com as áreas detentoras de dados e propor melhorias nos processos de consulta/extração de dados;
-
-
-Explorar grandes volumes de dados e gerar recomendações para o atingimento das metas;
-
-
-Manipular base de dados e modelar problemas complexos, identificando oportunidades por meio do uso de estatística, algoritmos, mineração de dados e técnicas de visualização;
-
-
-Avaliar desempenho dos modelos e controlar qualidade dos outputs;
-
-
-Traduzir resultados dos modelos em recomendação ao negócio;
-
-
-Perfil questionador e curioso, principalmente para aprender sobre o negócio e a construção de soluções;
-
-
-Apresentar as análises e conclusões de forma objetiva e clara para público-alvo (áreas de negócio), com capacidade de produzir código limpo e de fácil manutenção.
-
-
-
-
- 
-
-
-Requisitos Necessários:
-
-
-
-
-Ensino Superior Completo em Engenharia de Dados, Engenharia de Produção, Engenharia Agrícola, Agronomia ou afins;
-
-
-Experiência na área;
-
-
-Pacote Office 365 Avançado;
-
-
-Power Bi: Avançado;
-
-
-Conhecimento em KPIs e construção de indicadores;
-
-
-Disponibilidade para atuar no escritório de São José do Rio Preto – SP.
-
-
-
-
- 
-
-
-Desejável:
-
-
-
-
-Inglês intermediário será considerado um diferencial;
-
-
-Conhecimento no SAP ou outro sistema ERP;
-
-
-Conhecimento em Phyton;
-
-
-Atuação no segmento será considerado um diferencial.
-
-
-
-
-
-
-Outros requisitos
-: sem comantarios",Vagas.com
+Atuar na análise, integração, estruturação e transformação de dados em informações relevantes para a tomada de decisão, suportando as iniciativas de Excelência Operacional e Inovação.
+•	Desenvolver análises de dados de média e alta complexidade para apoiar decisões operacionais, táticas e estratégicas;
+•	Desenvolver, manter e evoluir indicadores de desempenho (KPIs), dashboards e ferramentas analíticas para acompanhamento dos processos da empresa;
+•	Atuar no ambiente de Data Lake e Databricks, realizando exploração, tratamento, transformação e análise de grandes volumes de dados;
+•	Desenvolver consultas, rotinas e modelos de dados utilizando principalmente SQL e Python;
+•	Apoiar a construção e evolução de pipelines de dados, trabalhando em conjunto com TI e Engenharia de Dados na integração entre sistemas corporativos e operacionais;
+•	Identificar, analisar e correlacionar dados provenientes de diferentes fontes, garantindo consistência e confiabilidade das informações utilizadas nos indicadores;
+•	Desenvolver dashboards e soluções de Business Intelligence utilizando Power BI e outras ferramentas analíticas adotadas pela empresa;
+•	Apoiar as áreas de negócio na definição de KPIs, regras de cálculo, fontes de dados e critérios para acompanhamento de performance;
+•	Realizar análises de causa, tendências, desvios e oportunidades utilizando dados históricos e operacionais;
+•	Desenvolver análises preditivas e modelos analíticos quando aplicáveis, apoiando iniciativas de otimização operacional e melhoria contínua;
+•	Identificar oportunidades de automação de análises e relatórios atualmente realizados de forma manual;
+•	Trabalhar em conjunto com as equipes de Excelência Operacional, Inovação, Operações, Comercial, Manutenção, Customer Service, TI e demais áreas na transformação de dados em ações de melhoria;
+•	Apoiar projetos de digitalização, automação e inovação por meio da disponibilização e análise estruturada de dados;
+•	Contribuir para a governança de dados, incluindo definição de fontes oficiais, documentação de indicadores, qualidade, rastreabilidade e padronização das informações;
+Requisitos:
+• Ensino Superior Completo em Engenharia, Ciência da Computação, Sistemas de Informação, Ciência de Dados, Estatística, Matemática, Administração ou áreas correlatas.
+• Inglês avançado.
+• Conhecimento em análise e tratamento de dados, SQL, Power BI, modelagem e visualização de dados, construção e acompanhamento de KPIs, conceitos de bancos de dados relacionais, Excel avançado, conceitos de Data Lake e Data Warehouse.
+• Conhecimento em desenvolvimento de dashboards, análise de grandes volumes de dados e integração de informações provenientes de diferentes sistemas;
+• Conhecimento em Databricks, Python para análise de dados, PySpark/Apache Spark, Arquiteturas de Data Lake / Lakehouse, Microsoft Azure, ETL / ELT e pipelines de dados, Power Query / DAX, Git e controle de versões, Machine Learning e modelos preditivos e conhecimento de processos logísticos, portuários ou de supply chain serão considerados diferenciais.
+Idiomas
+:
+Inglês - Nível Avançado",Vagas.com
 Analista de Dados Sr (Controladoria),Frescatto,"Rio de Janeiro / RJ
               
 
@@ -937,6 +892,74 @@ Banco de Dados e SQL
 
 
 Processos Contábeis",Vagas.com
+Analista de Sinistros Sr (Dados e Faturamento),SulAmérica,"São Paulo / SP
+              
+
+
+
+                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
+: 
+Para o match perfeito acontecer precisa de PESSOAS, com as mais diversas experiências e pontos de vista, para que possamos continuar evoluindo enquanto empresa.
+Por isso, aqui na SulAmérica, incentivamos a candidatura de pessoas de todas as raças/etnias, orientações sexuais, identidades de gênero, gerações, com ou sem deficiência, para todas as nossas vagas. Afinal, as nossas diferenças é o que nos complementam!
+#LGBTI+ #PessoasNegras #PcD #50+ #Gerações #PessoasComDeficiência
+Missão da área:
+Atuar com foco estratégico e de alta complexidade na área de sinistros e recepção de contas de saúde suplementar. A área é responsável por tratar grandes volumes de dados massificados, eliminar gargalos na esteira de faturamento, promover automações operacionais e manter relacionamento próximo com prestadores e fornecedores estratégicos.
+Como será o seu dia a dia nessa área:
+
+
+
+
+Análise de Alta Complexidade:
+ Realizar a análise detalhada de processos de faturamento em XML (Padrão TISS) de filas específicas e casos de maior criticidade.
+
+
+
+
+Resolução de Gargalos Operacionais: 
+Apoiar a operação com soluções ágeis para identificação e eliminação de gargalos no fluxo de recepção de faturamentos.
+
+
+
+
+Análise Avançada e Automação de Dados:
+ Estruturar queries em banco de dados, criar painéis estratégicos e propor melhorias contínuas e automações nos processos da área.
+
+
+
+
+Relacionamento Estratégico: 
+Atuar em contato próximo e direcionado com prestadores e fornecedores estratégicos.
+
+
+
+
+Ciclo de Receita Hospitalar: 
+Conciliar o conhecimento do ciclo de receita e faturamento de hospitais/prestadores com a operação de entrada da operadora.
+
+
+Requisitos necessários para ser Analista de Sinistros Sr na #SulA:
+Escolaridade: 
+Ensino Superior completo em Ciência de Dados, Gestão em Saúde, Administração, TI ou áreas correlatas.
+Conhecimentos: 
+
+
+Domínio do processo completo de faturamento de contas médicas, Padrão TISS/XML e ciclo de receita hospitalar.
+
+
+Domínio em manipulação e extração de grandes bases de dados (queries) e construção de Dashboards (Power BI / Data Studio).
+
+
+Domínio do Pacote Office (especialmente Excel avançado).
+
+
+Perfil comportamental: 
+Alta capacidade analítica, senso de urgência, boa capacidade para atuar sob pressão e excelente comunicação escrita e verbal.
+Diferenciais: 
+Conhecimento de normas regulatórias da ANS ou projetos focados em automação e eficiência operacional.
+Disponibilidade: 
+Modelo híbrido na Alameda Santos (São Paulo - SP) — Primeiros 3 meses 100% presencial (onboarding); após o período, escala 3x presencial e 2x home office.
+Local de trabalho:
+ Alameda Santos (São Paulo - SP).",Vagas.com
 Analista de Sinistros Pleno (Dados e Faturamento),SulAmérica,"São Paulo / SP
               
 
@@ -1025,74 +1048,6 @@ Disponibilidade:
  Modelo híbrido na Alameda Santos (São Paulo - SP) — Primeiros 3 meses 100% presencial (onboarding); após o período, escala 3x presencial e 2x home office. 
 Local de trabalho:
  Alameda Santos (São Paulo - SP).",Vagas.com
-Analista de Sinistros Sr (Dados e Faturamento),SulAmérica,"São Paulo / SP
-              
-
-
-
-                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
-: 
-Para o match perfeito acontecer precisa de PESSOAS, com as mais diversas experiências e pontos de vista, para que possamos continuar evoluindo enquanto empresa.
-Por isso, aqui na SulAmérica, incentivamos a candidatura de pessoas de todas as raças/etnias, orientações sexuais, identidades de gênero, gerações, com ou sem deficiência, para todas as nossas vagas. Afinal, as nossas diferenças é o que nos complementam!
-#LGBTI+ #PessoasNegras #PcD #50+ #Gerações #PessoasComDeficiência
-Missão da área:
-Atuar com foco estratégico e de alta complexidade na área de sinistros e recepção de contas de saúde suplementar. A área é responsável por tratar grandes volumes de dados massificados, eliminar gargalos na esteira de faturamento, promover automações operacionais e manter relacionamento próximo com prestadores e fornecedores estratégicos.
-Como será o seu dia a dia nessa área:
-
-
-
-
-Análise de Alta Complexidade:
- Realizar a análise detalhada de processos de faturamento em XML (Padrão TISS) de filas específicas e casos de maior criticidade.
-
-
-
-
-Resolução de Gargalos Operacionais: 
-Apoiar a operação com soluções ágeis para identificação e eliminação de gargalos no fluxo de recepção de faturamentos.
-
-
-
-
-Análise Avançada e Automação de Dados:
- Estruturar queries em banco de dados, criar painéis estratégicos e propor melhorias contínuas e automações nos processos da área.
-
-
-
-
-Relacionamento Estratégico: 
-Atuar em contato próximo e direcionado com prestadores e fornecedores estratégicos.
-
-
-
-
-Ciclo de Receita Hospitalar: 
-Conciliar o conhecimento do ciclo de receita e faturamento de hospitais/prestadores com a operação de entrada da operadora.
-
-
-Requisitos necessários para ser Analista de Sinistros Sr na #SulA:
-Escolaridade: 
-Ensino Superior completo em Ciência de Dados, Gestão em Saúde, Administração, TI ou áreas correlatas.
-Conhecimentos: 
-
-
-Domínio do processo completo de faturamento de contas médicas, Padrão TISS/XML e ciclo de receita hospitalar.
-
-
-Domínio em manipulação e extração de grandes bases de dados (queries) e construção de Dashboards (Power BI / Data Studio).
-
-
-Domínio do Pacote Office (especialmente Excel avançado).
-
-
-Perfil comportamental: 
-Alta capacidade analítica, senso de urgência, boa capacidade para atuar sob pressão e excelente comunicação escrita e verbal.
-Diferenciais: 
-Conhecimento de normas regulatórias da ANS ou projetos focados em automação e eficiência operacional.
-Disponibilidade: 
-Modelo híbrido na Alameda Santos (São Paulo - SP) — Primeiros 3 meses 100% presencial (onboarding); após o período, escala 3x presencial e 2x home office.
-Local de trabalho:
- Alameda Santos (São Paulo - SP).",Vagas.com
 Analista Governança Compras Sr Dados,CPFL Energia,"Indaiatuba / SP
               
 
@@ -1157,54 +1112,6 @@ Quer saber mais sobre o Grupo CPFL? Acesse: https://www.grupocpfl.com.br/
 Idiomas
 :
 Inglês - Nível Fluente e Inglês - Nível Avançado",Vagas.com
-Analista de Dados Mestres de Materiais,Confidencial,"Belo Horizonte / MG
-              
-
-
-
-                      A empresa aceita candidaturas de Belo Horizonte e cidades próximas",MG,"Descrição
-: 
-Principais Atividades:
-•	Criar, revisar e manter documentos técnicos no SAP DMS, garantindo o correto controle de revisões e vinculação aos materiais.
-•	Gerenciar documentos de engenharia utilizando as transações CV01N, CV03N, CV04N.
-•	Criar e manter Classes e Características no SAP, assegurando a padronização da classificação dos materiais.
-•	Interpretar desenhos técnicos e documentação de engenharia para criação e atualização de dados mestres e documentos técnicos.
-•	Atuar em conjunto com Engenharia, Produção e Qualidade para garantir a consistência entre desenhos, especificações técnicas e registros no ERP.
-•	Utilizar o SAP CRM para consulta e suporte aos processos relacionados às informações comerciais e integração dos dados mestres.
-•	Analisar solicitações de criação e alteração de dados mestres recebidas por meio dos processos corporativos. 
-•	Criar e manter dados mestres de materiais conforme procedimentos globais, padrões internos e SLAs estabelecidos. 
-•	Definir corretamente tipos de materiais, visões organizacionais, centros, organizações de vendas, depósitos e demais estruturas necessárias. 
-•	Garantir a qualidade, integridade e padronização dos dados mestres. 
-•	Identificar inconsistências cadastrais, propor ações corretivas e apoiar iniciativas de limpeza e melhoria da qualidade dos dados. 
-•	Atuar em parceria com Engenharia, Supply Chain, Produção, Compras, Operações e demais stakeholders globais. 
-•	Participar de projetos de implantação, migração, rollouts e iniciativas de transformação digital. 
-•	Apoiar iniciativas de automação, simplificação de processos e governança de Master Data. 
-•	Monitorar indicadores da qualidade dos dados e contribuir para a evolução contínua dos processos. 
-•	Atuar na resolução de incidentes relacionados aos dados mestres, escalando questões complexas quando necessário.
-Experiência:
-•	Experiência em criação e manutenção de Dados Mestres de Materiais em SAP ECC, SAP S/4HANA e MDG.
-•	Experiência na criação, manutenção e gestão de documentos técnicos utilizando o SAP Document Management System (DMS).
-•	Experiência na utilização das transações CV01N (Criação de Documentos) e CV04N (Pesquisa de Documentos).
-•	Experiência na criação e manutenção de Classes e Características no SAP, garantindo a correta classificação de materiais e documentos conforme as regras de negócio.
-•	Conhecimento em cadastro, alteração e governança de materiais no SAP.
-•	Conhecimento em estruturas produtivas como BOM (Bill of Materials), Roteiros e Versões de Produção.
-•	Experiência na análise e validação de solicitações de criação e alteração de materiais e documentos técnicos.
-•	Conhecimento em governança, qualidade e validação de dados mestres.
-Idiomas
-:
-Inglês - Nível Fluente
-Outros requisitos
-: 
-Requisitos:
-•	Ensino Superior completo em Engenharias, Logística, TI, Administração ou áreas afins.
-•	Inglês Avançado.
-•	SAP - SAP ECC e/ou SAP S/4HANA e Módulos MM, PP e DMS.
-•	Conhecimento em Engenharia: Leitura e interpretação de desenhos técnicos (Avançado) e conhecimento em softwares CAD (SolidWorks, AutoCAD ou similares).
-•	Pacote Office com Excel Avançado.
-•	Power BI (básico/intermediário).
-Diferencial:
-•	Espanhol, Alemão ou Hindi.
-•	Formação Técnica nas áreas de Mecânica e Metalurgia, será considerada um diferencial.",Vagas.com
 Analista de Operações Financeiras ( Dados),Confidencial,"São Paulo / SP
               
 
@@ -1268,6 +1175,54 @@ Perfil analítico, investigativo e orientado à resolução de problemas, com vi
 
 
 Boa comunicação, relacionamento interpessoal, senso de dono, proatividade e disposição para aprender e atuar de forma colaborativa com diferentes áreas.",Vagas.com
+Analista de Dados Mestres de Materiais,Confidencial,"Belo Horizonte / MG
+              
+
+
+
+                      A empresa aceita candidaturas de Belo Horizonte e cidades próximas",MG,"Descrição
+: 
+Principais Atividades:
+•	Criar, revisar e manter documentos técnicos no SAP DMS, garantindo o correto controle de revisões e vinculação aos materiais.
+•	Gerenciar documentos de engenharia utilizando as transações CV01N, CV03N, CV04N.
+•	Criar e manter Classes e Características no SAP, assegurando a padronização da classificação dos materiais.
+•	Interpretar desenhos técnicos e documentação de engenharia para criação e atualização de dados mestres e documentos técnicos.
+•	Atuar em conjunto com Engenharia, Produção e Qualidade para garantir a consistência entre desenhos, especificações técnicas e registros no ERP.
+•	Utilizar o SAP CRM para consulta e suporte aos processos relacionados às informações comerciais e integração dos dados mestres.
+•	Analisar solicitações de criação e alteração de dados mestres recebidas por meio dos processos corporativos. 
+•	Criar e manter dados mestres de materiais conforme procedimentos globais, padrões internos e SLAs estabelecidos. 
+•	Definir corretamente tipos de materiais, visões organizacionais, centros, organizações de vendas, depósitos e demais estruturas necessárias. 
+•	Garantir a qualidade, integridade e padronização dos dados mestres. 
+•	Identificar inconsistências cadastrais, propor ações corretivas e apoiar iniciativas de limpeza e melhoria da qualidade dos dados. 
+•	Atuar em parceria com Engenharia, Supply Chain, Produção, Compras, Operações e demais stakeholders globais. 
+•	Participar de projetos de implantação, migração, rollouts e iniciativas de transformação digital. 
+•	Apoiar iniciativas de automação, simplificação de processos e governança de Master Data. 
+•	Monitorar indicadores da qualidade dos dados e contribuir para a evolução contínua dos processos. 
+•	Atuar na resolução de incidentes relacionados aos dados mestres, escalando questões complexas quando necessário.
+Experiência:
+•	Experiência em criação e manutenção de Dados Mestres de Materiais em SAP ECC, SAP S/4HANA e MDG.
+•	Experiência na criação, manutenção e gestão de documentos técnicos utilizando o SAP Document Management System (DMS).
+•	Experiência na utilização das transações CV01N (Criação de Documentos) e CV04N (Pesquisa de Documentos).
+•	Experiência na criação e manutenção de Classes e Características no SAP, garantindo a correta classificação de materiais e documentos conforme as regras de negócio.
+•	Conhecimento em cadastro, alteração e governança de materiais no SAP.
+•	Conhecimento em estruturas produtivas como BOM (Bill of Materials), Roteiros e Versões de Produção.
+•	Experiência na análise e validação de solicitações de criação e alteração de materiais e documentos técnicos.
+•	Conhecimento em governança, qualidade e validação de dados mestres.
+Idiomas
+:
+Inglês - Nível Fluente
+Outros requisitos
+: 
+Requisitos:
+•	Ensino Superior completo em Engenharias, Logística, TI, Administração ou áreas afins.
+•	Inglês Avançado.
+•	SAP - SAP ECC e/ou SAP S/4HANA e Módulos MM, PP e DMS.
+•	Conhecimento em Engenharia: Leitura e interpretação de desenhos técnicos (Avançado) e conhecimento em softwares CAD (SolidWorks, AutoCAD ou similares).
+•	Pacote Office com Excel Avançado.
+•	Power BI (básico/intermediário).
+Diferencial:
+•	Espanhol, Alemão ou Hindi.
+•	Formação Técnica nas áreas de Mecânica e Metalurgia, será considerada um diferencial.",Vagas.com
 Analista de Dados II (People Analytics),JOBCENTER DO BRASIL LTDA,"São Paulo / SP
               
 
@@ -1302,6 +1257,28 @@ Outras informações
 • Horário de Trabalho: 08:00 às 17:45hs.
 • Local de Trabalho: Berrini- SP | modelo híbrido (3x presenciais e 2x home office).
 • Contrato temporário em torno de 6 meses.",Vagas.com
+Analista Júnior – Dados Mestres (Cadastro de Fornecedores),Assigna,"Amparo / SP
+              
+
+
+
+                      A empresa aceita candidaturas de Amparo e cidades próximas",SP,"Descrição
+: 
+Sobre a oportunidade:
+Atuar na governança dos cadastros corporativos.
+Principais responsabilidades:
+Cadastro de fornecedores;
+Homologação de fornecedores;
+Revisão cadastral;
+Atendimento de chamados;
+Atualização das bases de dados;
+Apoio aos usuários.
+Requisitos
+Superior cursando ou completo;
+SAP;
+Ariba;
+Coupa;
+Excel intermediário.",Vagas.com
 11285 - Analista de Inteligência de Mercado (Ciência de Dados),Talent Group,"São Paulo / SP
               
 
@@ -1393,28 +1370,6 @@ Bolsa para cursos de curta e média duração (online) – elegibilidade após 3
 
 
 Wellhub (Gympass) – plataforma de bem-estar e qualidade de vida.",Vagas.com
-Analista Júnior – Dados Mestres (Cadastro de Fornecedores),Assigna,"Amparo / SP
-              
-
-
-
-                      A empresa aceita candidaturas de Amparo e cidades próximas",SP,"Descrição
-: 
-Sobre a oportunidade:
-Atuar na governança dos cadastros corporativos.
-Principais responsabilidades:
-Cadastro de fornecedores;
-Homologação de fornecedores;
-Revisão cadastral;
-Atendimento de chamados;
-Atualização das bases de dados;
-Apoio aos usuários.
-Requisitos
-Superior cursando ou completo;
-SAP;
-Ariba;
-Coupa;
-Excel intermediário.",Vagas.com
 Cientista de Dados,FIESP,"São Paulo / SP
               
 
@@ -2463,7 +2418,12 @@ Diferenciais:
 - Pós-graduação ou MBA na área de Logística, Suprimentos ou Administração;
 - Domínio de idiomas, como inglês e/ou espanhol;
 - Acompanhamento de indicadores de desempenho.",Vagas.com
-Analista de Remuneração Jr.,SANTHER - FABRICA DE PAPEL SANTA THEREZINHA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+Analista de Remuneração Jr.,SANTHER - FABRICA DE PAPEL SANTA THEREZINHA,"São Paulo / SP
+              
+
+
+
+                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
 : 
 Principais Responsabilidades: 
 • Manter atualizadas as bases de dados, matrizes e controles de Remuneração e Orçamento, realizando lançamentos, inclusões, alterações e conferências, visando assegurar a consistência e confiabilidade das informações.
@@ -2612,64 +2572,36 @@ Auxílio combustível (valor do VT a ser convertido).
 Vale-alimentação: R$25,00 por dia útil trabalhado.
 Plano de saúde (coparticipação para o funcionário).
 Seguro de vida.",Vagas.com
-Analista de Orçamentos Júnior,Pacaembu Construtora,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+Analista Comercial II,The Adecco Group,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
-Estamos em busca de um(a) Analista de Orçamentos Júnior para apoiar a elaboração, atualização e controle dos orçamentos de empreendimentos habitacionais e obras de infraestrutura.
-Buscamos uma pessoa analítica, organizada e atenta aos detalhes, que tenha interesse em desenvolver seus conhecimentos na área de orçamentos e contribuir para a qualidade e a assertividade das informações utilizadas nos projetos.
-O desafio do dia a dia:
-Você apoiará a organização das bases de dados, o levantamento de quantitativos, a elaboração de composições de custos e a estruturação dos orçamentos, contribuindo para a eficiência dos processos da área.
-Entre suas principais responsabilidades:
-
-
-Organizar e manter atualizado o cadastro de insumos, incluindo mão de obra, materiais e locações, no sistema Sienge;
-
-
-Elaborar memórias de cálculo das obras;
-
-
-Organizar e atualizar o banco de dados de preços de casas e infraestrutura;
-
-
-Desenvolver composições de custos para novas tipologias de casas e serviços de infraestrutura;
-
-
-Realizar o levantamento de quantitativos de projetos habitacionais e de infraestrutura;
-
-
-Estruturar orçamentos no sistema e realizar o lançamento de preços;
-
-
-Avaliar e atualizar os insumos de materiais de acordo com as demandas das obras;
-
-
-Identificar oportunidades de melhoria na liberação e utilização de insumos;
-
-
-Apoiar análises de custos e a elaboração de informações para a tomada de decisão.
-
-
-O que buscamos:
-
-
-Ensino superior cursando ou concluído em Engenharia Civil;
-
-
-Conhecimento em leitura e interpretação de projetos;
-
-
-Conhecimento básico em orçamento de obras, composição de custos e levantamento de quantitativos;
-
-
-Conhecimento intermediário em Excel;
-
-
-Perfil analítico, organizado e atento aos detalhes;
-
-
-Boa comunicação e capacidade de relacionamento com fornecedores e equipes internas;
-
-
-Experiência ou familiaridade com o sistema Sienge será considerada um diferencial.",Vagas.com
+Responsabilidades
+Desenvolver análises e estudos para apoiar a definição e otimização das estratégias de cobrança.
+Monitorar e analisar indicadores de recuperação de crédito, inadimplência, acionamentos e performance dos fornecedores.
+Elaborar relatórios gerenciais, dashboards e apresentações executivas para suporte à tomada de decisão.
+Identificar oportunidades de melhoria nas réguas de cobrança por meio de análises estatísticas e comportamentais da carteira.
+Apoiar a segmentação de clientes e a definição de estratégias específicas para diferentes perfis de inadimplência.
+Realizar o acompanhamento dos resultados das ações de cobrança, propondo ajustes e recomendações com base em evidências.
+Atuar como interface entre as unidades, áreas corporativas e parceiros externos para alinhamento de processos e estratégias.
+Apoiar o desenvolvimento e a implementação de novos canais, ferramentas e iniciativas voltadas para recuperação de receita.
+Garantir a qualidade, consistência e governança das informações utilizadas nos processos da área.
+Idiomas
+:
+Inglês - Nível Intermediário
+Outros requisitos
+: 
+Ensino superior completo em Administração, Economia, Estatística, Engenharia, Matemática, Sistemas de Informação ou áreas correlatas.
+Experiência em cobrança, recuperação de crédito, inteligência comercial ou áreas analíticas.
+Excel avançado.
+Conhecimento em análise de dados e construção de indicadores.
+Experiência na elaboração de relatórios gerenciais e apresentações executivas.
+Capacidade analítica para identificação de tendências, desvios e oportunidades de melhoria.
+Boa comunicação e habilidade de relacionamento com diferentes áreas.
+Diferenciais
+Conhecimento em Power BI, SQL, Databricks ou ferramentas similares.
+Experiência na gestão de estratégias de cobrança massiva.
+Vivência com segmentação de carteira e análise de comportamento de clientes.
+Conhecimento de modelagem de dados e automação de relatórios.
+Experiência no setor de utilities, saneamento ou serviços regulados.",Vagas.com
 Analista Administrativo Jr,Confidencial,Indaiatuba / SP                                       A empresa aceita candidaturas de Indaiatuba e cidades próximas,SP,"Descrição
 : 
 
@@ -3026,58 +2958,6 @@ Idiomas
 Inglês - Nível Intermediário e Inglês - Nível Avançado
 Outros requisitos
 :",Vagas.com
-Analista de Operações Junior,J&T Express,Seabra / BA                                       A empresa aceita apenas candidaturas de Seabra,BA,"Descrição
-: 
-Acompanhar operacionalmente uma carteira de bases, garantindo o cumprimento das metas operacionais;
-Monitorar indicadores de desempenho (KPIs), como SLA, produtividade, qualidade, reclamações e pedidos retidos;
-Analisar resultados e apoiar na elaboração de planos de ação para melhoria da performance operacional;
-Atualizar e controlar informações em sistemas, assegurando a confiabilidade dos dados;
-Identificar oportunidades de otimização dos processos logísticos e apoiar a melhoria contínua das operações;
-Atuar como ponto de apoio entre as áreas operacionais, contribuindo para a resolução de demandas do dia a dia;
-Participar de treinamentos e disseminar boas práticas, processos e utilização de sistemas;
-Garantir o cumprimento das normas, procedimentos internos e padrões de qualidade da empresa;
-Contribuir para a organização, eficiência operacional e desenvolvimento contínuo da rede de operações
-Outros requisitos
-: 
-Ensino superior Completo (Logística, Administração ou áreas correlatas)
-Pacote Office Intermediário
-Conhecimento básico em Power BI e análise de indicadores
-Noções de planejamento logístico e gestão operacional
-Experiência prévia na área logística será um diferencial",Vagas.com
-Analista de Operações Junior,J&T Express,Irecê / BA                                       A empresa aceita apenas candidaturas de Irecê,BA,"Descrição
-: 
-Acompanhar operacionalmente uma carteira de bases, garantindo o cumprimento das metas operacionais;
-Monitorar indicadores de desempenho (KPIs), como SLA, produtividade, qualidade, reclamações e pedidos retidos;
-Analisar resultados e apoiar na elaboração de planos de ação para melhoria da performance operacional;
-Atualizar e controlar informações em sistemas, assegurando a confiabilidade dos dados;
-Identificar oportunidades de otimização dos processos logísticos e apoiar a melhoria contínua das operações;
-Atuar como ponto de apoio entre as áreas operacionais, contribuindo para a resolução de demandas do dia a dia;
-Participar de treinamentos e disseminar boas práticas, processos e utilização de sistemas;
-Garantir o cumprimento das normas, procedimentos internos e padrões de qualidade da empresa;
-Contribuir para a organização, eficiência operacional e desenvolvimento contínuo da rede de operações
-Outros requisitos
-: 
-Ensino superior Completo (Logística, Administração ou áreas correlatas)
-Pacote Office Intermediário
-Conhecimento básico em Power BI e análise de indicadores
-Noções de planejamento logístico e gestão operacional
-Experiência prévia na área logística será um diferencial",Vagas.com
-Analista Produção Jr,Blau Farmacêutica,Taboão da Serra / SP                                       A empresa aceita candidaturas de Taboão da Serra e cidades próximas,SP,"Descrição
-: 
-O dia a dia da Oportunidade:
-Responsável por atividades relacionadas aos processos da área produtiva, seguindo as legislações vigentes, Boas Práticas de Fabricação e Sistema da Qualidade Blau, através de indicadores de desempenho, documentações de processo, ferramentas de melhoria, procedimentos operacionais, análises de risco e outros. 
-Garantir o preenchimento por parte do time operacional de documentos de processo, apontamento e controle
-Monitorar a conferência de toda a documentação dos processos e o devido apontamento no sistema SAP
-Acompanhar e monitorar a coleta e compilamento de dados de indicadores de performance, como o OEE
-Elaborar e implementar melhorias nos procedimentos operacionais padrão, instruções de fabricação, análises de risco e demais documentos pertinentes ao processo
-Realizar o acompanhamento da gestão dos treinamentos no sistema VIVA, desde a emissão de oferta programada até o cadastro dos treinamentos realizados
-Participar de projetos de melhoria com base nas observações e ocorrências do dia a dia, buscando melhorar os índices de produtividade, qualidade e segurança
-Outros requisitos
-: 
-Ensino superior completo em Farmácia ou áreas correlatas 
-Desejável experiência em indústria farmacêutica
-Desejável conhecimento em Boas Práticas de Fabricação
-Conhecimentos em informática para utilização de pacote office",Vagas.com
 Analista de Qualidade,Confidencial,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Descrição
@@ -3126,49 +3006,42 @@ Disponibilidade para atuação 100% presencial na região de Piracicaba-SP.
 Idiomas
 :
 Inglês - Nível Intermediário, Inglês - Nível Avançado e Inglês - Nível Fluente",Vagas.com
-Analista de Compras,Bom Futuro,Cuiabá / MT                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MT,"Descrição
+Analista de Operações Junior,J&T Express,Seabra / BA                                       A empresa aceita apenas candidaturas de Seabra,BA,"Descrição
 : 
-Principais responsabilidades:
-
-
-Realizar análise de demanda, consumo e histórico de compras, identificando necessidades, oportunidades de melhoria e alternativas de fornecimento;
-
-
-Conduzir processos de cotação, negociação e análise de propostas comerciais;
-
-
-Avaliar fornecedores, condições comerciais, prazos, custos, qualidade, histórico de atendimento e alternativas de mercado;
-
-
-Apoiar a tomada de decisão por meio de dados, indicadores, relatórios e informações de mercado;
-
-
-Atuar na interface com áreas internas, garantindo entendimento das demandas, alinhamento de prioridades e atendimento adequado;
-
-
-Desenvolver análises comparativas de preços, fornecedores, contratos, condições comerciais e oportunidades de saving;
-
-
-Acompanhar pedidos, negociações e entregas críticas, garantindo cumprimento de prazo, qualidade e custo;
-
-
-Contribuir para a melhoria contínua dos processos de compras e suprimentos;
-
-
-Apoiar a gestão na construção de relatórios, indicadores e análises gerenciais;
-
-
+Acompanhar operacionalmente uma carteira de bases, garantindo o cumprimento das metas operacionais;
+Monitorar indicadores de desempenho (KPIs), como SLA, produtividade, qualidade, reclamações e pedidos retidos;
+Analisar resultados e apoiar na elaboração de planos de ação para melhoria da performance operacional;
+Atualizar e controlar informações em sistemas, assegurando a confiabilidade dos dados;
+Identificar oportunidades de otimização dos processos logísticos e apoiar a melhoria contínua das operações;
+Atuar como ponto de apoio entre as áreas operacionais, contribuindo para a resolução de demandas do dia a dia;
+Participar de treinamentos e disseminar boas práticas, processos e utilização de sistemas;
+Garantir o cumprimento das normas, procedimentos internos e padrões de qualidade da empresa;
+Contribuir para a organização, eficiência operacional e desenvolvimento contínuo da rede de operações
 Outros requisitos
 : 
-
-
-Ensino superior completo em Administração, Logística, Engenharia, Ciências Contábeis, Economia ou áreas correlatas;
-
-
-Conhecimento em pacote Office, principalmente Excel;
-
-
-Desejável vivência no agronegócio.",Vagas.com
+Ensino superior Completo (Logística, Administração ou áreas correlatas)
+Pacote Office Intermediário
+Conhecimento básico em Power BI e análise de indicadores
+Noções de planejamento logístico e gestão operacional
+Experiência prévia na área logística será um diferencial",Vagas.com
+Analista de Operações Junior,J&T Express,Irecê / BA                                       A empresa aceita apenas candidaturas de Irecê,BA,"Descrição
+: 
+Acompanhar operacionalmente uma carteira de bases, garantindo o cumprimento das metas operacionais;
+Monitorar indicadores de desempenho (KPIs), como SLA, produtividade, qualidade, reclamações e pedidos retidos;
+Analisar resultados e apoiar na elaboração de planos de ação para melhoria da performance operacional;
+Atualizar e controlar informações em sistemas, assegurando a confiabilidade dos dados;
+Identificar oportunidades de otimização dos processos logísticos e apoiar a melhoria contínua das operações;
+Atuar como ponto de apoio entre as áreas operacionais, contribuindo para a resolução de demandas do dia a dia;
+Participar de treinamentos e disseminar boas práticas, processos e utilização de sistemas;
+Garantir o cumprimento das normas, procedimentos internos e padrões de qualidade da empresa;
+Contribuir para a organização, eficiência operacional e desenvolvimento contínuo da rede de operações
+Outros requisitos
+: 
+Ensino superior Completo (Logística, Administração ou áreas correlatas)
+Pacote Office Intermediário
+Conhecimento básico em Power BI e análise de indicadores
+Noções de planejamento logístico e gestão operacional
+Experiência prévia na área logística será um diferencial",Vagas.com
 Analista de Pricing Pleno,PROMOFARMA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 
@@ -3227,6 +3100,65 @@ Conhecimento em formação de preços, indicadores financeiros e análise de dad
 
 
 Diferenciais: Python, Machine Learning, Programação Linear e Forecast.",Vagas.com
+Analista Produção Jr,Blau Farmacêutica,Taboão da Serra / SP                                       A empresa aceita candidaturas de Taboão da Serra e cidades próximas,SP,"Descrição
+: 
+O dia a dia da Oportunidade:
+Responsável por atividades relacionadas aos processos da área produtiva, seguindo as legislações vigentes, Boas Práticas de Fabricação e Sistema da Qualidade Blau, através de indicadores de desempenho, documentações de processo, ferramentas de melhoria, procedimentos operacionais, análises de risco e outros. 
+Garantir o preenchimento por parte do time operacional de documentos de processo, apontamento e controle
+Monitorar a conferência de toda a documentação dos processos e o devido apontamento no sistema SAP
+Acompanhar e monitorar a coleta e compilamento de dados de indicadores de performance, como o OEE
+Elaborar e implementar melhorias nos procedimentos operacionais padrão, instruções de fabricação, análises de risco e demais documentos pertinentes ao processo
+Realizar o acompanhamento da gestão dos treinamentos no sistema VIVA, desde a emissão de oferta programada até o cadastro dos treinamentos realizados
+Participar de projetos de melhoria com base nas observações e ocorrências do dia a dia, buscando melhorar os índices de produtividade, qualidade e segurança
+Outros requisitos
+: 
+Ensino superior completo em Farmácia ou áreas correlatas 
+Desejável experiência em indústria farmacêutica
+Desejável conhecimento em Boas Práticas de Fabricação
+Conhecimentos em informática para utilização de pacote office",Vagas.com
+Analista de Compras,Bom Futuro,Cuiabá / MT                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MT,"Descrição
+: 
+Principais responsabilidades:
+
+
+Realizar análise de demanda, consumo e histórico de compras, identificando necessidades, oportunidades de melhoria e alternativas de fornecimento;
+
+
+Conduzir processos de cotação, negociação e análise de propostas comerciais;
+
+
+Avaliar fornecedores, condições comerciais, prazos, custos, qualidade, histórico de atendimento e alternativas de mercado;
+
+
+Apoiar a tomada de decisão por meio de dados, indicadores, relatórios e informações de mercado;
+
+
+Atuar na interface com áreas internas, garantindo entendimento das demandas, alinhamento de prioridades e atendimento adequado;
+
+
+Desenvolver análises comparativas de preços, fornecedores, contratos, condições comerciais e oportunidades de saving;
+
+
+Acompanhar pedidos, negociações e entregas críticas, garantindo cumprimento de prazo, qualidade e custo;
+
+
+Contribuir para a melhoria contínua dos processos de compras e suprimentos;
+
+
+Apoiar a gestão na construção de relatórios, indicadores e análises gerenciais;
+
+
+Outros requisitos
+: 
+
+
+Ensino superior completo em Administração, Logística, Engenharia, Ciências Contábeis, Economia ou áreas correlatas;
+
+
+Conhecimento em pacote Office, principalmente Excel;
+
+
+Desejável vivência no agronegócio.",Vagas.com
 Analista de Custos Jr,Korn Ferry,Campinas / SP                                       A empresa aceita candidaturas de Campinas e cidades próximas,SP,"Descrição
 : 
 Título da Vaga: Analista de Custos JR
@@ -3256,6 +3188,26 @@ Viagens e Modalidade de Trabalho
 Idiomas
 :
 Inglês - Nível Intermediário e Inglês - Nível Básico",Vagas.com
+Analista de Marketing Pleno,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
+: 
+Experiência prática de gestão de CRM nas plataformas Hubspot e Cortex
+Capacidade de analisar métricas de desempenho e ajustar estratégias com base nos insights obtidos.
+Executar e acompanhar o cronograma dos calendários de ações para as campanhas de mídia, assegurando o cumprimento dos prazos definidos
+Apoiar na definição do conteúdo e execução da comunicação para a estratégia de vendas/comercial
+Entendimento das principais plataformas de redes sociais (Facebook, Twitter, Instagram, LinkedIn, etc.).
+Experiência em desenvolver e implementar campanhas de mídia social que aumentem o engajamento e a visibilidade da marca.
+Habilidade para negociar contratos com fornecedores e gerenciar orçamentos de eventos.
+Capacidade analítica para avaliar o impacto das campanhas de marketing e ajustar estratégias conforme necessário.
+Familiaridade com ferramentas de análise de mídia social e relatórios de desempenho.
+Visão estratégica para alinhar as iniciativas de marketing com os objetivos organizacionais.
+Outros requisitos
+: 
+• Forte atuação em Marketing Estratégico
+• Experiência prévia em funções semelhantes, preferencialmente em um ambiente corporativo ou agência. 
+• Excel e PPT intermediário/avançado
+• Conhecimento em análise de dados
+• Capacidade de trabalhar de forma autônoma e em equipe, com forte habilidade para gerenciar múltiplos projetos simultaneamente.
+• Conhecimento de ferramentas de design gráfico e edição de vídeo é uma vantagem.",Vagas.com
 Analista de Sistemas Sr.,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 PRINCIPAIS ATIVIDADES:
@@ -3290,26 +3242,6 @@ Salário + Benefícios:
 - Horário: Segunda a Sexta 08:12h as 18:00h 
  
 LOCAL:  Barra da Tijuca",Vagas.com
-Analista de Marketing Pleno,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
-: 
-Experiência prática de gestão de CRM nas plataformas Hubspot e Cortex
-Capacidade de analisar métricas de desempenho e ajustar estratégias com base nos insights obtidos.
-Executar e acompanhar o cronograma dos calendários de ações para as campanhas de mídia, assegurando o cumprimento dos prazos definidos
-Apoiar na definição do conteúdo e execução da comunicação para a estratégia de vendas/comercial
-Entendimento das principais plataformas de redes sociais (Facebook, Twitter, Instagram, LinkedIn, etc.).
-Experiência em desenvolver e implementar campanhas de mídia social que aumentem o engajamento e a visibilidade da marca.
-Habilidade para negociar contratos com fornecedores e gerenciar orçamentos de eventos.
-Capacidade analítica para avaliar o impacto das campanhas de marketing e ajustar estratégias conforme necessário.
-Familiaridade com ferramentas de análise de mídia social e relatórios de desempenho.
-Visão estratégica para alinhar as iniciativas de marketing com os objetivos organizacionais.
-Outros requisitos
-: 
-• Forte atuação em Marketing Estratégico
-• Experiência prévia em funções semelhantes, preferencialmente em um ambiente corporativo ou agência. 
-• Excel e PPT intermediário/avançado
-• Conhecimento em análise de dados
-• Capacidade de trabalhar de forma autônoma e em equipe, com forte habilidade para gerenciar múltiplos projetos simultaneamente.
-• Conhecimento de ferramentas de design gráfico e edição de vídeo é uma vantagem.",Vagas.com
 Analista de Compras Junior,União Química Farmacêutica Nacional S/A,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Apoiar os processos de compras garantindo a execução das rotinas operacionais, suporte nas negociações, atualização de informações e acompanhamento das demandas internas. Contribuir para a eficiência da área por meio da organização de dados, controle de prazos e suporte às atividades estratégicas do setor. 
@@ -3692,43 +3624,6 @@ Requisitos mandatórios:
 •	Disponibilidade para viagens.
 Requisitos desejáveis:
 Conhecimento em produção audiovisual.",Vagas.com
-Analista S&op Jr.,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
-: 
-Principais atividades:
-•	Realizar acompanhamento diário dos níveis de estoque entre CDs e filiais;
-•	Executar análises de abastecimento e cobertura de estoque;
-•	Apoiar o processo de DRP e redistribuição de produtos entre unidades;
-•	Gerar e acompanhar sugestões de transferência entre estoques;
-•	Monitorar riscos de ruptura e excesso de estoque;
-•	Atualizar controles, relatórios e indicadores operacionais da área;
-•	Apoiar análises de giro, cobertura e necessidade de abastecimento;
-•	Identificar oportunidades de melhoria em processos de abastecimento e controle de estoque;
-•	Apoiar o desenvolvimento de análises e automações da área.
-•	Manter-se atualizado sobre as melhores práticas e tecnologias em S&OP/ S&OE / DRP
-Requisitos:
-•	Graduação completa em Administração, Engenharia de Produção, Logística ou áreas correlatas;
-•	Conhecimentos em Planejamento de estoques:
-•	Análise de dados e KPIs:
-•	Pacote Office Avançado com ênfase em Excel;
-•	Experiência com sistemas ERP;
-•	Desejável conhecimento de ferramentas de BI;
-•	Diferencial possuir conhecimento com planejamento de demanda;
-•	Desejável conhecimento com logística e distribuição.
-Salário + Benefícios:
-- Plano de Saúde 100% custeado pela empresa (após 3 meses)
-- Plano Odontológico
-- Alimentação no local
-- Auxílio Combustível
-- Seguro de Vida
-- Consignado
-- Incentivo Estudantil
-- Desconto em Produtos
-- Clube de Vantagens
-- Bônus atrelado a metas corporativas
-- Convênios Diversos
-- Day Off
-- Horário: Segunda a Sexta 08:12h as 18:00h
-LOCAL: Barra da Tijuca",Vagas.com
 Analista de Custos Sr,Mineração Taboca S/A,Presidente Figueiredo / AM                                       A empresa aceita candidaturas de qualquer cidade do Brasil,AM,"Descrição
 : 
 Principais Responsabilidades do Cargo:
@@ -3797,6 +3692,43 @@ Pós-graduação em Gestão de Projetos, Finanças Corporativas ou Controladoria
 
 
 Experiência em ambientes industriais e/ou operações remotas.",Vagas.com
+Analista S&op Jr.,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
+: 
+Principais atividades:
+•	Realizar acompanhamento diário dos níveis de estoque entre CDs e filiais;
+•	Executar análises de abastecimento e cobertura de estoque;
+•	Apoiar o processo de DRP e redistribuição de produtos entre unidades;
+•	Gerar e acompanhar sugestões de transferência entre estoques;
+•	Monitorar riscos de ruptura e excesso de estoque;
+•	Atualizar controles, relatórios e indicadores operacionais da área;
+•	Apoiar análises de giro, cobertura e necessidade de abastecimento;
+•	Identificar oportunidades de melhoria em processos de abastecimento e controle de estoque;
+•	Apoiar o desenvolvimento de análises e automações da área.
+•	Manter-se atualizado sobre as melhores práticas e tecnologias em S&OP/ S&OE / DRP
+Requisitos:
+•	Graduação completa em Administração, Engenharia de Produção, Logística ou áreas correlatas;
+•	Conhecimentos em Planejamento de estoques:
+•	Análise de dados e KPIs:
+•	Pacote Office Avançado com ênfase em Excel;
+•	Experiência com sistemas ERP;
+•	Desejável conhecimento de ferramentas de BI;
+•	Diferencial possuir conhecimento com planejamento de demanda;
+•	Desejável conhecimento com logística e distribuição.
+Salário + Benefícios:
+- Plano de Saúde 100% custeado pela empresa (após 3 meses)
+- Plano Odontológico
+- Alimentação no local
+- Auxílio Combustível
+- Seguro de Vida
+- Consignado
+- Incentivo Estudantil
+- Desconto em Produtos
+- Clube de Vantagens
+- Bônus atrelado a metas corporativas
+- Convênios Diversos
+- Day Off
+- Horário: Segunda a Sexta 08:12h as 18:00h
+LOCAL: Barra da Tijuca",Vagas.com
 Analista de Laboratório Jr,Merieux Nutrisciences,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 •	Atuar no preparo, fracionamento e realização do ensaio analítico;                                                                                                                                                                                
@@ -4130,34 +4062,6 @@ Certificação em PHP
 
 Treinamento em Python
 , obrigatório por exigência contratual.",Vagas.com
-Analista de Estabilidade Sr,JOBCENTER DO BRASIL LTDA,Guarulhos / SP                                       A empresa aceita candidaturas de Guarulhos e cidades próximas,SP,"Descrição
-: 
-Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos assessorando uma empresa do segmento farmacêutico na contratação de um(a) Analista de Estabilidade Sr.
-Responsabilidades:
-Realizar conferência de análises Físico-Químicas de estudos de estabilidade de medicamentos e alimentos;
-Interpretará os resultados obtidos nas análises realizadas, comparando com os valores esperados e históricos;
-Realizará a investigação de resultado fora da especificação/ tendência, através de procedimentos específicos, fornecendo dados para a investigação.
-Requisitos:
-Graduação completa em Farmácia, Química ou Engenharia Química;
-Experiência prática em Controle de Qualidade ou Estabilidade de medicamentos em indústria Farmacêutica;
-Experiência prática em análises Físico-Químicas de produto acabado, como dissolução, teor e uniformidade,
-utilizando técnicas por HPLC, CG e UV;
-Sólidos conhecimentos nos testes físicos em geral (pH, desintegração, friabilidade, dureza, KF, etc);
-Conhecimento de regulamentações relacionadas a atividade (RDCs de boas práticas e de estabilidade);
-Conhecimento de nível avançado no pacote office (foco em Excel e Power Point).
-﻿
-Desejável:
-Experiência no software Ezchrom ou OpenLab CDS para os instrumentos HPLC e CG;
-Experiência no equipamento ICP;
-Experiência em análises específicas de estabilidade de medicamentos;
-Experiência em avaliação de tendência através de ferramentas estatísticas.
-Informações adicionais:
-🚌 Vale Transporte
-🍕 Refeitório no local
-📄 Seguro de Vida
-⏰ Horário de Trabalho: 2º turno (Seg à sexta das 14h30 às 23h18)
-📍 Local de Trabalho: Guarulhos - SP
-Contrato temporário de 6 meses.",Vagas.com
 Analista de Faturamento,Confidencial,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,"Descrição
 : 
 Estamos em busca de um
@@ -4227,6 +4131,34 @@ Assistência Médica e odontológica.
 
 
 Se você se encaixa nesse perfil e está em busca de novos desafios, candidate-se através do botão abaixo. Estamos ansiosos para conhecer você!",Vagas.com
+Analista de Estabilidade Sr,JOBCENTER DO BRASIL LTDA,Guarulhos / SP                                       A empresa aceita candidaturas de Guarulhos e cidades próximas,SP,"Descrição
+: 
+Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos assessorando uma empresa do segmento farmacêutico na contratação de um(a) Analista de Estabilidade Sr.
+Responsabilidades:
+Realizar conferência de análises Físico-Químicas de estudos de estabilidade de medicamentos e alimentos;
+Interpretará os resultados obtidos nas análises realizadas, comparando com os valores esperados e históricos;
+Realizará a investigação de resultado fora da especificação/ tendência, através de procedimentos específicos, fornecendo dados para a investigação.
+Requisitos:
+Graduação completa em Farmácia, Química ou Engenharia Química;
+Experiência prática em Controle de Qualidade ou Estabilidade de medicamentos em indústria Farmacêutica;
+Experiência prática em análises Físico-Químicas de produto acabado, como dissolução, teor e uniformidade,
+utilizando técnicas por HPLC, CG e UV;
+Sólidos conhecimentos nos testes físicos em geral (pH, desintegração, friabilidade, dureza, KF, etc);
+Conhecimento de regulamentações relacionadas a atividade (RDCs de boas práticas e de estabilidade);
+Conhecimento de nível avançado no pacote office (foco em Excel e Power Point).
+﻿
+Desejável:
+Experiência no software Ezchrom ou OpenLab CDS para os instrumentos HPLC e CG;
+Experiência no equipamento ICP;
+Experiência em análises específicas de estabilidade de medicamentos;
+Experiência em avaliação de tendência através de ferramentas estatísticas.
+Informações adicionais:
+🚌 Vale Transporte
+🍕 Refeitório no local
+📄 Seguro de Vida
+⏰ Horário de Trabalho: 2º turno (Seg à sexta das 14h30 às 23h18)
+📍 Local de Trabalho: Guarulhos - SP
+Contrato temporário de 6 meses.",Vagas.com
 Analista de Laboratório Jr,Confidencial,Goiânia / GO                                       A empresa aceita candidaturas de Goiânia e cidades próximas,GO,"Descrição
 : 
 Área de trabalho: Laboratório
@@ -6659,6 +6591,33 @@ Vivência com HubSpot será considerada um diferencial.
 
 
 Disponibilidade para atuar de segunda a sexta-feira das 09:00 às 19:00 no campus Paralela.",Vagas.com
+Analista de Operações de Compras,JOBCENTER DO BRASIL LTDA,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,"Descrição
+: 
+Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos assessorando uma empresa do segmento de produtos químicos, na contratação de um(a) Analista de Operações de Compras.
+Responsabilidades:
+- Auditoria e aprovação de faturas de armazenagem e serviços: processo mensal de controle, validação e liberação para pagamento de faturas de armazém (armazenagem, manuseio, paletes, filme stretch, contêineres refrigerados, etc.) e serviços logísticos (escolta, estadia/detenção, etc.), garantindo a correção do valor cobrado pelo operador logístico antes do pagamento;
+- Revisar e validar cobranças de serviços logísticos e de armazenagem recebidas de fornecedores, verificando a descrição do serviço, período de faturamento e dados operacionais no SAP;
+- Identificação e resolução de discrepâncias: identificação de desvios de valores, serviços incorretos ou ausentes e cobranças fora do escopo;
+- Conduzir a resolução interagindo com operadores logísticos e solicitando correções ou reemissão de documentos
+- Revisar e validar faturas verificando: fornecedor, valores, Pedido de Compra (PO), descrição do serviço, período de faturamento, informações fiscais e conformidade com códigos fiscais aplicáveis;
+- Emissão de Nota de Débito e memória de cálculo;
+- Consolidar dados validados e submeter para aprovação interna e pagamento (Supply Chain / Responsáveis pelos custos).
+Requisitos:
+- Experiência em processos de Operações Logísticas, Transportadoras, Contas a Pagar, Gestão de Transporte e/ ou equipes de Dados.
+- Desejável conhecimento em SAP (preferencialmente S/4HANA), Sistemas de Gestão de Transporte (TMS), Análise e conciliação de dados.
+- Microsoft Excel (avançado)
+- Inglês Intermediário/avançado
+- Graduação completa em Logística, Supply Chain (Cadeia de Suprimentos), Administração de Empresas, Ciências Contábeis ou áreas correlatadas.
+Informações adicionais:
+🚌Vale Transporte
+🍕 Vale Refeição
+🏥 Assistencia Médica e Odontológica
+📄 Seguro de Vida
+⏰ Horário de Trabalho: 08:00 as 17:00
+📍 Local de Trabalho: Barueri - SP
+Contrato Terceirizado pela CLT
+Outros requisitos
+:",Vagas.com
 Analista Administrativo de Vendas Sr,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos contratando um Analista de Adm de Vendas Sr para atuar em um de nossos clientes, uma empresa do segmento de tecnologia.
@@ -6687,33 +6646,6 @@ Buscamos um profissional altamente organizado(a), analítico(a) e proativo(a), c
 Idiomas
 :
 Inglês - Nível Intermediário",Vagas.com
-Analista de Operações de Compras,JOBCENTER DO BRASIL LTDA,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,"Descrição
-: 
-Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos assessorando uma empresa do segmento de produtos químicos, na contratação de um(a) Analista de Operações de Compras.
-Responsabilidades:
-- Auditoria e aprovação de faturas de armazenagem e serviços: processo mensal de controle, validação e liberação para pagamento de faturas de armazém (armazenagem, manuseio, paletes, filme stretch, contêineres refrigerados, etc.) e serviços logísticos (escolta, estadia/detenção, etc.), garantindo a correção do valor cobrado pelo operador logístico antes do pagamento;
-- Revisar e validar cobranças de serviços logísticos e de armazenagem recebidas de fornecedores, verificando a descrição do serviço, período de faturamento e dados operacionais no SAP;
-- Identificação e resolução de discrepâncias: identificação de desvios de valores, serviços incorretos ou ausentes e cobranças fora do escopo;
-- Conduzir a resolução interagindo com operadores logísticos e solicitando correções ou reemissão de documentos
-- Revisar e validar faturas verificando: fornecedor, valores, Pedido de Compra (PO), descrição do serviço, período de faturamento, informações fiscais e conformidade com códigos fiscais aplicáveis;
-- Emissão de Nota de Débito e memória de cálculo;
-- Consolidar dados validados e submeter para aprovação interna e pagamento (Supply Chain / Responsáveis pelos custos).
-Requisitos:
-- Experiência em processos de Operações Logísticas, Transportadoras, Contas a Pagar, Gestão de Transporte e/ ou equipes de Dados.
-- Desejável conhecimento em SAP (preferencialmente S/4HANA), Sistemas de Gestão de Transporte (TMS), Análise e conciliação de dados.
-- Microsoft Excel (avançado)
-- Inglês Intermediário/avançado
-- Graduação completa em Logística, Supply Chain (Cadeia de Suprimentos), Administração de Empresas, Ciências Contábeis ou áreas correlatadas.
-Informações adicionais:
-🚌Vale Transporte
-🍕 Vale Refeição
-🏥 Assistencia Médica e Odontológica
-📄 Seguro de Vida
-⏰ Horário de Trabalho: 08:00 as 17:00
-📍 Local de Trabalho: Barueri - SP
-Contrato Terceirizado pela CLT
-Outros requisitos
-:",Vagas.com
 Analista Customer Service,Wella Company,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 O PAPEL
@@ -6855,35 +6787,6 @@ Necessário experiência na Indústria farmacêutica;
 
 
 Desejável experiência prévia em Marketing, Inteligência de Mercado ou Novos Negócios",Vagas.com
-Analista de Departamento Pessoal,Confidencial,Localização não informada,N/A,"Descrição
-: 
-Gerir e executar processos de admissão;
-Gerir processos de benefícios;
-Apurar folha de ponto e enviar relatório mensal aos gestores;					
-Alimentar e analisar os dados da planilha para fechamento da folha de pagamento;			
-Conferir a folha de pagamento para liberação no banco e emissão de guias de impostos e recibos;	
-Gerir processos e conferir cálculos de férias e rescisões;				
-Alimentar e analisar os dados da planilha de custos;							
-Organizar dossiê de documentos para processos trabalhistas;						
-Separar documentos digitais para entrega postagem junto aos clientes para apresentação em auditorias de documentação trabalhista;
-Monitorar periodicamente os sistemas de auditorias de  documentação dos clientes e tratar pendências.
-Outros requisitos
-: 
-
-
-Ensino superior completo em Gestão de Recursos Humanos, Administração, Ciências Contábeis ou áreas afins;
-
-
-Conhecimento em sistema de folha de pagamento, especialmente Domínio;
-
-
-Experiência em empresa do segmento de Engenharia;
-
-
-Disponibilidade para regime 100% presencial; 
-
-
-Residir em Belo Horizonte/MG ou região metropolitana.",Vagas.com
 Analista Planejamento de Materiais,Confidencial,Santo André / SP                                       A empresa aceita candidaturas de Santo André e cidades próximas,SP,"Descrição
 : 
 Estamos em busca de um(a) 
@@ -7356,6 +7259,24 @@ Desejável softwares/ferramentas de preparação e visualização de dados e Bus
 Desejável experiência com SAP / Salesforce ou outras ferramentas de CRM
 Mapeamento e melhoria de processos
 Experiência com projetos",Vagas.com
+Analista de Logistica Internacional,The Adecco Group,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,"Descrição
+: 
+Criação dos processos de importação;
+Conferencia de documentos pertinentes à importação;
+Lançamento no sistema das informações do processo e manutenção de atualização de status;
+Cotação de frete internacional;
+Comunicação com agente de cargas;
+Cálculo de Landed factor, bem como solicitações de aprovações, caso necessário;
+Envio de informações para que Trade & Compliance dê seguimento ao processo de importação.
+Idiomas
+:
+Inglês - Nível Fluente e Inglês - Nível Avançado
+Outros requisitos
+: 
+Formação superior em Logística, Administração, Engenharia de Produção ou áreas correlatas.
+Experiência com emissão de notas fiscais, negociação e contratação de fretes internacionais
+Domínio do Pacote Office, especialmente Excel.
+Habilidades de organização, análise de dados, negociação e comunicação.",Vagas.com
 Analista Estratégia de Canais Sr,InterCement Brasil S.A,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Estamos em busca de um(a) 
@@ -7772,21 +7693,21 @@ O QUE ESPERAMOS DE VOCÊ:
 •	Domínio das técnicas de laboratório de análise físico-química;
 •	Análise instrumental por cromatografia líquida e gasosa;
 •	Conhecimento em normas e legislações relacionadas às boas práticas de laboratório e legislações farmacêuticas vigentes.",Vagas.com
-Analista de Marketing de Categoria Sr,Grupo Scala,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+Analista de Marketing de Categorias Sr,Grupo Scala,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
-•	Desenvolver e implementar estratégias de marketing para as categorias sob sua responsabilidade, alinhadas aos objetivos de negócio.
-•	Realizar análises de mercado, consumidores, tendências de mercado, concorrência e desempenho de produtos.
-•	Gestão de P&L.
-•	Trabalhar em parceria com as áreas de Vendas, Trade Marketing e P&D para otimizar o portfólio, lançamentos e ativações nos pontos de venda.
-•	Gerenciar o ciclo de vida dos produtos: precificação, posicionamento, comunicação e rentabilidade.
-•	Apoiar na definição do plano anual de marketing da categoria e acompanhar indicadores-chave (KPIs) para garantir a performance das ações.
-•	Gestão de portfólio da categoria sob sua responsabilidade analisando desempenho e oportunidade de melhorias.
-•	Monitorar os resultados da categoria por meio de KPIs, identificando desvios e antecipando ações corretivas.
+• Desenvolver e implementar estratégias de marketing para as categorias sob sua responsabilidade, alinhadas aos objetivos de negócio.
+• Realizar análises de mercado, consumidores, tendências de mercado, concorrência e desempenho de produtos.
+• Gestão de P&L.
+• Trabalhar em parceria com as áreas de Vendas, Trade Marketing e P&D para otimizar o portfólio, lançamentos e ativações nos pontos de venda.
+• Gerenciar o ciclo de vida dos produtos: precificação, posicionamento, comunicação e rentabilidade.
+• Apoiar na definição do plano anual de marketing da categoria e acompanhar indicadores-chave (KPIs) para garantir a performance das ações.
+• Gestão de portfólio da categoria sob sua responsabilidade analisando desempenho e oportunidade de melhorias.
+• Monitorar os resultados da categoria por meio de KPIs, identificando desvios e antecipando ações corretivas.
 Outros requisitos
 : 
-•	Formação superior completa em Marketing, Administração, Economia, Publicidade ou áreas afins;
-•	Excel intermediário/avançado e desejável experiência com Power BI;
-•	Conhecimento e experiência em ferramentas de análise de dados (Scanntech, Nielsen, Kantar, Euromonitor, etc.).",Vagas.com
+• Formação superior completa em Marketing, Administração, Economia, Publicidade ou áreas afins;
+• Excel intermediário/avançado e desejável experiência com Power BI;
+• Conhecimento e experiência em ferramentas de análise de dados (Scanntech, Nielsen, Kantar, Euromonitor, etc.).",Vagas.com
 Analista Pleno de Trade & Brand,Confidencial,Santo André / SP                                       A empresa aceita candidaturas de Santo André e cidades próximas,SP,"Descrição
 : 
 
@@ -7828,21 +7749,21 @@ Experiência em Trade Marketing, Branding, Marketing de Produto ou áreas relaci
 Conhecimento em planejamento e execução de campanhas promocionais.
 Domínio do Pacote Office, especialmente PowerPoint e Excel.
 Conhecimento em Power BI ou ferramentas de análise de dados será considerado diferencial.",Vagas.com
-Analista de Marketing de Categorias Sr,Grupo Scala,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+Analista de Marketing de Categoria Sr,Grupo Scala,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
-• Desenvolver e implementar estratégias de marketing para as categorias sob sua responsabilidade, alinhadas aos objetivos de negócio.
-• Realizar análises de mercado, consumidores, tendências de mercado, concorrência e desempenho de produtos.
-• Gestão de P&L.
-• Trabalhar em parceria com as áreas de Vendas, Trade Marketing e P&D para otimizar o portfólio, lançamentos e ativações nos pontos de venda.
-• Gerenciar o ciclo de vida dos produtos: precificação, posicionamento, comunicação e rentabilidade.
-• Apoiar na definição do plano anual de marketing da categoria e acompanhar indicadores-chave (KPIs) para garantir a performance das ações.
-• Gestão de portfólio da categoria sob sua responsabilidade analisando desempenho e oportunidade de melhorias.
-• Monitorar os resultados da categoria por meio de KPIs, identificando desvios e antecipando ações corretivas.
+•	Desenvolver e implementar estratégias de marketing para as categorias sob sua responsabilidade, alinhadas aos objetivos de negócio.
+•	Realizar análises de mercado, consumidores, tendências de mercado, concorrência e desempenho de produtos.
+•	Gestão de P&L.
+•	Trabalhar em parceria com as áreas de Vendas, Trade Marketing e P&D para otimizar o portfólio, lançamentos e ativações nos pontos de venda.
+•	Gerenciar o ciclo de vida dos produtos: precificação, posicionamento, comunicação e rentabilidade.
+•	Apoiar na definição do plano anual de marketing da categoria e acompanhar indicadores-chave (KPIs) para garantir a performance das ações.
+•	Gestão de portfólio da categoria sob sua responsabilidade analisando desempenho e oportunidade de melhorias.
+•	Monitorar os resultados da categoria por meio de KPIs, identificando desvios e antecipando ações corretivas.
 Outros requisitos
 : 
-• Formação superior completa em Marketing, Administração, Economia, Publicidade ou áreas afins;
-• Excel intermediário/avançado e desejável experiência com Power BI;
-• Conhecimento e experiência em ferramentas de análise de dados (Scanntech, Nielsen, Kantar, Euromonitor, etc.).",Vagas.com
+•	Formação superior completa em Marketing, Administração, Economia, Publicidade ou áreas afins;
+•	Excel intermediário/avançado e desejável experiência com Power BI;
+•	Conhecimento e experiência em ferramentas de análise de dados (Scanntech, Nielsen, Kantar, Euromonitor, etc.).",Vagas.com
 Analista de Pesquisa Clínica Pl,Vetnil,Louveira / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Há 30 anos trabalhamos para entregar o
@@ -7990,35 +7911,6 @@ Zenklub Credencial SESC
 Seguro de Vida
 Empréstimo Consignado
 Day Off de Aniversário",Vagas.com
-Analista Administrativo - Facilities,Oncoclínicas&Co,Porto Alegre / RS                                       A empresa aceita candidaturas de Porto Alegre e cidades próximas,RS,"Descrição
-: 
-O que você irá fazer:
-•Auxiliar nos trabalhos de compra de materiais para o setor verificando e fazendo levantamento das necessidades, realizando a solicitação de compra, a fim de garantir o abastecimento do setor
-•Receber documentos diversos, conferindo-os, procedendo ao seu lançamento em cadastros e sistemas, encaminhando-os ou arquivando-os
-•Apoiar na elaboração dos relatórios gerenciais nas questões inerentes ao administrativo.
-•Preparar relatórios diversos, consultando dados nos sistemas, desenvolvendo planilhas, gráficos e transparências sempre que necessário, para apresentação e análise de dados em diferentes reuniões
-•Redigir correspondências diversas sempre que necessário, seguindo orientação do superior imediato, a fim de agilizar o processo de comunicação
-•Arquivar e/ou circular no setor documentos recebidos e enviados, separando por assunto e datas, para futuras consultas de acordo com as normas e especificações
-•Auxiliar na elaboração e monitoramento dos indicadores de desempenho, fornecendo e recebendo informações
-•Apoiar a validação de planos de ação e acompanhar suas implantações, contribuindo para a melhoria contínua das atividades da área.
-•Recepcionar visitantes, encaminhar correspondências, receber e efetuar ligações telefônicas e e-mail, para agilizar o trabalho do setor.
-•Fazer interface com fornecedores de TI e telefonia para resolução e prevenção de eventuais problemas
-•Avaliar necessidades de Facilities e fazer interface com fornecedores para manutenção, prevenção e correção de problemas no escritório
-•Realizar o controle e o acompanhamento dos ciclos de atendimento dos pacientes, verificando a necessidade de novas autorizações de procedimentos e/ou medicamentos junto ao Convênio, bem como interagir com o Médico para as atualizações devidas, a fim de que os materiais estejam disponíveis no período/data devido
-•Inserir no Fluig solicitação para emissão da Nota Fiscal, acompanhar e-mails com envio das NFs e registrar as informações em planilhas para controle de recebíveis
-•Executar outras atividades correlatas, a critério do superior imediato. Atendimento OCPM: Realizar interface administrativa com clientes internos e externos, garantindo atendimento resolutivo e suporte operacional
-•Executar e analisar atividades relacionadas a agendamento, cadastro e pré-faturamento de exames
-•Receber, conferir, cadastrar e acompanhar amostras e materiais biológicos conforme processos laboratoriais
-•Orientar processos de coleta, acondicionamento e transporte de materiais biológicos, seguindo boas práticas laboratoriais
-•Controlar fluxos administrativos e operacionais de atendimento e back office do laboratório
-•Monitorar pendências, indicadores e controles relacionados aos processos da área
-•Atuar em interface com áreas de suporte, equipe técnica, convênios e unidades do grupo
-•Apoiar a padronização e multiplicação dos processos de atendimento junto aos clientes internos e laboratórios
-O que você precisa ter:
-• Superior Completo em Administração de Empresas ou áreas correlatas.
-• Experiência na área de Facilities na área da saúde
-• Pacote Office.
-Horário: 2º a 5º 08:00 às 18:00 e 6º 08:00 às 17:00",Vagas.com
 11314 - Analista de Engenharia de Si Sênior,Talent Group,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Buscamos profissional de Engenharia de Segurança da Informação, 
@@ -8089,6 +7981,60 @@ Participação em processos de homologação de soluções.
 Conhecimento em NIST CSF, ISO 27001, CIS Controls e MITRE ATT&CK.
 Experiência com Security Assessment de fornecedores.
 Vivência em programas de Cloud Security e Zero Trust.",Vagas.com
+Analista Administrativo - Facilities,Oncoclínicas&Co,Porto Alegre / RS                                       A empresa aceita candidaturas de Porto Alegre e cidades próximas,RS,"Descrição
+: 
+O que você irá fazer:
+•Auxiliar nos trabalhos de compra de materiais para o setor verificando e fazendo levantamento das necessidades, realizando a solicitação de compra, a fim de garantir o abastecimento do setor
+•Receber documentos diversos, conferindo-os, procedendo ao seu lançamento em cadastros e sistemas, encaminhando-os ou arquivando-os
+•Apoiar na elaboração dos relatórios gerenciais nas questões inerentes ao administrativo.
+•Preparar relatórios diversos, consultando dados nos sistemas, desenvolvendo planilhas, gráficos e transparências sempre que necessário, para apresentação e análise de dados em diferentes reuniões
+•Redigir correspondências diversas sempre que necessário, seguindo orientação do superior imediato, a fim de agilizar o processo de comunicação
+•Arquivar e/ou circular no setor documentos recebidos e enviados, separando por assunto e datas, para futuras consultas de acordo com as normas e especificações
+•Auxiliar na elaboração e monitoramento dos indicadores de desempenho, fornecendo e recebendo informações
+•Apoiar a validação de planos de ação e acompanhar suas implantações, contribuindo para a melhoria contínua das atividades da área.
+•Recepcionar visitantes, encaminhar correspondências, receber e efetuar ligações telefônicas e e-mail, para agilizar o trabalho do setor.
+•Fazer interface com fornecedores de TI e telefonia para resolução e prevenção de eventuais problemas
+•Avaliar necessidades de Facilities e fazer interface com fornecedores para manutenção, prevenção e correção de problemas no escritório
+•Realizar o controle e o acompanhamento dos ciclos de atendimento dos pacientes, verificando a necessidade de novas autorizações de procedimentos e/ou medicamentos junto ao Convênio, bem como interagir com o Médico para as atualizações devidas, a fim de que os materiais estejam disponíveis no período/data devido
+•Inserir no Fluig solicitação para emissão da Nota Fiscal, acompanhar e-mails com envio das NFs e registrar as informações em planilhas para controle de recebíveis
+•Executar outras atividades correlatas, a critério do superior imediato. Atendimento OCPM: Realizar interface administrativa com clientes internos e externos, garantindo atendimento resolutivo e suporte operacional
+•Executar e analisar atividades relacionadas a agendamento, cadastro e pré-faturamento de exames
+•Receber, conferir, cadastrar e acompanhar amostras e materiais biológicos conforme processos laboratoriais
+•Orientar processos de coleta, acondicionamento e transporte de materiais biológicos, seguindo boas práticas laboratoriais
+•Controlar fluxos administrativos e operacionais de atendimento e back office do laboratório
+•Monitorar pendências, indicadores e controles relacionados aos processos da área
+•Atuar em interface com áreas de suporte, equipe técnica, convênios e unidades do grupo
+•Apoiar a padronização e multiplicação dos processos de atendimento junto aos clientes internos e laboratórios
+O que você precisa ter:
+• Superior Completo em Administração de Empresas ou áreas correlatas.
+• Experiência na área de Facilities na área da saúde
+• Pacote Office.
+Horário: 2º a 5º 08:00 às 18:00 e 6º 08:00 às 17:00",Vagas.com
+Analista de Channel Marketing Sr.,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos em busca de um Analista de Channel Marketing Sênior para atuar em um de nossos clientes, uma empresa de tecnologia de produtos eletrônicos.
+Responsabilidades:
+- Analisar e executar estratégia de marketing e sellout nas operadoras;
+- Executar e definir campanhas de midia, trade  e incentivo;
+- Realizar alinhamentos e prestar suporte a equipes de *Key Accounts*, vendas e agências de marketing;
+- Elaborar relatórios sobre campanhas e assuntos relacionados para atender a solicitações da matriz e da alta gestão;								
+Requisitos:
+- Experiência comprovada em marketing de canal.
+- Sólida experiência em comunicação 360º e planos de negócios;
+- Conhecimento em ferramentas de análise de dados.
+- Inglês Intermediário/Avançado 									
+- Formação em Marketing, Publicidade, Administração ou áreas relacionadas.
+Informações adicionais:
+🚌 Vale Transporte
+🍕 Vale Refeição
+📄 Seguro de Vida
+⏰ Horário de Trabalho: 09h00 às 18h30 | modelo híbrido
+📍 Local de Trabalho: Morumbi - SP
+Contrato Temporário por 6 meses, podendo ser prorrogado.
+Se você se encaixa nesse perfil, clique no botão ""Candidate-se"" e envie seu currículo. Estamos ansiosos para conhecê-lo!
+Idiomas
+:
+Inglês - Nível Intermediário",Vagas.com
 Analista de Métodos e Processos Pl,Confidencial,Manaus / AM                                       A empresa aceita apenas candidaturas de Manaus,AM,"Descrição
 : 
 PRINCIPAIS ATIVIDADES
@@ -8136,50 +8082,6 @@ Seguro de Vida;
 
 LOCAL DE TRABALHO
 Manaus",Vagas.com
-Analista de Channel Marketing Sr.,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Somos a Jobcenter do Brasil, comprovadamente a melhor fornecedora de temporários e terceirizados do país. Estamos em busca de um Analista de Channel Marketing Sênior para atuar em um de nossos clientes, uma empresa de tecnologia de produtos eletrônicos.
-Responsabilidades:
-- Analisar e executar estratégia de marketing e sellout nas operadoras;
-- Executar e definir campanhas de midia, trade  e incentivo;
-- Realizar alinhamentos e prestar suporte a equipes de *Key Accounts*, vendas e agências de marketing;
-- Elaborar relatórios sobre campanhas e assuntos relacionados para atender a solicitações da matriz e da alta gestão;								
-Requisitos:
-- Experiência comprovada em marketing de canal.
-- Sólida experiência em comunicação 360º e planos de negócios;
-- Conhecimento em ferramentas de análise de dados.
-- Inglês Intermediário/Avançado 									
-- Formação em Marketing, Publicidade, Administração ou áreas relacionadas.
-Informações adicionais:
-🚌 Vale Transporte
-🍕 Vale Refeição
-📄 Seguro de Vida
-⏰ Horário de Trabalho: 09h00 às 18h30 | modelo híbrido
-📍 Local de Trabalho: Morumbi - SP
-Contrato Temporário por 6 meses, podendo ser prorrogado.
-Se você se encaixa nesse perfil, clique no botão ""Candidate-se"" e envie seu currículo. Estamos ansiosos para conhecê-lo!
-Idiomas
-:
-Inglês - Nível Intermediário",Vagas.com
-Analista de Novos Projetos,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Ensino superior completo.
-Inglês intermediário/avançado.
-Espanhol será um diferencial.
-Conhecimento em Power BI.
-Conhecimento em pacote office.
-Conhecimento em ferramentas de gestão de projetos, especialmente MS Project.
-Experiência em projetos, parcerias, área comercial ou administrativas.
-Atividades a serem desempenhadas: Apoiar o planejamento, acompanhamento e atualização de cronogramas de projetos estratégicos e iniciativas de parceria/alianças, incluindo acordos de licenciamento e distribuição.
-Auxiliar na criação e atualização de dashboards e relatórios no Power BI para acompanhar os KPIs dos projetos e das alianças. Coletar e organizar dados de indicadores de desempenho (prazos, orçamento, escopo e resultados das alianças), sob orientação de analistas mais experientes. Apoiar a organização da documentação dos projetos, incluindo atas de reuniões, relatórios de status, cronogramas e repositórios de contratos e parcerias. Auxiliar na preparação de materiais e pautas para reuniões de projetos e alianças, além de registrar e acompanhar os planos de ação definidos.
-Contribuir para a comunicação entre as áreas internas (comercial, marketing, regulatório e cadeia de suprimentos) e os parceiros externos.
-Salário + benefícios (Vale-transporte, vale-refeição, vale-alimentação, assistência médica, assistência odontológica e seguro de vida).
-Horários: Horário flexível | Híbrido.
-Local: Vila Olimpia - SP. 
-Contrato: Terceirizado pela CLT.
-Idiomas
-:
-Inglês - Nível Intermediário e Espanhol - Nível Intermediário",Vagas.com
 Analista de Social Commerce Pleno,Grupo Technos,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Responsável pelo planejamento, gestão e evolução da operação de Social Commerce, garantindo a integração entre creators, UGC, influenciadores, afiliados, Live Shopping e TikTok Shop, com foco em crescimento, performance e geração de receita.
@@ -8210,122 +8112,6 @@ Conhecimento em plataformas de Social Commerce e Analytics
 
 
 Esta vaga também é extensiva a pessoas com deficiência (PcD)",Vagas.com
-Analista Custos Orcamento Jr,bp bioenergy,São José do Rio Preto / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-
-
-
-
-Descrição longa
- 
-
-
-
-
-Principais Responsabilidades:
-
-
-
-
-Criar e manter dashboards em Excel e Power BI, garantir a qualidade e consistência das informações.
-
-
-Desenvolver, automatizar, análises de desempenhos financeiros, comerciais e industriais.
-
-
-Acompanhar indicadores financeiros e suas variações mensais, contribuindo para análises de desempenho e relatórios gerenciais;
-
-
-Coletar e organizar dados financeiros para apoiar a tomada de decisão da liderança;
-
-
-Auxiliar no monitoramento de indicadores financeiros e de desempenho (KPIs), identificando tendências e possíveis melhorias;
-
-
-Apoiar a preparação de relatórios e apresentações financeiras, contribuindo para a clareza das informações apresentadas às áreas da empresa; 
-
-
-Contribuir para a melhoria contínua dos processos de planejamento financeiro e controle orçamentário;
-
-
-Exercer as atividades em comum acordo com os valores, Código de Ética e Conduta, políticas, diretrizes e procedimentos da empresa;
-
-
-Desenvolver demais atividades, de nível e complexidade semelhantes, que vierem a ser objeto de ordens de seu superior, segundo as necessidades da empregadora, desde que compatíveis com sua função.
-
-
-
-
-Requisitos Necessários:
-
-
-
-
-Ensino Superior Completo (Desejável Administração, Economia, Controladoria, Finanças, Ciências Contábeis e/ou áreas afins).
-
-
-Pacote Office Intermediário (Excel e Power Point);
-
-
-Power BI intermediário;
-
-
-Disponibilidade para atuar no escritório de São José do Rio Preto – SP.
-
-
-
-
- 
-
-
-Desejável:
-
-
-
-
-Conhecimento em Planejamento Financeiro;
-
-
-Inglês;
-
-
-Conhecimento nos sistemas SAP ou PIMS será considerado um diferencial.
-
-
-
-
-
-
-Outros requisitos
-: sem comantarios",Vagas.com
-Analista Customer Service Jr. - 115357,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
-Atuar em todas as etapas do processo do paciente/cliente, desde o envio e devolução do medicamento ou equipamento, chamado técnico e registro de solicitações centralizados na área de Customer Care que é segmentada entre B2B (pessoa jurídica) e B2C (pessoa física) e na gestão de indicadores para garantir a funcionamento da operação e o abastecimento aos nossos clientes e pacientes.
-Cadastro de cliente e paciente
-Emissão e Gestão de Pedidos
-Interface com faturamento
-Gestão de saldo de Empenho
-Emissão e Análise de Relatórios operacionais e gerenciais
-Atualização de indicadores
-Criação e atualizaçaõ de dashboards
-Realizar interface com as demais áreas (internas e externas) envolvida no processo em conformidade com prazos e padrões de qualidade estabelecidos.
-Apoiar as ações de aprimoramento dos serviços de atendimento ao cliente e desenvolver ações de melhoria no processo.
-Contribuir com o controle dos indicadores da área, através da coleta de dados e preparação de relatórios pertinentes.
-Cumprir as normas, procedimentos e políticas corporativas existentes na empresa.
-Reunião periódica de equipe.
-No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
-Candidate-se agora e transforme seu futuro com a gente !
-Outros requisitos
-: 
-Ensino Superior cursando ou completo em Administração, Marketing, Logística ou áreas afins
-Desejável experiência na área de Customer Service ou logística
-Excel Intermediário ou Avançado
-*PROCV, DINAMICA, GRAFICO, TABELAS e AUTOMAÇÕES
-Requisitos Desejáveis:
-Inglês e Espanhol é um diferencial.
-Power BI.
-Access.",Vagas.com
 Analista de Experiência do Cliente,UNIJORGE,Salvador / BA                                       A empresa aceita candidaturas de Salvador e cidades próximas,BA,"Descrição
 : 
 Estamos em busca de um(a) profissional para atuar na área de Permanência e Experiência do Aluno, com foco em análise de indicadores, acompanhamento da jornada acadêmica e desenvolvimento de ações voltadas à retenção e engajamento dos estudantes.
@@ -8390,6 +8176,34 @@ Experiência com jornada do cliente/aluno ou Customer Experience/Customer Succes
 
 
 Vivência no segmento educacional.",Vagas.com
+Analista Customer Service Jr. - 115357,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
+Atuar em todas as etapas do processo do paciente/cliente, desde o envio e devolução do medicamento ou equipamento, chamado técnico e registro de solicitações centralizados na área de Customer Care que é segmentada entre B2B (pessoa jurídica) e B2C (pessoa física) e na gestão de indicadores para garantir a funcionamento da operação e o abastecimento aos nossos clientes e pacientes.
+Cadastro de cliente e paciente
+Emissão e Gestão de Pedidos
+Interface com faturamento
+Gestão de saldo de Empenho
+Emissão e Análise de Relatórios operacionais e gerenciais
+Atualização de indicadores
+Criação e atualizaçaõ de dashboards
+Realizar interface com as demais áreas (internas e externas) envolvida no processo em conformidade com prazos e padrões de qualidade estabelecidos.
+Apoiar as ações de aprimoramento dos serviços de atendimento ao cliente e desenvolver ações de melhoria no processo.
+Contribuir com o controle dos indicadores da área, através da coleta de dados e preparação de relatórios pertinentes.
+Cumprir as normas, procedimentos e políticas corporativas existentes na empresa.
+Reunião periódica de equipe.
+No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
+Candidate-se agora e transforme seu futuro com a gente !
+Outros requisitos
+: 
+Ensino Superior cursando ou completo em Administração, Marketing, Logística ou áreas afins
+Desejável experiência na área de Customer Service ou logística
+Excel Intermediário ou Avançado
+*PROCV, DINAMICA, GRAFICO, TABELAS e AUTOMAÇÕES
+Requisitos Desejáveis:
+Inglês e Espanhol é um diferencial.
+Power BI.
+Access.",Vagas.com
 Analista de Negócios de TI Pleno,AGEO Terminais e Armazéns Gerais,Santos / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Estamos em busca de um Analista de Negócios de TI Pleno para se juntar à nossa equipe! Se você é apaixonado por tecnologia e tem experiência em análise de negócios, esta pode ser a oportunidade perfeita para você.
@@ -8542,20 +8356,6 @@ Jornada de Trabalho:
  Segunda a sexta-feira, das 08h às 18h.
 Modelo de Trabalho: Híbrido.
 A SMC está comprometida em criar um ambiente diversificado e se orgulha de ser uma empregadora de oportunidades iguais. Todos os candidatos qualificados receberão consideração pelo emprego sem discriminação.",Vagas.com
-Analista de Trade Marketing,Allied,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
-: 
-Principais responsabilidades:
-•	Planejamento de marketing e trade marketing: planejar, executar e acompanhar campanhas promocionais, sazonais e de incentivo de vendas voltadas a revendas de produtos de informática, alinhadas às metas comerciais e às prioridades de fabricantes e parceiros.
-•	Geração de demanda e conversão: desenvolver ações B2B focadas em geração de leads, avanço no funil, novas cotações, aceleração de oportunidades e conversão em vendas líquidas.
-•	Planejar ações de relacionamento por e-mail, WhatsApp e bases segmentadas de revendas. 
-•	Criar réguas de comunicação para ativação, reativação, campanhas promocionais e lançamentos.
-•	Materiais de apoio comercial: desenvolver materiais de venda, apresentações, e-mails marketing, peças digitais, brindes e comunicações de apoio ao time comercial e às revendas.
-•	Eventos e treinamentos: coordenar webinars, workshops, roadshows, feiras, eventos institucionais e treinamentos comerciais em parceria com fabricantes, áreas internas e fornecedores.
-•	Co-marketing com fabricantes: construir e executar planos de co-marketing com fabricantes e parceiros estratégicos, contemplando CRM, redes sociais B2B, mídia paga, growth marketing e ações de relacionamento.
-•	Go-to-market e lançamentos: atuar junto ao time comercial na estruturação de GTMs, lançamentos de produtos, campanhas de sell-in/sell-out e ações para fortalecimento do portfólio no canal.
-•	Gestão de projetos e fornecedores: elaborar briefings, alinhar escopo, prazos e entregáveis com agências e fornecedores, acompanhando cronogramas, orçamento e qualidade das entregas.
-•	Análise de performance: acompanhar indicadores de campanhas, ROI, leads, pipeline, conversão, participação de revendas e resultados comerciais, propondo melhorias contínuas com base em dados.
-•	Branding e presença de mercado: apoiar iniciativas de posicionamento e fortalecimento da marca no ecossistema B2B de tecnologia, assegurando coerência nas comunicações on-line e off-line.",Vagas.com
 Analista de Metodologias Ágeis Sr,Irani Papel e Embalagem S.A,N/A,N/A,"Descrição
 : 
 Seus desafios
@@ -8582,6 +8382,20 @@ Idiomas
 Inglês - Nível Básico
 Outros requisitos
 :",Vagas.com
+Analista de Trade Marketing,Allied,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+: 
+Principais responsabilidades:
+•	Planejamento de marketing e trade marketing: planejar, executar e acompanhar campanhas promocionais, sazonais e de incentivo de vendas voltadas a revendas de produtos de informática, alinhadas às metas comerciais e às prioridades de fabricantes e parceiros.
+•	Geração de demanda e conversão: desenvolver ações B2B focadas em geração de leads, avanço no funil, novas cotações, aceleração de oportunidades e conversão em vendas líquidas.
+•	Planejar ações de relacionamento por e-mail, WhatsApp e bases segmentadas de revendas. 
+•	Criar réguas de comunicação para ativação, reativação, campanhas promocionais e lançamentos.
+•	Materiais de apoio comercial: desenvolver materiais de venda, apresentações, e-mails marketing, peças digitais, brindes e comunicações de apoio ao time comercial e às revendas.
+•	Eventos e treinamentos: coordenar webinars, workshops, roadshows, feiras, eventos institucionais e treinamentos comerciais em parceria com fabricantes, áreas internas e fornecedores.
+•	Co-marketing com fabricantes: construir e executar planos de co-marketing com fabricantes e parceiros estratégicos, contemplando CRM, redes sociais B2B, mídia paga, growth marketing e ações de relacionamento.
+•	Go-to-market e lançamentos: atuar junto ao time comercial na estruturação de GTMs, lançamentos de produtos, campanhas de sell-in/sell-out e ações para fortalecimento do portfólio no canal.
+•	Gestão de projetos e fornecedores: elaborar briefings, alinhar escopo, prazos e entregáveis com agências e fornecedores, acompanhando cronogramas, orçamento e qualidade das entregas.
+•	Análise de performance: acompanhar indicadores de campanhas, ROI, leads, pipeline, conversão, participação de revendas e resultados comerciais, propondo melhorias contínuas com base em dados.
+•	Branding e presença de mercado: apoiar iniciativas de posicionamento e fortalecimento da marca no ecossistema B2B de tecnologia, assegurando coerência nas comunicações on-line e off-line.",Vagas.com
 Analista de Produtos e Operações Sênior,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Somos a Jobcenter Consultoria de Recursos Humanos e estamos auxiliando nosso cliente a encontrar uma pessoa Analista de Produtos e Operações Sênior.
@@ -8614,6 +8428,34 @@ Outras informações
 • Horário de Trabalho: 09:00 às 18:30hs.
 • Local de Trabalho: Morumbi - SP | modelo híbrido (4x presenciais e 1x home office).
 • Contrato CLT terceirizado.",Vagas.com
+Analista de Marketplace e Growth,Tele Rio,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,"Descrição
+: 
+📋 
+Descrição da Vaga
+Estamos em busca de um Analista de Marketplace e Growth dinâmico, analítico e focado em resultados para acelerar o crescimento dos nossos canais digitais. Se você possui experiência no varejo de eletrodomésticos e sabe como traçar estratégias de crescimento junto a agências parceiras, essa vaga é para você! 
+Neste papel, você atuará diretamente no nosso escritório no Flamengo. Você será responsável por estruturar o início das nossas operações tanto do ecossistema In (nossa plataforma recebendo sellers parceiros) quanto do Out (nossos produtos anunciados nos maiores marketplaces do país).
+🎯 
+Principais Responsabilidades
+Gestão de Operação Out: Cadastrar, otimizar e monitorar nossos produtos em marketplaces parceiros 
+Gestão de Operação In: Homologar, acompanhar e dar suporte aos sellers parceiros integrados no nosso próprio e-commerce.
+Estratégia de Growth: Atuar diretamente com a nossa agência de performance, direcionando testes, campanhas de mídia paga (Ads) e estratégias de funil de vendas para alavancar o faturamento.
+Monitoramento de Indicadores: Analisar KPIs essenciais como ROAS, ROI, CAC, taxa de conversão, margem de contribuição e volume de vendas (GMV).
+Controle de Estoque e Pricing: Monitorar a quebra de estoque, sugerir ações promocionais e acompanhar os preços dos concorrentes para garantir competitividade.
+Atendimento e Reputação: Garantir a saúde das contas nas plataformas digitais, solucionando atritos operacionais e assegurando alta reputação de entrega.
+🛠️ 
+Requisitos Necessários
+Experiência comprovada na operação de marketplaces (In e Out).
+Conhecimento prático em plataformas de e-commerce 
+Conhecimentos em conceitos de Growth Marketing (testes A/B, otimização de conversão, SEO e análise de dados).
+Excel intermediário ou avançado para análise de relatórios, margens e precificação.
+Disponibilidade para atuar em formato 100% presencial no Flamengo.
+Boa comunicação verbal e escrita para alinhar demandas diárias com a agência parceira.
+Outros requisitos
+: 
+🌟 
+Diferenciais (Desejável)
+Experiência prévia no segmento de eletrodomésticos, eletroportáteis ou tecnologia.
+Domínio em ferramentas de análise como Google Analytics.",Vagas.com
 Analista Pleno Finanças Estratégicas,Elera Renováveis,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Resumo da Posição
@@ -8676,34 +8518,34 @@ Para verificar as oportunidades você pode consultar a nossa página no LinkedIn
 Idiomas
 :
 Inglês - Nível Avançado",Vagas.com
-Analista de Marketplace e Growth,Tele Rio,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,"Descrição
+Analista de Produto e Pricing (Pleno) - 114395,Confidencial,Hortolândia / SP                                       A empresa aceita candidaturas de Hortolândia e cidades próximas,SP,"Descrição
 : 
-📋 
-Descrição da Vaga
-Estamos em busca de um Analista de Marketplace e Growth dinâmico, analítico e focado em resultados para acelerar o crescimento dos nossos canais digitais. Se você possui experiência no varejo de eletrodomésticos e sabe como traçar estratégias de crescimento junto a agências parceiras, essa vaga é para você! 
-Neste papel, você atuará diretamente no nosso escritório no Flamengo. Você será responsável por estruturar o início das nossas operações tanto do ecossistema In (nossa plataforma recebendo sellers parceiros) quanto do Out (nossos produtos anunciados nos maiores marketplaces do país).
-🎯 
-Principais Responsabilidades
-Gestão de Operação Out: Cadastrar, otimizar e monitorar nossos produtos em marketplaces parceiros 
-Gestão de Operação In: Homologar, acompanhar e dar suporte aos sellers parceiros integrados no nosso próprio e-commerce.
-Estratégia de Growth: Atuar diretamente com a nossa agência de performance, direcionando testes, campanhas de mídia paga (Ads) e estratégias de funil de vendas para alavancar o faturamento.
-Monitoramento de Indicadores: Analisar KPIs essenciais como ROAS, ROI, CAC, taxa de conversão, margem de contribuição e volume de vendas (GMV).
-Controle de Estoque e Pricing: Monitorar a quebra de estoque, sugerir ações promocionais e acompanhar os preços dos concorrentes para garantir competitividade.
-Atendimento e Reputação: Garantir a saúde das contas nas plataformas digitais, solucionando atritos operacionais e assegurando alta reputação de entrega.
-🛠️ 
-Requisitos Necessários
-Experiência comprovada na operação de marketplaces (In e Out).
-Conhecimento prático em plataformas de e-commerce 
-Conhecimentos em conceitos de Growth Marketing (testes A/B, otimização de conversão, SEO e análise de dados).
-Excel intermediário ou avançado para análise de relatórios, margens e precificação.
-Disponibilidade para atuar em formato 100% presencial no Flamengo.
-Boa comunicação verbal e escrita para alinhar demandas diárias com a agência parceira.
+Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
+Gerenciar e manter o cadastro mestre de produtos, incluindo especificações técnicas, códigos, opcionais, acessórios, peças de reposição e serviços;
+Garantir a consistência das informações de produtos em catálogos, propostas, site e sistemas internos (Microsoft 365, SharePoint e Lists);
+Traduzir e adaptar informações técnicas de fornecedores internacionais (manuais e datasheets em inglês) para uso comercial;
+Estruturar e atualizar a precificação dos produtos, considerando custos, importação, tributação, câmbio, margens e posicionamento de mercado;
+Manter tabelas de preços de venda e locação, apoiando propostas comerciais, licitações e análises de viabilidade;
+Monitorar preços e posicionamento de concorrentes nacionais e internacionais;
+Elaborar e atualizar catálogos, fichas técnicas, apresentações e materiais comerciais;
+Apoiar o marketing com informações técnicas para campanhas, site e redes sociais;
+Contribuir para a melhoria contínua dos processos, apoiando iniciativas de automação, inteligência artificial e documentação das regras de negócio.
+No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
+Candidate-se agora e transforme seu futuro com a gente !
 Outros requisitos
 : 
-🌟 
-Diferenciais (Desejável)
-Experiência prévia no segmento de eletrodomésticos, eletroportáteis ou tecnologia.
-Domínio em ferramentas de análise como Google Analytics.",Vagas.com
+Formação superior completa em Engenharia (Mecânica, Produção, Química ou correlatas) ou Administração com sólida vivência técnica em indústria;
+Experiência em áreas de produto, pricing, inteligência comercial, engenharia de aplicação ou proposta técnica em empresas industriais, de bens de capital ou distribuição técnica;
+Excel avançado (procuras, tabelas dinâmicas, modelagem de custos e cenários);
+Inglês técnico de leitura (Intermediário-Avançado);
+Excelente redação em português (produção de catálogos, fichas técnicas e documentação);
+Desejáveis (diferenciais):
+Conhecimento de tributação aplicada a precificação (regime de Lucro Real, impostos sobre venda e importação);
+Experiência com processos de importação e custos de nacionalização;
+Power BI ou outra ferramenta de análise de dados;
+Familiaridade com o setor de gases, ar comprimido, equipamentos hospitalares ou normas técnicas (ABNT, ISO);
+Vivência com Microsoft 365 (SharePoint, Lists, Teams, Power Automate);
+Espanhol intermediário.",Vagas.com
 Analista de Comercio Exterior Pleno,União Química Farmacêutica Nacional S/A,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
 Responsável por gerenciar e otimizar os processos de importação e exportação de média complexidade, 
@@ -8798,34 +8640,6 @@ Ensino superior completo em Administração de empresa, Comércio Exterior, Econ
 Internacionais.
 Inglês nível Intermediário.  
 Espanhol nível Básico.",Vagas.com
-Analista de Produto e Pricing (Pleno) - 114395,Confidencial,Hortolândia / SP                                       A empresa aceita candidaturas de Hortolândia e cidades próximas,SP,"Descrição
-: 
-Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
-Gerenciar e manter o cadastro mestre de produtos, incluindo especificações técnicas, códigos, opcionais, acessórios, peças de reposição e serviços;
-Garantir a consistência das informações de produtos em catálogos, propostas, site e sistemas internos (Microsoft 365, SharePoint e Lists);
-Traduzir e adaptar informações técnicas de fornecedores internacionais (manuais e datasheets em inglês) para uso comercial;
-Estruturar e atualizar a precificação dos produtos, considerando custos, importação, tributação, câmbio, margens e posicionamento de mercado;
-Manter tabelas de preços de venda e locação, apoiando propostas comerciais, licitações e análises de viabilidade;
-Monitorar preços e posicionamento de concorrentes nacionais e internacionais;
-Elaborar e atualizar catálogos, fichas técnicas, apresentações e materiais comerciais;
-Apoiar o marketing com informações técnicas para campanhas, site e redes sociais;
-Contribuir para a melhoria contínua dos processos, apoiando iniciativas de automação, inteligência artificial e documentação das regras de negócio.
-No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
-Candidate-se agora e transforme seu futuro com a gente !
-Outros requisitos
-: 
-Formação superior completa em Engenharia (Mecânica, Produção, Química ou correlatas) ou Administração com sólida vivência técnica em indústria;
-Experiência em áreas de produto, pricing, inteligência comercial, engenharia de aplicação ou proposta técnica em empresas industriais, de bens de capital ou distribuição técnica;
-Excel avançado (procuras, tabelas dinâmicas, modelagem de custos e cenários);
-Inglês técnico de leitura (Intermediário-Avançado);
-Excelente redação em português (produção de catálogos, fichas técnicas e documentação);
-Desejáveis (diferenciais):
-Conhecimento de tributação aplicada a precificação (regime de Lucro Real, impostos sobre venda e importação);
-Experiência com processos de importação e custos de nacionalização;
-Power BI ou outra ferramenta de análise de dados;
-Familiaridade com o setor de gases, ar comprimido, equipamentos hospitalares ou normas técnicas (ABNT, ISO);
-Vivência com Microsoft 365 (SharePoint, Lists, Teams, Power Automate);
-Espanhol intermediário.",Vagas.com
 Analista Trade Marketing,Grupo Profarma,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,"Descrição
 : 
 O PROPÓSITO DO GRUPO PROFARMA É ENTREGAR SAÚDE!
@@ -9041,31 +8855,44 @@ Local de trabalho:
 Centro, Rio de Janeiro - RJ
 Outros requisitos
 :",Vagas.com
-Analista Senior - SAP Hcm,ZF Automotive,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
+Analista de Comercio Exterior Senior,União Química Farmacêutica Nacional S/A,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
 : 
-Sobre a Equipe:
-Você fará parte de uma equipe global de TI de RH dinâmica e colaborativa, responsável por apoiar e aprimorar sistemas de RH em múltiplas unidades de negócio. A equipe trabalha em estreita colaboração com os responsáveis pelos processos de RH e com as partes interessadas dos projetos para garantir integração perfeita dos sistemas e operações eficientes. Valorizamos inovação, senso de responsabilidade e melhoria contínua na entrega de soluções de tecnologia de RH de alta qualidade.
-O que você pode esperar como Analista SAP HCM (m/f/d):
-Implementar e configurar módulos SAP HCM, especialmente Folha de Pagamento (Payroll) e Gestão de Tempo (Time Management), alinhados aos processos globais de RH.
-Garantir a operação estável e eficiente dos sistemas e interfaces de RH entre as unidades de negócio.
-Liderar atividades relacionadas à TI durante projetos de implantação e melhorias dos sistemas de RH.
-Fornecer suporte especializado aos usuários-chave durante as fases de testes, treinamentos e pós-Go-Live.
-Colaborar com equipes de projeto e responsáveis pelos processos para gerenciar dependências e garantir entregas dentro do prazo.
-Analisar e apoiar a integração entre SAP HCM e SuccessFactors, assegurando consistência de dados e alinhamento de processos entre as plataformas.
-Tratar e analisar chamados de suporte da equipe de RH, identificando causas raiz e oferecendo soluções eficazes para garantir o bom funcionamento dos sistemas.
-Seu Perfil como Analista SAP HCM (m/f/d):
-Graduação em Ciência da Computação, Engenharia de Software, Administração de Empresas ou área relacionada.
-Experiência em implementação e suporte de sistemas de RH, com sólido conhecimento em SAP HCM Folha de Pagamento e Gestão de Tempo.
-Forte entendimento dos processos de RH e de sua integração com sistemas corporativos.
-Desejável: conhecimentos em programação ABAP e em configuração/customização do SuccessFactors.
-Fortes habilidades de comunicação e relacionamento interpessoal.
-Inglês (falado e escrito) para atuar de forma eficaz em um time global.
-Capacidade comprovada de trabalhar de forma independente e gerenciar múltiplas prioridades.
-Por que ZF:
-Oferecemos Assistência Médica, Assistência Odontológica, Programa de Desconto em Farmácia, Seguro de Vida, Transporte, Auxílio-Creche, Vale-Refeição, Refeições no Local, Plano de Previdência Privada, Programa de Participação nos Resultados (PPR), Associação ao Clube SESI, Licença-Maternidade e Paternidade Estendidas, Gympass (Wellhub), Cooperativa de Crédito e Parcerias Educacionais.
+Responsável por gerenciar e otimizar os processos de importação e exportação de alta complexidade, ou 
+seja, aqueles com anuentes mais criteriosos, estratégicos e/ou produtos de maior valor, garantindo a 
+conformidade documental e a eficiência operacional.
 Idiomas
 :
-Inglês - Nível Fluente, Inglês - Nível Intermediário e Inglês - Nível Avançado",Vagas.com
+Espanhol - Nível Básico e Inglês - Nível Avançado
+Outros requisitos
+: 
+1. Analisar as necessidades de importação e exportação de alta complexidade de acordo com as datas 
+dos requisitantes. 
+2. Orientar e analisar a NCM e finalidade do processo para definir o tratamento administrativo dos 
+produtos. 
+3. Fazer follow-up com os fornecedores, realizando a administração do processo de importação de 
+carteiras de alta complexidade (anuentes mais criteriosos, estratégicos e/ou produtos de maior 
+valor), atuando com os agentes de carga, despachantes e demais interfaces internas. 
+4. Orientar, treinar e confeccionar documentos inerentes ao processo de exportação (invoice, packing 
+list, declaração e certificado de origem). 
+5. Lançar os dados e demais documentos (adiantamento, invoice, fechamento de custo e afins) 
+inerentes à área de comex no sistema vigente. 
+6. Orientar e conferir documentos inerentes ao processo de importação (invoice, packing list, 
+conhecimento de embarque, L.I, etc.) de carteiras de baixa, média e alta complexidade. 
+7. Lançar status dos processos de comex de alta complexidade nas ferramentas de controle existentes. 
+8. Orientar, realizar e validar o fechamento de custos de importação e exportação das carteiras de 
+baixa, média e alta complexidade. 
+9. Orientar, realizar e controlar operações com Drawback. 
+10. Acompanhar e controlar o regime de ex-tarifário com os clientes internos e empresa contratada pela 
+execução da atividade. 
+11. Orientar a realização de pesquisas de mercado, buscando boas práticas que possam otimizar e/ou 
+automatizar processos operacionais da área. 
+12. Prestar suporte e indicações de parceiros para realização de Bidding da cadeia de comércio exterior. 
+13. Contribuir na elaboração e implementação de projetos operacionais de baixa, média e alta 
+complexidade da área (tempo de execução, conhecimento necessário e impacto – financeiro e no 
+processo). 
+14. Elaborar estudos de custos de materiais importados, mediante solicitação das áreas clientes. 
+15. Orientar, elaborar e validar estudos para atendimento de auditorias internas e externas. 
+16. Orientar e validar a elaboração e atualização dos procedimentos e documentos da área.",Vagas.com
 Analista de Acompanhamento Orçamentário Pl,SulAmérica,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Para o 
@@ -9138,44 +8965,31 @@ Habilidade de trabalhar em equipe e de forma colaborativa com diferentes áreas;
 
 
 Proatividade, organização e atenção aos detalhes.",Vagas.com
-Analista de Comercio Exterior Senior,União Química Farmacêutica Nacional S/A,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,"Descrição
+Analista Senior - SAP Hcm,ZF Automotive,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
-Responsável por gerenciar e otimizar os processos de importação e exportação de alta complexidade, ou 
-seja, aqueles com anuentes mais criteriosos, estratégicos e/ou produtos de maior valor, garantindo a 
-conformidade documental e a eficiência operacional.
+Sobre a Equipe:
+Você fará parte de uma equipe global de TI de RH dinâmica e colaborativa, responsável por apoiar e aprimorar sistemas de RH em múltiplas unidades de negócio. A equipe trabalha em estreita colaboração com os responsáveis pelos processos de RH e com as partes interessadas dos projetos para garantir integração perfeita dos sistemas e operações eficientes. Valorizamos inovação, senso de responsabilidade e melhoria contínua na entrega de soluções de tecnologia de RH de alta qualidade.
+O que você pode esperar como Analista SAP HCM (m/f/d):
+Implementar e configurar módulos SAP HCM, especialmente Folha de Pagamento (Payroll) e Gestão de Tempo (Time Management), alinhados aos processos globais de RH.
+Garantir a operação estável e eficiente dos sistemas e interfaces de RH entre as unidades de negócio.
+Liderar atividades relacionadas à TI durante projetos de implantação e melhorias dos sistemas de RH.
+Fornecer suporte especializado aos usuários-chave durante as fases de testes, treinamentos e pós-Go-Live.
+Colaborar com equipes de projeto e responsáveis pelos processos para gerenciar dependências e garantir entregas dentro do prazo.
+Analisar e apoiar a integração entre SAP HCM e SuccessFactors, assegurando consistência de dados e alinhamento de processos entre as plataformas.
+Tratar e analisar chamados de suporte da equipe de RH, identificando causas raiz e oferecendo soluções eficazes para garantir o bom funcionamento dos sistemas.
+Seu Perfil como Analista SAP HCM (m/f/d):
+Graduação em Ciência da Computação, Engenharia de Software, Administração de Empresas ou área relacionada.
+Experiência em implementação e suporte de sistemas de RH, com sólido conhecimento em SAP HCM Folha de Pagamento e Gestão de Tempo.
+Forte entendimento dos processos de RH e de sua integração com sistemas corporativos.
+Desejável: conhecimentos em programação ABAP e em configuração/customização do SuccessFactors.
+Fortes habilidades de comunicação e relacionamento interpessoal.
+Inglês (falado e escrito) para atuar de forma eficaz em um time global.
+Capacidade comprovada de trabalhar de forma independente e gerenciar múltiplas prioridades.
+Por que ZF:
+Oferecemos Assistência Médica, Assistência Odontológica, Programa de Desconto em Farmácia, Seguro de Vida, Transporte, Auxílio-Creche, Vale-Refeição, Refeições no Local, Plano de Previdência Privada, Programa de Participação nos Resultados (PPR), Associação ao Clube SESI, Licença-Maternidade e Paternidade Estendidas, Gympass (Wellhub), Cooperativa de Crédito e Parcerias Educacionais.
 Idiomas
 :
-Espanhol - Nível Básico e Inglês - Nível Avançado
-Outros requisitos
-: 
-1. Analisar as necessidades de importação e exportação de alta complexidade de acordo com as datas 
-dos requisitantes. 
-2. Orientar e analisar a NCM e finalidade do processo para definir o tratamento administrativo dos 
-produtos. 
-3. Fazer follow-up com os fornecedores, realizando a administração do processo de importação de 
-carteiras de alta complexidade (anuentes mais criteriosos, estratégicos e/ou produtos de maior 
-valor), atuando com os agentes de carga, despachantes e demais interfaces internas. 
-4. Orientar, treinar e confeccionar documentos inerentes ao processo de exportação (invoice, packing 
-list, declaração e certificado de origem). 
-5. Lançar os dados e demais documentos (adiantamento, invoice, fechamento de custo e afins) 
-inerentes à área de comex no sistema vigente. 
-6. Orientar e conferir documentos inerentes ao processo de importação (invoice, packing list, 
-conhecimento de embarque, L.I, etc.) de carteiras de baixa, média e alta complexidade. 
-7. Lançar status dos processos de comex de alta complexidade nas ferramentas de controle existentes. 
-8. Orientar, realizar e validar o fechamento de custos de importação e exportação das carteiras de 
-baixa, média e alta complexidade. 
-9. Orientar, realizar e controlar operações com Drawback. 
-10. Acompanhar e controlar o regime de ex-tarifário com os clientes internos e empresa contratada pela 
-execução da atividade. 
-11. Orientar a realização de pesquisas de mercado, buscando boas práticas que possam otimizar e/ou 
-automatizar processos operacionais da área. 
-12. Prestar suporte e indicações de parceiros para realização de Bidding da cadeia de comércio exterior. 
-13. Contribuir na elaboração e implementação de projetos operacionais de baixa, média e alta 
-complexidade da área (tempo de execução, conhecimento necessário e impacto – financeiro e no 
-processo). 
-14. Elaborar estudos de custos de materiais importados, mediante solicitação das áreas clientes. 
-15. Orientar, elaborar e validar estudos para atendimento de auditorias internas e externas. 
-16. Orientar e validar a elaboração e atualização dos procedimentos e documentos da área.",Vagas.com
+Inglês - Nível Fluente, Inglês - Nível Intermediário e Inglês - Nível Avançado",Vagas.com
 Analista PCP Porto Pl,Porto Sudeste Brasil,Itaguaí / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,"Descrição
 : 
 Estamos em busca de um Analista de PCP PL para integrar nossa equipe em Porto. O profissional será responsável por auxiliar no planejamento e controle da produção, garantindo o cumprimento dos prazos e metas estabelecidos.
@@ -10924,67 +10738,6 @@ Boa comunicação oral e escrita.
 Capacidade de escuta ativa.
 Organização e agilidade.
 Conhecimento em ferramentas de CRM e atendimento.",Vagas.com
-Analista Sênior de Planejamento de Demanda e S&op,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,"Descrição
-: 
-Descrição: 
-Responder por prever/estimar volumes de vendas por produto e período. 
-Principais Responsabilidades: 
-
-
-Executar a previsão de demanda por sku 
-
-
-Acompanhar tendências e planos de venda definidos pela empresa
-
-
-Equilibrar volume previsto vs plano total
-
-
-Revisar indicadores sempre que necessário, UPP, AVG, NPU, UPC
-
-
-Montar bases de dados para reports e para modelos de estimativa
-
-
-Realizar Imput de riscos de outliers para fábrica
-
-
-Calcular o Forecast antecipado para importação de produtos
-
-
-Requisitos:
-
-
-Superior Completo em Engenharia, Matemática, Administração, Economia (foco em exatas)
-
-
-Experiência anterior com demandas de Supply Chain e contato anterior com interface com área comercial
-
-
-Conhecimento em Inglês e Espanhol 
-
-
-Disponibilidade para atuação híbrida
-
-
-Competências: 
-
-
-Capacidade de adaptação a mudanças e flexibilidade
-
-
-Comunicação 
-
-
-Trabalho em Equipe 
-
-
-Orientação para resultados 
-
-
-Idiomas
-:
-Espanhol - Nível Intermediário e Inglês - Nível Intermediário",Vagas.com
 Analista de Processos de Coleta e Logística,LWART SOLUÇÕES AMBIENTAIS,Lençóis Paulista / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 Vaga:
@@ -11061,69 +10814,6 @@ Inglês Avançado;
 Conhecimento em ERP (JDE será diferencial);
 Experiência com grande volume de dados;
 Conhecimento em CNAB.",Vagas.com
-Analista Orçamento e Resultados (Controladoria),Coplacana,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
-: 
-Estamos procurando um 
-Analista Orçamento e Resultados 
-para compor o nosso time de 
-Controladoria, 
-que seja protagonista, tenha paixão por números e uma visão estratégica para negócios.
-Principais Atividades e Responsabilidades: 
-
-
-Participar da elaboração do Plano Orçamentário.
-
-
-Elaborar e desenvolver relatórios gerenciais de Resultados.
-
-
-Monitorar o desempenho financeiro Real x Orçado.
-
-
-Acompanhar o desempenho em relação aos planos e metas estabelecidos.
-
-
-Contribuir para a revisão e cumprimento das diretrizes estratégicas.
-
-
-Monitorar a realização o controle de investimentos (CAPEX).
-
-
-O que buscamos? 
-Pré-requisitos: 
-
-
-Formação superior.
-
-
-Uso avançado de planilhas (Excel).
-
-
-Conhecimento de ferramentas de dashboard como Power BI.
-
-
-Habilidade/facilidade para trabalho com números e base de dados/estatística.
-
-
- 
-Habilidades: 
-
-
-Capacidade de se comunicar de forma eficaz.
-
-
-Proatividade e capacidade de trabalhar em equipe.
-
-
-Visão analítica e sistêmica
-
-
-Atenção aos detalhes.
-
-
-Vaga também disponível para PCD.
-A COPLACANA não faz distinção entre pessoas candidatadas seja por gênero, deficiência, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética.
-Venha fazer parte da equipe COPLACANA! Esperamos por você!",Vagas.com
 Analista de Desenvolvimento Analítico Sênior- Estabilidade,União Química Farmacêutica Nacional S/A,Guarulhos / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,"Descrição
 : 
 
@@ -12699,26 +12389,6 @@ Conhecimento de Docker/Kubernetes (caso o Zabbix rode containerizado)
 Vivência integrando Zabbix com Grafana, ITSM (ex: PPM, SMAX) ou ferramentas de alerta
 Conhecimento em configuração do UCMDB e gestão de ativos (CMDB/ITAM), especialmente integração entre CMDB e ferramentas de monitoramento.
 Se você é um profissional apaixonado por tecnologia, monitoramento e automação, com forte capacidade analítica e desejo de construir soluções que gerem impacto real para o negócio, queremos conhecer você! Venha fazer parte do nosso time e contribuir para a evolução dos nossos ambientes de monitoramento, observabilidade e gerenciamento de ativos, apoiando iniciativas estratégicas e ajudando a construir uma operação cada vez mais eficiente, inovadora e escalável.",Vagas.com
-Analista Marketing Pricing e Demand Planning,Confidencial,Santo André / SP                                       A empresa aceita candidaturas de Santo André e cidades próximas,SP,"Descrição
-: 
-Desenvolver e implementar estratégias de precificação alinhadas aos objetivos comerciais e financeiros da companhia.
-Elaborar previsões de demanda de curto, médio e longo prazo, garantindo maior assertividade no planejamento de vendas.
-Analisar rentabilidade, margens, mix de produtos e oportunidades de otimização de resultados.
-Monitorar preços, tendências de mercado e movimentações da concorrência.
-Construir e apresentar relatórios gerenciais, dashboards e análises executivas para apoiar a tomada de decisão.
-Atuar em conjunto com as áreas de Comercial, Marketing, Supply Chain e Finanças no processo de planejamento de demanda e gestão do portfólio.
-Desenvolver modelos analíticos e cenários para suportar estratégias de crescimento e rentabilidade.
-Identificar oportunidades de melhoria contínua em processos, indicadores e ferramentas da área.
-Idiomas
-:
-Espanhol - Nível Fluente
-Outros requisitos
-: 
-Ensino Superior completo em Administração, Economia, Engenharia, Estatística, Matemática, Finanças ou áreas correlatas.
-Experiência consolidada em Pricing, Demand Planning, Inteligência de Mercado ou Planejamento Comercial.
-Excel avançado.
-Experiência com Power BI ou ferramentas de Business Intelligence.
-Conhecimento de análise financeira, rentabilidade e modelagem de dados.",Vagas.com
 Analista de Logística Sr | RJ/SP/MG,CSN CIMENTOS,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,"Descrição
 : 
 Aqui acreditamos em pessoas que constroem soluções, aprendem continuamente e gostam de desafios 💡 
