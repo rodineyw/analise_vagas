@@ -81,6 +81,34 @@ Informações adicionais:
 📍 Local de Trabalho: Morumbi - SP
 Contrato Temporário por 4 meses, podendo prorrogar
 Se você se encaixa nesse perfil e está procurando por um desafio emocionante em uma empresa em crescimento, clique no botão ""Candidate-se"" abaixo e envie seu currículo. Estamos ansiosos para conhecê-lo!",Vagas.com
+Analista de Dados Jr - 117063,Confidencial,"Rio de Janeiro / RJ
+              
+
+
+
+                      A empresa aceita candidaturas de Rio de Janeiro e cidades próximas",RJ,"Descrição
+: 
+Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
+Instalar, configurar e administrar bases de dados de baixa complexidade.
+Realizar alimentação, atualização e manutenção dos bancos de dados da empresa.
+Monitorar a integridade, disponibilidade e desempenho das informações armazenadas.
+Apoiar na criação e manutenção de processos de extração, transformação e carga de dados (ETL).
+Desenvolver métodos e soluções que facilitem o acesso, organização e utilização dos dados pelas áreas de negócio.
+Criar consultas, relatórios e indicadores para apoio à tomada de decisão.
+Atuar no tratamento, validação e qualidade dos dados.
+Apoiar equipes de tecnologia e negócio na identificação e resolução de problemas relacionados a dados.
+Documentar processos, estruturas e fluxos de dados
+No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
+Candidate-se agora e transforme seu futuro com a gente !
+Outros requisitos
+: 
+Ensino superior cursando ou concluído em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas, Banco de Dados ou áreas correlatas.
+Conhecimento básico em bancos de dados relacionais (SQL Server, MySQL, PostgreSQL ou similares).
+Conhecimento em linguagem SQL para consultas e manipulação de dados.
+Noções de modelagem de dados.
+Conhecimento básico em processos ETL.
+Familiaridade com ferramentas de análise e visualização de dados.
+Conhecimento do Pacote Office, especialmente Excel.",Vagas.com
 Analista de Dados,Grupo Nolasco,"Magé / RJ
               
 
@@ -127,77 +155,41 @@ Ensino Superior Completo;
 Domínio com ferramentas de Análise;
 Excel Avançado;
 Power B.I",Vagas.com
-Analista de Dados Jr - 117063,Confidencial,"Rio de Janeiro / RJ
+Analista de Dados,Confidencial,"São Paulo / SP
               
 
 
 
-                      A empresa aceita candidaturas de Rio de Janeiro e cidades próximas",RJ,"Descrição
+                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
 : 
-Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
-Instalar, configurar e administrar bases de dados de baixa complexidade.
-Realizar alimentação, atualização e manutenção dos bancos de dados da empresa.
-Monitorar a integridade, disponibilidade e desempenho das informações armazenadas.
-Apoiar na criação e manutenção de processos de extração, transformação e carga de dados (ETL).
-Desenvolver métodos e soluções que facilitem o acesso, organização e utilização dos dados pelas áreas de negócio.
-Criar consultas, relatórios e indicadores para apoio à tomada de decisão.
-Atuar no tratamento, validação e qualidade dos dados.
-Apoiar equipes de tecnologia e negócio na identificação e resolução de problemas relacionados a dados.
-Documentar processos, estruturas e fluxos de dados
-No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
-Candidate-se agora e transforme seu futuro com a gente !
-Outros requisitos
-: 
-Ensino superior cursando ou concluído em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas, Banco de Dados ou áreas correlatas.
-Conhecimento básico em bancos de dados relacionais (SQL Server, MySQL, PostgreSQL ou similares).
-Conhecimento em linguagem SQL para consultas e manipulação de dados.
-Noções de modelagem de dados.
-Conhecimento básico em processos ETL.
-Familiaridade com ferramentas de análise e visualização de dados.
-Conhecimento do Pacote Office, especialmente Excel.",Vagas.com
-Analista de Dados Pleno,Confidencial,N/A,N/A,"Descrição
-: 
-Profissional de dados de nível Pleno, com autonomia técnica para projetar, construir e sustentar pipelines e a arquitetura analítica da área, atuando na modernização do ambiente de dados sobre a AWS. Trabalho colaborativo com o líder técnico e demais analistas, com foco em confiabilidade, escalabilidade e governança da plataforma de dados.
-Experiência Profissional
-Experiência com atividades de dados (engenharia de dados, BI, analytics ou correlatas);
-Experiência comprovada em construção e manutenção de pipelines de dados (ETL/ELT);
-Experiência em modelagem de dados e estruturação de Data Warehouse / Data Lake;
-Experiência em levantamento e documentação de requisitos técnicos e de negócio;
-Vivência em projetos de modernização de arquitetura de dados (migração para cloud, adoção de lakehouse, etc.);
-Desejável experiência prévia no setor financeiro/bancário.
-Formação completa na área da tecnologia da informação.
-Modelo de trabalho Home Office
-Outros requisitos
-: 
-1. Linguagens de Programação
-SQL avançado (obrigatório): consultas complexas, funções analíticas, otimização e tuning;
-Python para engenharia e manipulação de dados (obrigatório para nível pleno): pandas, PySpark, automações;
-Desejável conhecimento em Shell script e versionamento com Git;
-Noções de IaC (Infrastructure as Code — ex.: Terraform/CloudFormation) como diferencial.
- 2. Bancos de Dados & Modelagem
-Sólido conhecimento em bancos de dados relacionais e SQL;
-Modelagem dimensional (star schema, snowflake) e modelagem para DW;
-Experiência em otimização de consultas e performance (particionamento, indexação, distribuição);
-NoSQL como diferencial.
-3. Cloud & AWS (núcleo da modernização)
-Conhecimento sólido do ecossistema AWS de dados, especialmente:
-Amazon S3 — data lake, camadas de armazenamento e organização (raw/bronze, silver, gold);
-Amazon Redshift ,Amazon Athena; AWS Glue; AWS Lambda; Step Functions;
-Amazon QuickSight — visualização e dashboards (stack de BI da área);
-Desejável: Lake Formation, AWS DMS, EMR, PYSpark;
-Noções de segurança e IAM, controle de acesso e custos (FinOps básico).
-4. Pipelines de Dados & ETL/ELT
-Conhecimento em construção de pipelines de ingestão, transformação e carga (batch e, desejável, streaming);
-Experiência em integração de múltiplas fontes (bancos, APIs, arquivos);
-Orquestração e monitoramento de pipelines (ex.: Step Functions, Airflow/MWAA — desejável);
-Boas práticas de idempotência, tratamento de erros, logging e alertas;
-5. Data Warehousing & Arquitetura de Dados
-Conhecimento em arquitetura de dados moderna (Data Lake, Data Warehouse, Lakehouse);
-Estruturação e evolução de modelos de DW e camadas analíticas;
-Noções de Data Mesh e organização de domínios de dados como diferencial;
-Governança e qualidade de dados: catálogo, linhagem, documentação e padronização.
-7. Ferramentas de BI & Visualização
-Conhecimento em ferramentas de BI e Data Visualization (Amazon QuickSight é o padrão da área);",Vagas.com
+A Randstad é líder global em soluções de Recursos Humanos, atuando como um parceiro do talento em toda a sua jornada profissional.
+A Randstad Operational é uma especialização com foco em soluções de talentos administrativos, técnicos e operacionais.
+Estamos contratando um(a) Analista DADOS de Torre de Controle (Pleno) para o maior e-commerce da América Latina. Se você tem espírito empreendedor e quer ser protagonista da sua carreira trabalhando em um ambiente desafiador, divertido, empolgante e em constante transformação, este é o seu lugar.
+Modalidade de trabalho: Híbrido (2 dias home office / 3 dias presencial)
+Horário de trabalho: Segunda a sexta-feira, das 08h00 às 17h48 (1h12 de intervalo)
+Local de trabalho (região): Bairro Limão Casa Verde / Jardim das Laranjeiras, São Paulo - SP, CEP 02518-120
+Tipo de contrato: CLT Terceiro - determinado (Aproximadamente 12 meses - Projeto ERP)
+Benefícios
+: Vale transporte | Seguro de Vida | Assistência Médica da amil 400 QC | Assistencia Odontológica Amil 200 | Vale Refeição de R$920,00 | Vale Alimentação de R$ 174,10 | PLR
+Principais atividades:
+Mapear e analisar processos da Torre de Controle (fluxos, VSM e identificação de gaps/gargalos operacionais);
+Desenvolver e gerenciar automações de processos utilizando Power Automate e Power Apps;
+Construir e acompanhar dashboards, BI e relatórios de indicadores para análise de produtividade e performance logística;
+Realizar análise de dados (Data Analytics) e propor planos de ação para solução de problemas e melhoria contínua;
+Realizar apresentações executivas dos indicadores e resultados para a gestão da Torre de Controle.
+Requisitos da posição:
+Ensino Superior completo em Logística, Administração ou Engenharia; (irá avaliar a formação de acordo com a expertise)
+Domínio de Excel avançado;
+Conhecimento prático em Power Automate, Power Apps e Power BI;
+Experiência em mapeamento de processos, análise de dados/indicadores e ferramentas de melhoria contínua (ex: VSM);
+Vivência com rotinas de análise estratégica;
+Conhecimento em Python para automação e análise de dados (Desejável);
+Experiência prévia no segmento logístico/transporte (Desejável).
+Perfil Comportamental:
+Excelente comunicação verbal e escrita (capacidade de realização de apresentações);
+Forte capacidade e visão analítica;
+Ótimo relacionamento interpessoal e perfil colaborativo;
+Proatividade e foco em resolução de problemas e melhoria contínua.",Vagas.com
 Analista de Dados de Vendas,Hyundai Mobis Brasil,"Rio das Pedras / SP
               
 
@@ -223,6 +215,40 @@ Requisitos:
 Idiomas
 :
 Inglês - Nível Intermediário e Inglês - Nível Avançado",Vagas.com
+Analista de Banco de Dados - 117181,Confidencial,"Rio de Janeiro / RJ
+              
+
+
+
+                      A empresa aceita candidaturas de Rio de Janeiro e cidades próximas",RJ,"Descrição
+: 
+Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
+Instalar, configurar e administrar bases de dados de baixa complexidade.
+Realizar alimentação, atualização e manutenção dos bancos de dados da empresa.
+Monitorar a integridade, disponibilidade e desempenho das informações armazenadas.
+Apoiar na criação e manutenção de processos de extração, transformação e carga de dados (ETL).
+Desenvolver métodos e soluções que facilitem o acesso, organização e utilização dos dados pelas áreas de negócio.
+Criar consultas, relatórios e indicadores para apoio à tomada de decisão.
+Atuar no tratamento, validação e qualidade dos dados.
+Apoiar equipes de tecnologia e negócio na identificação e resolução de problemas relacionados a dados.
+Documentar processos, estruturas e fluxos de dados.
+No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
+Candidate-se agora e transforme seu futuro com a gente !
+Outros requisitos
+: 
+Ensino superior cursando ou concluído em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas, Banco de Dados ou áreas correlatas.
+Conhecimento básico em bancos de dados relacionais (SQL Server, MySQL, PostgreSQL ou similares).
+Conhecimento em linguagem SQL para consultas e manipulação de dados.
+Noções de modelagem de dados.
+Conhecimento básico em processos ETL.
+Familiaridade com ferramentas de análise e visualização de dados.
+Conhecimento do Pacote Office, especialmente Excel.
+Diferenciais:
+Experiência com Power BI, Tableau ou ferramentas similares.
+Conhecimento em Python para manipulação de dados.
+Experiência com integração de dados e APIs.
+Conhecimento em bancos de dados em nuvem (Azure, AWS ou Google Cloud).
+Vivência com governança e qualidade de dados.",Vagas.com
 Analista de Dados e Bi - Pleno,J&T Express,"São João de Meriti / RJ
               
 
@@ -308,73 +334,6 @@ Agilidade, flexibilidade e adaptabilidade.
 
 Outros requisitos
 :",Vagas.com
-Analista de Dados - Manutenção,DP World Santos,"Santos / SP
-              
-
-
-
-                      A empresa aceita candidaturas de Santos e cidades próximas",SP,"Descrição
-: 
-•	Criar, acompanhar e encerrar ordens de serviços no sistema de gerenciamento informatizado de manutenção (IBM-Máximo);
-•	Emitir requisições de compras de materiais;
-•	Emitir relatórios gerenciais a fim de apoiar a coordenação com a gestão dos dados atualizados do setor;
-•	Acompanhar o gerenciamento dos processos de reparo de equipamentos enviados a fornecedores externos;
-•	Criar os planos de manutenção junto com os responsáveis pelas atividades;
-•	Controlar e emitir as ordens de manutenção preventiva e preditiva para execução;
-•	Contribuir na identificação e verificação da disponibilidade de materiais, ferramentas, equipamentos e sobressalentes requisitados para o correto desempenho das tarefas de manutenção;
-•	Controlar a emissão dos planos de trabalho, utilizando-se do sistema de gerenciamento informatizado de manutenção (IBM-MAXIMO) indicando os recursos requisitados, materiais, mão de obra, dados técnicos do equipamento, planos de segurança e planos de trabalho;
-•	Alinhar com as outras equipes da necessidade de informações e/ou participações na elaboração do planejamento de  trabalho;
-•	Organizar com a operação a disponibilidade de janelas operacionais a fim de garantir em tempo hábil à execução das tarefas de manutenção;
-•	Apoiar no desenvolvimento das instruções de trabalho e planos de segurança;
-•	Utilizar-se de informações oriundas de técnicos e supervisores a fim de aperfeiçoar os planos de manutenção propondo exclusões ou inclusões de novas tarefas ao plano de trabalho;
-•	Monitorar o desempenho da execução dos serviços reportando os desvios;
-•	Monitorar o back log de atividades no sistema (IBM-Máximo); 
-•	Executar atividades relacionadas com o cargo de acordo com as necessidades da área, observando as obrigações de capacitação, habilitação e autorização para a realização de atividades específicas, buscando assegurar a promoção do foco no cliente e na organização; 
-•	Atuar para que seja mantida a integridade dos sistemas de gestão quando forem planejadas e implementadas as mudanças; 
-•	Atuar para que os processos entreguem suas saídas pretendidas, conforme os requisitos das normas, relatando o desempenho dos sistemas de gestão e as oportunidades de melhoria em particular à direção; 
-Cumprir as normas, procedimentos e requisitos da empresa no tocante aos Sistemas de Gestão, considerando: Gestão Socioambiental, Gestão Segurança Empresarial, Qualidade, Gestão de Saúde e Segurança do Trabalho
-Outros requisitos
-: 
-
-
-Excel e Power BI Avançado
-
-
-Conhecimento com Indicadores",Vagas.com
-Analista de Banco de Dados - 117181,Confidencial,"Rio de Janeiro / RJ
-              
-
-
-
-                      A empresa aceita candidaturas de Rio de Janeiro e cidades próximas",RJ,"Descrição
-: 
-Esta vaga também é destinada a Pessoas com Deficiência (PCD). Valorizamos a diversidade e incentivamos a candidatura de profissionais de todos os perfil.
-Instalar, configurar e administrar bases de dados de baixa complexidade.
-Realizar alimentação, atualização e manutenção dos bancos de dados da empresa.
-Monitorar a integridade, disponibilidade e desempenho das informações armazenadas.
-Apoiar na criação e manutenção de processos de extração, transformação e carga de dados (ETL).
-Desenvolver métodos e soluções que facilitem o acesso, organização e utilização dos dados pelas áreas de negócio.
-Criar consultas, relatórios e indicadores para apoio à tomada de decisão.
-Atuar no tratamento, validação e qualidade dos dados.
-Apoiar equipes de tecnologia e negócio na identificação e resolução de problemas relacionados a dados.
-Documentar processos, estruturas e fluxos de dados.
-No ManpowerGroup, a sua carreira tem um novo rumo! Se você está em busca de crescimento, desafios e um ambiente que valoriza o seu potencial, venha fazer parte do nosso time. Aqui, cada talento é reconhecido e valorizado.
-Candidate-se agora e transforme seu futuro com a gente !
-Outros requisitos
-: 
-Ensino superior cursando ou concluído em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas, Banco de Dados ou áreas correlatas.
-Conhecimento básico em bancos de dados relacionais (SQL Server, MySQL, PostgreSQL ou similares).
-Conhecimento em linguagem SQL para consultas e manipulação de dados.
-Noções de modelagem de dados.
-Conhecimento básico em processos ETL.
-Familiaridade com ferramentas de análise e visualização de dados.
-Conhecimento do Pacote Office, especialmente Excel.
-Diferenciais:
-Experiência com Power BI, Tableau ou ferramentas similares.
-Conhecimento em Python para manipulação de dados.
-Experiência com integração de dados e APIs.
-Conhecimento em bancos de dados em nuvem (Azure, AWS ou Google Cloud).
-Vivência com governança e qualidade de dados.",Vagas.com
 Analista de Dados Mestres de Materiais,Confidencial,"Belo Horizonte / MG
               
 
@@ -585,13 +544,120 @@ Engenheiro de Dados,FIESP,"São Paulo / SP
 
 
 
-                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,Descrição não encontrada,Vagas.com
+                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
+: 
+• Levantar necessidades dos usuários finais e chave, para a captura dos itens necessários e elaboração do projeto do sistema de análise de dados, atuando na automatização das atividades e na aplicação de melhorias em processos e sistemas já existentes.
+• Analisar as necessidades para a elaboração da solução de coleta, armazenamento, análise e visualização, tendo em vista os recursos técnicos disponíveis ou necessários de hardware e software. Elaborar uma documentação que descreva os dados coletados.
+• Criar estruturas e modelos de dados que atendam as necessidades no âmbito dos projetos, com performance, escalabilidade, segurança e compatibilidade aos padrões estabelecidos.
+• Configurar e programar mecanismos que coletam e armazenam dados para posterior tratamento e consulta, zelando pela integridade de recursos externos e internos. Atualizar os mecanismos sempre que necessário para adequação às fontes de dados.
+• Processar dados coletados por meio de programação ou configuração para estruturação e higienização.
+• Integrar e uniformizar dados por meio da programação da adequação aos padrões estabelecidos, possibilitando o cruzamento com outras informações, reduzindo a duplicidade sempre que possível e promovendo a continuidade do desenvolvimento para unificar e compatibilizar com informações pré-existentes.
+• Maximizar a performance das aplicações através da análise de gargalos por meio de logs, painéis e outras ferramentas. Criar índices, ajustar configurações, propor melhorias e aquisições para otimizar performance, consumo de recursos e viabilizar o uso das aplicações em tempo de resposta aos usuários e na utilização dos recursos disponíveis.
+• Apoiar e configurar permissões e perímetro de acesso, reduzir vulnerabilidades, colaborar na gestão de cópias de segurança, administração espaço de armazenamento, criar estruturas de dados, indexações, monitorar funcionamento de bancos de dados e outros recursos relacionados, para manter as operações e o bom uso dos recursos com segurança.
+• Colaborar com os Analistas de Sistemas Seniores e com o Analista de Dados, na elaboração das funcionalidades para visualização de dados e processos no âmbito dos projetos.
+• Criar e manter documentação técnica dos sistemas, bancos de dados, processos, ativos, que auxiliem a consulta posterior de técnicos, nas diversas atividades da área.
+• Pesquisar e avaliar novas tecnologias, novas metodologias ou atualizações que agreguem valor aos sistemas atuais ou que possam trazer benefícios para novos sistemas.
+• Monitorar recursos tecnológicos através do acompanhamento dos processos de servidores de dados por meio de painéis de gerenciamento, métricas, indicadores, logs e testes conforme a tecnologia envolvida, para garantir bom desempenho, disponibilidade e bom uso.
+Outros requisitos
+: 
+Ensino Superior completo em:
+ Sistemas de Informação, Ciências da Computação, Ciências de Dados ou áreas correlatas.
+Conhecimentos e habilidades:
+
+
+Inglês Intermediário
+
+
+Lógica de programação
+
+
+Linguagens e tecnologias para visualização e análise de dados (PowerBI desktop, PowerBI Pro)
+
+
+Serviços Azure Data Factory, Azure Databricks, Data Lakehouse
+
+
+Linguagens e tecnologias para programação (Python, R)
+
+
+Serviços e Modelos de Inteligência Artificial
+
+
+DevOps (Git)
+
+
+Levantamento de Requisitos
+
+
+Desenvolvimento de aplicações de análise de dados (Analytics), BI (Business Inteligence)
+
+
+Desenvolvimento para bancos de dados SQL Server
+
+
+Conhecimento dos recursos administrativos (SQL Agent, Integration Services, Jobs SQL, T-SQL, DDL), Cloud computing, Microsoft Azure, Webservices, XML/XSD, API, JSON/Rest.",Vagas.com
 Cientista de Dados,FIESP,"São Paulo / SP
               
 
 
 
-                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,Descrição não encontrada,Vagas.com
+                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,"Descrição
+: 
+• Levantar necessidades dos usuários finais, entendendo o contexto organizacional, traduzindo problemas institucionais em problemas analíticos. Avaliar se os problemas requerem estatística, aprendizado de máquina, regras de negócio ou apenas análise descritiva. Definir hipóteses, variáveis, população analisada e critérios de sucesso.
+• Realizar análises descritivas, diagnósticas, preditivas e prescritivas, de acordo com as demandas das áreas de negócio, aplicando métodos estatísticos, matemáticos e computacionais.
+• Utilizar técnicas de ciência de dados, mineração de dados, modelagem estatística, séries temporais, aprendizado de máquina, classificação, regressão, agrupamento, inteligência artificial, identificação de padrões e processamento de linguagem natural em bases estruturadas e não estruturadas, independentemente do volume de dados, para gerar conhecimento, apoiar estudos institucionais e subsidiar a tomada de decisão nos projetos da organização.
+• Colaborar com o Analista de Sistemas Senior na definição de padrões técnológicos para o ambiente de plataforma de infraestrutura e software para análise, modelagem, processamento, armazenamento e arquitetura de sistemas analíticos.
+• Colaborar com Analistas de Dados, Engenheiros de Dados e Analistas de Sistemas Seniores na definição de arquiteturas em sistemas e na implementação de soluções baseadas em dados.
+• Identificar limitações dos dados antes de iniciar o trabalho, identificando adequação, dados ausentes, inconsistências, vieses e valores atípicos. Propor, quando viável, expansão de coleta, tratamento de dados ou outros métodos.
+• Realizar análise exploratória dos dados, investigando distribuições, tendências, correlações e padrões em dados.
+• Produzir análises iniciais que orientem a construção de modelos ou a tomada de decisão.
+• Desenvolver, validar e aperfeiçoar modelos analíticos, estatísticos e de inteligência artificial para apoio à tomada de decisão e geração de conhecimento.
+• Interpretar os resultados obtidos pelos modelos e análises, produzindo relatórios, pareceres técnicos e recomendações para as áreas interessadas.
+• Desenvolver mecanismos de monitoramento e validação de modelos analíticos, promovendo sua evolução contínua e aderência aos objetivos institucionais.
+• Criar e manter documentação técnica dos sistemas, bancos de dados, processos, ativos, que auxiliem a consulta posterior de técnicos, nas diversas atividades da área.
+• Pesquisar, avaliar e propor novas técnicas e adoção de tecnologias, ferramentas e metodologias relacionadas à ciência de dados, inteligência artificial e analytics, visando a evolução contínua das capacidades analíticas da organização.
+• Monitorar recursos tecnológicos através do acompanhamento dos processos de servidores de dados por meio de painéis de gerenciamento, métricas, indicadores, logs e testes conforme a tecnologia envolvida, para garantir bom desempenho, disponibilidade e bom uso.
+Outros requisitos
+: 
+Ensino Superior completo em:
+ Ciência de Dados, Estatística, Matemática, Física, Economia, Engenharias, Ciências da Computação ou áreas correlatas.
+Conhecimentos e habilidades:
+
+
+Inglês Intermediário
+
+
+Estatística
+
+
+Economia
+
+
+Lógica de programação
+
+
+Serviços Azure Data Factory, Azure Databricks, Big Data (Hadoop, Spark etc)
+
+
+Software especialista em estatística
+
+
+Linguagens e tecnologias para programação (Python, R)
+
+
+Linguagens e tecnologias para visualização e análise de dados (PowerBI desktop, PowerBI Pro)
+
+
+Levantamento de Requisitos
+
+
+Desenvolvimento de aplicações de análise de dados (Analytics), BI (Business Inteligence)
+
+
+Desenvolvimento para bancos de dados SQL Server
+
+
+Conhecimento dos recursos administrativos (SQL Agent, Integration Services, Jobs SQL, T-SQL, DDL), Cloud computing, Microsoft Azure, Webservices, XML/XSD, API, JSON/Rest.",Vagas.com
 Analista de Digitalização,Audi do Brasil,"São Paulo / SP
               
 
@@ -671,6 +737,12 @@ Analista de Incentivos Senior,The Adecco Group,"Cotia / SP
 
 
                       A empresa aceita candidaturas de Cotia e cidades próximas",SP,Descrição não encontrada,Vagas.com
+Analista Financeiro,Confidencial,"Barueri / SP
+              
+
+
+
+                      A empresa aceita candidaturas de Barueri e cidades próximas",SP,Descrição não encontrada,Vagas.com
 Analista de Compliance Pl,Confidencial,"São Paulo / SP
               
 
@@ -683,12 +755,6 @@ Analista Fiscal Jr. - 117027,Confidencial,"São Paulo / SP
 
 
                       A empresa aceita candidaturas de São Paulo e cidades próximas",SP,Descrição não encontrada,Vagas.com
-Analista Financeiro,Confidencial,"Barueri / SP
-              
-
-
-
-                      A empresa aceita candidaturas de Barueri e cidades próximas",SP,Descrição não encontrada,Vagas.com
 Analista de Orçamentos Júnior,Pacaembu Construtora,"São Paulo / SP
               
 
@@ -713,20 +779,24 @@ Analista de Remuneração,Hospital da Baleia,"Belo Horizonte / MG
 
 
                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas",MG,Descrição não encontrada,Vagas.com
-Analista de Marketing Pleno,Melitta South America,"São Paulo / SP
-              
-
-
-
-                      A empresa aceita candidaturas de São Paulo e cidades próximas",SP,Descrição não encontrada,Vagas.com
 Analista de Logística Sênior - 117145,Confidencial,"São Bernardo do Campo / SP
               
 
 
 
                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas",SP,Descrição não encontrada,Vagas.com
-Analista Administrativo Junior,Hospital Pequeno Príncipe,Curitiba / PR                                       A empresa aceita candidaturas de Curitiba e cidades próximas,PR,Descrição não encontrada,Vagas.com
-Analista de Qualidade,MINASMAQUINAS,Contagem / MG                                       A empresa aceita candidaturas de Contagem e cidades próximas,MG,Descrição não encontrada,Vagas.com
+Analista Administrativo Junior,Hospital Pequeno Príncipe,"Curitiba / PR
+              
+
+
+
+                      A empresa aceita candidaturas de Curitiba e cidades próximas",PR,Descrição não encontrada,Vagas.com
+Analista de Qualidade,MINASMAQUINAS,"Contagem / MG
+              
+
+
+
+                      A empresa aceita candidaturas de Contagem e cidades próximas",MG,Descrição não encontrada,Vagas.com
 Analista de Suprimentos Jr - V027745,Lyon Engenharia,Canaã dos Carajás / PA                                       A empresa aceita candidaturas de Canaã dos Carajás e cidades próximas,PA,Descrição não encontrada,Vagas.com
 Analista de Controladoria,Instituto Evoé – Associação As Teatrais,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,Descrição não encontrada,Vagas.com
 Analista Contábil Sr,Azevedo & Travassos S/A,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -735,19 +805,17 @@ Analista Laboratório I,bp bioenergy,Edéia / GO                                
 Analista de Projetos Sr.,FFM,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista de Cadastro,inDrive,Recife / PE                                       A empresa aceita candidaturas de qualquer cidade do Brasil,PE,Descrição não encontrada,Vagas.com
 Analista de Controladoria Pl,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
-Analista de TI,CSN MINERAÇÃO,Congonhas / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,Descrição não encontrada,Vagas.com
 Analista de Sistemas Júnior,State Grid Brazil Holding,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
+Analista de TI,CSN MINERAÇÃO,Congonhas / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,Descrição não encontrada,Vagas.com
 Analista de Meio Ambiente Jr.,Lyon Engenharia,Votorantim / SP                                       A empresa aceita candidaturas de Votorantim e cidades próximas,SP,Descrição não encontrada,Vagas.com
-Analista de Logística Sênior,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Atendimento,Grupo Fleury,Pojuca / BA                                       A empresa aceita candidaturas de qualquer cidade do Brasil,BA,Descrição não encontrada,Vagas.com
-Analista de Operações Junior,J&T Express,Irecê / BA                                       A empresa aceita candidaturas de Irecê e cidades próximas,BA,Descrição não encontrada,Vagas.com
-Analista de Compras,Hyundai Mobis Brasil,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista de Operações Junior,J&T Express,Serrinha / BA                                       A empresa aceita candidaturas de Serrinha e cidades próximas,BA,Descrição não encontrada,Vagas.com
-Analista de Controladoria,Transpedrosa,Betim / MG                                       A empresa aceita candidaturas de Betim e cidades próximas,MG,Descrição não encontrada,Vagas.com
+Analista de Compras,Hyundai Mobis Brasil,Piracicaba / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
+Analista de Operações Junior,J&T Express,Irecê / BA                                       A empresa aceita candidaturas de Irecê e cidades próximas,BA,Descrição não encontrada,Vagas.com
 Analista Pl de Comunicação,Hyundai Motor Brasil,Piracicaba / SP                                       A empresa aceita candidaturas de Piracicaba e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Sistemas Pl,DFL Indústria e Comércio S/A,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
-Analista Fiscal Sr,ElringKlinger,Piracicaba / SP                                       A empresa aceita candidaturas de Piracicaba e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Sustentabilidade,Abapa - Associação Baiana dos Produtores de Algodão,Luís Eduardo Magalhães / BA                                       A empresa aceita candidaturas de qualquer cidade do Brasil,BA,Descrição não encontrada,Vagas.com
+Analista Fiscal Sr,ElringKlinger,Piracicaba / SP                                       A empresa aceita candidaturas de Piracicaba e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Financeiro - V027736,Lyon Engenharia,Parauapebas / PA                                       A empresa aceita candidaturas de Parauapebas e cidades próximas,PA,Descrição não encontrada,Vagas.com
 Analista de Qualidade Pleno,Komatsu,Conselheiro Lafaiete / MG                                       A empresa aceita candidaturas de Conselheiro Lafaiete e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista Fiscal,Gi Group Brasil,Valinhos / SP                                       A empresa aceita candidaturas de Valinhos e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -759,9 +827,10 @@ Analista de Laboratório Jr,Merieux Nutrisciences,Piracicaba / SP               
 Analista de Sistemas,Confidencial,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista de Faturamento,Grupo SERES,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Pedagógico Sênior,Confidencial,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
+Analista Marketing Pleno,NISSIN FOODS DO BRASIL LTDA.,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista S&op Pl.,Frescatto,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
 Analista de Negócios Pleno B2b,Concert Technologies,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,Descrição não encontrada,Vagas.com
-Analista Marketing Pleno,NISSIN FOODS DO BRASIL LTDA.,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista Administrativo Sênior,FFM,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista de Suprimentos Pleno,JOBCENTER DO BRASIL LTDA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Contratatos,Confidencial,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
 11339 - Analista de Sistemas Sênior,Talent Group,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -771,9 +840,9 @@ Analista de Custos Sr,União Química Farmacêutica Nacional S/A,Taboão da Serr
 Analista de PCP Jr,Grupo Nortearh,Ribeirão das Neves / MG                                       A empresa aceita candidaturas de Ribeirão das Neves e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista Comercial III,Oncoclínicas&Co,Nova Lima / MG                                       A empresa aceita candidaturas de Nova Lima e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista de PCP Jr,Grupo VPA,Ribeirão das Neves / MG                                       A empresa aceita candidaturas de Ribeirão das Neves e cidades próximas,MG,Descrição não encontrada,Vagas.com
+Analista de Faturamento Pleno,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista PCP Sênior,Mineração Taboca S/A,Pirapora do Bom Jesus / SP                                       A empresa aceita candidaturas de Pirapora do Bom Jesus e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista PCP I,Vetnil,Louveira / SP                                       A empresa aceita candidaturas de Louveira e cidades próximas,SP,Descrição não encontrada,Vagas.com
-Analista de Remuneracao Sr,Irani Papel e Embalagem S.A,N/A,N/A,Descrição não encontrada,Vagas.com
 Analista Social Sênior,Progen S.A.,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista de Compliance Pleno,COMIPA,Araxá / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,Descrição não encontrada,Vagas.com
 Analista Comercial Pl,DP World Santos,Santos / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
@@ -785,6 +854,7 @@ Analista de Planejamento Comercial Junior,Grupo Technos,Rio de Janeiro / RJ     
 Analista de Inteligência de Mercado Pleno,Fundação Arnaldo Vieira de Carvalho,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Inteligência de Mercado,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,Descrição não encontrada,Vagas.com
 Analista de Inteligencia de Mercado,Confidencial,Diadema / SP                                       A empresa aceita candidaturas de Diadema e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista de Informações Médicas,The Adecco Group,Cotia / SP                                       A empresa aceita candidaturas de Cotia e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Aquisição de Talentos - 116117,Confidencial,Guarulhos / SP                                       A empresa aceita candidaturas de Guarulhos e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Aquisição de Talentos - 116116,Confidencial,Guarulhos / SP                                       A empresa aceita candidaturas de Guarulhos e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Aquisição de Talentos - 116117,Confidencial,Osasco / SP                                       A empresa aceita candidaturas de Osasco e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -811,8 +881,8 @@ Analista de Preço Pl - Pcd,Allied,São Paulo / SP                              
 Analista de Soluções Digitais Jr. - 116913,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista TI Sênior - Negócios,NISSIN FOODS DO BRASIL LTDA.,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Produtos Sr - Tecnologia,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista de Operações Pleno - Condomínio,ALLOS,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Pesquisa e Métodos,Confidencial,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
-Analista de Garantia da Qualidade Jr.,Dori Ferrara,Rolândia / PR                                       A empresa aceita candidaturas de qualquer cidade do Brasil,PR,Descrição não encontrada,Vagas.com
 Analista Ambiental Pleno- Itabirito,Grupo Avante,Itabirito / MG                                       A empresa aceita candidaturas de Itabirito e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista de Threat Hunting Pleno,Oakmont Group,N/A,N/A,Descrição não encontrada,Vagas.com
 Analista de Recursos Humanos,Confidencial,Barueri / SP                                       A empresa aceita candidaturas de Barueri e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -845,8 +915,8 @@ Analista de Tecnologia de Mineração Sr,Sotreq S/A,Contagem / MG               
 Analista de Trade Marketing Pl.,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Novos Negócios Pl,Vetnil,Louveira / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista de Folha de Pagamento Pleno - 116410,Manpower,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,Descrição não encontrada,Vagas.com
-Analista de PCP e Materiais Jr,Confidencial,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Trade Marketing Pl.,SANTHER - FABRICA DE PAPEL SANTA THEREZINHA,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista de PCP e Materiais Jr,Confidencial,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Workforce III  - Fleury,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Pleno de Sales Enablement - 116362,Confidencial,Osasco / SP                                       A empresa aceita candidaturas de Osasco e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Marketplace e Growth,Tele Rio,Rio de Janeiro / RJ                                       A empresa aceita apenas candidaturas de Rio de Janeiro,RJ,Descrição não encontrada,Vagas.com
@@ -857,13 +927,14 @@ Analista de Estratégia Financeira,LWART SOLUÇÕES AMBIENTAIS,Lençóis Paulist
 Analista de Marketing (Pdvs),Somar Diversidade,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Relacionamento Prestadores Pleno,SulAmérica,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Sênior de Tributos Diretos,Elera Renováveis,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista Administrativo de Vendas Junior,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Administração de Pessoal Jr,Clealco,Clementina / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
-Analista Clínico I - Bioquímica,Grupo Fleury,Campinas / SP                                       A empresa aceita candidaturas de Campinas e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Clínico I - Hematologia,Grupo Fleury,Campinas / SP                                       A empresa aceita candidaturas de Campinas e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista Clínico I - Bioquímica,Grupo Fleury,Campinas / SP                                       A empresa aceita candidaturas de Campinas e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Melhoria Contínua III,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Melhoria Contínua II,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
+Analista de Controladoria III | Polaris,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de RH Jr (Remuneração),Confidencial,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
-Analista de Desenvolvimento Organizacional & Performance,Ribeiro Caram,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,Descrição não encontrada,Vagas.com
 Analista de Inteligência de Mercado Júnior - Avert,Biolab Farmacêutica,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista em Automação de Processos Financeiros Sr.,SAINT-GOBAIN SEKURIT,Mauá / SP                                       A empresa aceita candidaturas de Mauá e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Planejamento de Produção e Materiais Sr,Confidencial,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -913,7 +984,6 @@ Analista de Controle de Qualidade Pleno - Fisico Quimico,UNIÃO QUÍMICA,Pouso A
 Analista Ambiental Flora - Belo Horizonte,Grupo Avante,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista Médico Científico Jr - Prazo Determinado,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista de Marketing Sênior - Produto (São Paulo),Pacaembu Construtora,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
-Analista de Sistemas | (Assistencial Oncologia) Tasy,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de qualquer cidade do Brasil,SP,Descrição não encontrada,Vagas.com
 Analista de Laboratório Jr Pcd - Hospital Heliópolis,Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Produto Jr. (Testes Funcionais - Projetos),Zeentech,São Bernardo do Campo / SP                                       A empresa aceita candidaturas de São Bernardo do Campo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Adm Pessoal Júnior - Presencial em Curitiba,propay,Curitiba / PR                                       A empresa aceita apenas candidaturas de Curitiba,PR,Descrição não encontrada,Vagas.com
@@ -928,8 +998,6 @@ Analista de Logística de Veículos | Logística_  Suape-PE,GWM,Cabo de Santo Ag
 Analista de Comércio Exterior (Sistemas) | Comércio Exterior,GWM,Iracemápolis / SP                                       A empresa aceita candidaturas de Iracemápolis e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista Bp RH Vendas Jr (Temporária),Coca-Cola FEMSA Brasil,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista de Cd II - Unidades Fleury - Ressonância Magnética,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
-Analista de Planejamento Financeiro III | Grupo Fleury | SP,Grupo Fleury,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
-Analista de Soluções em Sistema - Presencial - Butantã SP (Pj),Confidencial,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
 Analista de Logística de Veículos | Logística_ São José dos Pinhais,GWM,São José dos Pinhais / PR                                       A empresa aceita candidaturas de São José dos Pinhais e cidades próximas,PR,Descrição não encontrada,Vagas.com
 Analista de Departamento Pessoal Júnior - Região Sul de São Paulo,Confidencial,São Paulo / SP                                       A empresa aceita apenas candidaturas de São Paulo,SP,Descrição não encontrada,Vagas.com
 11359 - Analista de Cyber Threat Intelligence Pl (são Paulo/Sp),Talent Group,São Paulo / SP                                       A empresa aceita candidaturas de São Paulo e cidades próximas,SP,Descrição não encontrada,Vagas.com
@@ -943,7 +1011,6 @@ Analista de Sistemas Pleno (ERP Protheus) | Presencial | Sete Lagoas/MG,Grupo No
 Analista Recursos Humanos - Educação Corporativa - Exclusiva para Pessoas com Deficiência,Unimed BH,Belo Horizonte / MG                                       A empresa aceita candidaturas de Belo Horizonte e cidades próximas,MG,Descrição não encontrada,Vagas.com
 Analista de Pessoas Sr (Business Partner) - Nova Santa Rita/RS,Confidencial,Nova Santa Rita / RS                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RS,Descrição não encontrada,Vagas.com
 Analista de Sistema de TI - C (Desenvolvedor Full Stack .net + React) / RJ,SESC RJ,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de qualquer cidade do Brasil,RJ,Descrição não encontrada,Vagas.com
-Técnico de Laboratório de Microbiologia,JOBCENTER DO BRASIL LTDA,Localização não informada,N/A,Descrição não encontrada,Vagas.com
 Banco de Talentos | Pcd - Unidade Santa Juliana,bp bioenergy,Santa Juliana / MG                                       A empresa aceita candidaturas de qualquer cidade do Brasil,MG,Descrição não encontrada,Vagas.com
 Gerente de Finanças Corporativas,Confidencial,Rio de Janeiro / RJ                                       A empresa aceita candidaturas de Rio de Janeiro e cidades próximas,RJ,Descrição não encontrada,Vagas.com
 Assistente de Eventos,Fortlev Solar,Serra / ES                                       A empresa aceita candidaturas de Serra e cidades próximas,ES,Descrição não encontrada,Vagas.com
